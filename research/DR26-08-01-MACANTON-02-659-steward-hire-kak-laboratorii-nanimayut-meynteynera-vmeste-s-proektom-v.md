@@ -48,12 +48,12 @@ source: Palo Alto AI Research Lab — deep research programme
 
 **Ответ: ни то, ни другое в чистом виде — но флагман выигрывает, если он строится как upstream-зависимость, а не как витрина.**
 
-1. **Распылённые вклады в чужие репо этот исход не производят вообще.** Ни один из 13 кейсов не начинался с веера PR. Это согласуется с нашим собственным замером [[broadside-traction-lesson]] (6 PR → 2 ⭐) и [[cold-pr-into-silent-queue]].
+1. **Распылённые вклады в чужие репо этот исход не производят вообще.** Ни один из 13 кейсов не начинался с веера PR. Это согласуется с нашим собственным замером broadside-traction-lesson (6 PR → 2 ⭐) и cold-pr-into-silent-queue.
 2. **Но и «флагман ради звёзд» — тоже мимо.** Purchase trigger — не attention, а незаменимость. Promptfoo купили за enterprise-проникновение, Bun — за то, что он уже держал инфраструктуру покупателя.
 3. **Проверяемый чекпоинт на 4–8 месяцев** (из отчёта, годится как наш DoD): 3–5 независимых production-пользователей · минимум один внешний повторяющийся контрибьютор · retention/weekly active installs вместо stars · воспроизводимые интеграционные тесты · два провайдера или два deployment-таргета · ни один потребитель не даёт >50% использования.
-4. **Гигиена, без которой сделка невозможна в принципе** — и это дешёвая работа, которую можно сделать сейчас: Apache-2.0 (патентный грант) или MIT · `LICENSE`, `NOTICE`, `CONTRIBUTING`, решение по DCO/CLA · `SECURITY.md` + threat model · подписанные релизы + SBOM · `GOVERNANCE.md` с правилами передачи trademark/репозитория · **журнал использования AI: модель, human review, тесты, provenance**. Последний пункт прямо назван дисквалификатором: проблема не в AI-коде, а в невозможности подтвердить review и происхождение. Сверить с [[ai-coauthor-trailers-policy]].
+4. **Гигиена, без которой сделка невозможна в принципе** — и это дешёвая работа, которую можно сделать сейчас: Apache-2.0 (патентный грант) или MIT · `LICENSE`, `NOTICE`, `CONTRIBUTING`, решение по DCO/CLA · `SECURITY.md` + threat model · подписанные релизы + SBOM · `GOVERNANCE.md` с правилами передачи trademark/репозитория · **журнал использования AI: модель, human review, тесты, provenance**. Последний пункт прямо назван дисквалификатором: проблема не в AI-коде, а в невозможности подтвердить review и происхождение. Сверить с ai-coauthor-trailers-policy.
 5. **Юрисдикция ЕС — не дисквалификация.** Argilla (Испания), ggml (европейская команда), OpenClaw (Австрия), VoidZero (распределённая).
-6. **Правильный аутрич — не «купите нас», а**: «ваши пользователи делают X; наш OSS-компонент уже обрабатывает Y операций у Z независимых команд; вот бенчмарк и список upstream-пробелов; предлагаем совместную интеграцию либо оплачиваемый maintenance-пилот». Контакт — инженер/product owner, затем OSS program office; corp-dev появляется последним. Ложится ровно на [[maintainer-first-issue-matching-measured]] и гейт `/outbound-gate`.
+6. **Правильный аутрич — не «купите нас», а**: «ваши пользователи делают X; наш OSS-компонент уже обрабатывает Y операций у Z независимых команд; вот бенчмарк и список upstream-пробелов; предлагаем совместную интеграцию либо оплачиваемый maintenance-пилот». Контакт — инженер/product owner, затем OSS program office; corp-dev появляется последним. Ложится ровно на maintainer-first-issue-matching-measured и гейт `/outbound-gate`.
 7. **Bus factor = 1 — не дисквалификатор** (OpenClaw это опровергает), но ухудшает continuity и переговорную позицию.
 
 ## 5. Открытое
@@ -67,7 +67,7 @@ source: Palo Alto AI Research Lab — deep research programme
 - `_originals/deep-research/DR26-08-01-MACANTON-02-659-grok.md` — grok -p, 7 уник. URL, **гейт ≥15 URL НЕ пройден**, прогон загрязнён (ушёл исследовать workspace и переписал файл поверх stdout-редиректа). Использован только как второе мнение; цифры из него не берутся.
 - Рельса gemini снята через `dr_queue.py retarget --drop`.
 
-Связано: [[mission-get-noticed-hired-by-llm-company]] · [[github-guerrilla-presence-over-merge]] · [[oss-code-contributions-standing-ok]] · [[DR26-08-01-MACANTON-02-658|экономика офера]]
+Связано: mission-get-noticed-hired-by-llm-company · github-guerrilla-presence-over-merge · oss-code-contributions-standing-ok · экономика офера
 
 ## Связано
-- [[insight-dr26-08-02-zb-03-sintez-github-to-hire-15-lichnostey]] — сиблинг того же вопроса github-репутация→найм
+- insight-dr26-08-02-zb-03-sintez-github-to-hire-15-lichnostey — сиблинг того же вопроса github-репутация→найм

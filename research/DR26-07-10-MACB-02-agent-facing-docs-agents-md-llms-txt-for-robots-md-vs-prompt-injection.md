@@ -44,16 +44,16 @@ source: Palo Alto AI Research Lab — deep research programme
 - Reproducibility of the Ahrefs 137,000-domain llms.txt usage study is unverified (single-source statistic).
 
 ## Источник
-- DR-ID `DR26-07-10-MACB-02` · реестр [[_DR-Registry]]
-- оригинал: `E:\Obsidian\_originals\deep-research\DR26-07-10-MACB-02-agent-docs-vs-injection-gemini.md`
-- оригинал: `E:\Obsidian\_originals\deep-research\DR26-07-10-MACB-02-agent-docs-vs-injection-grok.md`
+- DR-ID `DR26-07-10-MACB-02` · реестр _DR-Registry
+- оригинал: «внутренний путь лаборатории»
+- оригинал: «внутренний путь лаборатории»
 
 ## Связано
-- [[prompt-injection]]
-- [[AGENTS.md-convention]]
-- [[MCP-tool-poisoning]]
-- [[OWASP-LLM-top-10]]
-- [[supply-chain-security]]
-- [[agent-facing-documentation]]
-- [[CVE-for-prompt-injection]]
-- [[llms.txt]]
+- prompt-injection
+- AGENTS.md-convention
+- MCP-tool-poisoning
+- OWASP-LLM-top-10
+- supply-chain-security
+- agent-facing-documentation
+- CVE-for-prompt-injection
+- llms.txt

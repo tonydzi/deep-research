@@ -44,15 +44,15 @@ source: Palo Alto AI Research Lab — deep research programme
 - Точные данные о прибыльности вендоров trend-intelligence (Trendalytics, Spate, Black Swan Data, Glimpse) не публичны — выводы о рынке основаны на позиционировании/клиентах/ценах, не на точных финансовых показателях
 
 ## Источник
-- DR-ID `DR26-07-04-HUB-02` · реестр [[_DR-Registry]]
-- оригинал: `E:\Obsidian\_originals\deep-research\2026-07-04-DR26-07-04-HUB-02-ai-embeddings-2025-2026.md`
+- DR-ID `DR26-07-04-HUB-02` · реестр _DR-Registry
+- оригинал: «внутренний путь лаборатории»
 
 ## Связано
-- [[vault-data-architecture]]
-- [[second-brain-northstar]]
-- [[self-bible-identity-layer]]
-- [[always-on-memory-pilot]]
-- [[cofounder-identity]]
-- [[self-debug-transparency]]
-- [[model-routing-sonnet-grunt]]
-- [[dr-numbering-registry]]
+- vault-data-architecture
+- second-brain-northstar
+- self-bible-identity-layer
+- always-on-memory-pilot
+- cofounder-identity
+- self-debug-transparency
+- model-routing-sonnet-grunt
+- dr-numbering-registry

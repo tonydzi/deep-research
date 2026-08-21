@@ -40,14 +40,14 @@ source: Palo Alto AI Research Lab — deep research programme
 - Пороговые критерии эскалации (>10 мин, многомодульность и т.д.) не проверены на практике — нет метрик, подтверждающих, что именно эти пороги подходят команде.
 
 ## Источник
-- DR-ID `DR26-07-28-HUB-04-2338` · реестр [[_DR-Registry]]
-- оригинал: `E:\Obsidian\_originals\deep-research\DR26-07-28-HUB-04-2338-protsess-retro-i-testirovaniya-chatgpt.md`
-- оригинал: `E:\Obsidian\Anton-Knowledge\01-Conversations\ChatGPT\conversations\2026-07-25-process-retro-i-testirovaniya-6a64e8af.md`
+- DR-ID `DR26-07-28-HUB-04-2338` · реестр _DR-Registry
+- оригинал: «внутренний путь лаборатории»
+- оригинал: «внутренний путь лаборатории»
 
 ## Связано
-- [[test-after-build-skill]]
-- [[fix-root-cause-not-symptoms]]
-- [[multi-agent-role-discipline]]
-- [[seed-prompt-handoff-template]]
-- [[split-rule-debug-session]]
-- [[coverage-and-docs-every-part]]
+- test-after-build-skill
+- fix-root-cause-not-symptoms
+- multi-agent-role-discipline
+- seed-prompt-handoff-template
+- split-rule-debug-session
+- coverage-and-docs-every-part

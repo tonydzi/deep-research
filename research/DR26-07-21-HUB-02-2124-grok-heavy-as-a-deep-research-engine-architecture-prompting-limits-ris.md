@@ -42,12 +42,12 @@ source: Palo Alto AI Research Lab — deep research programme
 - Actual current context window (256k vs 428k tokens) differs between the two vendor sections and may depend on specific model build/version at time of use.
 
 ## Источник
-- DR-ID `DR26-07-21-HUB-02-2124` · реестр [[_DR-Registry]]
-- оригинал: `E:\Obsidian\_originals\deep-research\DR26-07-21-HUB-02-grok-heavy-playbook-grok.md`
-- оригинал: `E:\Obsidian\_originals\deep-research\DR26-07-21-HUB-02-grok-heavy-playbook-gemini.md`
+- DR-ID `DR26-07-21-HUB-02-2124` · реестр _DR-Registry
+- оригинал: «внутренний путь лаборатории»
+- оригинал: «внутренний путь лаборатории»
 
 ## Связано
-- [[alpha-protocol-recall-plus-dr]]
-- [[dr-numbering-registry]]
-- [[epistemic-neutrality]]
-- [[credential-store]]
+- alpha-protocol-recall-plus-dr
+- dr-numbering-registry
+- epistemic-neutrality
+- credential-store

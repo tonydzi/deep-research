@@ -43,16 +43,16 @@ source: Palo Alto AI Research Lab — deep research programme
 - No empirical benchmark was run comparing this proposed 3-layer architecture against alternatives specifically on the 128k-note vault — recommendation is synthesis-based, grounded in cited external research/tooling.
 
 ## Источник
-- DR-ID `DR26-07-28-HUB-18-2339` · реестр [[_DR-Registry]]
-- оригинал: `E:\Obsidian\_originals\deep-research\DR26-07-28-HUB-18-2339-research-on-unified-agent-memory-chatgpt.md`
-- оригинал: `E:\Obsidian\Anton-Knowledge\01-Conversations\ChatGPT\conversations\2026-07-05-research-on-unified-agent-memory-6a49965c.md`
+- DR-ID `DR26-07-28-HUB-18-2339` · реестр _DR-Registry
+- оригинал: «внутренний путь лаборатории»
+- оригинал: «внутренний путь лаборатории»
 
 ## Связано
-- [[vault-data-architecture]]
-- [[one-system-propagate]]
-- [[second-brain-northstar]]
-- [[self-bible-identity-layer]]
-- [[machine-bus-telegram-rail]]
-- [[system-architect]]
-- [[coverage-and-docs-every-part]]
-- [[ak47-simplicity]]
+- vault-data-architecture
+- one-system-propagate
+- second-brain-northstar
+- self-bible-identity-layer
+- machine-bus-telegram-rail
+- system-architect
+- coverage-and-docs-every-part
+- ak47-simplicity

@@ -45,16 +45,16 @@ source: Palo Alto AI Research Lab — deep research programme
 - The specific state schema, promotion thresholds, and graph-expansion budgets proposed are engineering syntheses from the literature, not directly benchmarked recipes — need validation against Anton's own eval set
 
 ## Источник
-- DR-ID `DR26-06-25-HUB-07` · реестр [[_DR-Registry]]
-- оригинал: `E:\Obsidian\_originals\deep-research\2026-06-25-always-on-memory-architecture-DR.md`
+- DR-ID `DR26-06-25-HUB-07` · реестр _DR-Registry
+- оригинал: «внутренний путь лаборатории»
 
 ## Связано
-- [[vault-data-architecture]]
-- [[always-on-memory-pilot]]
-- [[turnstate-ledger]]
-- [[ak47-simplicity]]
-- [[second-brain-northstar]]
-- [[verify-existing-before-proposing]]
-- [[one-system-propagate]]
-- [[insight-DR-DR26-06-27-HUB-04-memory-architecture-patterns-for-long-running-ai-a]] — тот же домен персистентной памяти AI-агента поверх Obsidian, прямое пересечение архитектурных паттернов
-- [[insight-DR-DR26-07-28-HUB-09-2338-использование-obsidian-как-второй-мозг-архитектура]] — тот же вопрос архитектуры памяти поверх Obsidian для персонального AI-агента
+- vault-data-architecture
+- always-on-memory-pilot
+- turnstate-ledger
+- ak47-simplicity
+- second-brain-northstar
+- verify-existing-before-proposing
+- one-system-propagate
+- insight-DR-DR26-06-27-HUB-04-memory-architecture-patterns-for-long-running-ai-a — тот же домен персистентной памяти AI-агента поверх Obsidian, прямое пересечение архитектурных паттернов
+- insight-DR-DR26-07-28-HUB-09-2338-использование-obsidian-как-второй-мозг-архитектура — тот же вопрос архитектуры памяти поверх Obsidian для персонального AI-агента

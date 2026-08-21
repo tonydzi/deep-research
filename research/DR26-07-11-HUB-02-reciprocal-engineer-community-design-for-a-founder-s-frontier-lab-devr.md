@@ -47,15 +47,15 @@ source: Palo Alto AI Research Lab — deep research programme
 - No confirmed real-world precedent yet exists for the exact combination proposed (non-technical operator + AI cofounder + large pre-existing audience funding a paid reciprocal engineer cohort) — closest analogues (Buildspace, Thengvall/Camunda) are partial matches only.
 
 ## Источник
-- DR-ID `DR26-07-11-HUB-02` · реестр [[_DR-Registry]]
-- оригинал: `E:\Obsidian\_originals\deep-research\DR26-07-11-HUB-02-hiring-reciprocity-chatgpt.md`
-- оригинал: `E:\Obsidian\_originals\deep-research\DR26-07-11-HUB-02-hiring-reciprocity-gemini.md`
-- оригинал: `E:\Obsidian\_originals\deep-research\DR26-07-11-HUB-02-hiring-reciprocity-grok.md`
+- DR-ID `DR26-07-11-HUB-02` · реестр _DR-Registry
+- оригинал: «внутренний путь лаборатории»
+- оригинал: «внутренний путь лаборатории»
+- оригинал: «внутренний путь лаборатории»
 
 ## Связано
-- [[everything-becomes-content]]
-- [[main-goals]]
-- [[cofounder-identity]]
-- [[alpha-protocol-recall-plus-dr]]
-- [[dr-numbering-registry]]
-- [[show-before-after]]
+- everything-becomes-content
+- main-goals
+- cofounder-identity
+- alpha-protocol-recall-plus-dr
+- dr-numbering-registry
+- show-before-after

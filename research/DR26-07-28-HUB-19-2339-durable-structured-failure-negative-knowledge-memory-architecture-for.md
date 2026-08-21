@@ -43,16 +43,16 @@ source: Palo Alto AI Research Lab — deep research programme
 - How to keep the closed vocabulary from calcifying: too small over-generalizes and suppresses useful exploration, too large collapses back into free-text drift — no settled answer given, just a 'globally closed failure-class fields, narrowly closed but reviewable project tags' compromise.
 
 ## Источник
-- DR-ID `DR26-07-28-HUB-19-2339` · реестр [[_DR-Registry]]
-- оригинал: `E:\Obsidian\_originals\deep-research\DR26-07-28-HUB-19-2339-negative-knowledge-research-chatgpt.md`
-- оригинал: `E:\Obsidian\Anton-Knowledge\01-Conversations\ChatGPT\conversations\2026-07-05-negative-knowledge-research-6a499681.md`
+- DR-ID `DR26-07-28-HUB-19-2339` · реестр _DR-Registry
+- оригинал: «внутренний путь лаборатории»
+- оригинал: «внутренний путь лаборатории»
 
 ## Связано
-- [[negative-knowledge-memory]]
-- [[failure-aware-agent-memory]]
-- [[case-based-reasoning]]
-- [[vault-data-architecture]]
-- [[sql-before-llm-ladder]]
-- [[ak47-simplicity]]
-- [[dr-registry]]
-- [[multi-agent-role-discipline]]
+- negative-knowledge-memory
+- failure-aware-agent-memory
+- case-based-reasoning
+- vault-data-architecture
+- sql-before-llm-ladder
+- ak47-simplicity
+- dr-registry
+- multi-agent-role-discipline

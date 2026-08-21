@@ -43,16 +43,16 @@ source: Palo Alto AI Research Lab — deep research programme
 - How well the academic 'inherited goal drift' findings (models inheriting drift from weaker/already-drifting trajectories) generalize to everyday production agentic coding sessions.
 
 ## Источник
-- DR-ID `DR26-07-14-HUB-02` · реестр [[_DR-Registry]]
-- оригинал: `E:\Obsidian\_originals\deep-research\DL-2026-07-14--Approval-Fatigue-and-Task-Drift-in-Agentic-AI-Codi.md`
+- DR-ID `DR26-07-14-HUB-02` · реестр _DR-Registry
+- оригинал: «внутренний путь лаборатории»
 
 ## Связано
-- [[agent-approval-ux]]
-- [[context-engineering]]
-- [[plan-first-workflow]]
-- [[session-drift]]
-- [[alert-fatigue]]
-- [[claude-code-best-practices]]
-- [[worktrees-isolation]]
-- [[autonomous-coding-agents]]
-- [[insight-DR-DR26-07-28-HUB-14-2339-approval-fatigue-и-task-drift-в-агентном-ai-кодинг]] — тот же топик DR — approval fatigue и task drift, более ранний отчёт по той же теме
+- agent-approval-ux
+- context-engineering
+- plan-first-workflow
+- session-drift
+- alert-fatigue
+- claude-code-best-practices
+- worktrees-isolation
+- autonomous-coding-agents
+- insight-DR-DR26-07-28-HUB-14-2339-approval-fatigue-и-task-drift-в-агентном-ai-кодинг — тот же топик DR — approval fatigue и task drift, более ранний отчёт по той же теме

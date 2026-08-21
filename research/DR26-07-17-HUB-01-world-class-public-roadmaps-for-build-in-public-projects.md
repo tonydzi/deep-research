@@ -44,15 +44,15 @@ source: Palo Alto AI Research Lab — deep research programme
 - Productlane and Featurebase sourced claims about public-vs-internal roadmap field separation are vendor blog content, flagged low-authority/single-source.
 
 ## Источник
-- DR-ID `DR26-07-17-HUB-01` · реестр [[_DR-Registry]]
-- оригинал: `E:\Obsidian\_originals\deep-research\DR26-07-17-HUB-01-world-class-public-roadmaps-for-build-in-publ.md`
+- DR-ID `DR26-07-17-HUB-01` · реестр _DR-Registry
+- оригинал: «внутренний путь лаборатории»
 
 ## Связано
-- [[build-in-public]]
-- [[content-cascade-auto-execute-never-ask]]
-- [[changelog-first-shipping]]
-- [[now-next-later-framework]]
-- [[ship-log]]
-- [[developer-trust-signals]]
-- [[product-roadmapping-volatility]]
-- [[insight-DR-DR26-07-17-HUB-05-world-class-public-roadmaps-for-build-in-public-pr]] — near-duplicate DR report on the exact same topic, same case studies
+- build-in-public
+- content-cascade-auto-execute-never-ask
+- changelog-first-shipping
+- now-next-later-framework
+- ship-log
+- developer-trust-signals
+- product-roadmapping-volatility
+- insight-DR-DR26-07-17-HUB-05-world-class-public-roadmaps-for-build-in-public-pr — near-duplicate DR report on the exact same topic, same case studies

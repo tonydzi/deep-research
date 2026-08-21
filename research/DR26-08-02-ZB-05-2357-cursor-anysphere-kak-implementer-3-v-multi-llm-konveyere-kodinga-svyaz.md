@@ -44,14 +44,14 @@ source: Palo Alto AI Research Lab — deep research programme
 - Отчёт ChatGPT-вендора получен частично: byte-верно захвачено только 50 000 из 73 005 символов, остаток реконструирован из accessibility-дерева с потерей ~12KB середины хвоста (раздел про стоимость задачи/rate limits и далее обрезаны) — цитировать конец отчёта с осторожностью.
 
 ## Источник
-- DR-ID `DR26-08-02-ZB-05-2357` · реестр [[_DR-Registry]]
-- оригинал: `E:\Obsidian\_originals\deep-research\DR26-08-02-ZB-05-2357-cursor-as-implementer-grok.md`
-- оригинал: `E:\Obsidian\_originals\deep-research\DR26-08-02-ZB-05-2357-cursor-as-implementer-chatgpt.md`
+- DR-ID `DR26-08-02-ZB-05-2357` · реестр _DR-Registry
+- оригинал: «внутренний путь лаборатории»
+- оригинал: «внутренний путь лаборатории»
 
 ## Связано
-- [[cursor-as-implementer]]
-- [[grok-cli-integration]]
-- [[spacex-xai-anysphere-acquisition]]
-- [[multi-vendor-coding-orchestration]]
-- [[headless-agent-cli]]
-- [[claude-code-orchestrator]]
+- cursor-as-implementer
+- grok-cli-integration
+- spacex-xai-anysphere-acquisition
+- multi-vendor-coding-orchestration
+- headless-agent-cli
+- claude-code-orchestrator

@@ -41,14 +41,14 @@ source: Palo Alto AI Research Lab — deep research programme
 - Whether frontier labs might shift toward community M&A (buying communities outright) instead of building internal DevRel/DevEx functions is unconfirmed; absence of public evidence is not proof of absence.
 
 ## Источник
-- DR-ID `DR26-07-14-HUB-08` · реестр [[_DR-Registry]]
-- оригинал: `E:\Obsidian\_originals\deep-research\DL-2026-07-14--Engineering-Communities-as-a-Hiring-Asset-in-the-A.md`
+- DR-ID `DR26-07-14-HUB-08` · реестр _DR-Registry
+- оригинал: «внутренний путь лаборатории»
 
 ## Связано
-- [[DevRel]]
-- [[developer ecosystem programs]]
-- [[AI productivity leverage]]
-- [[AI-era hiring market]]
-- [[blockchain grants and hackathons]]
-- [[T-shaped skills]]
-- [[ghost jobs]]
+- DevRel
+- developer ecosystem programs
+- AI productivity leverage
+- AI-era hiring market
+- blockchain grants and hackathons
+- T-shaped skills
+- ghost jobs

@@ -40,12 +40,12 @@ source: Palo Alto AI Research Lab — deep research programme
 - OCCT's paid CommandLine edition (needed for full Windows automation) wasn't evaluated in depth — cost/fit unresolved if Windows-based automation is required.
 
 ## Источник
-- DR-ID `DR26-06-26-HUB-01` · реестр [[_DR-Registry]]
-- оригинал: `E:\Obsidian\_originals\deep-research\DR26-06-26-HUB-01-dual-rtx-3090-validation-and-monetization-res.md`
+- DR-ID `DR26-06-26-HUB-01` · реестр _DR-Registry
+- оригинал: «внутренний путь лаборатории»
 
 ## Связано
-- [[gpu-rental-monetization]]
-- [[dual-gpu-llm-inference]]
-- [[home-lab-hosting-security]]
-- [[vllm-multi-gpu-parallelism]]
-- [[gpu-hardware-validation-toolchain]]
+- gpu-rental-monetization
+- dual-gpu-llm-inference
+- home-lab-hosting-security
+- vllm-multi-gpu-parallelism
+- gpu-hardware-validation-toolchain

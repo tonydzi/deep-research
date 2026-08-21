@@ -42,13 +42,13 @@ source: Palo Alto AI Research Lab — deep research programme
 - No concrete data on actual retention rates achieved with this fork-and-concierge approach specifically (only industry benchmarks and anecdotes cited).
 
 ## Источник
-- DR-ID `DR26-07-02-HUB-11` · реестр [[_DR-Registry]]
-- оригинал: `E:\Obsidian\_originals\deep-research\2026-07-02-friends-starter-kit-DR2-build-vs-adopt.md`
+- DR-ID `DR26-07-02-HUB-11` · реестр _DR-Registry
+- оригинал: «внутренний путь лаборатории»
 
 ## Связано
-- [[second-brain-northstar]]
-- [[ak47-simplicity]]
-- [[obsidian-ingest]]
-- [[concierge-onboarding]]
-- [[fork-vs-build]]
-- [[vault-conventions]]
+- second-brain-northstar
+- ak47-simplicity
+- obsidian-ingest
+- concierge-onboarding
+- fork-vs-build
+- vault-conventions

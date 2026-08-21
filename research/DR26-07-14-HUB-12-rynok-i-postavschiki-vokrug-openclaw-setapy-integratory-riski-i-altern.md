@@ -43,13 +43,13 @@ source: Palo Alto AI Research Lab — deep research programme
 - Зрелость и лицензия GoClaw как альтернативы не проверены независимо.
 
 ## Источник
-- DR-ID `DR26-07-14-HUB-12` · реестр [[_DR-Registry]]
-- оригинал: `E:\Obsidian\_originals\deep-research\DL-2026-07-14--OpenClaw-market-integrators-RU.md`
+- DR-ID `DR26-07-14-HUB-12` · реестр _DR-Registry
+- оригинал: «внутренний путь лаборатории»
 
 ## Связано
-- [[OpenClaw security]]
-- [[agentic AI supply chain risk]]
-- [[AI skills marketplace risk]]
-- [[managed AI agent hosting]]
-- [[vendor due diligence for AI tools]]
-- [[second-brain-northstar]]
+- OpenClaw security
+- agentic AI supply chain risk
+- AI skills marketplace risk
+- managed AI agent hosting
+- vendor due diligence for AI tools
+- second-brain-northstar

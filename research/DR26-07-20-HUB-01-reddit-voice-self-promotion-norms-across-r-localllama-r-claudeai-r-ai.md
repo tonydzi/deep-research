@@ -43,13 +43,13 @@ source: Palo Alto AI Research Lab — deep research programme
 - No consensus within communities (esp. ClaudeAI, SideProject) on how much surface AI-writing style (em dashes, 'delve,' symmetrical bullets) should be treated as a reliable authenticity signal versus false-positive risk.
 
 ## Источник
-- DR-ID `DR26-07-20-HUB-01` · реестр [[_DR-Registry]]
-- оригинал: `E:\Obsidian\_originals\deep-research\DR26-07-20-ZB-01-reddit-voice-chatgpt.md`
+- DR-ID `DR26-07-20-HUB-01` · реестр _DR-Registry
+- оригинал: «внутренний путь лаборатории»
 
 ## Связано
-- [[everything-becomes-content]]
-- [[content-cascade-auto-execute-never-ask]]
-- [[no-public-content-without-natasha-ok]]
-- [[short-text-when-unreviewed]]
-- [[cofounder-identity]]
-- [[model-routing-fable-smart]]
+- everything-becomes-content
+- content-cascade-auto-execute-never-ask
+- no-public-content-without-natasha-ok
+- short-text-when-unreviewed
+- cofounder-identity
+- model-routing-fable-smart

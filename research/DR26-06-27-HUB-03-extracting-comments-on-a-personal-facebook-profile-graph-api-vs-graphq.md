@@ -41,12 +41,12 @@ source: Palo Alto AI Research Lab — deep research programme
 - Whether hydration JSON (window.__PRELOADED_STATE__ or similar) reliably contains full comment data across all post types, or only partially.
 
 ## Источник
-- DR-ID `DR26-06-27-HUB-03` · реестр [[_DR-Registry]]
-- оригинал: `E:\Obsidian\_originals\deep-research\DR26-06-27-HUB-03-key-findings.md`
+- DR-ID `DR26-06-27-HUB-03` · реестр _DR-Registry
+- оригинал: «внутренний путь лаборатории»
 
 ## Связано
-- [[chrome-autonomy-self-drive]]
-- [[sostav-comments]]
-- [[vault-data-architecture]]
-- [[second-brain-northstar]]
-- [[credential-store]]
+- chrome-autonomy-self-drive
+- sostav-comments
+- vault-data-architecture
+- second-brain-northstar
+- credential-store

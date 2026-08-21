@@ -47,15 +47,15 @@ source: Palo Alto AI Research Lab — deep research programme
 - The exact vault-level KPI bundle and the exact human-gated review workflow for fuzzy merges/deletions/hub rewrites are proposed as reasonable but not yet validated in practice for this specific vault.
 
 ## Источник
-- DR-ID `DR26-07-14-HUB-04` · реестр [[_DR-Registry]]
-- оригинал: `E:\Obsidian\_originals\deep-research\DL-2026-07-14--Best-Practices-for-Maintaining-a-Very-Large-Person.md`
+- DR-ID `DR26-07-14-HUB-04` · реестр _DR-Registry
+- оригинал: «внутренний путь лаборатории»
 
 ## Связано
-- [[entity-resolution]]
-- [[vault-data-architecture]]
-- [[second-brain-northstar]]
-- [[GraphRAG]]
-- [[sync-via-telegram-03-mandatory]]
-- [[dedup]]
-- [[one-system-propagate]]
-- [[always-on-memory-pilot]]
+- entity-resolution
+- vault-data-architecture
+- second-brain-northstar
+- GraphRAG
+- sync-via-telegram-03-mandatory
+- dedup
+- one-system-propagate
+- always-on-memory-pilot

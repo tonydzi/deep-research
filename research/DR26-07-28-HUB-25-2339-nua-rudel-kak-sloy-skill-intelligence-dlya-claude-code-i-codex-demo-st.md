@@ -13,7 +13,7 @@ source: Palo Alto AI Research Lab — deep research programme
 ## Ключевые выводы
 - Nua публично позиционируется не как отдельный агент-runtime, а как слой наблюдаемости/управления библиотекой agent skills: сканирует skill-файлы по команде и git, связывает их с сессиями, помечает работающие/неработающие, помогает распространять лучшие skills
 - Nua — вероятная эволюция открытого продукта Rudel (лендинг Nua ссылается на Rudel как 'previous chapter', Rudel публично объявил о закрытии 'for what comes next'), но архитектурная документация самой Nua не опубликована
-- Открытый код Rudel подтверждает механику: CLI `rudel enable` ставит hooks для Claude Code и Codex, читает локальные транскрипты (~/.claude/projects, ~/.codex/sessions), загружает ПОЛНЫЕ session-транскрипты в hosted-backend (ClickHouse)
+- Открытый код Rudel подтверждает механику: CLI `rudel enable` ставит hooks для Claude Code и Codex, читает локальные транскрипты («внутренний путь лаборатории», ~/.codex/sessions), загружает ПОЛНЫЕ session-транскрипты в hosted-backend (ClickHouse)
 - Официально поддерживаемые в публичном коде adapters — только claude-code и codex, других провайдеров нет
 - Интеграция строится через event-hooks (Claude: SessionEnd hook; Codex: notify на agent-turn-complete) — Nua должна быть 'out-of-band telemetry', не в критическом пути исполнения агента
 - README Rudel прямо предупреждает: uploaded transcripts могут содержать prompts, tool output, file contents, command output, URLs и secrets — фактически неизбежная утечка при live-demo на боевых данных
@@ -43,15 +43,15 @@ source: Palo Alto AI Research Lab — deep research programme
 - Насколько глубоко Nua отличается от Rudel архитектурно (не только маркетингово) — неясно без доступа к закрытому коду/докам Nua
 
 ## Источник
-- DR-ID `DR26-07-28-HUB-25-2339` · реестр [[_DR-Registry]]
-- оригинал: `E:\Obsidian\_originals\deep-research\DR26-07-28-HUB-25-2339-izuchenie-produkta-nua-chatgpt.md`
-- оригинал: `E:\Obsidian\Anton-Knowledge\01-Conversations\ChatGPT\conversations\2026-06-23-izuchenie-produkta-nua-6a3a3cc8.md`
+- DR-ID `DR26-07-28-HUB-25-2339` · реестр _DR-Registry
+- оригинал: «внутренний путь лаборатории»
+- оригинал: «внутренний путь лаборатории»
 
 ## Связано
-- [[agent-skills-management]]
-- [[claude-code-hooks]]
-- [[codex-hooks]]
-- [[prompt-injection-risk]]
-- [[mcp-security]]
-- [[skill-library-governance]]
-- [[session-telemetry-ingest]]
+- agent-skills-management
+- claude-code-hooks
+- codex-hooks
+- prompt-injection-risk
+- mcp-security
+- skill-library-governance
+- session-telemetry-ingest

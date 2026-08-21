@@ -42,15 +42,15 @@ source: Palo Alto AI Research Lab — deep research programme
 - Whether a machine-readable 'llms-full.json' companion to dev-logs is worth adopting is called an emerging, non-standard practice.
 
 ## Источник
-- DR-ID `DR26-06-30-HUB-01` · реестр [[_DR-Registry]]
-- оригинал: `E:\Obsidian\_originals\deep-research\DR26-06-30-HUB-01-generative-engine-optimization-geo-and-conten.md`
+- DR-ID `DR26-06-30-HUB-01` · реестр _DR-Registry
+- оригинал: «внутренний путь лаборатории»
 
 ## Связано
-- [[GEO (Generative Engine Optimization)]]
-- [[llms.txt standard]]
-- [[content-factory]]
-- [[second-brain-northstar]]
-- [[everything-becomes-content]]
-- [[GitHub-as-primary-docs-channel]]
-- [[AI-citation-fresness]]
-- [[insight-DR-DR26-08-04-ZB-08-1744-geo-origin-logs-oss]] — тот же топик GEO / origin-логи цитирования LLM-краулеров
+- GEO (Generative Engine Optimization)
+- llms.txt standard
+- content-factory
+- second-brain-northstar
+- everything-becomes-content
+- GitHub-as-primary-docs-channel
+- AI-citation-fresness
+- insight-DR-DR26-08-04-ZB-08-1744-geo-origin-logs-oss — тот же топик GEO / origin-логи цитирования LLM-краулеров

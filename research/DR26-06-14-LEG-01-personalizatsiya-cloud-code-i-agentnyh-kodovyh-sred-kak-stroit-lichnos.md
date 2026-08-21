@@ -43,15 +43,15 @@ source: Palo Alto AI Research Lab — deep research programme
 - 'Dopamine for developer' нельзя измерить продуктовыми метриками напрямую — на практике измеряют только proxy: delight, retention, workload, wellbeing.
 
 ## Источник
-- DR-ID `DR26-06-14-LEG-01` · реестр [[_DR-Registry]]
-- оригинал: `E:\Obsidian\_originals\deep-research\2026-06-14-persona-platform-cloud-code.md`
+- DR-ID `DR26-06-14-LEG-01` · реестр _DR-Registry
+- оригинал: «внутренний путь лаборатории»
 
 ## Связано
-- [[persona-as-code]]
-- [[agent-memory-architecture]]
-- [[claude-code-customization]]
-- [[dark-patterns-ux]]
-- [[CASA-theory]]
-- [[dora-metrics]]
-- [[prompt-evals]]
-- [[second-brain-northstar]]
+- persona-as-code
+- agent-memory-architecture
+- claude-code-customization
+- dark-patterns-ux
+- CASA-theory
+- dora-metrics
+- prompt-evals
+- second-brain-northstar

@@ -42,14 +42,14 @@ source: Palo Alto AI Research Lab — deep research programme
 - No single information-density metric is sufficient on its own for essence/evidence classification — exact feature combination and thresholds are unresolved.
 
 ## Источник
-- DR-ID `DR26-06-25-HUB-06` · реестр [[_DR-Registry]]
-- оригинал: `E:\Obsidian\_originals\deep-research\DR26-06-25-HUB-06-designing-an-essence-and-evidence-split-for-a.md`
+- DR-ID `DR26-06-25-HUB-06` · реестр _DR-Registry
+- оригинал: «внутренний путь лаборатории»
 
 ## Связано
-- [[vault-data-architecture]]
-- [[always-on-memory-pilot]]
-- [[memory-index-hygiene]]
-- [[second-brain-northstar]]
-- [[capture-rules-into-bible]]
-- [[relink-mechanism]]
-- [[provenance-attribute-real-author]]
+- vault-data-architecture
+- always-on-memory-pilot
+- memory-index-hygiene
+- second-brain-northstar
+- capture-rules-into-bible
+- relink-mechanism
+- provenance-attribute-real-author

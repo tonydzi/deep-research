@@ -12,7 +12,7 @@ source: Palo Alto AI Research Lab — deep research programme
 > `chatgpt` = Codex CLI headless (Mac16) · `grok` = grok CLI headless (Mac16) · `gemini` = браузерный Deep Research (HP17, 122 источника).
 > Оригиналы: `_originals/deep-research/DR26-08-04-ZB-01-1437-chinese-llm-landscape-2026-08-{chatgpt,grok,gemini}.md`
 >
-> Предшественник: [[insight-dr26-08-04-zb-01-sintez-kitayskie-llm-kak-relsa-vtorogo-mneniya]] — синтез Mac16 на 2 вендорах (15:42).
+> Предшественник: insight-dr26-08-04-zb-01-sintez-kitayskie-llm-kak-relsa-vtorogo-mneniya — синтез Mac16 на 2 вендорах (15:42).
 > Эта заметка = он же плюс третий голос (Gemini) и разбор расхождений; не отменяет его, а расширяет базу.
 
 ## 1. Где все трое сошлись (можно опираться)
@@ -48,7 +48,7 @@ source: Palo Alto AI Research Lab — deep research programme
 ### D. Цена GLM-5.2 PAYG — ложное совпадение
 - Grok и Gemini дают одинаковые $1.40 / $4.40.
 - ChatGPT: это цена **GLM-5.1** с захваченной прайс-страницы; официальной строки PAYG для **5.2** в доступной версии прайса **нет**.
-→ Классический [[false-corroboration-two-sources-agreeing]]: два вендора «сошлись», потому что оба читали одну и ту же страницу и перенесли цену со старой модели. Считаем цену 5.2 непроверенной.
+→ Классический false-corroboration-two-sources-agreeing: два вендора «сошлись», потому что оба читали одну и ту же страницу и перенесли цену со старой модели. Считаем цену 5.2 непроверенной.
 
 ### E. MiniMax M3 — слабее всех обеспечен
 Gemini ставит его №2 ($0.30/$1.20 с промо-скидкой 50% на OpenRouter), Grok — №3 (Token Plan Plus $20), ChatGPT прямо говорит «актуальные цены M2.5/M3 **не подтверждены**, как основной review-API не брать».
@@ -81,4 +81,4 @@ Gemini ставит его №2 ($0.30/$1.20 с промо-скидкой 50% н
 | Запреты DeepSeek в ЕС / EU AI Act enforcement | ежеквартально |
 
 ## Связано
-[[gemini-third-reviewer-rail]] · [[hub-review-rails]] · [[model-routing-fable-smart]] · [[prefer-included-limits-before-paid-api]] · [[false-corroboration-two-sources-agreeing]] · [[coding-outsource-external-implementers]]
+gemini-third-reviewer-rail · hub-review-rails · model-routing-fable-smart · prefer-included-limits-before-paid-api · false-corroboration-two-sources-agreeing · coding-outsource-external-implementers

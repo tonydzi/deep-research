@@ -44,14 +44,14 @@ source: Palo Alto AI Research Lab — deep research programme
 - Whether a custom domain materially outperforms a default github.io subdomain for hiring outcomes (inference, not directly evidenced)
 
 ## Источник
-- DR-ID `DR26-07-14-HUB-14` · реестр [[_DR-Registry]]
-- оригинал: `E:\Obsidian\_originals\deep-research\DR26-07-10-MACANTON-01-bio-chatgpt-verbatim.md`
+- DR-ID `DR26-07-14-HUB-14` · реестр _DR-Registry
+- оригинал: «внутренний путь лаборатории»
 
 ## Связано
-- [[personal-branding]]
-- [[devrel-hiring]]
-- [[ai-builder-portfolio]]
-- [[github-pages]]
-- [[frontier-lab-recruiting]]
-- [[second-brain-northstar]]
-- [[everything-becomes-content]]
+- personal-branding
+- devrel-hiring
+- ai-builder-portfolio
+- github-pages
+- frontier-lab-recruiting
+- second-brain-northstar
+- everything-becomes-content

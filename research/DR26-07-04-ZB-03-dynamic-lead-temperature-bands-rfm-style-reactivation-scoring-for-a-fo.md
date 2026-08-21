@@ -42,15 +42,15 @@ source: Palo Alto AI Research Lab — deep research programme
 - The report leans on several vendor-reported case studies (Notion, Zapier, Superhuman, BrightTALK) whose lift numbers are vendor-sourced and not independently verified.
 
 ## Источник
-- DR-ID `DR26-07-04-ZB-03` · реестр [[_DR-Registry]]
-- оригинал: `E:\Obsidian\_originals\deep-research\DR-2026-07-04-lead-temperature-scoring-ORIGINAL.md`
+- DR-ID `DR26-07-04-ZB-03` · реестр _DR-Registry
+- оригинал: «внутренний путь лаборатории»
 
 ## Связано
-- [[lead-scoring-model]]
-- [[rfm-reactivation-scoring]]
-- [[signal-decay-half-life]]
-- [[founder-led-sales-motion]]
-- [[crm-data-hygiene]]
-- [[telegram-crm-signals]]
-- [[rules-vs-llm-feature-engineering]]
-- [[insight-DR-DR26-07-28-HUB-23-2339-плейбук-реактивации-8-644-спящих-1-1-контактов-чер]] — общая тема RFM/scoring-приоритизации реактивации спящих лидов
+- lead-scoring-model
+- rfm-reactivation-scoring
+- signal-decay-half-life
+- founder-led-sales-motion
+- crm-data-hygiene
+- telegram-crm-signals
+- rules-vs-llm-feature-engineering
+- insight-DR-DR26-07-28-HUB-23-2339-плейбук-реактивации-8-644-спящих-1-1-контактов-чер — общая тема RFM/scoring-приоритизации реактивации спящих лидов

@@ -8,7 +8,7 @@ source: Palo Alto AI Research Lab — deep research programme
 
 # Insight (DR DR26-07-01-ZB-01): SOTA architecture for a unified local-first second-brain memory shared across Claude Code, Codex, Gemini CLI and MCP agents
 
-> ⚠️ **UPDATE 2026-07-14:** эта заметка была сгенерена по ПРОМПТУ (тела отчёта тогда не было — ChatGPT не отдаёт DR через экспорт). Полный отчёт СОБРАН 14.07 (Export→Markdown), лежит в `_originals\deep-research\` (путь в «Источник»). Актуальный синтез: [[decision-agent-stack-dr-bundle-synthesis-2026-07-14]].
+> ⚠️ **UPDATE 2026-07-14:** эта заметка была сгенерена по ПРОМПТУ (тела отчёта тогда не было — ChatGPT не отдаёт DR через экспорт). Полный отчёт СОБРАН 14.07 (Export→Markdown), лежит в `_originals\deep-research\` (путь в «Источник»). Актуальный синтез: decision-agent-stack-dr-bundle-synthesis-2026-07-14.
 
 
 > A deep-research request (not yet returning findings in this record) asking how to unify a single-user markdown vault as shared memory across heterogeneous agent runtimes via MCP contracts, git-first history, deterministic rule promotion, an AGENTS.md onboarding doc, and note-type schemas.
@@ -34,14 +34,14 @@ source: Palo Alto AI Research Lab — deep research programme
 - Whether other vendor sections (Gemini, Claude, etc.) for this same DR-ID contain the completed findings that should be merged in.
 
 ## Источник
-- DR-ID `DR26-07-01-ZB-01` · реестр [[_DR-Registry]]
-- оригинал: `E:\Obsidian\_originals\deep-research\DR26-07-01-ZB-01-state-of-the-art-second-brain-6a4adc1d-chatgpt.md`
+- DR-ID `DR26-07-01-ZB-01` · реестр _DR-Registry
+- оригинал: «внутренний путь лаборатории»
 
 ## Связано
-- [[second-brain-northstar]]
-- [[vault-data-architecture]]
-- [[agent-teams-scoped-adoption]]
-- [[machine-bus-telegram-rail]]
-- [[one-system-propagate]]
-- [[capture-rules-into-bible]]
-- [[insight-DR-DR26-07-28-HUB-18-2339-sota-architecture-for-shared-local-first-agent-mem]] — тот же вопрос unified local-first memory; ранняя заметка сама пишет что вывод нужно перезабрать
+- second-brain-northstar
+- vault-data-architecture
+- agent-teams-scoped-adoption
+- machine-bus-telegram-rail
+- one-system-propagate
+- capture-rules-into-bible
+- insight-DR-DR26-07-28-HUB-18-2339-sota-architecture-for-shared-local-first-agent-mem — тот же вопрос unified local-first memory; ранняя заметка сама пишет что вывод нужно перезабрать

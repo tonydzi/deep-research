@@ -17,7 +17,7 @@ source: Palo Alto AI Research Lab — deep research programme
 - Git-based синк (по образцу LiveSync→GitHub) признан жизнеспособным резервом, не заменой; .git уже вынесен из общей папки
 - Конкретный тюнинг-пакет: fsWatcherDelayS 10→1 на отправителях (детекция ~11с→~3с), пересмотр maxConcurrentWrites, апгрейд для фикса шторма конфликтов (баг v1.22), страх апгрейда на SQLite (v2.x) признан завышенным — у флота ~168k блоков против 30M в фейл-репортах на форумах
 - Открыт и НЕ закрыт этим DR: лаг 20-60 минут при флапе (обрыв/сон) пира — это проблема re-establishment, а не детекции; текущие watchdog'и остаются главным лекарством, кандидат на отдельный точечный DR
-- Внешние вендоры (Gemini, Grok) дают ДРУГОЙ вердикт — расщепить на 3 инструмента: Syncthing (или Seafile self-host по Grok, для >100k файлов лучше по дедупликации) для склада, chezmoi+Git для дистрибуции ~/.claude (устраняет 'тихую смерть' локальных правок в receive-only), NATS/MQTT для _machine-bus (файловая система не гарантирует FIFO-порядок, гонки на heartbeat/approvals)
+- Внешние вендоры (Gemini, Grok) дают ДРУГОЙ вердикт — расщепить на 3 инструмента: Syncthing (или Seafile self-host по Grok, для >100k файлов лучше по дедупликации) для склада, chezmoi+Git для дистрибуции «внутренний путь лаборатории» (устраняет 'тихую смерть' локальных правок в receive-only), NATS/MQTT для «внутренний архив лаборатории» (файловая система не гарантирует FIFO-порядок, гонки на heartbeat/approvals)
 - Документированный баг: миграция Syncthing v2.0.x на SQLite вызывала OOM до 3.9 ГБ при VACUUM и повреждение БД (malformed), пофикшено в v2.0.6, но риск остаётся по мнению Grok
 - Gemini даёт числовой тюнинг-чеклист: GOMEMLIMIT=2GiB, databaseTuning=large, maxFolderConcurrency=1-2, maxConcurrentWrites=2, caseSensitiveFS обязателен false (даже ценой замедления скана с 3 до 45 минут) — иначе фатальная потеря данных при смене регистра на кросс-ОС флоте
 - Общий анти-конфликтный паттерн у всех вендоров: single-writer discipline + append-only shards (каждый узел пишет в свой файл вместо общего MEMORY.md) + directory-per-writer — устраняет гонки записи почти полностью
@@ -42,22 +42,22 @@ source: Palo Alto AI Research Lab — deep research programme
 - Рост флота >8 узлов как триггер пересмотра архитектуры — условие задано, но не проверено
 
 ## Источник
-- DR-ID `DR26-07-10-MACB-01` · реестр [[_DR-Registry]]
-- оригинал: `E:\Obsidian\Anton-Knowledge\05-Resources\Deep-Research\DR26-07-10-MACB-01-syncthing-alternatives-decision-memo.md`
-- оригинал: `E:\Obsidian\_originals\deep-research\DL-2026-07-14--DR26-07-10-MACB-01-gemini.md`
-- оригинал: `E:\Obsidian\_originals\deep-research\DL-2026-07-14--DR26-07-10-MACB-01-grok.md`
-- оригинал: `E:\Obsidian\_originals\deep-research\DR26-07-10-MACB-01-chatgpt.md`
-- оригинал: `E:\Obsidian\_originals\deep-research\DR26-07-10-MACB-01-gemini.md`
-- оригинал: `E:\Obsidian\_originals\deep-research\DR26-07-10-MACB-01-grok.md`
-- оригинал: `E:\Obsidian\_originals\deep-research\DR26-07-10-MACB-01-inhouse-A-fix-syncthing.md`
-- оригинал: `E:\Obsidian\_originals\deep-research\DR26-07-10-MACB-01-inhouse-B-alternatives.md`
-- оригинал: `E:\Obsidian\_originals\deep-research\DR26-07-10-MACB-01-inhouse-C-peer-rakes.md`
+- DR-ID `DR26-07-10-MACB-01` · реестр _DR-Registry
+- оригинал: «внутренний путь лаборатории»
+- оригинал: «внутренний путь лаборатории»
+- оригинал: «внутренний путь лаборатории»
+- оригинал: «внутренний путь лаборатории»
+- оригинал: «внутренний путь лаборатории»
+- оригинал: «внутренний путь лаборатории»
+- оригинал: «внутренний путь лаборатории»
+- оригинал: «внутренний путь лаборатории»
+- оригинал: «внутренний путь лаборатории»
 
 ## Связано
-- [[machine-bus-telegram-rail]]
-- [[decision-vault-sync-architecture]]
-- [[sync-via-telegram-03-mandatory]]
-- [[one-system-propagate]]
-- [[ak47-simplicity]]
-- [[deterministic-script-gotchas]]
-- [[own-fleet-peer-equality]]
+- machine-bus-telegram-rail
+- decision-vault-sync-architecture
+- sync-via-telegram-03-mandatory
+- one-system-propagate
+- ak47-simplicity
+- deterministic-script-gotchas
+- own-fleet-peer-equality

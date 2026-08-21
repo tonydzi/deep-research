@@ -46,15 +46,15 @@ source: Palo Alto AI Research Lab — deep research programme
 - No regression suite or cold-reader harness yet exists that has been validated against MEMORY.md specifically (as opposed to CLAUDE.md) — needs to be built and tested per the action plan.
 
 ## Источник
-- DR-ID `DR26-07-04-HUB-01` · реестр [[_DR-Registry]]
-- оригинал: `E:\Obsidian\_originals\deep-research\DR26-07-04-HUB-01-memory-md-index-optimization-REPORT.md`
+- DR-ID `DR26-07-04-HUB-01` · реестр _DR-Registry
+- оригинал: «внутренний путь лаборатории»
 
 ## Связано
-- [[claude-md-optimization-mechanics]]
-- [[memory-index-hygiene]]
-- [[write-service-files-tight-no-recompress]]
-- [[ak47-simplicity]]
-- [[vault-data-architecture]]
-- [[test-after-build-skill]]
-- [[fix-root-cause-not-symptoms]]
-- [[capture-rules-into-bible]]
+- claude-md-optimization-mechanics
+- memory-index-hygiene
+- write-service-files-tight-no-recompress
+- ak47-simplicity
+- vault-data-architecture
+- test-after-build-skill
+- fix-root-cause-not-symptoms
+- capture-rules-into-bible

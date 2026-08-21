@@ -47,18 +47,18 @@ source: Palo Alto AI Research Lab — deep research programme
 - No comprehensive public TCO (total cost of ownership) studies compare builder-tier choice against lifetime maintenance/debt cost; only anecdotal warnings exist.
 
 ## Источник
-- DR-ID `DR26-07-05-HUB-03` · реестр [[_DR-Registry]]
-- оригинал: `E:\Obsidian\_originals\deep-research\DR26-07-05-HUB-03-repairability-grok.md`
-- оригинал: `E:\Obsidian\_originals\deep-research\DR26-07-05-HUB-03-repairability-chatgpt-FULL.md`
-- оригинал: `E:\Obsidian\_originals\deep-research\DR26-07-05-HUB-03-repairability-chatgpt.md`
-- оригинал: `E:\Obsidian\_originals\deep-research\DR26-07-05-HUB-03-repairability-gemini.md`
+- DR-ID `DR26-07-05-HUB-03` · реестр _DR-Registry
+- оригинал: «внутренний путь лаборатории»
+- оригинал: «внутренний путь лаборатории»
+- оригинал: «внутренний путь лаборатории»
+- оригинал: «внутренний путь лаборатории»
 
 ## Связано
-- [[ak47-simplicity]]
-- [[multi-agent-offer-reflex]]
-- [[verify-existing-before-proposing]]
-- [[test-after-build-skill]]
-- [[fix-root-cause-not-symptoms]]
-- [[model-routing-sonnet-grunt]]
-- [[multi-agent-role-discipline]]
-- [[system-architect]]
+- ak47-simplicity
+- multi-agent-offer-reflex
+- verify-existing-before-proposing
+- test-after-build-skill
+- fix-root-cause-not-symptoms
+- model-routing-sonnet-grunt
+- multi-agent-role-discipline
+- system-architect

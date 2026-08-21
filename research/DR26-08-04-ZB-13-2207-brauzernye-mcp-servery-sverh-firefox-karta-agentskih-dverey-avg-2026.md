@@ -41,13 +41,13 @@ source: Palo Alto AI Research Lab — deep research programme
 - Загрузка расширений в attach-режиме chrome-devtools-mcp не работает до Chrome 149 — актуальность для кейсов с расширениями на живой сессии нужно перепроверять по версии Chrome.
 
 ## Источник
-- DR-ID `DR26-08-04-ZB-13-2207` · реестр [[_DR-Registry]]
-- оригинал: `/root/Obsidian/Anton-Knowledge/_originals/deep-research/DR26-08-04-ZB-13-2207-brauzernye-mcp-servery-karta-agentskih-d-claude.md`
+- DR-ID `DR26-08-04-ZB-13-2207` · реестр _DR-Registry
+- оригинал: «внутренний путь лаборатории»
 
 ## Связано
-- [[concept-ai-agent-orchestration]]
-- [[concept-autonomous-ai-agents]]
-- [[concept-agent-experience-ax]]
-- [[model-context-protocol]]
-- [[browser-automation]]
-- [[prompt-injection]]
+- concept-ai-agent-orchestration
+- concept-autonomous-ai-agents
+- concept-agent-experience-ax
+- model-context-protocol
+- browser-automation
+- prompt-injection

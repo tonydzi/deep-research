@@ -45,16 +45,16 @@ source: Palo Alto AI Research Lab — deep research programme
 - Debate unresolved between generic orchestration patterns (easier to adopt) vs. domain-specific/vertical architectures (often outperform per LangChain's benchmark) — no settled guidance on which to default to.
 
 ## Источник
-- DR-ID `DR26-07-04-HUB-10` · реестр [[_DR-Registry]]
-- оригинал: `E:\Obsidian\_originals\DR26-07-04-HUB-10-multi-session-orchestration.md`
+- DR-ID `DR26-07-04-HUB-10` · реестр _DR-Registry
+- оригинал: «внутренний путь лаборатории»
 
 ## Связано
-- [[multi-agent-offer-reflex]]
-- [[decompose-into-parallel-sessions]]
-- [[goal-drift-offload-to-seed-sessions]]
-- [[multi-agent-role-discipline]]
-- [[test-after-build-skill]]
-- [[verify-existing-before-proposing]]
-- [[machine-governance-leader-follower]]
-- [[cowork-vs-cc-division]]
-- [[insight-DR-DR26-07-04-HUB-11-multi-session-and-multi-agent-llm-orchestration-fo]] — сиблинг-DR из той же серии по идентичной теме
+- multi-agent-offer-reflex
+- decompose-into-parallel-sessions
+- goal-drift-offload-to-seed-sessions
+- multi-agent-role-discipline
+- test-after-build-skill
+- verify-existing-before-proposing
+- machine-governance-leader-follower
+- cowork-vs-cc-division
+- insight-DR-DR26-07-04-HUB-11-multi-session-and-multi-agent-llm-orchestration-fo — сиблинг-DR из той же серии по идентичной теме

@@ -73,8 +73,8 @@ http://127.0.0.1:9222/json/version` не отвечает → перезапус
 `AutoFF` и конфликта с §4.8 не возникает вовсе — а это уже проверяемая гипотеза, а не спор
 вкусов.
 
-Смежное: [[dr-fanout-live-chrome-fragile]] (замер хрупкости живой вкладки),
-[[firefox-first-decided-not-deployed]] (дефолт принят, но не раскатан),
-[[browser-and-account-pick-yourself]] (выбор рельсы — мой, без вопроса Антону).
+Смежное: dr-fanout-live-chrome-fragile (замер хрупкости живой вкладки),
+firefox-first-decided-not-deployed (дефолт принят, но не раскатан),
+browser-and-account-pick-yourself (выбор рельсы — мой, без вопроса Антону).
 
 Источник verbatim: `_originals/deep-research/DR26-08-01-MACANTON-01-0631-openclaw-hermes-browser-rail-grok.md`

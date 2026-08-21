@@ -10,7 +10,7 @@ source: Palo Alto AI Research Lab — deep research programme
 
 Вопрос сезона: **«Возьмут ли не-кодера с AI-кофаундером на работу в LLM-компанию?»** Два подвопроса: (A) как дать аудитории реально влиять на шоу без потери контроля; (B) как build-in-public конвертируется в найм в DevRel/community/dev-education в Anthropic/OpenAI-tier.
 
-Оригиналы: [[DR26-07-05-HUB-05-reality-show-v2-hiring-grok]] · [[DR26-07-05-HUB-05-reality-show-v2-hiring-gemini]] (в `_originals\deep-research\`). ChatGPT — только «Bottom line» (отчёт в кросс-доменном connector-iframe, машинно не извлёкся; вердикт совпал с двумя другими). Связано: [[everything-becomes-content]], [[main-goals]], реглумент `reglament-vsyo-chto-my-delaem-stanovitsya-kontentom`.
+Оригиналы: DR26-07-05-HUB-05-reality-show-v2-hiring-grok · DR26-07-05-HUB-05-reality-show-v2-hiring-gemini (в `_originals\deep-research\`). ChatGPT — только «Bottom line» (отчёт в кросс-доменном connector-iframe, машинно не извлёкся; вердикт совпал с двумя другими). Связано: everything-becomes-content, main-goals, реглумент `reglament-vsyo-chto-my-delaem-stanovitsya-kontentom`.
 
 ## ГЛАВНЫЙ ВЫВОД (все 3 сошлись)
 **Реалити-шоу и цель №2 — одна машина, а не две.** Артефакты шоу (dev-log'и, лонгриды, метрики комьюнити, решения по голосованиям) — это ровно то портфолио, что скринят DevRel-хайринг-менеджеры. Правильный формат участия аудитории = «scoped consult/involve», НЕ «аудитория решает компанию». А статус «не-кодер с AI-кофаундером» — это не слабость, а **сильнейший маркетинговый актив**: он вживую демонстрирует ровно тот next-gen workflow (Claude Code / Cursor / vibecoding), который эти компании продают энтерпрайзу. «Ты — их идеальный будущий клиент, уже усиленный их моделями».

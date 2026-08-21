@@ -17,16 +17,16 @@ source: Palo Alto AI Research Lab — deep research programme
 4. **Инженерия скилла**: негативные ограничения фронт-загрузкой, few-shot до/после, multi-pass (detect → cut → ритм → механика → якорь → вывод только текстом).
 
 ## Расхождение (решено нашим каноном)
-Gemini предлагал **генерировать** правдоподобные бытовые якоря («даже если полностью выдуманы»). Отклонено: противоречит [[fake-it-courage-not-fake-numbers]] и HB1 слоп-гейта. Правило скилла: живая деталь только из реального контекста, иначе placeholder.
+Gemini предлагал **генерировать** правдоподобные бытовые якоря («даже если полностью выдуманы»). Отклонено: противоречит fake-it-courage-not-fake-numbers и HB1 слоп-гейта. Правило скилла: живая деталь только из реального контекста, иначе placeholder.
 
 ## Что построено
-- Скилл `ai-slop` (`~/.claude/skills/ai-slop/SKILL.md`), триггеры /ai-slop /ai_slope /slop «очеловечь» «убери нейрослог».
-- Пара к `slop_gate.py`: гейт судит (0 токенов), скилл переписывает = недостающий «робот-рерайтер» из [[spec-anti-slop-content-pipeline]] §Фаза 3.
+- Скилл `ai-slop` («внутренний путь лаборатории»), триггеры /ai-slop /ai_slope /slop «очеловечь» «убери нейрослог».
+- Пара к `slop_gate.py`: гейт судит (0 токенов), скилл переписывает = недостающий «робот-рерайтер» из spec-anti-slop-content-pipeline §Фаза 3.
 - /tt: живой прогон на episodes/cookbook-pr-784 (−62%, нарушения 11 тире + 6 «ё» → 0, факты целы); Codex-ломатель нашёл 3 дыры (пример учил выдумывать цифру · глобальные замены ломали код/имена · квота % конфликтовала с плотным текстом) — все починены в тот же заход.
 
 Оригиналы: `_originals/deep-research/DR26-07-30-MACANTON-01-1456-antislop-humanizer-{chatgpt,gemini,grok}.md`
-Связано: [[tg-slop-markers-measured]], [[everything-becomes-content]], [[content-factory-architecture]], `Slop-Gate-Passport`.
+Связано: tg-slop-markers-measured, everything-becomes-content, content-factory-architecture, `Slop-Gate-Passport`.
 
 ## Связано
-- [[insight-2026-07-31-antislop-otchet-po-chetyrem-nogam-DR]] — тот же dr_id, продолжение синтеза
-- [[insight-2026-07-31-antislop-vneshnie-standarty-humanizer-rutext]] — прямое продолжение исследования humanizer
+- insight-2026-07-31-antislop-otchet-po-chetyrem-nogam-DR — тот же dr_id, продолжение синтеза
+- insight-2026-07-31-antislop-vneshnie-standarty-humanizer-rutext — прямое продолжение исследования humanizer

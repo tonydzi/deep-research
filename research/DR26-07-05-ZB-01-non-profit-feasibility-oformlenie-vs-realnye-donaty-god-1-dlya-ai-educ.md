@@ -43,14 +43,14 @@ source: Palo Alto AI Research Lab — deep research programme
 - Не проверено на практике, насколько банковский KYC (ex-crypto background + Portugal residency + $0 стартовый капитал) реально затормозит открытие счёта для US-структуры.
 
 ## Источник
-- DR-ID `DR26-07-05-ZB-01` · реестр [[_DR-Registry]]
-- оригинал: `E:\Obsidian\_originals\deep-research\DR26-07-05-ZB-01-nonprofit-chatgpt.md`
-- оригинал: `E:\Obsidian\_originals\deep-research\DR26-07-05-ZB-01-nonprofit-gemini.md`
-- оригинал: `E:\Obsidian\_originals\deep-research\DR26-07-05-ZB-01-nonprofit-grok.md`
+- DR-ID `DR26-07-05-ZB-01` · реестр _DR-Registry
+- оригинал: «внутренний путь лаборатории»
+- оригинал: «внутренний путь лаборатории»
+- оригинал: «внутренний путь лаборатории»
 
 ## Связано
-- [[ai-education-project]]
-- [[second-brain-northstar]]
-- [[non-profit-fiscal-sponsorship]]
-- [[open-source-funding]]
-- [[portugal-associacao]]
+- ai-education-project
+- second-brain-northstar
+- non-profit-fiscal-sponsorship
+- open-source-funding
+- portugal-associacao

@@ -43,14 +43,14 @@ source: Palo Alto AI Research Lab — deep research programme
 - Не указано, как именно ADOPT-registry технически интегрируется с существующим HARVEST-движком Антона (стыковка форматов, где заканчивается HARVEST и начинается ADOPT в реальном pipeline)
 
 ## Источник
-- DR-ID `DR26-07-07-MACB-04` · реестр [[_DR-Registry]]
-- оригинал: `E:\Obsidian\_originals\deep-research\DR26-07-07-MACB-04-adopt-framework-chatgpt.md`
+- DR-ID `DR26-07-07-MACB-04` · реестр _DR-Registry
+- оригинал: «внутренний путь лаборатории»
 
 ## Связано
-- [[alpha-extraction-engine]]
-- [[HARVEST]]
-- [[second-brain-northstar]]
-- [[vault-data-architecture]]
-- [[capture-rules-into-bible]]
-- [[evaluate-recurring-into-routine]]
-- [[ak47-simplicity]]
+- alpha-extraction-engine
+- HARVEST
+- second-brain-northstar
+- vault-data-architecture
+- capture-rules-into-bible
+- evaluate-recurring-into-routine
+- ak47-simplicity

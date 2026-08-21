@@ -42,13 +42,13 @@ source: Palo Alto AI Research Lab — deep research programme
 - The A/B evaluation (100-200 query gold set across 4 configurations) is proposed but not yet run for this specific setup.
 
 ## Источник
-- DR-ID `DR26-06-25-HUB-05` · реестр [[_DR-Registry]]
-- оригинал: `E:\Obsidian\_originals\deep-research\DR26-06-25-HUB-05-designing-memory-for-a-coding-assistant-digit.md`
+- DR-ID `DR26-06-25-HUB-05` · реестр _DR-Registry
+- оригинал: «внутренний путь лаборатории»
 
 ## Связано
-- [[vault-data-architecture]]
-- [[always-on-memory-pilot]]
-- [[second-brain-northstar]]
-- [[episodic-memory]]
-- [[RAG-retrieval-design]]
-- [[session-machine-tagging]]
+- vault-data-architecture
+- always-on-memory-pilot
+- second-brain-northstar
+- episodic-memory
+- RAG-retrieval-design
+- session-machine-tagging

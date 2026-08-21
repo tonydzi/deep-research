@@ -42,15 +42,15 @@ source: Palo Alto AI Research Lab — deep research programme
 - How the design should evolve if the fleet grows beyond current small scale — speculated next upgrade is better observability/conflict surfacing, not faux-consensus, but unverified.
 
 ## Источник
-- DR-ID `DR26-07-06-HUB-07` · реестр [[_DR-Registry]]
-- оригинал: `E:\Obsidian\_originals\deep-research\DR26-07-06-HUB-07-distributed-on-air-board-for-a-small-ai-fleet.md`
+- DR-ID `DR26-07-06-HUB-07` · реестр _DR-Registry
+- оригинал: «внутренний путь лаборатории»
 
 ## Связано
-- [[onair-board]]
-- [[machine-bus-telegram-rail]]
-- [[coordinate-sessions-before-sensitive-edit]]
-- [[machine-governance-leader-follower]]
-- [[multi-machine-auto-consensus]]
-- [[one-system-propagate]]
-- [[ak47-simplicity]]
-- [[consensus-active-session-marking]]
+- onair-board
+- machine-bus-telegram-rail
+- coordinate-sessions-before-sensitive-edit
+- machine-governance-leader-follower
+- multi-machine-auto-consensus
+- one-system-propagate
+- ak47-simplicity
+- consensus-active-session-marking

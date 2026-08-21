@@ -43,15 +43,15 @@ source: Palo Alto AI Research Lab — deep research programme
 - Exact enforcement risk threshold for owning/using multiple personal accounts (vs. sharing/coordinating them) is not explicitly quantified by Anthropic — inferred only from Terms/Usage Policy language.
 
 ## Источник
-- DR-ID `DR26-06-23-HUB-02` · реестр [[_DR-Registry]]
-- оригинал: `E:\Obsidian\_originals\deep-research\DR26-06-23-HUB-02-claude-code-multi-account-and-multi-machine-o.md`
+- DR-ID `DR26-06-23-HUB-02` · реестр _DR-Registry
+- оригинал: «внутренний путь лаборатории»
 
 ## Связано
-- [[machine-migration]]
-- [[session-machine-tagging]]
-- [[credential-store]]
-- [[machine-bus-telegram-rail]]
-- [[config-safety-backup-and-migration-check]]
-- [[claude-desktop-sessions-per-account]]
-- [[vault-data-architecture]]
-- [[machine-governance-leader-follower]]
+- machine-migration
+- session-machine-tagging
+- credential-store
+- machine-bus-telegram-rail
+- config-safety-backup-and-migration-check
+- claude-desktop-sessions-per-account
+- vault-data-architecture
+- machine-governance-leader-follower

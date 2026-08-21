@@ -47,16 +47,16 @@ source: Palo Alto AI Research Lab — deep research programme
 - Whether a custom domain materially changes hiring outcomes vs. github.io subdomain is inferred, not directly evidenced (Emerging).
 
 ## Источник
-- DR-ID `DR26-07-14-HUB-13` · реестр [[_DR-Registry]]
-- оригинал: `E:\Obsidian\_originals\deep-research\DL-2026-07-14--Personal-Site-Strategy-for-an-AI-Builder-Targeting.md`
+- DR-ID `DR26-07-14-HUB-13` · реестр _DR-Registry
+- оригинал: «внутренний путь лаборатории»
 
 ## Связано
-- [[DevRel career positioning]]
-- [[personal branding for AI roles]]
-- [[GitHub Pages portfolio]]
-- [[build-in-public strategy]]
-- [[frontier lab hiring process]]
-- [[second-brain-northstar]]
-- [[everything-becomes-content]]
-- [[insight-DR-DR26-07-14-HUB-14-personal-site-strategy-for-an-ai-builder-targeting]] — почти идентичный DR того же дня (HUB-13 vs HUB-14), один и тот же вопрос про personal site strategy
-- [[insight-DR26-07-17-ZB-01-recruiter-onepager-synthesis]] — тот же кластер DR про личный сайт под наём в frontier labs
+- DevRel career positioning
+- personal branding for AI roles
+- GitHub Pages portfolio
+- build-in-public strategy
+- frontier lab hiring process
+- second-brain-northstar
+- everything-becomes-content
+- insight-DR-DR26-07-14-HUB-14-personal-site-strategy-for-an-ai-builder-targeting — почти идентичный DR того же дня (HUB-13 vs HUB-14), один и тот же вопрос про personal site strategy
+- insight-DR26-07-17-ZB-01-recruiter-onepager-synthesis — тот же кластер DR про личный сайт под наём в frontier labs

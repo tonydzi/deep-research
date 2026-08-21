@@ -41,15 +41,15 @@ source: Palo Alto AI Research Lab — deep research programme
 - Absence of public evidence of community M&A by frontier labs is not proof of absence — could exist non-publicly.
 
 ## Источник
-- DR-ID `DR26-07-07-HUB-03` · реестр [[_DR-Registry]]
-- оригинал: `E:\Obsidian\_originals\deep-research\2026-07-07-engineering-communities-as-hiring-asset-chatgpt.md`
+- DR-ID `DR26-07-07-HUB-03` · реестр _DR-Registry
+- оригинал: «внутренний путь лаборатории»
 
 ## Связано
-- [[Stepenko thesis]]
-- [[DevRel-as-hiring-funnel]]
-- [[second-brain-northstar]]
-- [[everything-becomes-content]]
-- [[alpha-protocol-recall-plus-dr]]
-- [[community-as-B2B-asset]]
-- [[insight-DR-DR26-07-14-HUB-08-engineering-communities-as-a-hiring-asset-in-the-a]] — ещё один фанаут-сиблинг того же вопроса про engineering communities как hiring asset
-- [[2026-07-06-artur-arsyonov-1-on-1-with-tony-1CDGAJ]] — DR на следующий день синтезирует идею комьюнити инженеров с этого звонка
+- Stepenko thesis
+- DevRel-as-hiring-funnel
+- second-brain-northstar
+- everything-becomes-content
+- alpha-protocol-recall-plus-dr
+- community-as-B2B-asset
+- insight-DR-DR26-07-14-HUB-08-engineering-communities-as-a-hiring-asset-in-the-a — ещё один фанаут-сиблинг того же вопроса про engineering communities как hiring asset
+- 2026-07-06-artur-arsyonov-1-on-1-with-tony-1CDGAJ — DR на следующий день синтезирует идею комьюнити инженеров с этого звонка

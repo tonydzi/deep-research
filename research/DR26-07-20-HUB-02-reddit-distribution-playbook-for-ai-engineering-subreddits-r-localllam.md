@@ -40,12 +40,12 @@ source: Palo Alto AI Research Lab — deep research programme
 - Whether the multi-machine Claude fleet project actually has an open-source component to link (required for r/LocalLLaMA/r/MachineLearning strategies) is assumed, not confirmed in the report.
 
 ## Источник
-- DR-ID `DR26-07-20-HUB-02` · реестр [[_DR-Registry]]
-- оригинал: `E:\Obsidian\_originals\deep-research\DR26-07-20-ZB-01-reddit-voice-gemini.md`
+- DR-ID `DR26-07-20-HUB-02` · реестр _DR-Registry
+- оригинал: «внутренний путь лаборатории»
 
 ## Связано
-- [[everything-becomes-content]]
-- [[content-cascade-auto-execute-never-ask]]
-- [[short-text-when-unreviewed]]
-- [[no-public-content-without-natasha-ok]]
-- [[cofounder-identity]]
+- everything-becomes-content
+- content-cascade-auto-execute-never-ask
+- short-text-when-unreviewed
+- no-public-content-without-natasha-ok
+- cofounder-identity

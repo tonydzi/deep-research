@@ -6,10 +6,10 @@ lang: ru
 source: Palo Alto AI Research Lab — deep research programme
 ---
 
-> Синтез веера 4/6 сделан на рельсе **codex** (93 908 токенов на подписке OpenAI, не в контексте Claude) — канон [[dr-synthesis-via-codex-not-my-context]].
-> Сырьё плеч: `_machine-bus/_dr/queue/DR26-08-14-MACANTON-01-2117/results/`.
-> Потребитель: [[decision-2026-08-14-browser-and-screen-rail-mac16-fleet]].
-> ⚠️ НЕ отменяет [[decision-2026-07-16-browser-automation-layer]] (Firefox-first, слой ДОСТАВАНИЯ кук) и ПОДТВЕРЖДАЕТ [[decision-2026-08-01-agent-browser-control-rail-DR26-08-01-MACANTON-12]] (слой УДЕРЖАНИЯ сессии).
+> Синтез веера 4/6 сделан на рельсе **codex** (93 908 токенов на подписке OpenAI, не в контексте Claude) — канон dr-synthesis-via-codex-not-my-context.
+> Сырьё плеч: «внутренний архив лаборатории».
+> Потребитель: decision-2026-08-14-browser-and-screen-rail-mac16-fleet.
+> ⚠️ НЕ отменяет decision-2026-07-16-browser-automation-layer (Firefox-first, слой ДОСТАВАНИЯ кук) и ПОДТВЕРЖДАЕТ decision-2026-08-01-agent-browser-control-rail-DR26-08-01-MACANTON-12 (слой УДЕРЖАНИЯ сессии).
 
 # Синтез: браузерная и экранная рельса для Mac16 и флота
 
@@ -516,5 +516,5 @@ Firefox оставляем рабочей лошадкой для простых
 Главная починка: выбирать рельсу по задаче и громко падать, если она умерла.
 
 ## Связано
-- [[insight-DR-DR26-08-15-HUB-01-browser-rail-cdp-chrome-и-screen-automation-rail-п]] — тот же кластер тем (browser rail CDP/Chrome + screen automation), синтез на день раньше по смежному DR
-- [[insight-DR-DR26-08-15-HUB-03-real-world-failure-modes-of-agent-driven-browsers-]] — тот же исходный DR-документ, параллельный синтез другим вендором того же сырья
+- insight-DR-DR26-08-15-HUB-01-browser-rail-cdp-chrome-и-screen-automation-rail-п — тот же кластер тем (browser rail CDP/Chrome + screen automation), синтез на день раньше по смежному DR
+- insight-DR-DR26-08-15-HUB-03-real-world-failure-modes-of-agent-driven-browsers- — тот же исходный DR-документ, параллельный синтез другим вендором того же сырья

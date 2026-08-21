@@ -46,14 +46,14 @@ source: Palo Alto AI Research Lab — deep research programme
 - Влияет ли контейнер/VM сам по себе (без смены fingerprint+IP) на детектируемость — механически должен быть detection-neutral, но чистого исследования нет
 
 ## Источник
-- DR-ID `DR26-08-15-HUB-02` · реестр [[_DR-Registry]]
-- оригинал: `E:\Obsidian\_originals\deep-research\DR26-08-14-MACANTON-01-2117-browser-screen-rails-claudeai.md`
+- DR-ID `DR26-08-15-HUB-02` · реестр _DR-Registry
+- оригинал: «внутренний путь лаборатории»
 
 ## Связано
-- [[browser-work-on-peers-not-hub]]
-- [[ip-sensitive-actions-hub-only]]
-- [[chrome-autonomy-self-drive]]
-- [[one-chrome-account-all-machines]]
-- [[firefox-max-order-with-measurement]]
-- [[credential-store]]
-- [[screen-access-fleet-wide]]
+- browser-work-on-peers-not-hub
+- ip-sensitive-actions-hub-only
+- chrome-autonomy-self-drive
+- one-chrome-account-all-machines
+- firefox-max-order-with-measurement
+- credential-store
+- screen-access-fleet-wide

@@ -45,16 +45,16 @@ source: Palo Alto AI Research Lab — deep research programme
 - How to reconcile ambiguous Telegram sends (UNKNOWN_SENT) in practice — protocol defined (no auto-retry) but manual reconciliation flow not yet built
 
 ## Источник
-- DR-ID `DR26-07-16-HUB-05-2237` · реестр [[_DR-Registry]]
-- оригинал: `E:\Obsidian\_originals\deep-research\DR26-07-16-HUB-05-anchor-resilience-chatgpt.md`
-- оригинал: `E:\Obsidian\_originals\deep-research\DR26-07-16-HUB-05-anchor-resilience-grok.md`
-- оригинал: `E:\Obsidian\Anton-Knowledge\02-Decisions\decision-2026-07-17-anchor-resilience-synthesis-DR26-07-16-HUB-05.md`
+- DR-ID `DR26-07-16-HUB-05-2237` · реестр _DR-Registry
+- оригинал: «внутренний путь лаборатории»
+- оригинал: «внутренний путь лаборатории»
+- оригинал: «внутренний путь лаборатории»
 
 ## Связано
-- [[mayak-hetzner-payment-block]]
-- [[vps-anchor-node]]
-- [[roaming-leader-operator-crown]]
-- [[away-mode-45-days]]
-- [[own-fleet-peer-equality]]
-- [[machine-governance-leader-follower]]
-- [[multi-machine-auto-consensus]]
+- mayak-hetzner-payment-block
+- vps-anchor-node
+- roaming-leader-operator-crown
+- away-mode-45-days
+- own-fleet-peer-equality
+- machine-governance-leader-follower
+- multi-machine-auto-consensus

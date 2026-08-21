@@ -42,13 +42,13 @@ source: Palo Alto AI Research Lab — deep research programme
 - Whether/how to apply full consolidation cycles (SCM-style NREM/REM dreaming) outside research prototypes is unresolved — cost/fragility tradeoffs unproven at production scale.
 
 ## Источник
-- DR-ID `DR26-06-27-HUB-04` · реестр [[_DR-Registry]]
-- оригинал: `E:\Obsidian\_originals\deep-research\DR26-06-27-HUB-04-memory-architecture-patterns.md`
+- DR-ID `DR26-06-27-HUB-04` · реестр _DR-Registry
+- оригинал: «внутренний путь лаборатории»
 
 ## Связано
-- [[ak47-simplicity]]
-- [[vault-data-architecture]]
-- [[memory-index-hygiene]]
-- [[always-on-memory-pilot]]
-- [[turnstate-ledger]]
-- [[verify-existing-before-proposing]]
+- ak47-simplicity
+- vault-data-architecture
+- memory-index-hygiene
+- always-on-memory-pilot
+- turnstate-ledger
+- verify-existing-before-proposing

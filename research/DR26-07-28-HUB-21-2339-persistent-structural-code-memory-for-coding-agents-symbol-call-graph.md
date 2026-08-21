@@ -45,15 +45,15 @@ source: Palo Alto AI Research Lab — deep research programme
 - Report flags a security caveat (agentic workflows / n8n templates can be hijacked via crafted contextual inputs) without full analysis -- reinforces but doesn't resolve the read-before-fix safety rule.
 
 ## Источник
-- DR-ID `DR26-07-28-HUB-21-2339` · реестр [[_DR-Registry]]
-- оригинал: `E:\Obsidian\_originals\deep-research\DR26-07-28-HUB-21-2339-coding-agent-memory-research-chatgpt.md`
-- оригинал: `E:\Obsidian\Anton-Knowledge\01-Conversations\ChatGPT\conversations\2026-07-05-coding-agent-memory-research-6a499669.md`
+- DR-ID `DR26-07-28-HUB-21-2339` · реестр _DR-Registry
+- оригинал: «внутренний путь лаборатории»
+- оригинал: «внутренний путь лаборатории»
 
 ## Связано
-- [[codegraph]]
-- [[concept-RAG]]
-- [[vault-data-architecture]]
-- [[fix-root-cause-not-symptoms]]
-- [[one-system-propagate]]
-- [[node-doctrine-thin-anchor]]
-- [[blast-radius-analysis]]
+- codegraph
+- concept-RAG
+- vault-data-architecture
+- fix-root-cause-not-symptoms
+- one-system-propagate
+- node-doctrine-thin-anchor
+- blast-radius-analysis

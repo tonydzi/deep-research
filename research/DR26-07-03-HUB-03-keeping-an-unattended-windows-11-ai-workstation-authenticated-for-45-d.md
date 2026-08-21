@@ -47,16 +47,16 @@ source: Palo Alto AI Research Lab — deep research programme
 - Whether periodic automated activity in an already-authenticated profile helps or harms session longevity is not directly documented (only inferred from 'familiarity helps' guidance)
 
 ## Источник
-- DR-ID `DR26-07-03-HUB-03` · реестр [[_DR-Registry]]
-- оригинал: `E:\Obsidian\_originals\deep-research\DR26-07-03-HUB-03-keeping-an-unattended-windows-11-ai-workstati.md`
+- DR-ID `DR26-07-03-HUB-03` · реестр _DR-Registry
+- оригинал: «внутренний путь лаборатории»
 
 ## Связано
-- [[desktop-max-laptop-min]]
-- [[credential-store]]
-- [[machine-bus-telegram-rail]]
-- [[chrome-autonomy-self-drive]]
-- [[config-safety-backup-and-migration-check]]
-- [[social-auth-autonomous]]
-- [[telegram-otp-self-fetch]]
-- [[system-architect]]
-- [[insight-DR-DR26-07-04-HUB-03-keeping-an-unattended-windows-11-ai-workstation-go]] — почти дубль-DR того же вопроса днём ранее
+- desktop-max-laptop-min
+- credential-store
+- machine-bus-telegram-rail
+- chrome-autonomy-self-drive
+- config-safety-backup-and-migration-check
+- social-auth-autonomous
+- telegram-otp-self-fetch
+- system-architect
+- insight-DR-DR26-07-04-HUB-03-keeping-an-unattended-windows-11-ai-workstation-go — почти дубль-DR того же вопроса днём ранее

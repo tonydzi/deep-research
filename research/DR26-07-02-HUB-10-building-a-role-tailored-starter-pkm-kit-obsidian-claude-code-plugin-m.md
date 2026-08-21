@@ -44,14 +44,14 @@ source: Palo Alto AI Research Lab — deep research programme
 - How much investment to make in a stable/next branch strategy given Claude Code marketplace's demonstrated brittleness to client-version mismatches.
 
 ## Источник
-- DR-ID `DR26-07-02-HUB-10` · реестр [[_DR-Registry]]
-- оригинал: `E:\Obsidian\_originals\deep-research\2026-07-02-friends-starter-kit-DR1-generic.md`
+- DR-ID `DR26-07-02-HUB-10` · реестр _DR-Registry
+- оригинал: «внутренний путь лаборатории»
 
 ## Связано
-- [[obsidian-ingest]]
-- [[claude-code-plugin-marketplace]]
-- [[onboarding-wizard-design]]
-- [[second-brain-northstar]]
-- [[ak47-simplicity]]
-- [[credential-store]]
-- [[vault-data-architecture]]
+- obsidian-ingest
+- claude-code-plugin-marketplace
+- onboarding-wizard-design
+- second-brain-northstar
+- ak47-simplicity
+- credential-store
+- vault-data-architecture

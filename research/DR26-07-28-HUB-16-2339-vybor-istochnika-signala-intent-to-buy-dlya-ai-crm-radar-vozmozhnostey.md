@@ -41,13 +41,13 @@ source: Palo Alto AI Research Lab — deep research programme
 - Готового бесплатного источника entity-resolution/alias-данных для крипто-компаний не найдено — требуется строить самостоятельно.
 
 ## Источник
-- DR-ID `DR26-07-28-HUB-16-2339` · реестр [[_DR-Registry]]
-- оригинал: `E:\Obsidian\_originals\deep-research\DR26-07-28-HUB-16-2339-deep-research-signalov-dlya-ai-crm-chatgpt.md`
-- оригинал: `E:\Obsidian\Anton-Knowledge\01-Conversations\ChatGPT\conversations\2026-07-06-deep-research-signalov-dlya-ai-crm-6a4c134d.md`
+- DR-ID `DR26-07-28-HUB-16-2339` · реестр _DR-Registry
+- оригинал: «внутренний путь лаборатории»
+- оригинал: «внутренний путь лаборатории»
 
 ## Связано
-- [[AI-CRM]]
-- [[Радар возможностей]]
-- [[intent-to-buy сигнал]]
-- [[крипто/Web3 lead sourcing]]
-- [[entity resolution]]
+- AI-CRM
+- Радар возможностей
+- intent-to-buy сигнал
+- крипто/Web3 lead sourcing
+- entity resolution

@@ -45,17 +45,17 @@ source: Palo Alto AI Research Lab — deep research programme
 - Exact threshold at which Telegram account/session friction becomes an active problem (vs. tolerable) on cloud IPs is not quantified — only qualitative risk signals exist.
 
 ## Источник
-- DR-ID `DR26-07-03-HUB-04` · реестр [[_DR-Registry]]
-- оригинал: `E:\Obsidian\_originals\deep-research\2026-07-03-vps-anchor-node-architecture-dr-track2.md`
+- DR-ID `DR26-07-03-HUB-04` · реестр _DR-Registry
+- оригинал: «внутренний путь лаборатории»
 
 ## Связано
-- [[machine-bus-telegram-rail]]
-- [[consensus-active-session-marking]]
-- [[credential-store]]
-- [[machine-governance-leader-follower]]
-- [[telegram-account-identities]]
-- [[one-system-propagate]]
-- [[vault-data-architecture]]
-- [[ak47-simplicity]]
-- [[insight-DR-DR26-07-02-HUB-14-architecting-an-always-on-linux-vps-anchor-node-fo]] — сиблинг-DR того же вопроса VPS-anchor для флота
-- [[insight-DR-DR26-07-25-HUB-01-2126-доктрина-размещения-рутин-в-личном-ai-флоте-vps-як]] — предшествующий DR по архитектуре VPS-якоря флота, прямая основа доктрины размещения рутин
+- machine-bus-telegram-rail
+- consensus-active-session-marking
+- credential-store
+- machine-governance-leader-follower
+- telegram-account-identities
+- one-system-propagate
+- vault-data-architecture
+- ak47-simplicity
+- insight-DR-DR26-07-02-HUB-14-architecting-an-always-on-linux-vps-anchor-node-fo — сиблинг-DR того же вопроса VPS-anchor для флота
+- insight-DR-DR26-07-25-HUB-01-2126-доктрина-размещения-рутин-в-личном-ai-флоте-vps-як — предшествующий DR по архитектуре VPS-якоря флота, прямая основа доктрины размещения рутин

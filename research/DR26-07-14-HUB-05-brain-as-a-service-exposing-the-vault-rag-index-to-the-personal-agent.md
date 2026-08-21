@@ -43,15 +43,15 @@ source: Palo Alto AI Research Lab — deep research programme
 - Long-term question of whether/when to bind directly to the Tailscale IP vs. localhost + reverse proxy scoped to Tailscale traffic.
 
 ## Источник
-- DR-ID `DR26-07-14-HUB-05` · реестр [[_DR-Registry]]
-- оригинал: `E:\Obsidian\_originals\deep-research\DL-2026-07-14--Brain-as-a-Service-for-a-Personal-Agent-Fleet.md`
+- DR-ID `DR26-07-14-HUB-05` · реестр _DR-Registry
+- оригинал: «внутренний путь лаборатории»
 
 ## Связано
-- [[vault-data-architecture]]
-- [[always-on-memory-pilot]]
-- [[system-architect]]
-- [[own-fleet-peer-equality]]
-- [[machine-bus-telegram-rail]]
-- [[credential-store]]
-- [[config-safety-backup-and-migration-check]]
-- [[insight-DR-DR26-07-07-HUB-08-brain-as-a-service-exposing-the-hub-s-rag-vault-se]] — тот же вопрос Brain-as-a-Service, более поздний DR на ту же тему
+- vault-data-architecture
+- always-on-memory-pilot
+- system-architect
+- own-fleet-peer-equality
+- machine-bus-telegram-rail
+- credential-store
+- config-safety-backup-and-migration-check
+- insight-DR-DR26-07-07-HUB-08-brain-as-a-service-exposing-the-hub-s-rag-vault-se — тот же вопрос Brain-as-a-Service, более поздний DR на ту же тему

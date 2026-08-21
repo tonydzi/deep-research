@@ -45,15 +45,15 @@ source: Palo Alto AI Research Lab — deep research programme
 - Насколько инбоксы лабов уже перегружены AI-агентскими питчами после бума 2025 — неясно
 
 ## Источник
-- DR-ID `DR26-07-27-MACANTON-01-0018` · реестр [[_DR-Registry]]
-- оригинал: `E:\Obsidian\_originals\deep-research\DR26-07-27-MACANTON-01-grok.md`
+- DR-ID `DR26-07-27-MACANTON-01-0018` · реестр _DR-Registry
+- оригинал: «внутренний путь лаборатории»
 
 ## Связано
-- [[Alpha Protocol]]
-- [[job-hunt build-in-public]]
-- [[DevRel outreach]]
-- [[GitHub contribution as hiring signal]]
-- [[ambassador programs]]
-- [[proof-of-work over credentials]]
-- [[personal site strategy for AI builder]]
-- [[cookbook/OSS issue-matching]]
+- Alpha Protocol
+- job-hunt build-in-public
+- DevRel outreach
+- GitHub contribution as hiring signal
+- ambassador programs
+- proof-of-work over credentials
+- personal site strategy for AI builder
+- cookbook/OSS issue-matching

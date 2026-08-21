@@ -42,13 +42,13 @@ source: Palo Alto AI Research Lab — deep research programme
 - Главное допущение риска: сможет ли Антон реально держать поток высокосигнальных публичных артефактов на горизонте 3-6+ месяцев, и прочтут ли LP/контрагенты эксперимент как силу, а не дистресс — не проверено эмпирически.
 
 ## Источник
-- DR-ID `DR26-07-11-MACANTON-01` · реестр [[_DR-Registry]]
-- оригинал: `E:\Obsidian\Anton-Knowledge\02-Decisions\decision-2026-07-11-one-show-public-job-hunt.md`
+- DR-ID `DR26-07-11-MACANTON-01` · реестр _DR-Registry
+- оригинал: «внутренний путь лаборатории»
 
 ## Связано
-- [[mission-get-noticed-hired-by-llm-company]]
-- [[arc-llm-hire]]
-- [[arc-job-hunt-in-public]]
-- [[everything-becomes-content]]
-- [[cofounder-identity]]
-- [[silent-degradation-vs-crash]]
+- mission-get-noticed-hired-by-llm-company
+- arc-llm-hire
+- arc-job-hunt-in-public
+- everything-becomes-content
+- cofounder-identity
+- silent-degradation-vs-crash

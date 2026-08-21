@@ -43,19 +43,19 @@ source: Palo Alto AI Research Lab — deep research programme
 - No explicit guidance on how to handle days with zero dramatic/uncertain sessions (all routine) — triage rules imply heavy compression but don't give a worked example.
 
 ## Источник
-- DR-ID `DR26-07-04-HUB-12` · реестр [[_DR-Registry]]
-- оригинал: `E:\Obsidian\_originals\deep-research\DR26-07-04-HUB-12-blockbuster-diary-chatgpt.md`
-- оригинал: `E:\Obsidian\_originals\deep-research\DR26-07-04-HUB-12-blockbuster-diary-cybernetic-memoir.md`
-- оригинал: `E:\Obsidian\_originals\deep-research\DR26-07-04-HUB-12-blockbuster-diary-grok.md`
+- DR-ID `DR26-07-04-HUB-12` · реестр _DR-Registry
+- оригинал: «внутренний путь лаборатории»
+- оригинал: «внутренний путь лаборатории»
+- оригинал: «внутренний путь лаборатории»
 
 ## Связано
-- [[reality-show]]
-- [[everything-becomes-content]]
-- [[cofounder-identity]]
-- [[synthetic-cofounder]]
-- [[episode (skill)]]
-- [[content-factory]]
-- [[second-brain-northstar]]
-- [[cybernetic-memoir]]
-- [[insight-DR-DR26-07-02-HUB-06-authentic-narrative-engineering-for-solo-build-in-]] — сиблинг-DR о том же нарративном мастерстве серии The Journey
-- [[insight-DR-DR26-07-04-HUB-12-turning-anton-s-daily-technical-build-diary-the-jo]] — тот же DR-ID, параллельный синтез другим вендором
+- reality-show
+- everything-becomes-content
+- cofounder-identity
+- synthetic-cofounder
+- episode (skill)
+- content-factory
+- second-brain-northstar
+- cybernetic-memoir
+- insight-DR-DR26-07-02-HUB-06-authentic-narrative-engineering-for-solo-build-in- — сиблинг-DR о том же нарративном мастерстве серии The Journey
+- insight-DR-DR26-07-04-HUB-12-turning-anton-s-daily-technical-build-diary-the-jo — тот же DR-ID, параллельный синтез другим вендором

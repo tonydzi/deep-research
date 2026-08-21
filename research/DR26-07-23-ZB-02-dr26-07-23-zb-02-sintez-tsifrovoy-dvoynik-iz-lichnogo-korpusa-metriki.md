@@ -52,4 +52,4 @@ source: Palo Alto AI Research Lab — deep research programme
 
 ## Вердикт по DR
 - Собрано 3/3 вендора с доказательствами работы (543 src · 20 сайтов DR · 104 запроса/78 страниц/41м54с).
-- Статус: applied — зонтик [[concept-second-brain]] обогащён до v2 этим синтезом; действия №1–2 (Life Interview, Decision Ledger поля) — в бэклог Антону на «+».
+- Статус: applied — зонтик concept-second-brain обогащён до v2 этим синтезом; действия №1–2 (Life Interview, Decision Ledger поля) — в бэклог Антону на «+».

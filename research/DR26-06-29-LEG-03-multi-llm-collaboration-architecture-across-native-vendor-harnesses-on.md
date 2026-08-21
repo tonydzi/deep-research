@@ -42,15 +42,15 @@ source: Palo Alto AI Research Lab — deep research programme
 - Whether/when a 4th vendor (Grok) should be onboarded — explicitly deferred pending data from the 3-vendor pilot in Phase 2.
 
 ## Источник
-- DR-ID `DR26-06-29-LEG-03` · реестр [[_DR-Registry]]
-- оригинал: `E:\Obsidian\_originals\deep-research\2026-06-29-DR-multi-llm-collab-grok.md`
+- DR-ID `DR26-06-29-LEG-03` · реестр _DR-Registry
+- оригинал: «внутренний путь лаборатории»
 
 ## Связано
-- [[multi-agent-role-discipline]]
-- [[one-system-propagate]]
-- [[machine-bus-telegram-rail]]
-- [[AGENTS.md standard]]
-- [[MAST failure taxonomy]]
-- [[heterogeneous cross-review]]
-- [[machine-governance-leader-follower]]
-- [[insight-DR-DR26-06-28-HUB-02-архитектура-мульти-агентной-системы-с-vault-как-ед]] — тот же вопрос архитектуры коллаборации нескольких LLM через native harness над одним vault
+- multi-agent-role-discipline
+- one-system-propagate
+- machine-bus-telegram-rail
+- AGENTS.md standard
+- MAST failure taxonomy
+- heterogeneous cross-review
+- machine-governance-leader-follower
+- insight-DR-DR26-06-28-HUB-02-архитектура-мульти-агентной-системы-с-vault-как-ед — тот же вопрос архитектуры коллаборации нескольких LLM через native harness над одним vault

@@ -40,15 +40,15 @@ source: Palo Alto AI Research Lab — deep research programme
 - The precise boundary where Connect Rule v2 should NOT apply (learning probe, hypothesis test, set-based exploration) needs one more source so the 'where this rule harms itself' section isn't hand-wavy.
 
 ## Источник
-- DR-ID `DR26-07-16-HUB-05` · реестр [[_DR-Registry]]
-- оригинал: `E:\Obsidian\_originals\deep-research\DR26-07-16-HUB-05-research-plan-for-dr26-07-04-hub-13.md`
+- DR-ID `DR26-07-16-HUB-05` · реестр _DR-Registry
+- оригинал: «внутренний путь лаборатории»
 
 ## Связано
-- [[connect-rule-pipeline-ownership]]
-- [[one-system-propagate]]
-- [[DORA metrics]]
-- [[benefits-realization-management]]
-- [[lean-jit-pull-system]]
-- [[theory-of-constraints]]
-- [[stage-gate-process]]
-- [[opentelemetry-observability]]
+- connect-rule-pipeline-ownership
+- one-system-propagate
+- DORA metrics
+- benefits-realization-management
+- lean-jit-pull-system
+- theory-of-constraints
+- stage-gate-process
+- opentelemetry-observability

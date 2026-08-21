@@ -44,15 +44,15 @@ source: Palo Alto AI Research Lab — deep research programme
 - Advanced Git-patch acceptance path for power-user nodes is mentioned as optional/enhancement but not designed in detail.
 
 ## Источник
-- DR-ID `DR26-07-14-HUB-07` · реестр [[_DR-Registry]]
-- оригинал: `E:\Obsidian\_originals\deep-research\DL-2026-07-14--Declarative-Canon-Distribution-for-a-Heterogeneous.md`
+- DR-ID `DR26-07-14-HUB-07` · реестр _DR-Registry
+- оригинал: «внутренний путь лаборатории»
 
 ## Связано
-- [[machine-bus-telegram-rail]]
-- [[one-system-propagate]]
-- [[machine-governance-leader-follower]]
-- [[config-safety-backup-and-migration-check]]
-- [[own-fleet-peer-equality]]
-- [[credential-store]]
-- [[apply-deliverables-immediately]]
-- [[insight-DR-DR26-07-07-HUB-06-declarative-canon-distribution-architecture-for-a-]] — later duplicate/refined DR on the identical canon-distribution architecture question
+- machine-bus-telegram-rail
+- one-system-propagate
+- machine-governance-leader-follower
+- config-safety-backup-and-migration-check
+- own-fleet-peer-equality
+- credential-store
+- apply-deliverables-immediately
+- insight-DR-DR26-07-07-HUB-06-declarative-canon-distribution-architecture-for-a- — later duplicate/refined DR on the identical canon-distribution architecture question

@@ -62,12 +62,12 @@ source: Palo Alto AI Research Lab — deep research programme
 |---|---|
 | **LinkedIn** | ⛔ **Отдельный member-profile Майкрофта запрещён** User Agreement (профиль обязан представлять реального человека; боты для posting/commenting запрещены). Только Page лаборатории / аккаунт Антона с подписанными вставками. |
 | **X** | Разрешено при официальном label **Automated** + связке с human-run аккаунтом и раскрытым оператором (Automation Rules обновлены 04.2026) |
-| **GitHub** | Machine account разрешён (owner указан, `[bot]`/AI system в имени). ⚠️ `Co-authored-by` **семантически утверждает авторство** — кейс VS Code, ошибочно приписывавшего Copilot чужую работу, дал заметный backlash и был отменён 05.2026. Для совместного коммита предпочтительнее трейлер `Assisted-by:`. Сверить с [[ai-coauthor-trailers-policy]] |
-| **Reddit** | Псевдоним ок, бот ок, если не вводит в заблуждение; отдельные сабреддиты запрещают AI полностью — читать правила каждого. У нас аккаунт и так заблокирован ([[platform-matrix-gate]]) |
+| **GitHub** | Machine account разрешён (owner указан, `[bot]`/AI system в имени). ⚠️ `Co-authored-by` **семантически утверждает авторство** — кейс VS Code, ошибочно приписывавшего Copilot чужую работу, дал заметный backlash и был отменён 05.2026. Для совместного коммита предпочтительнее трейлер `Assisted-by:`. Сверить с ai-coauthor-trailers-policy |
+| **Reddit** | Псевдоним ок, бот ок, если не вводит в заблуждение; отдельные сабреддиты запрещают AI полностью — читать правила каждого. У нас аккаунт и так заблокирован (platform-matrix-gate) |
 | **YouTube** | Явно анимированная AI-персона ок; native disclosure обязателен для реалистичных/значимо изменённых медиа |
 | **Telegram** | Официальный bot/канал разрешён; обязательного `AI-generated` label для постов не найдено |
 | **Meta (FB/IG)** | Синтетическая персона допустима как явно виртуальная сущность; `AI info` обязателен для реалистичного synthetic audio/video |
-| **arXiv / научное** | ⛔ ICMJE прямо запрещает AI как автора. Для нашей статьи: **Антон = author, Майкрофт = инструмент в Methods/acknowledgements**. Сверить с [[arxiv-track-status-and-voice]] |
+| **arXiv / научное** | ⛔ ICMJE прямо запрещает AI как автора. Для нашей статьи: **Антон = author, Майкрофт = инструмент в Methods/acknowledgements**. Сверить с arxiv-track-status-and-voice |
 
 ## 6. Анти-кейсы, которые стоят дороже любого роста
 
@@ -76,7 +76,7 @@ source: Palo Alto AI Research Lab — deep research programme
 - **G/O Media «Bot»**: явная подпись **не спасает бесполезный текст**. Прозрачность — необходимое, не достаточное условие.
 - **Artisan «Stop Hiring Humans»**: rage-bait дал узнаваемость и массовую враждебность с угрозами. ⛔ Для лаборатории, которая ищет работодателя, **античеловеческое позиционирование токсично** — прямое предупреждение под нашу миссию.
 - **FN Meka**: синтетическая персона не даёт лицензии присваивать расу, травму или субкультуру. Ближайший анти-кейс к «персона говорит от первого лица о том, чего не переживала» — совпадает с нашим §3.3 «личное Антона не присваиваю».
-- **11x (Alice/Julian)**: персонажные имена не компенсируют недостоверные customer-claims; репутационный долг переносится с продукта на компанию. Совпадает с [[fake-it-courage-not-fake-numbers]].
+- **11x (Alice/Julian)**: персонажные имена не компенсируют недостоверные customer-claims; репутационный долг переносится с продукта на компанию. Совпадает с fake-it-courage-not-fake-numbers.
 
 ## 7. Каркас страницы Майкрофта (первый экран, из отчёта)
 
@@ -96,4 +96,4 @@ source: Palo Alto AI Research Lab — deep research programme
 - `_originals/deep-research/DR26-08-01-MACANTON-02-701-grok.md` — grok -p, 19 уник. URL. ⚠️ Тело Grok положил САМ в отдельный файл, в stdout ушла только выжимка без ссылок — взято тело из файла.
 - Рельса gemini снята через `dr_queue.py retarget --drop`.
 
-Связано: [[voice-mycroft]] · [[mycroft-voice-disclosure]] · [[first-person-posts-anton-or-mycroft]] · [[platform-matrix-gate]] · [[ai-coauthor-trailers-policy]] · [[mission-get-noticed-hired-by-llm-company]]
+Связано: voice-mycroft · mycroft-voice-disclosure · first-person-posts-anton-or-mycroft · platform-matrix-gate · ai-coauthor-trailers-policy · mission-get-noticed-hired-by-llm-company

@@ -45,14 +45,14 @@ source: Palo Alto AI Research Lab — deep research programme
 - Ranking of 'posts as distribution vs. artifact itself' is an inference from role language, explicitly rated Emerging rather than Established.
 
 ## Источник
-- DR-ID `DR26-07-07-HUB-02` · реестр [[_DR-Registry]]
-- оригинал: `E:\Obsidian\_originals\deep-research\DR26-07-07-HUB-02-audience-power-without-chaos-and-public-build.md`
+- DR-ID `DR26-07-07-HUB-02` · реестр _DR-Registry
+- оригинал: «внутренний путь лаборатории»
 
 ## Связано
-- [[everything-becomes-content]]
-- [[cofounder-identity]]
-- [[reality-show]]
-- [[public-build-in-public]]
-- [[devrel-hiring]]
-- [[audience-participation-design]]
-- [[alpha-protocol-recall-plus-dr]]
+- everything-becomes-content
+- cofounder-identity
+- reality-show
+- public-build-in-public
+- devrel-hiring
+- audience-participation-design
+- alpha-protocol-recall-plus-dr

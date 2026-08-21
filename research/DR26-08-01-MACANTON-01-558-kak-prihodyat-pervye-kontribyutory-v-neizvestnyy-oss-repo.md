@@ -35,7 +35,7 @@ source: Palo Alto AI Research Lab — deep research programme
 
 ## Антипаттерны с чеками — бьют прямо по нашей практике
 
-- **Апстрим-PR как маркетинг.** 37 отправленных, 0 смерженных — это не занятое доверие, а бэклог нерешённой работы. Совпадает с нашим замером [[broadside-traction-lesson]] и [[cold-pr-into-silent-queue]].
+- **Апстрим-PR как маркетинг.** 37 отправленных, 0 смерженных — это не занятое доверие, а бэклог нерешённой работы. Совпадает с нашим замером broadside-traction-lesson и cold-pr-into-silent-queue.
 - **Голые GFI-метки.** В выборке 858 issue 27.8% GFI оказались устаревшими или неполными; у Mozilla первые попытки только по GFB работали хуже непомеченных. Метка без менторства и критерия приёмки вводит новичка в заблуждение.
 - **Пере-разметка.** Resolution rate GFI в 11 проектах гуляет 10.6%–92.9% — метка не переносимая гарантия качества.
 - **Hacktoberfest как канал привлечения.** 2020: 621 104 PR, смержено 166 057, отклонено 34 595, спам/invalid 9 598 — доказано, что стимул создаёт объём и нагрузку на триаж.
@@ -53,7 +53,7 @@ source: Palo Alto AI Research Lab — deep research programme
 
 ## Связи
 
-- [[broadside-traction-lesson]] · [[cold-pr-into-silent-queue]] · [[maintainer-first-issue-matching-measured]] — наши собственные замеры, которые разведка подтверждает
-- [[open-door-contributors-keep-copyright]] — очередь `accepted` и права авторов
-- [[github-guerrilla-presence-over-merge]] · [[mission-get-noticed-hired-by-llm-company]] — миссия, под которую это делается
+- broadside-traction-lesson · cold-pr-into-silent-queue · maintainer-first-issue-matching-measured — наши собственные замеры, которые разведка подтверждает
+- open-door-contributors-keep-copyright — очередь `accepted` и права авторов
+- github-guerrilla-presence-over-merge · mission-get-noticed-hired-by-llm-company — миссия, под которую это делается
 - Оригинал: `_originals/deep-research/DR26-08-01-MACANTON-01-558-oss-first-contributors-chatgpt.md`

@@ -44,15 +44,15 @@ source: Palo Alto AI Research Lab — deep research programme
 - Whether GitHub stars retain real signal value given the 'fake star economy' criticism, versus their continued use as a routing/discovery heuristic, is unresolved.
 
 ## Источник
-- DR-ID `DR26-07-03-HUB-02` · реестр [[_DR-Registry]]
-- оригинал: `E:\Obsidian\_originals\deep-research\DR26-07-03-HUB-02-distribution-map-for-open-source-claude-code.md`
+- DR-ID `DR26-07-03-HUB-02` · реестр _DR-Registry
+- оригинал: «внутренний путь лаборатории»
 
 ## Связано
-- [[distribution-map]]
-- [[open-source-go-to-market]]
-- [[mcp-registries]]
-- [[github-discoverability]]
-- [[second-brain-northstar]]
-- [[everything-becomes-content]]
-- [[alpha-protocol-recall-plus-dr]]
-- [[claude-code-ecosystem]]
+- distribution-map
+- open-source-go-to-market
+- mcp-registries
+- github-discoverability
+- second-brain-northstar
+- everything-becomes-content
+- alpha-protocol-recall-plus-dr
+- claude-code-ecosystem

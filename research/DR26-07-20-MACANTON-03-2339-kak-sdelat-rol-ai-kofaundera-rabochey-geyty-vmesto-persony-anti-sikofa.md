@@ -46,17 +46,17 @@ source: Palo Alto AI Research Lab — deep research programme
 - Кейс Aaron Sneed (совет из ~15 агентов, экономия 20ч/нед) — самоотчёт, не аудированное исследование, использовать как иллюстрацию, не как доказательство
 
 ## Источник
-- DR-ID `DR26-07-20-MACANTON-03-2339` · реестр [[_DR-Registry]]
-- оригинал: `E:\Obsidian\_originals\deep-research\DR26-07-20-MACANTON-03-2339-cofounder-role-chatgpt.md`
-- оригинал: `E:\Obsidian\_originals\deep-research\DR26-07-20-MACANTON-03-2339-cofounder-role-gemini.md`
-- оригинал: `E:\Obsidian\_originals\deep-research\DR26-07-20-MACANTON-03-2339-cofounder-role-grok.md`
+- DR-ID `DR26-07-20-MACANTON-03-2339` · реестр _DR-Registry
+- оригинал: «внутренний путь лаборатории»
+- оригинал: «внутренний путь лаборатории»
+- оригинал: «внутренний путь лаборатории»
 
 ## Связано
-- [[synthetic-cofounder]]
-- [[sycophancy]]
-- [[bounded-autonomy]]
-- [[decision-memo]]
-- [[persona-prompting]]
-- [[context-engineering]]
-- [[objection-sparring-to-consensus]]
-- [[cofounder-growth-log]]
+- synthetic-cofounder
+- sycophancy
+- bounded-autonomy
+- decision-memo
+- persona-prompting
+- context-engineering
+- objection-sparring-to-consensus
+- cofounder-growth-log

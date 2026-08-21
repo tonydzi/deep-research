@@ -52,9 +52,9 @@ source: Palo Alto AI Research Lab — deep research programme
 
 ## Что это значит для Антона / рекомендации
 
-1. **Синтез-позиция по таймингу: ChatGPT-путь с Grok-скоростью.** Взять Option 2 «short fuse»: 8–12 недель на превращение флота (CRM, outreach, DR-фабрика, контент-фабрика) в измеримый proof, при этом публичную амплификацию (Grok) не откладывать ни на день — она и есть накопление proof. Это буквально режим «всё = контент» ([[reglament-vsyo-chto-my-delaem-stanovitsya-kontentom]]).
+1. **Синтез-позиция по таймингу: ChatGPT-путь с Grok-скоростью.** Взять Option 2 «short fuse»: 8–12 недель на превращение флота (CRM, outreach, DR-фабрика, контент-фабрика) в измеримый proof, при этом публичную амплификацию (Grok) не откладывать ни на день — она и есть накопление proof. Это буквально режим «всё = контент» (reglament-vsyo-chto-my-delaem-stanovitsya-kontentom).
 2. **Начать считать инвестор-метрики уже сейчас, на себе:** tasks delegated/week по флоту, success/override rate агентов, time saved (у нас есть логи turnstate/approvals/automation-inventory — сырьё готово), retention-аналог = глубина использования старого контекста (запросы к памяти >90 дней). Без этого оба сценария мертвы.
-3. **Переименовать питч:** не «second brain», не «digital twin» (обе метки тянут в чужие корзины) — «private founder OS: persistent memory + autonomous execution». Vault и [[concept-digital-immortality]] — внутренняя правда и длинная арка; в деку идёт wedge.
+3. **Переименовать питч:** не «second brain», не «digital twin» (обе метки тянут в чужие корзины) — «private founder OS: persistent memory + autonomous execution». Vault и concept-digital-immortality — внутренняя правда и длинная арка; в деку идёт wedge.
 4. **Privacy — в архитектуру деки, не в policy-страницу:** user-owned vault, export/deletion, отделение памяти от training, local-first компоненты (у Антона это буквально уже так: локальные эмбеддинги, Whisper на GPU, secrets вне RAG) — редкий случай, когда текущая архитектура уже совпадает с тем, что просят инвесторы. EU AI Act (авг 2026) упомянуть проактивно.
 5. **Двойная поверхность = осознанная стратегия, не побочка:** Steinberger-прецедент показывает, что тот же поток технических артефактов (evals, traces, архитектурные write-ups) одновременно компаундит и раунд, и оффер от лабы. Приоритет №1 в таргетах капитала — **Menlo Anthology Fund** (мост к Anthropic = цель №2 напрямую).
 6. **Не публиковать:** сырой vault, retrieval/ranking-эвристики, схему vault, приватные графы памяти. Публиковать: workflow-outcomes, eval-методологию, принципы, санитизированные traces.
@@ -62,9 +62,9 @@ source: Palo Alto AI Research Lab — deep research programme
 
 ## Источник
 
-- Оригинал ChatGPT: `E:\Obsidian\Anton-Knowledge\_originals\deep-research\DR26-07-14-MACANTON-01-fundraise-strategy-chatgpt.md` (verbatim, gpt-5-mini Deep Research, собран 2026-07-17)
-- Оригинал Grok: `E:\Obsidian\Anton-Knowledge\_originals\deep-research\DR26-07-14-MACANTON-01-fundraise-strategy-grok.md` (verbatim, Grok Expert, 85 источников, собран 2026-07-17)
-- Реестр: [[_DR-Registry]] — DR26-07-14-MACANTON-01
+- Оригинал ChatGPT: «внутренний путь лаборатории» (verbatim, gpt-5-mini Deep Research, собран 2026-07-17)
+- Оригинал Grok: «внутренний путь лаборатории» (verbatim, Grok Expert, 85 источников, собран 2026-07-17)
+- Реестр: _DR-Registry — DR26-07-14-MACANTON-01
 
 ## 🧒 Простыми словами
 

@@ -41,14 +41,14 @@ source: Palo Alto AI Research Lab — deep research programme
 - Uncertain evidence base for how new OSS categories succeed (noted as 'opinionated' due to limited data).
 
 ## Источник
-- DR-ID `DR26-06-27-HUB-02` · реестр [[_DR-Registry]]
-- оригинал: `E:\Obsidian\_originals\deep-research\DR26-06-27-HUB-02-1-competitive-landscape.md`
+- DR-ID `DR26-06-27-HUB-02` · реестр _DR-Registry
+- оригинал: «внутренний путь лаборатории»
 
 ## Связано
-- [[second-brain-northstar]]
-- [[self-bible-identity-layer]]
-- [[vault-data-architecture]]
-- [[ak47-simplicity]]
-- [[alpha-protocol-recall-plus-dr]]
-- [[everything-becomes-content]]
-- [[synthetic-cofounder]]
+- second-brain-northstar
+- self-bible-identity-layer
+- vault-data-architecture
+- ak47-simplicity
+- alpha-protocol-recall-plus-dr
+- everything-becomes-content
+- synthetic-cofounder

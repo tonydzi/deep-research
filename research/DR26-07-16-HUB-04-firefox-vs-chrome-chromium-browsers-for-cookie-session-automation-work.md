@@ -45,16 +45,16 @@ source: Palo Alto AI Research Lab — deep research programme
 - Long-term sustainability of patchright/camoufox/nodriver as maintained tools is speculative given the rapid churn already seen in this space (undetected-chromedriver → nodriver).
 
 ## Источник
-- DR-ID `DR26-07-16-HUB-04` · реестр [[_DR-Registry]]
-- оригинал: `E:\Obsidian\_originals\deep-research\DR26-07-16-HUB-04-dr26-07-16-hub-01-firefox-and-other-browsers.md`
+- DR-ID `DR26-07-16-HUB-04` · реестр _DR-Registry
+- оригинал: «внутренний путь лаборатории»
 
 ## Связано
-- [[browser-automation-fleet]]
-- [[chrome-cookie-extraction]]
-- [[app-bound-encryption]]
-- [[anti-bot-detection]]
-- [[session-cookie-management]]
-- [[firefox-profiles-containers]]
-- [[credential-store]]
-- [[chrome-autonomy-self-drive]]
-- [[insight-DR-DR26-07-17-HUB-03-reliable-headless-firefox-chromium-automation-with]] — directly related prior DR comparing Firefox vs Chrome for the same automation problem
+- browser-automation-fleet
+- chrome-cookie-extraction
+- app-bound-encryption
+- anti-bot-detection
+- session-cookie-management
+- firefox-profiles-containers
+- credential-store
+- chrome-autonomy-self-drive
+- insight-DR-DR26-07-17-HUB-03-reliable-headless-firefox-chromium-automation-with — directly related prior DR comparing Firefox vs Chrome for the same automation problem

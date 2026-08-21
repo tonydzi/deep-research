@@ -42,12 +42,12 @@ source: Palo Alto AI Research Lab — deep research programme
 - At what point (workflow count, failure frequency) full migration to Windmill/Prefect/Temporal becomes justified rather than continuing to patch n8n.
 
 ## Источник
-- DR-ID `DR26-06-28-HUB-07` · реестр [[_DR-Registry]]
-- оригинал: `E:\Obsidian\_originals\deep-research\DR26-06-28-HUB-07-comparative-table.md`
+- DR-ID `DR26-06-28-HUB-07` · реестр _DR-Registry
+- оригинал: «внутренний путь лаборатории»
 
 ## Связано
-- [[workflow-orchestration-reliability]]
-- [[n8n-improvement]]
-- [[retry-backoff-idempotency-dlq]]
-- [[ak47-simplicity]]
-- [[vault-data-architecture]]
+- workflow-orchestration-reliability
+- n8n-improvement
+- retry-backoff-idempotency-dlq
+- ak47-simplicity
+- vault-data-architecture

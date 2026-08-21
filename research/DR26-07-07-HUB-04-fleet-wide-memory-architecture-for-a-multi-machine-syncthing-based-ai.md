@@ -45,15 +45,15 @@ source: Palo Alto AI Research Lab — deep research programme
 - What the actual retention/pruning window should be before physically deleting superseded facts (report says 'explicit retention window' without specifying one).
 
 ## Источник
-- DR-ID `DR26-07-07-HUB-04` · реестр [[_DR-Registry]]
-- оригинал: `E:\Obsidian\_originals\deep-research\DR26-07-07-MACANTON-01-fleet-memory-chatgpt.md`
+- DR-ID `DR26-07-07-HUB-04` · реестр _DR-Registry
+- оригинал: «внутренний путь лаборатории»
 
 ## Связано
-- [[machine-bus-telegram-rail]]
-- [[one-system-propagate]]
-- [[own-fleet-peer-equality]]
-- [[memory-index-hygiene]]
-- [[vault-data-architecture]]
-- [[claude-skills-git-backup]]
-- [[multi-machine-auto-consensus]]
-- [[machine-governance-leader-follower]]
+- machine-bus-telegram-rail
+- one-system-propagate
+- own-fleet-peer-equality
+- memory-index-hygiene
+- vault-data-architecture
+- claude-skills-git-backup
+- multi-machine-auto-consensus
+- machine-governance-leader-follower

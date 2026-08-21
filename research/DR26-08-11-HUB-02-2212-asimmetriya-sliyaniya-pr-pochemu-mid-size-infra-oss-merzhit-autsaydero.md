@@ -37,14 +37,14 @@ source: Palo Alto AI Research Lab — deep research programme
 - Не видно, как именно распределены рекомендации по каждой из 17 открытых позиций — упомянут только общий план по механике ответа.
 
 ## Источник
-- DR-ID `DR26-08-11-HUB-02-2212` · реестр [[_DR-Registry]]
-- оригинал: `/root/Obsidian/Anton-Knowledge/_originals/deep-research/DR26-08-11-HUB-02-2212-open-source-merge-asymmetry-why-infrastr-claude.md`
+- DR-ID `DR26-08-11-HUB-02-2212` · реестр _DR-Registry
+- оригинал: «внутренний путь лаборатории»
 
 ## Связано
-- [[local-github-growth skill]]
-- [[open-source contributor reputation]]
-- [[vendor DevRel incentives]]
-- [[PR merge rate studies]]
-- [[AI-disclosure policies in OSS]]
-- [[MCP ecosystem]]
-- [[repo classification (product vs marketing surface)]]
+- local-github-growth skill
+- open-source contributor reputation
+- vendor DevRel incentives
+- PR merge rate studies
+- AI-disclosure policies in OSS
+- MCP ecosystem
+- repo classification (product vs marketing surface)

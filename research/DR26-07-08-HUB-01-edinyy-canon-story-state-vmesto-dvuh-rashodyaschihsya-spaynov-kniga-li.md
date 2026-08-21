@@ -42,15 +42,15 @@ source: Palo Alto AI Research Lab — deep research programme
 - Кто выступает единственным редактором канона в реальном workflow Антона (сам Антон или AI-кофаундер) и как это соотносится с multi-agent role discipline
 
 ## Источник
-- DR-ID `DR26-07-08-HUB-01` · реестр [[_DR-Registry]]
-- оригинал: `E:\Obsidian\_originals\deep-research\DR26-07-08-HUB-01-single-canon-story-state-chatgpt.md`
+- DR-ID `DR26-07-08-HUB-01` · реестр _DR-Registry
+- оригинал: «внутренний путь лаборатории»
 
 ## Связано
-- [[episode-adapters-content-factory]]
-- [[reality-show-1to1-contract]]
-- [[second-brain-northstar]]
-- [[vault-data-architecture]]
-- [[cofounder-identity]]
-- [[everything-becomes-content]]
-- [[concept-creation-rules]]
-- [[no-orphan-notes-rule]]
+- episode-adapters-content-factory
+- reality-show-1to1-contract
+- second-brain-northstar
+- vault-data-architecture
+- cofounder-identity
+- everything-becomes-content
+- concept-creation-rules
+- no-orphan-notes-rule

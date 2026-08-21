@@ -44,15 +44,15 @@ source: Palo Alto AI Research Lab — deep research programme
 - Real-time CRDT-based collaboration (vs git-based file/branch workflow) for code vaults is technically possible but unproven/underused in this context.
 
 ## Источник
-- DR-ID `DR26-06-29-LEG-01` · реестр [[_DR-Registry]]
-- оригинал: `E:\Obsidian\_originals\deep-research\2026-06-29-DR-multi-llm-collab-chatgpt.md`
+- DR-ID `DR26-06-29-LEG-01` · реестр _DR-Registry
+- оригинал: «внутренний путь лаборатории»
 
 ## Связано
-- [[multi-agent-offer-reflex]]
-- [[multi-agent-role-discipline]]
-- [[one-system-propagate]]
-- [[verify-existing-before-proposing]]
-- [[test-after-build-skill]]
-- [[ak47-simplicity]]
-- [[insight-DR-DR26-06-28-HUB-01-architecture-for-multi-llm-agents-claude-codex-gem]] — соседний DR (через день) на ту же тему мульти-агентной коллаборации над общим vault
-- [[insight-2026-08-16-codex-claude-one-vault-delta]] — сирота дословно цитирует статистику этого DR (69.8% vs 53.1% дефектов)
+- multi-agent-offer-reflex
+- multi-agent-role-discipline
+- one-system-propagate
+- verify-existing-before-proposing
+- test-after-build-skill
+- ak47-simplicity
+- insight-DR-DR26-06-28-HUB-01-architecture-for-multi-llm-agents-claude-codex-gem — соседний DR (через день) на ту же тему мульти-агентной коллаборации над общим vault
+- insight-2026-08-16-codex-claude-one-vault-delta — сирота дословно цитирует статистику этого DR (69.8% vs 53.1% дефектов)

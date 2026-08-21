@@ -65,9 +65,9 @@ source: Palo Alto AI Research Lab — deep research programme
 - `_originals/deep-research/DR26-08-01-MACANTON-02-658-chatgpt.md` — codex exec, 47 уник. URL, 26 веб-поисков, чистый прогон.
 - `_originals/deep-research/DR26-08-01-MACANTON-02-658-grok.md` — grok -p, 19 уник. URL.
 - Рельса gemini снята через `dr_queue.py retarget --drop` — с Mac16 недостижима ни одной дверью.
-- Публичного URL чата нет: обе рельсы headless-CLI. См. [[dr-headless-rails-codex-grok]].
+- Публичного URL чата нет: обе рельсы headless-CLI. См. dr-headless-rails-codex-grok.
 
-Связано: [[mission-get-noticed-hired-by-llm-company]] · [[DR26-08-01-MACANTON-02-659|steward-hire]] · [[donation-rails-status]]
+Связано: mission-get-noticed-hired-by-llm-company · steward-hire · donation-rails-status
 
 ## Связано
-- [[insight-DR-DR26-08-01-MACANTON-02-659-steward-hire-pattern]] — уже пытается ссылаться на сироту («[[DR26-08-01-MACANTON-02-659|steward-hire]]»), но ссылка битая — не совпадает с именем файла/алиасами сир
+- insight-DR-DR26-08-01-MACANTON-02-659-steward-hire-pattern — уже пытается ссылаться на сироту («steward-hire»), но ссылка битая — не совпадает с именем файла/алиасами сир

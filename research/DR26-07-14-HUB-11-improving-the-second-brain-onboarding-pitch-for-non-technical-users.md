@@ -43,14 +43,14 @@ source: Palo Alto AI Research Lab — deep research programme
 - The exact optimal wording for a 'memory keeper' role/identity prompt remains untested — evidence rejects relying on persona text alone but doesn't specify ideal phrasing.
 
 ## Источник
-- DR-ID `DR26-07-14-HUB-11` · реестр [[_DR-Registry]]
-- оригинал: `E:\Obsidian\_originals\deep-research\DL-2026-07-14--Improving-the-Second-Brain-Onboarding-Pitch.md`
+- DR-ID `DR26-07-14-HUB-11` · реестр _DR-Registry
+- оригинал: «внутренний путь лаборатории»
 
 ## Связано
-- [[second-brain-northstar]]
-- [[ak47-simplicity]]
-- [[eli5-always]]
-- [[show-before-after]]
-- [[self-bible-identity-layer]]
-- [[credential-store]]
-- [[always-on-memory-pilot]]
+- second-brain-northstar
+- ak47-simplicity
+- eli5-always
+- show-before-after
+- self-bible-identity-layer
+- credential-store
+- always-on-memory-pilot

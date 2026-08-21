@@ -45,15 +45,15 @@ source: Palo Alto AI Research Lab — deep research programme
 - No vendor has committed to shipping an automatic dead-CDP-targetId rebind; unclear if/when this gap closes.
 
 ## Источник
-- DR-ID `DR26-08-15-HUB-03` · реестр [[_DR-Registry]]
-- оригинал: `E:\Obsidian\_originals\deep-research\DR26-08-14-MACANTON-01-2117-browser-screen-rails-grok.md`
+- DR-ID `DR26-08-15-HUB-03` · реестр _DR-Registry
+- оригинал: «внутренний путь лаборатории»
 
 ## Связано
-- [[browser automation]]
-- [[chrome-devtools-mcp]]
-- [[computer-use]]
-- [[session persistence]]
-- [[bot detection]]
-- [[agent fleet infrastructure]]
-- [[chrome security changes]]
-- [[screen-access-fleet-wide]]
+- browser automation
+- chrome-devtools-mcp
+- computer-use
+- session persistence
+- bot detection
+- agent fleet infrastructure
+- chrome security changes
+- screen-access-fleet-wide

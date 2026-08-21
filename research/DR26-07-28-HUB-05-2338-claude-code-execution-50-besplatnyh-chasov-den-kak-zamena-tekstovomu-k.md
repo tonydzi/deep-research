@@ -37,13 +37,13 @@ source: Palo Alto AI Research Lab — deep research programme
 - Второй заказанный DR-запрос (сравнение с ChatGPT Code Interpreter/Python, Cursor, Codex, Gemini и практические рекомендации power user) не был завершён/синтезирован в собранном материале.
 
 ## Источник
-- DR-ID `DR26-07-28-HUB-05-2338` · реестр [[_DR-Registry]]
-- оригинал: `E:\Obsidian\_originals\deep-research\DR26-07-28-HUB-05-2338-poshagovoe-planirovanie-i-code-execution-chatgpt.md`
-- оригинал: `E:\Obsidian\Anton-Knowledge\01-Conversations\ChatGPT\conversations\2026-07-24-poshagovoe-planirovanie-i-code-execution-6a633e23.md`
+- DR-ID `DR26-07-28-HUB-05-2338` · реестр _DR-Registry
+- оригинал: «внутренний путь лаборатории»
+- оригинал: «внутренний путь лаборатории»
 
 ## Связано
-- [[claude-code-execution]]
-- [[token-economy-ladder]]
-- [[model-routing-sonnet-grunt]]
-- [[model-routing-fable-smart]]
-- [[plan-code-test-review-workflow]]
+- claude-code-execution
+- token-economy-ladder
+- model-routing-sonnet-grunt
+- model-routing-fable-smart
+- plan-code-test-review-workflow

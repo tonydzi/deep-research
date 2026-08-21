@@ -45,17 +45,17 @@ source: Palo Alto AI Research Lab — deep research programme
 - Не проведён собственный (Antон/hub) session-survival benchmark (Kaplan-Meier по site×rail) — запланирован в Action Plan (недели 3-4), но ещё не выполнен.
 
 ## Источник
-- DR-ID `DR26-08-15-HUB-01` · реестр [[_DR-Registry]]
-- оригинал: `E:\Obsidian\_originals\deep-research\DR26-08-14-MACANTON-01-2117-browser-screen-rails-chatgpt.md`
+- DR-ID `DR26-08-15-HUB-01` · реестр _DR-Registry
+- оригинал: «внутренний путь лаборатории»
 
 ## Связано
-- [[browser-automation-rail]]
-- [[chrome-devtools-mcp]]
-- [[cdp-target-lifecycle]]
-- [[screen-automation-os-rail]]
-- [[session-persistence-login-durability]]
-- [[bot-detection-stealth]]
-- [[wayland-vs-x11-automation]]
-- [[chrome-autonomy-self-drive]]
-- [[insight-DR-DR26-08-15-HUB-02-грабли-cdp-браузер-рельс-и-экранного-контроля-для-]] — сиблинг из той же DR-пары 15.08 (HUB-01/HUB-02), сейчас не связаны
-- [[insight-DR-DR26-08-15-HUB-03-real-world-failure-modes-of-agent-driven-browsers-]] — сиблинг-инсайт того же дня/хаба по теме CDP/Chrome-рельса и screen automation
+- browser-automation-rail
+- chrome-devtools-mcp
+- cdp-target-lifecycle
+- screen-automation-os-rail
+- session-persistence-login-durability
+- bot-detection-stealth
+- wayland-vs-x11-automation
+- chrome-autonomy-self-drive
+- insight-DR-DR26-08-15-HUB-02-грабли-cdp-браузер-рельс-и-экранного-контроля-для- — сиблинг из той же DR-пары 15.08 (HUB-01/HUB-02), сейчас не связаны
+- insight-DR-DR26-08-15-HUB-03-real-world-failure-modes-of-agent-driven-browsers- — сиблинг-инсайт того же дня/хаба по теме CDP/Chrome-рельса и screen automation

@@ -45,18 +45,18 @@ source: Palo Alto AI Research Lab — deep research programme
 - ChatGPT's report was interrupted mid-run (step 2/5) — the six analytical sections, Top-5 mechanisms, and decision-ending it planned were never produced; only Gemini and Grok delivered complete syntheses.
 
 ## Источник
-- DR-ID `DR26-07-04-HUB-13` · реестр [[_DR-Registry]]
-- оригинал: `E:\Obsidian\_originals\deep-research\DR26-07-04-HUB-13-connect-rule-v2-chatgpt.md`
-- оригинал: `E:\Obsidian\_originals\deep-research\DR26-07-04-HUB-13-connect-rule-v2-gemini.md`
-- оригинал: `E:\Obsidian\_originals\deep-research\DR26-07-04-HUB-13-connect-rule-v2-grok.md`
-- оригинал: `E:\Obsidian\_originals\deep-research\DR26-07-16-HUB-05-research-plan-for-dr26-07-04-hub-13.md`
+- DR-ID `DR26-07-04-HUB-13` · реестр _DR-Registry
+- оригинал: «внутренний путь лаборатории»
+- оригинал: «внутренний путь лаборатории»
+- оригинал: «внутренний путь лаборатории»
+- оригинал: «внутренний путь лаборатории»
 
 ## Связано
-- [[connect-rule-pipeline-ownership]]
-- [[build-trap]]
-- [[theory-of-constraints]]
-- [[dead-letter-queue-pattern]]
-- [[kill-criteria-stage-gate]]
-- [[pull-system-lean-tps]]
-- [[value-realization-office]]
-- [[goodharts-law]]
+- connect-rule-pipeline-ownership
+- build-trap
+- theory-of-constraints
+- dead-letter-queue-pattern
+- kill-criteria-stage-gate
+- pull-system-lean-tps
+- value-realization-office
+- goodharts-law

@@ -39,19 +39,19 @@ source: Palo Alto AI Research Lab — deep research programme
 - No concrete numeric thresholds are validated empirically (e.g. exact inactivity-gap minutes, watermark hours, confidence-score weights) — these are proposed defaults needing calibration against Anton's actual data.
 - The cheap noise classifier requires a labeled dataset of real-work vs automation sessions that doesn't yet exist — bootstrapping via weak supervision (Snorkel-style) is suggested but unimplemented.
 - How exactly to bound/cost the LLM adjudication step for 'uncertain' sessions at scale (token budget, packet size) is not fully specified.
-- Interaction with existing per-turn 'black box' TurnState ledger and retro pipeline (how much of this design duplicates vs. extends current infra) is not addressed in this report — needs reconciliation with [[always-on-memory-pilot]] and [[turnstate-ledger]].
+- Interaction with existing per-turn 'black box' TurnState ledger and retro pipeline (how much of this design duplicates vs. extends current infra) is not addressed in this report — needs reconciliation with always-on-memory-pilot and turnstate-ledger.
 
 ## Источник
-- DR-ID `DR26-07-06-HUB-05` · реестр [[_DR-Registry]]
-- оригинал: `E:\Obsidian\_originals\deep-research\DR26-07-06-HUB-05-day-ledger-methodology-PROMPT.md`
-- оригинал: `E:\Obsidian\_originals\deep-research\DR26-07-06-HUB-05-day-ledger-methodology-vendor1.md`
+- DR-ID `DR26-07-06-HUB-05` · реестр _DR-Registry
+- оригинал: «внутренний путь лаборатории»
+- оригинал: «внутренний путь лаборатории»
 
 ## Связано
-- [[day-ledger-methodology]]
-- [[always-on-memory-pilot]]
-- [[turnstate-ledger]]
-- [[vault-data-architecture]]
-- [[one-system-propagate]]
-- [[test-after-build-skill]]
-- [[ak47-simplicity]]
-- [[second-brain-northstar]]
+- day-ledger-methodology
+- always-on-memory-pilot
+- turnstate-ledger
+- vault-data-architecture
+- one-system-propagate
+- test-after-build-skill
+- ak47-simplicity
+- second-brain-northstar

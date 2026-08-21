@@ -43,12 +43,12 @@ source: Palo Alto AI Research Lab — deep research programme
 - Насколько надёжны git-hooks/плагины против некорректных патчей — риск признан, но конкретного решения (кроме ручного контроля) не дано
 
 ## Источник
-- DR-ID `DR26-06-30-HUB-04` · реестр [[_DR-Registry]]
-- оригинал: `E:\Obsidian\_originals\deep-research\DR26-06-30-HUB-04-причины-разрастания-контекстного-файла.md`
+- DR-ID `DR26-06-30-HUB-04` · реестр _DR-Registry
+- оригинал: «внутренний путь лаборатории»
 
 ## Связано
-- [[claude-md-optimization-mechanics]]
-- [[write-service-files-tight-no-recompress]]
-- [[memory-index-hygiene]]
-- [[vault-data-architecture]]
-- [[ak47-simplicity]]
+- claude-md-optimization-mechanics
+- write-service-files-tight-no-recompress
+- memory-index-hygiene
+- vault-data-architecture
+- ak47-simplicity

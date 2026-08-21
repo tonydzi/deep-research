@@ -44,12 +44,12 @@ source: Palo Alto AI Research Lab — deep research programme
 - Источники по инцидентам — статус-страница и форумные обсуждения, а не первичные логи системы Антона.
 
 ## Источник
-- DR-ID `DR26-06-26-HUB-04` · реестр [[_DR-Registry]]
-- оригинал: `E:\Obsidian\_originals\deep-research\DR26-06-26-HUB-04-анализ-текущей-архитектуры.md`
+- DR-ID `DR26-06-26-HUB-04` · реестр _DR-Registry
+- оригинал: «внутренний путь лаборатории»
 
 ## Связано
-- [[machine-bus-telegram-rail]]
-- [[model-routing-sonnet-grunt]]
-- [[system-architect]]
-- [[one-system-propagate]]
-- [[vault-data-architecture]]
+- machine-bus-telegram-rail
+- model-routing-sonnet-grunt
+- system-architect
+- one-system-propagate
+- vault-data-architecture

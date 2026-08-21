@@ -46,15 +46,15 @@ source: Palo Alto AI Research Lab — deep research programme
 - No controlled study directly compares the full Claude-orchestrates-external-CLI architecture against Claude implementing directly at production scale
 
 ## Источник
-- DR-ID `DR26-08-02-ZB-04-2324` · реестр [[_DR-Registry]]
-- оригинал: `E:\Obsidian\_originals\deep-research\DR26-08-02-ZB-04-2324-multi-llm-coding-orchestration-chatgpt.md`
-- оригинал: `E:\Obsidian\_originals\deep-research\DR26-08-02-ZB-04-2324-multi-llm-coding-orchestration-grok.md`
+- DR-ID `DR26-08-02-ZB-04-2324` · реестр _DR-Registry
+- оригинал: «внутренний путь лаборатории»
+- оригинал: «внутренний путь лаборатории»
 
 ## Связано
-- [[multi-agent-role-discipline]]
-- [[test-after-build-skill]]
-- [[model-routing-fable-smart]]
-- [[prompt-injection]]
-- [[AGENTS.md]]
-- [[secondop-second-opinion]]
-- [[shadow-first-mvp-pattern]]
+- multi-agent-role-discipline
+- test-after-build-skill
+- model-routing-fable-smart
+- prompt-injection
+- AGENTS.md
+- secondop-second-opinion
+- shadow-first-mvp-pattern

@@ -43,14 +43,14 @@ source: Palo Alto AI Research Lab — deep research programme
 - Whether the emerging NATS-native AI-agent protocol (2026, single-source) is worth adopting once it matures.
 
 ## Источник
-- DR-ID `DR26-07-14-ZB-01` · реестр [[_DR-Registry]]
-- оригинал: `E:\Obsidian\_originals\deep-research\DR26-07-14-ZB-01-agent-bus-chatgpt.md`
+- DR-ID `DR26-07-14-ZB-01` · реестр _DR-Registry
+- оригинал: «внутренний путь лаборатории»
 
 ## Связано
-- [[machine-bus-telegram-rail]]
-- [[one-system-propagate]]
-- [[multi-machine-auto-consensus]]
-- [[vps-anchor-node]]
-- [[own-fleet-peer-equality]]
-- [[credential-store]]
-- [[config-safety-backup-and-migration-check]]
+- machine-bus-telegram-rail
+- one-system-propagate
+- multi-machine-auto-consensus
+- vps-anchor-node
+- own-fleet-peer-equality
+- credential-store
+- config-safety-backup-and-migration-check

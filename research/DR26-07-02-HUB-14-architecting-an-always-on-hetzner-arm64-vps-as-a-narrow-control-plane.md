@@ -44,15 +44,15 @@ source: Palo Alto AI Research Lab — deep research programme
 - Whether/when a full vault replica ever becomes worth the operational cost is unresolved — framed as a cost-benefit question to revisit later, not a fixed answer.
 
 ## Источник
-- DR-ID `DR26-07-02-HUB-14` · реестр [[_DR-Registry]]
-- оригинал: `E:\Obsidian\_originals\deep-research\2026-07-02-vps-anchor-node-architecture-dr.md`
+- DR-ID `DR26-07-02-HUB-14` · реестр _DR-Registry
+- оригинал: «внутренний путь лаборатории»
 
 ## Связано
-- [[vault-data-architecture]]
-- [[machine-bus-telegram-rail]]
-- [[credential-store]]
-- [[telegram-account-identities]]
-- [[desktop-max-laptop-min]]
-- [[machine-governance-leader-follower]]
-- [[session-machine-tagging]]
-- [[model-routing-sonnet-grunt]]
+- vault-data-architecture
+- machine-bus-telegram-rail
+- credential-store
+- telegram-account-identities
+- desktop-max-laptop-min
+- machine-governance-leader-follower
+- session-machine-tagging
+- model-routing-sonnet-grunt

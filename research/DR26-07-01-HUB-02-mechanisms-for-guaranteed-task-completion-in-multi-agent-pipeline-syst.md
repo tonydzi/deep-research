@@ -44,13 +44,13 @@ source: Palo Alto AI Research Lab — deep research programme
 - Not addressed how these mechanisms compose specifically with LLM/agent-based pipelines (vs. generic distributed systems/devops) beyond general analogy.
 
 ## Источник
-- DR-ID `DR26-07-01-HUB-02` · реестр [[_DR-Registry]]
-- оригинал: `E:\Obsidian\_originals\deep-research\DR26-07-01-HUB-02-mechanisms-for-guaranteed-task-completion.md`
+- DR-ID `DR26-07-01-HUB-02` · реестр _DR-Registry
+- оригинал: «внутренний путь лаборатории»
 
 ## Связано
-- [[connect-rule-pipeline-ownership]]
-- [[one-system-propagate]]
-- [[machine-bus-telegram-rail]]
-- [[multi-agent-role-discipline]]
-- [[test-after-build-skill]]
-- [[system-architect]]
+- connect-rule-pipeline-ownership
+- one-system-propagate
+- machine-bus-telegram-rail
+- multi-agent-role-discipline
+- test-after-build-skill
+- system-architect

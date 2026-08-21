@@ -44,12 +44,12 @@ source: Palo Alto AI Research Lab — deep research programme
 - How to harden the monitoring script itself so it rarely crashes, and whether it can self-report its own failure before going silent.
 
 ## Источник
-- DR-ID `DR26-06-27-HUB-05` · реестр [[_DR-Registry]]
-- оригинал: `E:\Obsidian\_originals\deep-research\DR26-06-27-HUB-05-key-findings.md`
+- DR-ID `DR26-06-27-HUB-05` · реестр _DR-Registry
+- оригинал: «внутренний путь лаборатории»
 
 ## Связано
-- [[machine-bus-telegram-rail]]
-- [[sync-self-heal-layers]]
-- [[system-architect]]
-- [[peer-liveness-live-signal]]
-- [[raise-sync-autonomous]]
+- machine-bus-telegram-rail
+- sync-self-heal-layers
+- system-architect
+- peer-liveness-live-signal
+- raise-sync-autonomous

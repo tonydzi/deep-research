@@ -23,7 +23,7 @@ source: Palo Alto AI Research Lab — deep research programme
 1. **Провенанс ≠ одобрение.** «Attested» никогда не равно «approved». Даже доверенный официальный канал шлёт яд (Amazon Q VS Code extension, PyPI Ultralytics). → провенанс СНИЖАЕТ стоимость ревью, а не заменяет его. Моя матрица слишком легко авто-клирила доверенный источник — поправка.
 2. **Одного отравленного документа достаточно** (PoisonedRAG: 5 текстов на млн; «single-doc» атаки). → нужна ось **корроборации**: для high-risk идей ≥2 независимых источника (или 1 первичный + 1 вторичный), которой у меня не было.
 3. **Carrier sanitation ДО извлечения** + хранить И видимый текст, И сырой machine-visible (ловить hidden-text/Unicode/URL-параметры-стиринг). Слой ингеста, который я не прописал.
-4. **Общая память/знание — read-only по умолчанию.** Писать в общие политики/«одобренные best practices» может только карантин-сервис или подписанный human-review тул, НЕ обычные агенты. ⚠️ Для нас острое: волт синкается на весь флот и у нас культура [[any-llm-vault-actor]] «любой LLM пишет в волт» — сюда нужен барьер на shared policy/knowledge-файлы.
+4. **Общая память/знание — read-only по умолчанию.** Писать в общие политики/«одобренные best practices» может только карантин-сервис или подписанный human-review тул, НЕ обычные агенты. ⚠️ Для нас острое: волт синкается на весь флот и у нас культура any-llm-vault-actor «любой LLM пишет в волт» — сюда нужен барьер на shared policy/knowledge-файлы.
 5. **Idea Attestation = та же крипта, что конверты задач сессии A** — in-toto/SLSA-форма, DSSE, **Ed25519**, append-only лог (Git/SQLite + Syncthing). ⭐ Красивое схождение: ОДИН крипто-фундамент (Ed25519 подписанные конверты + append-only), два применения — авторизация задач (сессия A) и провенанс идей (сессия B).
 
 ## Варианты (из DR)
@@ -49,14 +49,14 @@ source: Palo Alto AI Research Lab — deep research programme
 - Наш реальный implement-rate альфы — измерить, чтобы решить Lite→Standard триггер.
 
 ## Источник
-- DR-ID `DR26-07-14-HUB-01` · реестр [[_DR-Registry]] · оригинал `E:\Obsidian\_originals\deep-research\DR26-07-14-HUB-01-trojan-alpha-poisoned-knowledge.md`
+- DR-ID `DR26-07-14-HUB-01` · реестр _DR-Registry · оригинал «внутренний путь лаборатории»
 - Ключевые: Anthropic prompt-injection-defenses (2025-11-24), NCSC «prompt injection is not SQL injection» (2025-12-08), PoisonedRAG (USENIX 2025), Microsoft AI Recommendation Poisoning (2026-02-10), SLSA/in-toto/Sigstore/PyPI attestations, NIST IR 8596.
 
 ## Связано
-- [[machine-bus-telegram-rail]]
-- [[apply-deliverables-immediately]]
-- [[remote-approval-qqq]]
-- [[alert-ownership-routing]]
-- [[any-llm-vault-actor]]
-- [[credential-store]]
-- [[verify-existing-before-proposing]]
+- machine-bus-telegram-rail
+- apply-deliverables-immediately
+- remote-approval-qqq
+- alert-ownership-routing
+- any-llm-vault-actor
+- credential-store
+- verify-existing-before-proposing

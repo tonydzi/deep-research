@@ -43,15 +43,15 @@ source: Palo Alto AI Research Lab — deep research programme
 - External validity to embodied/real hardware and networks remains thin: clock drift, packet loss, battery pressure, sensor corruption, and actuator wear are underrepresented in current agentic benchmark culture.
 
 ## Источник
-- DR-ID `DR26-07-05-HUB-09` · реестр [[_DR-Registry]]
-- оригинал: `E:\Obsidian\_originals\deep-research\DR26-07-05-HUB-09-repairability-first-multi-agent-systems.md`
+- DR-ID `DR26-07-05-HUB-09` · реестр _DR-Registry
+- оригинал: «внутренний путь лаборатории»
 
 ## Связано
-- [[multi-agent-offer-reflex]]
-- [[model-routing-sonnet-grunt]]
-- [[ak47-simplicity]]
-- [[verify-existing-before-proposing]]
-- [[fix-root-cause-not-symptoms]]
-- [[multi-agent-role-discipline]]
-- [[system-architect]]
-- [[agent-teams-scoped-adoption]]
+- multi-agent-offer-reflex
+- model-routing-sonnet-grunt
+- ak47-simplicity
+- verify-existing-before-proposing
+- fix-root-cause-not-symptoms
+- multi-agent-role-discipline
+- system-architect
+- agent-teams-scoped-adoption

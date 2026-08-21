@@ -8,7 +8,7 @@ source: Palo Alto AI Research Lab — deep research programme
 
 # Insight (DR DR26-07-01-ZB-05): Архитектура фолбэка моделей для always-on агента на подписке (Claude Max/Weekly) без случайных трат на платный API
 
-> ⚠️ **UPDATE 2026-07-14:** эта заметка была сгенерена по ПРОМПТУ (тела отчёта тогда не было — ChatGPT не отдаёт DR через экспорт). Полный отчёт СОБРАН 14.07 (Export→Markdown), лежит в `_originals\deep-research\` (путь в «Источник»). Актуальный синтез: [[decision-agent-stack-dr-bundle-synthesis-2026-07-14]].
+> ⚠️ **UPDATE 2026-07-14:** эта заметка была сгенерена по ПРОМПТУ (тела отчёта тогда не было — ChatGPT не отдаёт DR через экспорт). Полный отчёт СОБРАН 14.07 (Export→Markdown), лежит в `_originals\deep-research\` (путь в «Источник»). Актуальный синтез: decision-agent-stack-dr-bundle-synthesis-2026-07-14.
 
 
 > Запрос глубокого ресёрча (ChatGPT Deep Research) на тему: как построить лестницу фолбэка моделей и wrapper вокруг claude -p, чтобы агент деградировал грациозно при упоре в лимит подписки, не переходя на платный API — отчёт содержит только постановку задачи/контекст, самого синтеза-ответа в тексте нет.
@@ -38,18 +38,18 @@ _нет_
 - Какие guard-механизмы предотвращают случайный платный API-спенд — не раскрыто
 
 ## Источник
-- DR-ID `DR26-07-01-ZB-05` · реестр [[_DR-Registry]]
-- оригинал: `E:\Obsidian\_originals\deep-research\DR26-07-01-ZB-05-llm-fallback-architecture-research-6a4ad-chatgpt.md`
+- DR-ID `DR26-07-01-ZB-05` · реестр _DR-Registry
+- оригинал: «внутренний путь лаборатории»
 
 ## Связано
-- [[model-fallback-ladder]]
-- [[claude-code-wrapper]]
-- [[spend-guard]]
-- [[local-llm-hub-gpu]]
-- [[agent-stack]]
-- [[silent-failure-to-log]]
-- [[subscription-limits-management]]
-- [[insight-DR-DR26-06-26-HUB-04-отказоустойчивость-llm-инфраструктуры-failover-меж]] — прямой сиквел той же темы: архитектура фолбэка моделей для always-on агента продолжает failover-исследование
-- [[insight-DR-DR26-06-26-HUB-06-выбор-локальной-llm-3-6-gb-vram-на-gtx-1660-super-]] — прямое продолжение: выбор конкретной локальной модели на GPU хаба питает архитектуру фолбэка always-on агента
-- [[insight-DR-DR26-07-28-HUB-06-2338-сетап-друга-claude-code-через-vm-genspark-anthropi]] — обе про архитектуру фолбэка/резерва при упоре в лимит подписки
-- [[insight-DR-DR26-07-28-HUB-20-2339-fallback-architecture-for-a-subscription-only-alwa]] — прямой предшественник по теме, только без синтеза
+- model-fallback-ladder
+- claude-code-wrapper
+- spend-guard
+- local-llm-hub-gpu
+- agent-stack
+- silent-failure-to-log
+- subscription-limits-management
+- insight-DR-DR26-06-26-HUB-04-отказоустойчивость-llm-инфраструктуры-failover-меж — прямой сиквел той же темы: архитектура фолбэка моделей для always-on агента продолжает failover-исследование
+- insight-DR-DR26-06-26-HUB-06-выбор-локальной-llm-3-6-gb-vram-на-gtx-1660-super- — прямое продолжение: выбор конкретной локальной модели на GPU хаба питает архитектуру фолбэка always-on агента
+- insight-DR-DR26-07-28-HUB-06-2338-сетап-друга-claude-code-через-vm-genspark-anthropi — обе про архитектуру фолбэка/резерва при упоре в лимит подписки
+- insight-DR-DR26-07-28-HUB-20-2339-fallback-architecture-for-a-subscription-only-alwa — прямой предшественник по теме, только без синтеза

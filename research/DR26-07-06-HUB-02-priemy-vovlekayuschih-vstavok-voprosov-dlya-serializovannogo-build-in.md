@@ -49,15 +49,15 @@ source: Palo Alto AI Research Lab — deep research programme
 - Нет данных о том, как разные площадки (GitHub Discussions vs FB vs X) реально сравниваются по конверсии для ЭТОГО конкретного проекта — рекомендации основаны на общих платформенных документах и creator-сигналах, а не на A/B тестах автора.
 
 ## Источник
-- DR-ID `DR26-07-06-HUB-02` · реестр [[_DR-Registry]]
-- оригинал: `E:\Obsidian\_originals\deep-research\DR26-07-06-HUB-02-reader-engagement-chatgpt.md`
+- DR-ID `DR26-07-06-HUB-02` · реестр _DR-Registry
+- оригинал: «внутренний путь лаборатории»
 
 ## Связано
-- [[build-in-public]]
-- [[The Journey (книга)]]
-- [[content-factory]]
-- [[episode (скилл адаптации постов)]]
-- [[second-person narration]]
-- [[curiosity gap]]
-- [[reader-engagement]]
-- [[GitHub Discussions]]
+- build-in-public
+- The Journey (книга)
+- content-factory
+- episode (скилл адаптации постов)
+- second-person narration
+- curiosity gap
+- reader-engagement
+- GitHub Discussions

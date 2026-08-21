@@ -44,15 +44,15 @@ source: Palo Alto AI Research Lab — deep research programme
 - Whether Monad's large ecosystem allocation converts into fast accessible cash checks or mostly matching-incentive/co-marketing support is not yet confirmed mechanically.
 
 ## Источник
-- DR-ID `DR26-07-02-HUB-07` · реестр [[_DR-Registry]]
-- оригинал: `E:\Obsidian\_originals\deep-research\2026-07-02-beyond-canton-DR.md`
+- DR-ID `DR26-07-02-HUB-07` · реестр _DR-Registry
+- оригинал: «внутренний путь лаборатории»
 
 ## Связано
-- [[Canton Network]]
-- [[stablecoin payments infrastructure]]
-- [[RWA tokenization]]
-- [[crypto ecosystem grants]]
-- [[DAO treasury management]]
-- [[TON/Telegram commercialization]]
-- [[MiCA regulation]]
-- [[prediction markets]]
+- Canton Network
+- stablecoin payments infrastructure
+- RWA tokenization
+- crypto ecosystem grants
+- DAO treasury management
+- TON/Telegram commercialization
+- MiCA regulation
+- prediction markets

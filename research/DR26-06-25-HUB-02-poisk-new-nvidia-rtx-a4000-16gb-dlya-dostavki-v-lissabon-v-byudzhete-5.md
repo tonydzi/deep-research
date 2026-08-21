@@ -41,11 +41,11 @@ source: Palo Alto AI Research Lab — deep research programme
 - RTX 3090 24GB used на OLX PT — цена привлекательна, но нет формальной защиты покупателя (частная продажа)
 
 ## Источник
-- DR-ID `DR26-06-25-HUB-02` · реестр [[_DR-Registry]]
-- оригинал: `E:\Obsidian\_originals\deep-research\DR26-06-25-HUB-02-аналитический-отчёт-по-текущим-ссылкам-на-new.md`
+- DR-ID `DR26-06-25-HUB-02` · реестр _DR-Registry
+- оригинал: «внутренний путь лаборатории»
 
 ## Связано
-- [[hardware-procurement-portugal]]
-- [[gpu-for-local-llm]]
-- [[eu-marketplace-buying-risk]]
-- [[nvidia-workstation-gpu]]
+- hardware-procurement-portugal
+- gpu-for-local-llm
+- eu-marketplace-buying-risk
+- nvidia-workstation-gpu

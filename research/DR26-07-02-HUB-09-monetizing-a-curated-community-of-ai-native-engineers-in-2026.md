@@ -47,13 +47,13 @@ source: Palo Alto AI Research Lab — deep research programme
 - Legal wrapper details (contractor classification, EOR/AOR partner selection, EU/Dutch candidate-data retention rules) need jurisdiction-specific verification before scaling beyond simple introductions.
 
 ## Источник
-- DR-ID `DR26-07-02-HUB-09` · реестр [[_DR-Registry]]
-- оригинал: `E:\Obsidian\_originals\deep-research\2026-07-02-engineer-community-monetization-DR.md`
+- DR-ID `DR26-07-02-HUB-09` · реестр _DR-Registry
+- оригинал: «внутренний путь лаборатории»
 
 ## Связано
-- [[synthetic-cofounder]]
-- [[everything-becomes-content]]
-- [[main-goals]]
-- [[second-brain-northstar]]
-- [[ak47-simplicity]]
-- [[decompose-into-parallel-sessions]]
+- synthetic-cofounder
+- everything-becomes-content
+- main-goals
+- second-brain-northstar
+- ak47-simplicity
+- decompose-into-parallel-sessions

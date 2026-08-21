@@ -41,20 +41,20 @@ source: Palo Alto AI Research Lab — deep research programme
 - Финальный выбор (Option A/B/C) и волны внедрения S10 ждут решения Антона ('+').
 
 ## Источник
-- DR-ID `DR26-07-16-HUB-02` · реестр [[_DR-Registry]]
-- оригинал: `E:\Obsidian\Anton-Knowledge\05-Resources\Deep-Research\DR26-07-16-HUB-02-split-brain-hardening-PROMPT.md`
-- оригинал: `E:\Obsidian\_originals\deep-research\DR26-07-16-HUB-02-split-brain-hardening-grok.md`
-- оригинал: `E:\Obsidian\_originals\deep-research\DR26-07-16-HUB-02-split-brain-hardening-chatgpt.md`
-- оригинал: `E:\Obsidian\Anton-Knowledge\02-Decisions\decision-2026-07-16-split-brain-hardening-DR26-07-16-HUB-02.md`
-- оригинал: `E:\Obsidian\_originals\deep-research\DR26-07-16-HUB-02-split-brain-hardening-gemini.md`
+- DR-ID `DR26-07-16-HUB-02` · реестр _DR-Registry
+- оригинал: «внутренний путь лаборатории»
+- оригинал: «внутренний путь лаборатории»
+- оригинал: «внутренний путь лаборатории»
+- оригинал: «внутренний путь лаборатории»
+- оригинал: «внутренний путь лаборатории»
 
 ## Связано
-- [[roaming-arbiter]]
-- [[consensus.py]]
-- [[machine-bus-telegram-rail]]
-- [[one-system-propagate]]
-- [[multi-machine-auto-consensus]]
-- [[own-fleet-peer-equality]]
-- [[vps-anchor-node]]
-- [[fencing-tokens]]
-- [[insight-DR-DR26-07-17-HUB-02-prior-art-защита-4-узлового-консенсуса-от-split-br]] — twin DR report on the identical split-brain/fencing/epoch topic for the same fleet
+- roaming-arbiter
+- consensus.py
+- machine-bus-telegram-rail
+- one-system-propagate
+- multi-machine-auto-consensus
+- own-fleet-peer-equality
+- vps-anchor-node
+- fencing-tokens
+- insight-DR-DR26-07-17-HUB-02-prior-art-защита-4-узлового-консенсуса-от-split-br — twin DR report on the identical split-brain/fencing/epoch topic for the same fleet

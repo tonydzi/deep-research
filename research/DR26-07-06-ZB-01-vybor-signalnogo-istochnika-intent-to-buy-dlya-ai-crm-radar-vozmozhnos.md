@@ -43,14 +43,14 @@ source: Palo Alto AI Research Lab — deep research programme
 - Как именно строить alias/entity-resolution таблицу для крипто-сущностей своими силами — механизм в отчёте не детализирован
 
 ## Источник
-- DR-ID `DR26-07-06-ZB-01` · реестр [[_DR-Registry]]
-- оригинал: `E:\Obsidian\_originals\deep-research\2026-07-06-DR26-07-06-ZB-01-intent-signal-source.md`
+- DR-ID `DR26-07-06-ZB-01` · реестр _DR-Registry
+- оригинал: «внутренний путь лаборатории»
 
 ## Связано
-- [[AI-CRM Радар возможностей]]
-- [[intent-to-buy signal]]
-- [[crypto/Web3 data providers]]
-- [[ak47-simplicity]]
-- [[vault-data-architecture]]
-- [[decision-radar-signal-source-v1]]
-- [[insight-DR-DR26-07-28-HUB-16-2339-выбор-источника-сигнала-intent-to-buy-для-ai-crm-р]] — практически идентичный DR (тот же вопрос, тот же рекомендованный источник) на 3 недели раньше
+- AI-CRM Радар возможностей
+- intent-to-buy signal
+- crypto/Web3 data providers
+- ak47-simplicity
+- vault-data-architecture
+- decision-radar-signal-source-v1
+- insight-DR-DR26-07-28-HUB-16-2339-выбор-источника-сигнала-intent-to-buy-для-ai-crm-р — практически идентичный DR (тот же вопрос, тот же рекомендованный источник) на 3 недели раньше

@@ -44,16 +44,16 @@ source: Palo Alto AI Research Lab — deep research programme
 - Unresolved compromise on AI-disclosure: whether per-post 'AI used' labeling is needed, or whether a human-led editorial standard without per-post disclosure suffices given audience trust research.
 
 ## Источник
-- DR-ID `DR26-07-04-ZB-07` · реестр [[_DR-Registry]]
-- оригинал: `E:\Obsidian\_originals\deep-research\DR26-07-04-ZB-07-voice-to-content-editorial-systems.md`
+- DR-ID `DR26-07-04-ZB-07` · реестр _DR-Registry
+- оригинал: «внутренний путь лаборатории»
 
 ## Связано
-- [[content-factory]]
-- [[content-miner-reflex]]
-- [[voice-preservation]]
-- [[spoken-to-written-conversion]]
-- [[AI-slop]]
-- [[platform-authenticity-signals]]
-- [[ghostwriting-workflow]]
-- [[personalization-embeddings]]
-- [[insight-DR-DR26-07-28-HUB-22-2339-voice-to-content-editorial-systems-achieving-near-]] — более ранний DR по идентичной теме (voice-to-content, near-100% conversion)
+- content-factory
+- content-miner-reflex
+- voice-preservation
+- spoken-to-written-conversion
+- AI-slop
+- platform-authenticity-signals
+- ghostwriting-workflow
+- personalization-embeddings
+- insight-DR-DR26-07-28-HUB-22-2339-voice-to-content-editorial-systems-achieving-near- — более ранний DR по идентичной теме (voice-to-content, near-100% conversion)

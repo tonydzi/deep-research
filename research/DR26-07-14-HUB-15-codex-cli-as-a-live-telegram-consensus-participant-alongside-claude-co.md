@@ -43,17 +43,17 @@ source: Palo Alto AI Research Lab — deep research programme
 - The gemini vendor section was truncated in the source report before its Strategic Recommendations/Action Plan/Sources sections could be captured, so its full source list and final synthesis were not available for this distillation.
 
 ## Источник
-- DR-ID `DR26-07-14-HUB-15` · реестр [[_DR-Registry]]
-- оригинал: `E:\Obsidian\_originals\deep-research\DR26-07-14-HUB-15-codex-consensus-chat-chatgpt.md`
-- оригинал: `E:\Obsidian\_originals\deep-research\DR26-07-14-HUB-15-codex-consensus-chat-gemini.md`
-- оригинал: `E:\Obsidian\_originals\deep-research\DR26-07-14-HUB-15-codex-consensus-chat-grok.md`
+- DR-ID `DR26-07-14-HUB-15` · реестр _DR-Registry
+- оригинал: «внутренний путь лаборатории»
+- оригинал: «внутренний путь лаборатории»
+- оригинал: «внутренний путь лаборатории»
 
 ## Связано
-- [[codex-app-server]]
-- [[multi-agent-debate-vs-voting]]
-- [[prompt-injection-defense]]
-- [[ed25519-message-signing]]
-- [[consensus-engine-artifact-exchange]]
-- [[openai-subscription-quotas]]
-- [[machine-bus-telegram-rail]]
-- [[single-writer-review-pattern]]
+- codex-app-server
+- multi-agent-debate-vs-voting
+- prompt-injection-defense
+- ed25519-message-signing
+- consensus-engine-artifact-exchange
+- openai-subscription-quotas
+- machine-bus-telegram-rail
+- single-writer-review-pattern

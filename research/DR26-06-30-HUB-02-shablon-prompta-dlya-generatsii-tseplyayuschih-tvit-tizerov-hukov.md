@@ -36,10 +36,10 @@ source: Palo Alto AI Research Lab — deep research programme
 - Источники эффективности хуков названы обобщённо («исследования и рекомендации по копирайтингу и SMM») без точных ссылок
 
 ## Источник
-- DR-ID `DR26-06-30-HUB-02` · реестр [[_DR-Registry]]
-- оригинал: `E:\Obsidian\_originals\deep-research\DR26-06-30-HUB-02-a-шаблон-промпта-для-генеративной-модели.md`
+- DR-ID `DR26-06-30-HUB-02` · реестр _DR-Registry
+- оригинал: «внутренний путь лаборатории»
 
 ## Связано
-- [[ak47-simplicity]]
-- [[everything-becomes-content]]
-- [[content-factory]]
+- ak47-simplicity
+- everything-becomes-content
+- content-factory

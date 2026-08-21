@@ -40,13 +40,13 @@ source: Palo Alto AI Research Lab — deep research programme
 - Неофициальные пороги (например, '1 пост в 6-10 минут для FB') основаны на жалобах пользователей, а не на официальной документации — точность не подтверждена.
 
 ## Источник
-- DR-ID `DR26-06-30-HUB-03` · реестр [[_DR-Registry]]
-- оригинал: `E:\Obsidian\_originals\deep-research\DR26-06-30-HUB-03-официальные-api-2025-2026.md`
+- DR-ID `DR26-06-30-HUB-03` · реестр _DR-Registry
+- оригинал: «внутренний путь лаборатории»
 
 ## Связано
-- [[chrome-autonomy-self-drive]]
-- [[fb-post]]
-- [[credential-store]]
-- [[content-factory]]
-- [[telegram-account-identities]]
-- [[insight-DR-DR26-07-04-HUB-06-x-api-v2-posting-fb-graph-reading-own-posts-july-2]] — тот же DR-кластер про официальные API X/Facebook
+- chrome-autonomy-self-drive
+- fb-post
+- credential-store
+- content-factory
+- telegram-account-identities
+- insight-DR-DR26-07-04-HUB-06-x-api-v2-posting-fb-graph-reading-own-posts-july-2 — тот же DR-кластер про официальные API X/Facebook

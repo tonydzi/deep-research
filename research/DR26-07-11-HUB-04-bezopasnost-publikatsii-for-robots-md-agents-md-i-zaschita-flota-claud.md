@@ -43,15 +43,15 @@ source: Palo Alto AI Research Lab — deep research programme
 - Обходы sandbox Claude Code (deny-rule bypass при >50 сабкомандах, command injection через имена веток/PR/issues, sandbox escape CVEs 2026) не полностью закрыты — требуют дополнительных слоёв поверх встроенной защиты
 
 ## Источник
-- DR-ID `DR26-07-11-HUB-04` · реестр [[_DR-Registry]]
-- оригинал: `E:\Obsidian\_originals\deep-research\DR26-07-10-MACANTON-01-outbound-security-grok.md`
+- DR-ID `DR26-07-11-HUB-04` · реестр _DR-Registry
+- оригинал: «внутренний путь лаборатории»
 
 ## Связано
-- [[prompt-injection-defense]]
-- [[agent-security]]
-- [[consent-based-instructions]]
-- [[supply-chain-security]]
-- [[claude-code-sandbox]]
-- [[AGENTS-md-standard]]
-- [[threat-modeling-ai-agents]]
-- [[CaMeL]]
+- prompt-injection-defense
+- agent-security
+- consent-based-instructions
+- supply-chain-security
+- claude-code-sandbox
+- AGENTS-md-standard
+- threat-modeling-ai-agents
+- CaMeL

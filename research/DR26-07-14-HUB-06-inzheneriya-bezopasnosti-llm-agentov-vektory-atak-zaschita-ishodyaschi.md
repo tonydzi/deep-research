@@ -41,15 +41,15 @@ source: Palo Alto AI Research Lab — deep research programme
 - Не уточнено, применимы ли предложенные инструменты (Augustus, SkillSpector, Veil Armor) к текущей инфраструктуре Антона (флот Claude Code + Telegram + файловая шина) без доп. интеграции
 
 ## Источник
-- DR-ID `DR26-07-14-HUB-06` · реестр [[_DR-Registry]]
-- оригинал: `E:\Obsidian\_originals\deep-research\DL-2026-07-14--DR26-07-10-MACANTON-01-gemini-raw.md`
+- DR-ID `DR26-07-14-HUB-06` · реестр _DR-Registry
+- оригинал: «внутренний путь лаборатории»
 
 ## Связано
-- [[prompt-injection]]
-- [[agentic-workflow-injection]]
-- [[supply-chain-security]]
-- [[AGENTS-md-standard]]
-- [[MCP-security]]
-- [[CI-CD-security]]
-- [[multi-agent-authentication]]
-- [[credential-store]]
+- prompt-injection
+- agentic-workflow-injection
+- supply-chain-security
+- AGENTS-md-standard
+- MCP-security
+- CI-CD-security
+- multi-agent-authentication
+- credential-store

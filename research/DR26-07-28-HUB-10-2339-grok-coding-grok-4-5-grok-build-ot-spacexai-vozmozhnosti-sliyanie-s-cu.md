@@ -39,15 +39,15 @@ source: Palo Alto AI Research Lab — deep research programme
 - Неясно, когда Grok Build выйдет из беты и станет доступен шире текущей узкой подписочной аудитории
 
 ## Источник
-- DR-ID `DR26-07-28-HUB-10-2339` · реестр [[_DR-Registry]]
-- оригинал: `E:\Obsidian\_originals\deep-research\DR26-07-28-HUB-10-2339-issledovanie-grok-coding-chatgpt.md`
-- оригинал: `E:\Obsidian\Anton-Knowledge\01-Conversations\ChatGPT\conversations\2026-07-21-issledovanie-grok-coding-6a5f9a38.md`
+- DR-ID `DR26-07-28-HUB-10-2339` · реестр _DR-Registry
+- оригинал: «внутренний путь лаборатории»
+- оригинал: «внутренний путь лаборатории»
 
 ## Связано
-- [[AI-кодинг-ассистенты]]
-- [[Claude Code]]
-- [[Cursor]]
-- [[агентное программирование]]
-- [[сравнение LLM для кода]]
-- [[vendor lock-in]]
-- [[insight-DR-DR26-08-02-ZB-05-2357-cursor-anysphere-как-имплементер-3-в-мульти-llm-ко]] — same SpaceX/xAI/Grok/Cursor merger fact central to this DR
+- AI-кодинг-ассистенты
+- Claude Code
+- Cursor
+- агентное программирование
+- сравнение LLM для кода
+- vendor lock-in
+- insight-DR-DR26-08-02-ZB-05-2357-cursor-anysphere-как-имплементер-3-в-мульти-llm-ко — same SpaceX/xAI/Grok/Cursor merger fact central to this DR

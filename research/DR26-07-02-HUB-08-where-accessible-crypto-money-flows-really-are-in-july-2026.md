@@ -43,15 +43,15 @@ source: Palo Alto AI Research Lab — deep research programme
 - Unclear how fast grant-package clients (Ethereum/Solana/Avalanche) convert to paid retainer relationships versus one-off engagement.
 
 ## Источник
-- DR-ID `DR26-07-02-HUB-08` · реестр [[_DR-Registry]]
-- оригинал: `E:\Obsidian\_originals\deep-research\2026-07-02-crypto-money-flows-DR.md`
+- DR-ID `DR26-07-02-HUB-08` · реестр _DR-Registry
+- оригинал: «внутренний путь лаборатории»
 
 ## Связано
-- [[stablecoins]]
-- [[tokenized-RWA]]
-- [[Canton-network]]
-- [[crypto-VC-funding]]
-- [[OTC-crypto-treasury]]
-- [[exchange-listing-process]]
-- [[crypto-M&A]]
-- [[broker-dealer-risk]]
+- stablecoins
+- tokenized-RWA
+- Canton-network
+- crypto-VC-funding
+- OTC-crypto-treasury
+- exchange-listing-process
+- crypto-M&A
+- broker-dealer-risk

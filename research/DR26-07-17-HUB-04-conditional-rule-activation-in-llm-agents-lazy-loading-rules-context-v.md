@@ -42,12 +42,12 @@ source: Palo Alto AI Research Lab — deep research programme
 - Whether Anthropic will ship native lazy-loading for skills/MCP tools/rules (the Apr 2026 feature request status/timeline is unresolved).
 
 ## Источник
-- DR-ID `DR26-07-17-HUB-04` · реестр [[_DR-Registry]]
-- оригинал: `E:\Obsidian\_originals\deep-research\DR26-07-17-HUB-04-conditional-rule-activation-in-llm-agents.md`
+- DR-ID `DR26-07-17-HUB-04` · реестр _DR-Registry
+- оригинал: «внутренний путь лаборатории»
 
 ## Связано
-- [[memory-index-hygiene]]
-- [[claude-md-compression-contract]]
-- [[write-service-files-tight-no-recompress]]
-- [[skill-authoring-portable-paths]]
-- [[test-after-build-skill]]
+- memory-index-hygiene
+- claude-md-compression-contract
+- write-service-files-tight-no-recompress
+- skill-authoring-portable-paths
+- test-after-build-skill

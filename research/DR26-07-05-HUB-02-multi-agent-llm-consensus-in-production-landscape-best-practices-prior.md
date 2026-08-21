@@ -43,17 +43,17 @@ source: Palo Alto AI Research Lab — deep research programme
 - No confirmed production postmortem exists for genuine multi-agent collusion — open whether this reflects true rarity or just underreporting, since collusion risk is otherwise well modeled in research (DecentLLMs, agent-blockchain surveys).
 
 ## Источник
-- DR-ID `DR26-07-05-HUB-02` · реестр [[_DR-Registry]]
-- оригинал: `E:\Obsidian\_originals\deep-research\DR26-07-05-HUB-02-agent-consensus-chatgpt.md`
-- оригинал: `E:\Obsidian\_originals\deep-research\DR26-07-05-HUB-02-agent-consensus-gemini.md`
-- оригинал: `E:\Obsidian\_originals\deep-research\DR26-07-05-HUB-02-agent-consensus-grok.md`
+- DR-ID `DR26-07-05-HUB-02` · реестр _DR-Registry
+- оригинал: «внутренний путь лаборатории»
+- оригинал: «внутренний путь лаборатории»
+- оригинал: «внутренний путь лаборатории»
 
 ## Связано
-- [[multi-machine-auto-consensus]]
-- [[machine-governance-leader-follower]]
-- [[remote-approval-qqq]]
-- [[multi-agent-offer-reflex]]
-- [[verify-existing-before-proposing]]
-- [[ak47-simplicity]]
-- [[one-system-propagate]]
-- [[machine-bus-telegram-rail]]
+- multi-machine-auto-consensus
+- machine-governance-leader-follower
+- remote-approval-qqq
+- multi-agent-offer-reflex
+- verify-existing-before-proposing
+- ak47-simplicity
+- one-system-propagate
+- machine-bus-telegram-rail

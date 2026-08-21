@@ -42,13 +42,13 @@ source: Palo Alto AI Research Lab — deep research programme
 - The line between personal note-taking and Telegram's ban on using scraped API data to train/fine-tune AI models is not fully resolved legally — treated as a caution zone, not formal legal advice.
 
 ## Источник
-- DR-ID `DR26-06-22-HUB-01` · реестр [[_DR-Registry]]
-- оригинал: `E:\Obsidian\_originals\deep-research\DR26-06-22-HUB-01-designing-an-ai-creator-watcher-for-practical.md`
+- DR-ID `DR26-06-22-HUB-01` · реестр _DR-Registry
+- оригинал: «внутренний путь лаборатории»
 
 ## Связано
-- [[second-brain-northstar]]
-- [[vault-data-architecture]]
-- [[model-routing-sonnet-grunt]]
-- [[ai-creator-watcher]]
-- [[knowledge-decay-freshness]]
-- [[alpha-score-formula]]
+- second-brain-northstar
+- vault-data-architecture
+- model-routing-sonnet-grunt
+- ai-creator-watcher
+- knowledge-decay-freshness
+- alpha-score-formula

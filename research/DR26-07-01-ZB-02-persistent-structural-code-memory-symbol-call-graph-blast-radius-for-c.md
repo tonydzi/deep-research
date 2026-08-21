@@ -8,7 +8,7 @@ source: Palo Alto AI Research Lab — deep research programme
 
 # Insight (DR DR26-07-01-ZB-02): Persistent structural code memory (symbol/call-graph, blast-radius) for coding agents like Claude Code/Codex
 
-> ⚠️ **UPDATE 2026-07-14:** эта заметка была сгенерена по ПРОМПТУ (тела отчёта тогда не было — ChatGPT не отдаёт DR через экспорт). Полный отчёт СОБРАН 14.07 (Export→Markdown), лежит в `_originals\deep-research\` (путь в «Источник»). Актуальный синтез: [[decision-agent-stack-dr-bundle-synthesis-2026-07-14]].
+> ⚠️ **UPDATE 2026-07-14:** эта заметка была сгенерена по ПРОМПТУ (тела отчёта тогда не было — ChatGPT не отдаёт DR через экспорт). Полный отчёт СОБРАН 14.07 (Export→Markdown), лежит в `_originals\deep-research\` (путь в «Источник»). Актуальный синтез: decision-agent-stack-dr-bundle-synthesis-2026-07-14.
 
 
 > Research request (deep-research not yet returned in this capture) on whether a solo operator should adopt an existing code-graph tool like codegraph vs alternatives to give coding agents persistent structural memory of a codebase and cut token usage while preventing regressions.
@@ -39,13 +39,13 @@ source: Palo Alto AI Research Lab — deep research programme
 - How stale-index and false-symbol-match failure modes should be mitigated in practice for a solo operator's multi-repo setup.
 
 ## Источник
-- DR-ID `DR26-07-01-ZB-02` · реестр [[_DR-Registry]]
-- оригинал: `E:\Obsidian\_originals\deep-research\DR26-07-01-ZB-02-codebase-memory-for-agents-6a4adc2c-chatgpt.md`
+- DR-ID `DR26-07-01-ZB-02` · реестр _DR-Registry
+- оригинал: «внутренний путь лаборатории»
 
 ## Связано
-- [[codegraph]]
-- [[vault-data-architecture]]
-- [[verify-existing-before-proposing]]
-- [[desktop-max-laptop-min]]
-- [[agent-stack-bundle]]
-- [[insight-DR-DR26-07-28-HUB-21-2339-persistent-structural-code-memory-for-coding-agent]] — тот же вопрос (structural code memory/CodeGraph); новый отчёт — полноценное продолжение
+- codegraph
+- vault-data-architecture
+- verify-existing-before-proposing
+- desktop-max-laptop-min
+- agent-stack-bundle
+- insight-DR-DR26-07-28-HUB-21-2339-persistent-structural-code-memory-for-coding-agent — тот же вопрос (structural code memory/CodeGraph); новый отчёт — полноценное продолжение

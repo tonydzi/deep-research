@@ -46,14 +46,14 @@ source: Palo Alto AI Research Lab — deep research programme
 - Насколько применимы найденные вендоры/риски (Entropic, ClawUp и т.д.) к текущему состоянию рынка на момент реального решения — рынок быстро меняется
 
 ## Источник
-- DR-ID `DR26-05-01-HUB-01` · реестр [[_DR-Registry]]
-- оригинал: `E:\Obsidian\_originals\deep-research\DR26-05-01-HUB-01-рынок-и-поставщики-вокруг-openclaw-сетапы-инт.md`
+- DR-ID `DR26-05-01-HUB-01` · реестр _DR-Registry
+- оригинал: «внутренний путь лаборатории»
 
 ## Связано
-- [[openclaw]]
-- [[ai-agent-security]]
-- [[skills-marketplace-risk]]
-- [[vendor-due-diligence]]
-- [[self-host-vs-managed]]
-- [[agentic-ai-attack-surface]]
-- [[insight-DR-DR26-07-14-HUB-12-рынок-и-поставщики-вокруг-openclaw-сетапы-интеграт]] — дословно тот же заголовок и вопрос про рынок/поставщиков OpenClaw, более ранний фанаут того же DR
+- openclaw
+- ai-agent-security
+- skills-marketplace-risk
+- vendor-due-diligence
+- self-host-vs-managed
+- agentic-ai-attack-surface
+- insight-DR-DR26-07-14-HUB-12-рынок-и-поставщики-вокруг-openclaw-сетапы-интеграт — дословно тот же заголовок и вопрос про рынок/поставщиков OpenClaw, более ранний фанаут того же DR

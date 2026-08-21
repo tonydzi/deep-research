@@ -41,13 +41,13 @@ source: Palo Alto AI Research Lab — deep research programme
 - Как хранить и синхронизировать историю обработанных message_id между агентами (локальный файл vs БД) — не детализировано.
 
 ## Источник
-- DR-ID `DR26-06-26-HUB-03` · реестр [[_DR-Registry]]
-- оригинал: `E:\Obsidian\_originals\deep-research\DR26-06-26-HUB-03-1-сравнение-каналов-связи.md`
+- DR-ID `DR26-06-26-HUB-03` · реестр _DR-Registry
+- оригинал: «внутренний путь лаборатории»
 
 ## Связано
-- [[machine-bus-telegram-rail]]
-- [[one-system-propagate]]
-- [[credential-store]]
-- [[ak47-simplicity]]
-- [[sync-via-telegram-03-mandatory]]
-- [[peer-liveness-live-signal]]
+- machine-bus-telegram-rail
+- one-system-propagate
+- credential-store
+- ak47-simplicity
+- sync-via-telegram-03-mandatory
+- peer-liveness-live-signal

@@ -69,4 +69,4 @@ source: Palo Alto AI Research Lab — deep research programme
 ## Наши собственные замеры (31.07, песочница) — держатся
 115 моделей, живой ответ `PONG` без единого ключа через `deepseek-v4-flash`, upstream — один Cloudflare-адрес рядом с `opencode.ai`, в простое исходящих нет. Каталог: 104 провайдера в константах (не 290+), совсем без ключа работают 3 (все поисковые), из 28 web-cookie провайдеров 21 сам проект метит `subscriptionRisk: true`, включая `claude-web` с подсказкой «вставь cookie с claude.ai».
 
-Связано: [[insight-omniroute-sandbox-test-2026-07-31]], [[insight-omniroute-router-recon-2026-07-31]], [[prefer-included-limits-before-paid-api]], [[dead-claim-needs-sweep-of-all-surfaces]], [[dr-originals-deleted-not-undelivered]].
+Связано: insight-omniroute-sandbox-test-2026-07-31, insight-omniroute-router-recon-2026-07-31, prefer-included-limits-before-paid-api, dead-claim-needs-sweep-of-all-surfaces, dr-originals-deleted-not-undelivered.

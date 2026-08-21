@@ -40,14 +40,14 @@ source: Palo Alto AI Research Lab — deep research programme
 - Не уточнено, как разрешать конфликты, если сразу несколько узлов предлагают разные фиксы одного файла одновременно
 
 ## Источник
-- DR-ID `DR26-07-07-HUB-07` · реестр [[_DR-Registry]]
-- оригинал: `E:\Obsidian\_originals\deep-research\DR26-07-07-MACANTON-02-canon-dist-grok.md`
+- DR-ID `DR26-07-07-HUB-07` · реестр _DR-Registry
+- оригинал: «внутренний путь лаборатории»
 
 ## Связано
-- [[machine-bus-telegram-rail]]
-- [[one-system-propagate]]
-- [[config-safety-backup-and-migration-check]]
-- [[coordinate-sessions-before-sensitive-edit]]
-- [[claude-skills-git-backup]]
-- [[onair-board]]
-- [[decision-2026-07-24-peer-scripts-delivery-channel]] — тот же вопрос доставки скриптов на гетерогенный флот
+- machine-bus-telegram-rail
+- one-system-propagate
+- config-safety-backup-and-migration-check
+- coordinate-sessions-before-sensitive-edit
+- claude-skills-git-backup
+- onair-board
+- decision-2026-07-24-peer-scripts-delivery-channel — тот же вопрос доставки скриптов на гетерогенный флот

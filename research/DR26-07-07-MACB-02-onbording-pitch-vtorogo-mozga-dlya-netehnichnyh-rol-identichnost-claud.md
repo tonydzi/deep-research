@@ -8,7 +8,7 @@ source: Palo Alto AI Research Lab — deep research programme
 
 # Онбординг-питч «второго мозга»: как продавать нетехничным и как вшивать роль в Claude-ведомого
 
-> ⚠️ Один вендор (ChatGPT DR). Сиблинг-синтез от 07.07 (сделан на MacBook): [[insight-DR-DR26-07-07-MACB-02-onboarding-pitch-second-brain-messaging]] — эта заметка добавляет готовые RU-формулировки питча и конкретные предложения в скилл `follower-onboard`.
+> ⚠️ Один вендор (ChatGPT DR). Сиблинг-синтез от 07.07 (сделан на MacBook): insight-DR-DR26-07-07-MACB-02-onboarding-pitch-second-brain-messaging — эта заметка добавляет готовые RU-формулировки питча и конкретные предложения в скилл `follower-onboard`.
 
 ## TL;DR
 
@@ -53,9 +53,9 @@ source: Palo Alto AI Research Lab — deep research programme
 
 ## Источник
 
-- Оригинал (verbatim): `E:\Obsidian\_originals\deep-research\DR26-07-07-MACB-02-onboarding-pitch-chatgpt.md` (ChatGPT Deep Research, 2026-07-07; один вендор). ⚠️ Реестр указывает путь `_originals/deep-research/` относительно `Anton-Knowledge` — фактически файл лежит уровнем выше, в `E:\Obsidian\_originals\`.
-- Реестр: [[_DR-Registry]] — DR26-07-07-MACB-02, status collected.
-- Сиблинг-синтез (07.07, MacBook): [[insight-DR-DR26-07-07-MACB-02-onboarding-pitch-second-brain-messaging]].
+- Оригинал (verbatim): «внутренний путь лаборатории» (ChatGPT Deep Research, 2026-07-07; один вендор). ⚠️ Реестр указывает путь `_originals/deep-research/` относительно `Anton-Knowledge` — фактически файл лежит уровнем выше, в «внутренний путь лаборатории».
+- Реестр: _DR-Registry — DR26-07-07-MACB-02, status collected.
+- Сиблинг-синтез (07.07, MacBook): insight-DR-DR26-07-07-MACB-02-onboarding-pitch-second-brain-messaging.
 - Ключевые внешние опоры отчёта: Zheng et al. (ACL Findings 2024, персоны в system prompt), CoALA (arXiv 2024), Rapp & Cena (IJHCS 2016, personal informatics), NN/g (progressive disclosure, антропоморфизм), практика OpenAI Memory / LangGraph / Letta / Mem0 / Readwise / Recall-бэклэш.
 
 ---

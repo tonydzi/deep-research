@@ -41,18 +41,18 @@ source: Palo Alto AI Research Lab — deep research programme
 - The general 'decision fatigue' theory remains unresolved/mixed in its own literature — unclear how much of it (if any) should be folded back into the approval-fatigue model.
 
 ## Источник
-- DR-ID `DR26-07-08-MACB-01` · реестр [[_DR-Registry]]
-- оригинал: `E:\Obsidian\_originals\deep-research\DR26-07-08-MACB-01-approval-fatigue-task-drift.md`
-- оригинал: `E:\Obsidian\_originals\DR26-07-08-MACB-01-approval-fatigue-task-drift.md`
+- DR-ID `DR26-07-08-MACB-01` · реестр _DR-Registry
+- оригинал: «внутренний путь лаборатории»
+- оригинал: «внутренний путь лаборатории»
 
 ## Связано
-- [[session-anchor-and-drift-check]]
-- [[approval-fatigue]]
-- [[goal-drift]]
-- [[plan-first-workflow]]
-- [[bounded-autonomy]]
-- [[worktree-isolation]]
-- [[context-compaction]]
-- [[alert-fatigue]]
-- [[insight-DR-DR26-07-14-HUB-02-approval-fatigue-and-task-drift-in-agentic-ai-codi]] — почти дословный дубль-тема (тот же DR-вопрос approval fatigue/task drift), другая дата синтеза
-- [[insight-DR-DR26-07-28-HUB-14-2339-approval-fatigue-и-task-drift-в-агентном-ai-кодинг]] — тот же топик DR — approval fatigue и task drift, самый ранний отчёт серии
+- session-anchor-and-drift-check
+- approval-fatigue
+- goal-drift
+- plan-first-workflow
+- bounded-autonomy
+- worktree-isolation
+- context-compaction
+- alert-fatigue
+- insight-DR-DR26-07-14-HUB-02-approval-fatigue-and-task-drift-in-agentic-ai-codi — почти дословный дубль-тема (тот же DR-вопрос approval fatigue/task drift), другая дата синтеза
+- insight-DR-DR26-07-28-HUB-14-2339-approval-fatigue-и-task-drift-в-агентном-ai-кодинг — тот же топик DR — approval fatigue и task drift, самый ранний отчёт серии

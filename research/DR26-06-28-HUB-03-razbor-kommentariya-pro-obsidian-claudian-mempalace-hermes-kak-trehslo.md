@@ -41,15 +41,15 @@ source: Palo Alto AI Research Lab — deep research programme
 - Как на практике контролировать дрейф структуры (папки/индексы/маршруты) в длительной эксплуатации без постоянного ручного рефакторинга
 
 ## Источник
-- DR-ID `DR26-06-28-HUB-03` · реестр [[_DR-Registry]]
-- оригинал: `E:\Obsidian\_originals\deep-research\DR26-06-28-HUB-03-разбор-комментария-про-obsidian-mempalace-her.md`
+- DR-ID `DR26-06-28-HUB-03` · реестр _DR-Registry
+- оригинал: «внутренний путь лаборатории»
 
 ## Связано
-- [[obsidian-vault-architecture]]
-- [[long-term-memory-llm]]
-- [[context-engineering]]
-- [[agent-memory-hierarchy]]
-- [[second-brain-northstar]]
-- [[vault-data-architecture]]
-- [[self-hosted-agent-gateway]]
-- [[chatgpt-plan-limits]]
+- obsidian-vault-architecture
+- long-term-memory-llm
+- context-engineering
+- agent-memory-hierarchy
+- second-brain-northstar
+- vault-data-architecture
+- self-hosted-agent-gateway
+- chatgpt-plan-limits

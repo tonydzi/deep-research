@@ -8,7 +8,7 @@ source: Palo Alto AI Research Lab — deep research programme
 
 # Синтез 3/3: голос Reddit (r/LocalLLaMA, r/ClaudeAI, r/AI_Agents, r/MachineLearning, r/SideProject)
 
-Веер: ChatGPT Pro (самый глубокий: реальные посты с апрувами, мод-посты, karma-гейты, кейсы удалений) + Gemini (лучший план прогрева и Sandwich Method) + Grok (свежие мод-апдейты апреля 2026, X-сигнал). Итог ушёл в профиль [[voice-reddit]].
+Веер: ChatGPT Pro (самый глубокий: реальные посты с апрувами, мод-посты, karma-гейты, кейсы удалений) + Gemini (лучший план прогрева и Sandwich Method) + Grok (свежие мод-апдейты апреля 2026, X-сигнал). Итог ушёл в профиль voice-reddit.
 
 ## СОШЛИСЬ (3/3, действуем как факт)
 
@@ -39,7 +39,7 @@ source: Palo Alto AI Research Lab — deep research programme
 
 ## Решение (для нас)
 
-Профиль голоса → [[voice-reddit]] v1. Аккаунт u/Ok-Tip-1318 греет Руслана ([[reddit-warmup-ruslana]]): текущая фаза = комменты (мини-чек-лист в профиле), showcase после кармы 50+ и не раньше 30 дней тёплой истории в таргет-сабах. Первый пост, когда придёт время: r/ClaudeAI, Built with Claude, с бесплатным артефактом. Постинг только с хаба ([[ip-sensitive-actions-hub-only]]), только с ОК Наташи ([[no-public-content-without-natasha-ok]]).
+Профиль голоса → voice-reddit v1. Аккаунт u/Ok-Tip-1318 греет Руслана (reddit-warmup-ruslana): текущая фаза = комменты (мини-чек-лист в профиле), showcase после кармы 50+ и не раньше 30 дней тёплой истории в таргет-сабах. Первый пост, когда придёт время: r/ClaudeAI, Built with Claude, с бесплатным артефактом. Постинг только с хаба (ip-sensitive-actions-hub-only), только с ОК Наташи (no-public-content-without-natasha-ok).
 
 ## Связано
-- [[insight-DR-DR26-07-20-HUB-01-reddit-voice-self-promotion-norms-across-r-localll]] — тот же день и тема self-promo/voice для тех же 5 сабреддитов — сиблинг-синтез той же DR-темы
+- insight-DR-DR26-07-20-HUB-01-reddit-voice-self-promotion-norms-across-r-localll — тот же день и тема self-promo/voice для тех же 5 сабреддитов — сиблинг-синтез той же DR-темы

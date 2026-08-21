@@ -46,15 +46,15 @@ source: Palo Alto AI Research Lab — deep research programme
 - Какой план Cloudflare и какой тип TLS challenge используется в Traefik
 
 ## Источник
-- DR-ID `DR26-07-05-HUB-08` · реестр [[_DR-Registry]]
-- оригинал: `E:\Obsidian\_originals\deep-research\2026-07-05-DR26-07-05-HUB-08-hetzner-migration-playbook.md`
+- DR-ID `DR26-07-05-HUB-08` · реестр _DR-Registry
+- оригинал: «внутренний путь лаборатории»
 
 ## Связано
-- [[hetzner-migration-playbook]]
-- [[docker-compose-production]]
-- [[zero-downtime-deployment]]
-- [[postgresql-logical-replication]]
-- [[rabbitmq-blue-green]]
-- [[n8n-encryption-key]]
-- [[cloudflare-origin-cutover]]
-- [[backup-3-2-1-strategy]]
+- hetzner-migration-playbook
+- docker-compose-production
+- zero-downtime-deployment
+- postgresql-logical-replication
+- rabbitmq-blue-green
+- n8n-encryption-key
+- cloudflare-origin-cutover
+- backup-3-2-1-strategy

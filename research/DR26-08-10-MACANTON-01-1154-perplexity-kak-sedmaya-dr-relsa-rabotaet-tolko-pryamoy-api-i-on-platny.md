@@ -8,7 +8,7 @@ source: Palo Alto AI Research Lab — deep research programme
 
 # Insight (DR26-08-10-MACANTON-01-1154): Perplexity — какая поверхность реально работает без человека
 
-> **База: 4 рельсы из 6** (chatgpt 66.7KB · grok 34.6KB · claude.ai 25.5KB · glm 19.2KB). Кворум §9.1 (любые 4 из 6) достигнут — слово «консенсус» законно. Не ответили: gemini, mistral. Оригиналы и SYNTHESIS.md: `_machine-bus/_dr/queue/DR26-08-10-MACANTON-01-1154/`.
+> **База: 4 рельсы из 6** (chatgpt 66.7KB · grok 34.6KB · claude.ai 25.5KB · glm 19.2KB). Кворум §9.1 (любые 4 из 6) достигнут — слово «консенсус» законно. Не ответили: gemini, mistral. Оригиналы и SYNTHESIS.md: «внутренний архив лаборатории».
 
 ## 🔴 Главное
 

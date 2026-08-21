@@ -45,14 +45,14 @@ source: Palo Alto AI Research Lab — deep research programme
 - Нет данных о стоимости/латентности предложенной архитектуры в продакшене
 
 ## Источник
-- DR-ID `DR26-06-28-HUB-02` · реестр [[_DR-Registry]]
-- оригинал: `E:\Obsidian\_originals\deep-research\DR26-06-28-HUB-02-системная-архитектура-и-хранилище-vault.md`
+- DR-ID `DR26-06-28-HUB-02` · реестр _DR-Registry
+- оригинал: «внутренний путь лаборатории»
 
 ## Связано
-- [[vault-data-architecture]]
-- [[multi-agent-offer-reflex]]
-- [[agent-protocol]]
-- [[system-architect]]
-- [[consensus-mechanisms]]
-- [[guardrails]]
-- [[RAG]]
+- vault-data-architecture
+- multi-agent-offer-reflex
+- agent-protocol
+- system-architect
+- consensus-mechanisms
+- guardrails
+- RAG

@@ -8,7 +8,7 @@ source: Palo Alto AI Research Lab — deep research programme
 
 # Insight (DR26-07-05-ZB-02): изоляция параллельных сессий на ОДНОМ компе
 
-> Постановка: как безопасно разграничить несколько одновременных AI-agent/IDE-сессий на ОДНОЙ машине с общей ФС и общим конфигом при правке одних и тех же sensitive-файлов (CLAUDE.md, MEMORY.md, ~/.claude, SQLite, secrets).
+> Постановка: как безопасно разграничить несколько одновременных AI-agent/IDE-сессий на ОДНОЙ машине с общей ФС и общим конфигом при правке одних и тех же sensitive-файлов (CLAUDE.md, MEMORY.md, «внутренний путь лаборатории», SQLite, secrets).
 > ⚠️ Провенанс: авто-синтез хаба 05.07 вышел ПУСТЫМ (транскрипт содержал только запрос, отчёт тогда не был собран). Антон принёс полный отчёт 2026-07-14 → original восстановлен на ожидаемый реестром путь, эта версия написана вручную по полному тексту и supersedes пустую.
 
 ## Ключевые выводы
@@ -39,10 +39,10 @@ source: Palo Alto AI Research Lab — deep research programme
 - «CrewDD» из промпта не существует — имелся в виду CrewAI (отчёт это сам отловил).
 
 ## Источник
-- DR-ID `DR26-07-05-ZB-02` · реестр [[_DR-Registry]]
-- оригинал: `E:\Obsidian\_originals\deep-research\DR26-07-05-ZB-02-ai-agent-session-isolation-6a4add7f-chatgpt.md` (восстановлен 2026-07-14)
+- DR-ID `DR26-07-05-ZB-02` · реестр _DR-Registry
+- оригинал: «внутренний путь лаборатории» (восстановлен 2026-07-14)
 
 ## Связано
-- [[reglament-koordinatsiya-sessiy-pered-pravkoy-sensitive-failov]] — правило, ради которого делался DR: two-tier скан подтверждён; уточнить fencing к TTL
-- [[decision-2026-07-05-onair-work-declaration-board]] — presence-реестр = подтверждённый индустрией паттерн
-- [[coordinate-sessions-before-sensitive-edit]] · [[consensus-active-session-marking]] · [[one-system-propagate]] · [[verify-existing-before-proposing]] · [[ak47-simplicity]] · [[machine-bus-telegram-rail]]
+- reglament-koordinatsiya-sessiy-pered-pravkoy-sensitive-failov — правило, ради которого делался DR: two-tier скан подтверждён; уточнить fencing к TTL
+- decision-2026-07-05-onair-work-declaration-board — presence-реестр = подтверждённый индустрией паттерн
+- coordinate-sessions-before-sensitive-edit · consensus-active-session-marking · one-system-propagate · verify-existing-before-proposing · ak47-simplicity · machine-bus-telegram-rail

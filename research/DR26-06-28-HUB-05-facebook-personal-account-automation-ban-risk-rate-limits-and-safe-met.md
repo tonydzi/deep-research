@@ -45,12 +45,12 @@ source: Palo Alto AI Research Lab — deep research programme
 - Exact detection mechanism (device/IP fingerprinting vs. behavioral pattern analysis vs. missing 'heartbeat' events) not fully disclosed — only inferred from community reports.
 
 ## Источник
-- DR-ID `DR26-06-28-HUB-05` · реестр [[_DR-Registry]]
-- оригинал: `E:\Obsidian\_originals\deep-research\DR26-06-28-HUB-05-account-safety-limits.md`
+- DR-ID `DR26-06-28-HUB-05` · реестр _DR-Registry
+- оригинал: «внутренний путь лаборатории»
 
 ## Связано
-- [[chrome-autonomy-self-drive]]
-- [[fb-post]]
-- [[fb-reply]]
-- [[credential-store]]
-- [[facebook-diary-auto]]
+- chrome-autonomy-self-drive
+- fb-post
+- fb-reply
+- credential-store
+- facebook-diary-auto

@@ -43,16 +43,16 @@ source: Palo Alto AI Research Lab — deep research programme
 - Утверждение «residential IP всегда безопаснее datacenter IP для всех сайтов» — зависит от конкретного сайта/антибот-системы, не абсолютно
 
 ## Источник
-- DR-ID `DR26-07-25-HUB-01-2126` · реестр [[_DR-Registry]]
-- оригинал: `E:\Obsidian\_originals\deep-research\DR26-07-25-HUB-01-2126-routine-placement-grok.md`
-- оригинал: `E:\Obsidian\_originals\deep-research\DR26-07-25-HUB-01-2126-grok.md`
+- DR-ID `DR26-07-25-HUB-01-2126` · реестр _DR-Registry
+- оригинал: «внутренний путь лаборатории»
+- оригинал: «внутренний путь лаборатории»
 
 ## Связано
-- [[node-doctrine-thin-anchor]]
-- [[vps-anchor-node]]
-- [[fleet-parity-board]]
-- [[one-system-propagate]]
-- [[watchdog-must-verify-the-item]]
-- [[machine-bus-telegram-rail]]
-- [[ak47-simplicity]]
-- [[decision-2026-07-31-sintez-9-dr-lokalnogo-veera]] — источник пункта №1 синтеза
+- node-doctrine-thin-anchor
+- vps-anchor-node
+- fleet-parity-board
+- one-system-propagate
+- watchdog-must-verify-the-item
+- machine-bus-telegram-rail
+- ak47-simplicity
+- decision-2026-07-31-sintez-9-dr-lokalnogo-veera — источник пункта №1 синтеза

@@ -44,15 +44,15 @@ source: Palo Alto AI Research Lab — deep research programme
 - Exact token profile for the user's own workloads is unknown — scenario cost math in the report is illustrative, not measured.
 
 ## Источник
-- DR-ID `DR26-06-25-HUB-04` · реестр [[_DR-Registry]]
-- оригинал: `E:\Obsidian\_originals\deep-research\DR26-06-25-HUB-04-claude-code-agent-teams-for-an-individual-pow.md`
+- DR-ID `DR26-06-25-HUB-04` · реестр _DR-Registry
+- оригинал: «внутренний путь лаборатории»
 
 ## Связано
-- [[multi-agent-offer-reflex]]
-- [[decompose-into-parallel-sessions]]
-- [[cowork-vs-cc-division]]
-- [[ak47-simplicity]]
-- [[model-routing-sonnet-grunt]]
-- [[deterministic-script-gotchas]]
-- [[machine-bus-telegram-rail]]
-- [[insight-DR-DR26-07-04-HUB-11-multi-session-multi-agent-orchestration-patterns-f]] — более ранний DR по тому же вопросу, который этот расширяет
+- multi-agent-offer-reflex
+- decompose-into-parallel-sessions
+- cowork-vs-cc-division
+- ak47-simplicity
+- model-routing-sonnet-grunt
+- deterministic-script-gotchas
+- machine-bus-telegram-rail
+- insight-DR-DR26-07-04-HUB-11-multi-session-multi-agent-orchestration-patterns-f — более ранний DR по тому же вопросу, который этот расширяет

@@ -46,15 +46,15 @@ source: Palo Alto AI Research Lab — deep research programme
 - No hard data yet on how large the 'anti-AI-slop' authenticity premium actually is quantitatively for solo AI-native builders specifically.
 
 ## Источник
-- DR-ID `DR26-07-02-HUB-06` · реестр [[_DR-Registry]]
-- оригинал: `E:\Obsidian\_originals\deep-research\DR26-07-02-HUB-06-authentic-narrative-engineering-for-solo-buil.md`
+- DR-ID `DR26-07-02-HUB-06` · реестр _DR-Registry
+- оригинал: «внутренний путь лаборатории»
 
 ## Связано
-- [[build-in-public]]
-- [[parasocial-interaction]]
-- [[serialized-storytelling]]
-- [[documentary-ethics]]
-- [[creator-burnout]]
-- [[authenticity-charter]]
-- [[reality-show]]
-- [[episode-content-factory]]
+- build-in-public
+- parasocial-interaction
+- serialized-storytelling
+- documentary-ethics
+- creator-burnout
+- authenticity-charter
+- reality-show
+- episode-content-factory

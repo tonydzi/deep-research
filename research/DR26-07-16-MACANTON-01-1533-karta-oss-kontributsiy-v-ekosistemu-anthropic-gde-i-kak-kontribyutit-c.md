@@ -57,11 +57,11 @@ source: Palo Alto AI Research Lab — deep research programme
 
 Синтез трёх Deep Research отчётов (fan-out 16.07.2026, собрано 21.07.2026):
 
-- [[DR26-07-16-MACANTON-01-1533-anthropic-oss-map-chatgpt]] — `E:\Obsidian\Anton-Knowledge\_originals\deep-research\DR26-07-16-MACANTON-01-1533-anthropic-oss-map-chatgpt.md` (ChatGPT Pro DR; самый заземлённый: конкретные PR/issue-номера, ревьюеры)
-- [[DR26-07-16-MACANTON-01-1533-anthropic-oss-map-gemini]] — `E:\Obsidian\Anton-Knowledge\_originals\deep-research\DR26-07-16-MACANTON-01-1533-anthropic-oss-map-gemini.md` (⚠️ DEGRADED: Flash-Lite без live web; только структурная аналитика)
-- [[DR26-07-16-MACANTON-01-1533-anthropic-oss-map-grok]] — `E:\Obsidian\Anton-Knowledge\_originals\deep-research\DR26-07-16-MACANTON-01-1533-anthropic-oss-map-grok.md` (SuperGrok Expert, 74 источника; уникальные находки: AI_POLICY.md, Claude for Open Source program)
+- DR26-07-16-MACANTON-01-1533-anthropic-oss-map-chatgpt — «внутренний путь лаборатории» (ChatGPT Pro DR; самый заземлённый: конкретные PR/issue-номера, ревьюеры)
+- DR26-07-16-MACANTON-01-1533-anthropic-oss-map-gemini — «внутренний путь лаборатории» (⚠️ DEGRADED: Flash-Lite без live web; только структурная аналитика)
+- DR26-07-16-MACANTON-01-1533-anthropic-oss-map-grok — «внутренний путь лаборатории» (SuperGrok Expert, 74 источника; уникальные находки: AI_POLICY.md, Claude for Open Source program)
 
-Реестр: [[_DR-Registry]]
+Реестр: _DR-Registry
 
 ---
 
@@ -70,4 +70,4 @@ source: Palo Alto AI Research Lab — deep research programme
 Мы спросили три умных робота: «куда Антону писать код, чтобы его заметили в Anthropic?» Все три сказали одно: не разбрасывай много маленьких кусочков, а построй одну-две большие красивые башни там, где Anthropic сама учит людей (книга рецептов cookbooks). У них уже есть список «хотим вот это» — и там просят ровно то, что у Антона уже готово и работает. Сначала доводим наш первый кирпич (PR #784) до конца, потом ставим второй — про проверку, что агент не врёт. И честно пишем: «придумал человек, печатал Claude, человек всё проверил» — за это хвалят, а за неряшливость выгоняют.
 
 ## Связано
-- [[insight-DR-DR26-07-27-MACANTON-01-0018-мультиканальный-холодный-аутрич-к-devrel-исследова]] — обе согласны: GitHub PR/issue-comment идёт ПЕРЕД холодным касанием DevRel — сирота даёт каденцию после этого шага
+- insight-DR-DR26-07-27-MACANTON-01-0018-мультиканальный-холодный-аутрич-к-devrel-исследова — обе согласны: GitHub PR/issue-comment идёт ПЕРЕД холодным касанием DevRel — сирота даёт каденцию после этого шага

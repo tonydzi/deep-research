@@ -42,18 +42,18 @@ source: Palo Alto AI Research Lab — deep research programme
 - Авторская принадлежность (external vs vendor-affiliated) части недавних мерджей в together-cookbook, NVIDIA/GenerativeAIExamples и aws-samples/amazon-bedrock-samples осталась 'ambiguous' — статус HIGH/MED для этих репо не полностью доказан.
 
 ## Источник
-- DR-ID `DR26-07-20-MACANTON-02-2127` · реестр [[_DR-Registry]]
-- оригинал: `E:\Obsidian\_originals\deep-research\DR26-07-20-MACANTON-02-2127-vendor-liveness-grok.md`
-- оригинал: `E:\Obsidian\_originals\deep-research\DR26-07-20-MACANTON-02-2127-llm-vendor-oss-contributions-6a5f151d-chatgpt.md`
-- оригинал: `E:\Obsidian\_originals\deep-research\DR26-07-20-MACANTON-02-2127-vendor-liveness-chatgpt.md`
-- оригинал: `E:\Obsidian\_originals\deep-research\DR26-07-20-MACANTON-02-2127-vendor-liveness-gemini.md`
+- DR-ID `DR26-07-20-MACANTON-02-2127` · реестр _DR-Registry
+- оригинал: «внутренний путь лаборатории»
+- оригинал: «внутренний путь лаборатории»
+- оригинал: «внутренний путь лаборатории»
+- оригинал: «внутренний путь лаборатории»
 
 ## Связано
-- [[everything-becomes-content]]
-- [[multi-vendor-cookbook-radar]]
-- [[ship-github-no-plus-wait]]
-- [[dr-numbering-registry]]
-- [[second-brain-northstar]]
-- [[cofounder-pirate-voice]]
-- [[insight-2026-07-16-recovered-lost-alpha]] — обе заметки независимо приходят к тому же выводу: xai-cookbook мёртв, живая дверь = plugin-marketplace
-- [[insight-DR-DR26-08-11-HUB-02-2212-асимметрия-слияния-pr-почему-mid-size-инфра-oss-ме]] — прямой предшественник по живости вендорских cookbook-репо (те же 5 вендоров) — эта DR продолжает и адъюдицирует гипотезу
+- everything-becomes-content
+- multi-vendor-cookbook-radar
+- ship-github-no-plus-wait
+- dr-numbering-registry
+- second-brain-northstar
+- cofounder-pirate-voice
+- insight-2026-07-16-recovered-lost-alpha — обе заметки независимо приходят к тому же выводу: xai-cookbook мёртв, живая дверь = plugin-marketplace
+- insight-DR-DR26-08-11-HUB-02-2212-асимметрия-слияния-pr-почему-mid-size-инфра-oss-ме — прямой предшественник по живости вендорских cookbook-репо (те же 5 вендоров) — эта DR продолжает и адъюдицирует гипотезу

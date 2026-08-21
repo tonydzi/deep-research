@@ -50,8 +50,8 @@ source: Palo Alto AI Research Lab — deep research programme
 
 ## Связано
 
-- [[reglament-deep-research-runbook-tri-vendora]] — сводный runbook, куда вписана методика Grok Heavy и новая грабля
-- [[reglament-numeratsiya-dr-i-reestr]] — нумерация и статусы
-- [[reglament-vneshniy-resech-vsegda-promt-i-ssylka-v-chat]] — промпт и ссылка в чат
-- [[insight-DR-DR26-07-21-HUB-02-2124-grok-heavy-as-a-deep-research-engine-architecture-]] — тот же dr_id, дублирующий RU-синтез той же темы
-- [[retro-2026-07-27-dr-best-practices-dashboard]] — ретро, закрывшее этот DR-заход + дашборд-витрина канона
+- reglament-deep-research-runbook-tri-vendora — сводный runbook, куда вписана методика Grok Heavy и новая грабля
+- reglament-numeratsiya-dr-i-reestr — нумерация и статусы
+- reglament-vneshniy-resech-vsegda-promt-i-ssylka-v-chat — промпт и ссылка в чат
+- insight-DR-DR26-07-21-HUB-02-2124-grok-heavy-as-a-deep-research-engine-architecture- — тот же dr_id, дублирующий RU-синтез той же темы
+- retro-2026-07-27-dr-best-practices-dashboard — ретро, закрывшее этот DR-заход + дашборд-витрина канона

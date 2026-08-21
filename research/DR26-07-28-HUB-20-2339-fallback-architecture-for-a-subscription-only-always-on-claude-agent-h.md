@@ -43,14 +43,14 @@ source: Palo Alto AI Research Lab — deep research programme
 - Relationship to the already-open internal DR on local Ollama+Qwen (deferred pending 16GB GPU) — whether this report supersedes or merges with that prior thread was not resolved.
 
 ## Источник
-- DR-ID `DR26-07-28-HUB-20-2339` · реестр [[_DR-Registry]]
-- оригинал: `E:\Obsidian\_originals\deep-research\DR26-07-28-HUB-20-2339-model-fallback-architecture-chatgpt.md`
-- оригинал: `E:\Obsidian\Anton-Knowledge\01-Conversations\ChatGPT\conversations\2026-07-05-model-fallback-architecture-6a49968f.md`
+- DR-ID `DR26-07-28-HUB-20-2339` · реестр _DR-Registry
+- оригинал: «внутренний путь лаборатории»
+- оригинал: «внутренний путь лаборатории»
 
 ## Связано
-- [[model-routing-fable-smart]]
-- [[model-routing-sonnet-grunt]]
-- [[prefer-included-limits-before-paid-api]]
-- [[node-doctrine-thin-anchor]]
-- [[long-task-healthcheck]]
-- [[credential-store]]
+- model-routing-fable-smart
+- model-routing-sonnet-grunt
+- prefer-included-limits-before-paid-api
+- node-doctrine-thin-anchor
+- long-task-healthcheck
+- credential-store

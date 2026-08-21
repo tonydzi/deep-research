@@ -42,16 +42,16 @@ source: Palo Alto AI Research Lab — deep research programme
 - How much weight to give aggression/confrontation traits without tipping into ego-driven bad decision-making — the report flags this as a risk to guard against but doesn't fully resolve the calibration.
 
 ## Источник
-- DR-ID `DR26-06-17-LEG-01` · реестр [[_DR-Registry]]
-- оригинал: `E:\Obsidian\_originals\deep-research\2026-06-17-synthetic-cofounder.md`
+- DR-ID `DR26-06-17-LEG-01` · реестр _DR-Registry
+- оригинал: «внутренний путь лаборатории»
 
 ## Связано
-- [[synthetic-cofounder]]
-- [[cofounder-identity]]
-- [[ak47-simplicity]]
-- [[digital-immortality]]
-- [[self-bible-identity-layer]]
-- [[venture-debt]]
-- [[AI-native-startups]]
-- [[founder-archetypes]]
-- [[decision-2026-07-21-cofounder-role-quality-dr-synthesis]] — оригинальный внешний DR-инсайт, из которого вырос decision-synthetic-cofounder, сирота его продолжение
+- synthetic-cofounder
+- cofounder-identity
+- ak47-simplicity
+- digital-immortality
+- self-bible-identity-layer
+- venture-debt
+- AI-native-startups
+- founder-archetypes
+- decision-2026-07-21-cofounder-role-quality-dr-synthesis — оригинальный внешний DR-инсайт, из которого вырос decision-synthetic-cofounder, сирота его продолжение

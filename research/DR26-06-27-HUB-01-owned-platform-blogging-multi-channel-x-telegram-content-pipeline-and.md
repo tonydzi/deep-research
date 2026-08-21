@@ -42,16 +42,16 @@ source: Palo Alto AI Research Lab — deep research programme
 - Whether Telegram automation (bot/RSS-to-Telegram) is reliable enough to replace manual group-to-channel copying.
 
 ## Источник
-- DR-ID `DR26-06-27-HUB-01` · реестр [[_DR-Registry]]
-- оригинал: `E:\Obsidian\_originals\deep-research\DR26-06-27-HUB-01-key-findings.md`
+- DR-ID `DR26-06-27-HUB-01` · реестр _DR-Registry
+- оригинал: «внутренний путь лаборатории»
 
 ## Связано
-- [[content-factory]]
-- [[creator-economy-trends]]
-- [[voice-note-to-content-pipeline]]
-- [[platform-ownership-vs-network-effects]]
-- [[build-in-public]]
-- [[multi-platform-repurposing-1-to-8]]
-- [[second-brain-northstar]]
-- [[everything-becomes-content]]
-- [[insight-DR-DR26-07-04-HUB-07-voice-note-to-content-pipeline-capture-triage-task]] — сестринский DR про voice-note-to-content и мультиканальный конвейер
+- content-factory
+- creator-economy-trends
+- voice-note-to-content-pipeline
+- platform-ownership-vs-network-effects
+- build-in-public
+- multi-platform-repurposing-1-to-8
+- second-brain-northstar
+- everything-becomes-content
+- insight-DR-DR26-07-04-HUB-07-voice-note-to-content-pipeline-capture-triage-task — сестринский DR про voice-note-to-content и мультиканальный конвейер

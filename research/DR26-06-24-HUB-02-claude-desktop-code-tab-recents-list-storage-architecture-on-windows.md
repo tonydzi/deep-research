@@ -11,10 +11,10 @@ source: Palo Alto AI Research Lab — deep research programme
 > Investigates where Claude Desktop's Code tab 'Recents' session list actually comes from on Windows and how to safely clean up unwanted/stale entries.
 
 ## Ключевые выводы
-- Recents is a hybrid, index-driven rendered catalog, not a direct listing of ~/.claude/projects/*.jsonl transcripts and not explained by live claude processes
+- Recents is a hybrid, index-driven rendered catalog, not a direct listing of «внутренний путь лаборатории»*.jsonl transcripts and not explained by live claude processes
 - Desktop app embeds a claude.ai Code web surface (https://claude.ai/epitaxy in newer builds, older builds used claude.ai/claude-code-desktop/...) on top of locally persisted state
 - Local session registry/metadata lives at %APPDATA%\Claude\claude-code-sessions\<account>\<org>\local_*.json; log evidence shows app loading 'persisted sessions' from this path
-- Transcript content is stored separately as JSONL under ~/.claude/projects/<project>/<session-id>.jsonl (official Anthropic docs), but the UI does not reliably rebuild Recents from these files alone
+- Transcript content is stored separately as JSONL under «внутренний путь лаборатории»<project>/<session-id>.jsonl (official Anthropic docs), but the UI does not reliably rebuild Recents from these files alone
 - Chromium storage (IndexedDB key conversations_v2:<timestamp>, Local Storage) acts as a UI cache/renderer layer for claude.ai surfaces, with rehydration from server on deletion — not the sole durable source
 - Cloud/remote/web Code sessions are server-side, source of truth is the account backend; only claude.ai/code offers documented archive AND permanent delete
 - Desktop sidebar only documents filter/group/rename/archive/auto-archive-after-PR — no documented per-session permanent delete, no bulk delete, no hide-untitled/sub-session toggle, no internal/headless session flag
@@ -23,7 +23,7 @@ source: Palo Alto AI Research Lab — deep research programme
 - No publicly documented bulk-delete API for consumer Claude Code sessions exists; reverse-engineered /v1/sessions/{id} archive/delete routes exist but are not documented as supported for Desktop Recents cleanup
 
 ## Рекомендации / решения
-- Back up (copy, not move) claude-code-sessions, IndexedDB, Local Storage, logs, and ~/.claude/projects/history/backups before any cleanup attempt
+- Back up (copy, not move) claude-code-sessions, IndexedDB, Local Storage, logs, and «внутренний путь лаборатории» before any cleanup attempt
 - Do in-app non-destructive cleanup first: filter/group/archive sessions in Desktop sidebar, enable auto-archive after PR merge/close
 - For cloud/web sessions, archive then permanently delete via claude.ai/code (irreversible, official flow)
 - For background sessions from agent view/--bg/--background, use documented `claude rm <id>` (removes from list, keeps transcript on disk)
@@ -44,12 +44,12 @@ source: Palo Alto AI Research Lab — deep research programme
 - Whether Anthropic will ever expose a documented per-session permanent delete in the Desktop sidebar itself (currently absent) remains unknown
 
 ## Источник
-- DR-ID `DR26-06-24-HUB-02` · реестр [[_DR-Registry]]
-- оригинал: `E:\Obsidian\_originals\deep-research\DR26-06-24-HUB-02-claude-desktop-code-recents-on-windows.md`
+- DR-ID `DR26-06-24-HUB-02` · реестр _DR-Registry
+- оригинал: «внутренний путь лаборатории»
 
 ## Связано
-- [[claude-desktop-sessions-per-account]]
-- [[crash-recovery-command]]
-- [[turnstate-ledger]]
-- [[machine-bus-telegram-rail]]
-- [[deterministic-script-gotchas]]
+- claude-desktop-sessions-per-account
+- crash-recovery-command
+- turnstate-ledger
+- machine-bus-telegram-rail
+- deterministic-script-gotchas

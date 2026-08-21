@@ -129,4 +129,4 @@ Grok: 5–15, «ТОП-20 borderline». Gemini: ≤20 — потолок. ⇒ Н
 
 ## Связано
 
-[[memory-index-hygiene]] · [[claude-md-compression-contract]] · [[write-service-files-tight-no-recompress]] · [[ak47-simplicity]] · [[shadow-first-mvp-pattern]] · [[coordinate-sessions-before-sensitive-edit]] · [[one-system-propagate]] · [[prichina-kak-claim]]
+memory-index-hygiene · claude-md-compression-contract · write-service-files-tight-no-recompress · ak47-simplicity · shadow-first-mvp-pattern · coordinate-sessions-before-sensitive-edit · one-system-propagate · prichina-kak-claim

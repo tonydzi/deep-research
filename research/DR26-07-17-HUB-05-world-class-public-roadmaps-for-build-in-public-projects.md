@@ -46,15 +46,15 @@ source: Palo Alto AI Research Lab — deep research programme
 - Whether the proposed weekly cadence / hybrid template actually improves trust for THIS specific duo is a synthesized recommendation, not independently verified.
 
 ## Источник
-- DR-ID `DR26-07-17-HUB-05` · реестр [[_DR-Registry]]
-- оригинал: `E:\Obsidian\_originals\deep-research\DR26-07-16-HUB-06-public-roadmap-chatgpt.md`
+- DR-ID `DR26-07-17-HUB-05` · реестр _DR-Registry
+- оригинал: «внутренний путь лаборатории»
 
 ## Связано
-- [[build-in-public]]
-- [[product-roadmapping]]
-- [[changelog-first-shipping]]
-- [[now-next-later-framework]]
-- [[trust-mechanics-public-communication]]
-- [[content-cascade-auto-execute-never-ask]]
-- [[everything-becomes-content]]
-- [[insight-DR-DR26-07-17-HUB-01-world-class-public-roadmaps-for-build-in-public-pr]] — near-duplicate DR report on the exact same topic, same case studies
+- build-in-public
+- product-roadmapping
+- changelog-first-shipping
+- now-next-later-framework
+- trust-mechanics-public-communication
+- content-cascade-auto-execute-never-ask
+- everything-becomes-content
+- insight-DR-DR26-07-17-HUB-01-world-class-public-roadmaps-for-build-in-public-pr — near-duplicate DR report on the exact same topic, same case studies

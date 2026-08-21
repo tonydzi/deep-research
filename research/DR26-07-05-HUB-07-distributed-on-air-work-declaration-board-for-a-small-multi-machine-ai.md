@@ -44,18 +44,18 @@ source: Palo Alto AI Research Lab — deep research programme
 - Vendors differ slightly on tie-break mechanics: ChatGPT suggests an ordered machine-priority list with human override; Grok suggests a single designated leader machine (VPS or founder session) — which exact rule to adopt is undecided.
 
 ## Источник
-- DR-ID `DR26-07-05-HUB-07` · реестр [[_DR-Registry]]
-- оригинал: `E:\Obsidian\_originals\deep-research\DR26-07-05-HUB-07-deep-research-dr26-07-05-hub-6a4aa49e-chatgpt.md`
-- оригинал: `E:\Obsidian\_originals\deep-research\DR26-07-05-HUB-07-onair-chatgpt.md`
-- оригинал: `E:\Obsidian\_originals\deep-research\DR26-07-05-HUB-07-onair-gemini.md`
-- оригинал: `E:\Obsidian\_originals\deep-research\DR26-07-05-HUB-07-onair-grok.md`
+- DR-ID `DR26-07-05-HUB-07` · реестр _DR-Registry
+- оригинал: «внутренний путь лаборатории»
+- оригинал: «внутренний путь лаборатории»
+- оригинал: «внутренний путь лаборатории»
+- оригинал: «внутренний путь лаборатории»
 
 ## Связано
-- [[onair-board]]
-- [[coordinate-sessions-before-sensitive-edit]]
-- [[machine-bus-telegram-rail]]
-- [[machine-governance-leader-follower]]
-- [[one-system-propagate]]
-- [[ak47-simplicity]]
-- [[multi-machine-auto-consensus]]
-- [[sync-via-telegram-03-mandatory]]
+- onair-board
+- coordinate-sessions-before-sensitive-edit
+- machine-bus-telegram-rail
+- machine-governance-leader-follower
+- one-system-propagate
+- ak47-simplicity
+- multi-machine-auto-consensus
+- sync-via-telegram-03-mandatory

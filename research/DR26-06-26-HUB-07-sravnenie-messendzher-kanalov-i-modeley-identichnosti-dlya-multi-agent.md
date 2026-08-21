@@ -41,11 +41,11 @@ source: Palo Alto AI Research Lab — deep research programme
 - Не оценена стоимость/сложность развёртывания и поддержки собственного Matrix/Synapse сервера
 
 ## Источник
-- DR-ID `DR26-06-26-HUB-07` · реестр [[_DR-Registry]]
-- оригинал: `E:\Obsidian\_originals\deep-research\DR26-06-26-HUB-07-сравнение-каналов-и-моделей-идентичности.md`
+- DR-ID `DR26-06-26-HUB-07` · реестр _DR-Registry
+- оригинал: «внутренний путь лаборатории»
 
 ## Связано
-- [[multi-machine-auto-consensus]]
-- [[machine-bus-telegram-rail]]
-- [[multi-agent-offer-reflex]]
-- [[multi-agent-role-discipline]]
+- multi-machine-auto-consensus
+- machine-bus-telegram-rail
+- multi-agent-offer-reflex
+- multi-agent-role-discipline

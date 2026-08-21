@@ -44,16 +44,16 @@ source: Palo Alto AI Research Lab — deep research programme
 - Whether multi-agent orchestration is worth its coordination overhead is contested — useful only when the workflow is genuinely decomposable with explicit interfaces, per conflicting vendor and research signals.
 
 ## Источник
-- DR-ID `DR26-06-18-LEG-01` · реестр [[_DR-Registry]]
-- оригинал: `E:\Obsidian\_originals\deep-research\2026-06-18-ai-native-business\ainative-deep-research-report.md`
-- оригинал: `E:\Obsidian\_originals\deep-research\2026-06-18-ai-native-business\navyki-skill-deep-research-report.md`
+- DR-ID `DR26-06-18-LEG-01` · реестр _DR-Registry
+- оригинал: «внутренний путь лаборатории»
+- оригинал: «внутренний путь лаборатории»
 
 ## Связано
-- [[ai-native-consultancy]]
-- [[agent-first-human-gated]]
-- [[productized-services]]
-- [[claude-code-vs-codex]]
-- [[agency-of-agents]]
-- [[no-slides-demo]]
-- [[process-as-product]]
-- [[warm-outbound-gtm]]
+- ai-native-consultancy
+- agent-first-human-gated
+- productized-services
+- claude-code-vs-codex
+- agency-of-agents
+- no-slides-demo
+- process-as-product
+- warm-outbound-gtm

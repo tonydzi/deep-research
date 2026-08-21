@@ -43,12 +43,12 @@ source: Palo Alto AI Research Lab — deep research programme
 - Whether Granola will ever officially support policy-based/force-start unattended recording across all meetings remains unresolved ('under consideration').
 
 ## Источник
-- DR-ID `DR26-07-02-HUB-05` · реестр [[_DR-Registry]]
-- оригинал: `E:\Obsidian\_originals\deep-research\DR26-07-02-HUB-05-reliable-programmatic-extraction-of-granola-m.md`
+- DR-ID `DR26-07-02-HUB-05` · реестр _DR-Registry
+- оригинал: «внутренний путь лаборатории»
 
 ## Связано
-- [[second-brain-northstar]]
-- [[vault-data-architecture]]
-- [[meeting-transcription-pipeline]]
-- [[unattended-etl-reliability]]
-- [[mcp-oauth-token-refresh-limitations]]
+- second-brain-northstar
+- vault-data-architecture
+- meeting-transcription-pipeline
+- unattended-etl-reliability
+- mcp-oauth-token-refresh-limitations

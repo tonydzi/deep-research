@@ -12,7 +12,7 @@ source: Palo Alto AI Research Lab — deep research programme
 
 ## Ключевые выводы
 - Лучший вариант — markdown-first журнал в Obsidian-волте (одна задача = одна заметка), а текущий SQLite становится не source of truth, а производным индексом/кэшем для HTML-дашборда и аудита.
-- Встроенные tasks Claude Code (TaskCreate/TaskUpdate/TaskGet/TaskList, hooks TaskCreated/TaskCompleted) — это операционный внутрисессионный слой, а не межмашинный backlog: сессии и auto memory по умолчанию machine-local (~/.claude/projects/), общий multi-host resume требует отдельного SDK SessionStore.
+- Встроенные tasks Claude Code (TaskCreate/TaskUpdate/TaskGet/TaskList, hooks TaskCreated/TaskCompleted) — это операционный внутрисессионный слой, а не межмашинный backlog: сессии и auto memory по умолчанию machine-local («внутренний путь лаборатории»), общий multi-host resume требует отдельного SDK SessionStore.
 - Beads (Dolt-powered AI-native issue tracker, 25k+ stars) силён для dependency-aware мультиагентной работы, но CLI-first, требует embedded Dolt (single-writer lock) или отдельный dolt sql-server, синк через Dolt remotes — не совпадает с принципом 'локально + чинится не-технарём'; часть комьюнити считает его раздутым.
 - Backlog.md — markdown-native task manager с zero-config CLI и локальным web UI, ближе всего к нужной модели, но центрирован на отдельной папке бэклога внутри проекта, а не на уже существующем Obsidian-вольте с wikilink-графом.
 - Task Master — мощный PRD-to-tasks движок с зависимостями и research mode, но тяжёлый (MCP-сервер по умолчанию грузит 36 tools ~21k токенов), избыточен для соло-оператора.
@@ -42,15 +42,15 @@ source: Palo Alto AI Research Lab — deep research programme
 - Не проверено на практике (пилотно), как поведёт себя схема при реальной миграции текущего SQLite-реестра — шаги миграции предложены, но не протестированы.
 
 ## Источник
-- DR-ID `DR26-07-04-HUB-08` · реестр [[_DR-Registry]]
-- оригинал: `E:\Obsidian\_originals\deep-research\DR26-07-04-HUB-08-журнал-задач-done-undone-для-claude-code-под.md`
+- DR-ID `DR26-07-04-HUB-08` · реестр _DR-Registry
+- оригинал: «внутренний путь лаборатории»
 
 ## Связано
-- [[ak47-simplicity]]
-- [[vault-data-architecture]]
-- [[deterministic-script-gotchas]]
-- [[multi-agent-role-discipline]]
-- [[second-brain-northstar]]
-- [[one-system-propagate]]
-- [[hanging-tasks-dashboard]]
-- [[prefer-visual-dashboards]]
+- ak47-simplicity
+- vault-data-architecture
+- deterministic-script-gotchas
+- multi-agent-role-discipline
+- second-brain-northstar
+- one-system-propagate
+- hanging-tasks-dashboard
+- prefer-visual-dashboards

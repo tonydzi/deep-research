@@ -42,15 +42,15 @@ source: Palo Alto AI Research Lab — deep research programme
 - Нужен ли llms.txt вообще для данного флота, если основные потребители — активные кодер-агенты, а не пассивные краулеры.
 
 ## Источник
-- DR-ID `DR26-07-11-HUB-03` · реестр [[_DR-Registry]]
-- оригинал: `E:\Obsidian\_originals\deep-research\DR26-07-10-MACANTON-01-outbound-security-gemini.md`
+- DR-ID `DR26-07-11-HUB-03` · реестр _DR-Registry
+- оригинал: «внутренний путь лаборатории»
 
 ## Связано
-- [[prompt-injection]]
-- [[AGENTS.md-standard]]
-- [[PreToolUse-hooks]]
-- [[A2A-protocol]]
-- [[DID-verifiable-credentials]]
-- [[skills-supply-chain-security]]
-- [[zero-trust-agent-collaboration]]
-- [[security-md-disclosure-policy]]
+- prompt-injection
+- AGENTS.md-standard
+- PreToolUse-hooks
+- A2A-protocol
+- DID-verifiable-credentials
+- skills-supply-chain-security
+- zero-trust-agent-collaboration
+- security-md-disclosure-policy

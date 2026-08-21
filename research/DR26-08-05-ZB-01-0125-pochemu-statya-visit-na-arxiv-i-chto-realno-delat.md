@@ -154,12 +154,12 @@ Anton Dziatkovskii
 
 ## 🔗 Связи
 
-- [[fake-it-courage-not-fake-numbers]] — кворум назван как есть, недобор не замазан
-- [[prichina-kak-claim]] — «рельса молчит» оказалось неверным диагнозом: настоящая причина у gemini = 429 вендора
-- [[dead-verdict-expires]] — 429 ≠ мёртвая рельса, перепроверять
-- [[false-corroboration-two-sources-agreeing]] — совпадение chatgpt и grok не закрывало вопрос; закрыл первоисточник
-- [[peer-capability-gap-help]] — дверь GLM требует узла с живой сессией
-- [[main-goals]] — препринт кормит миссию №2
+- fake-it-courage-not-fake-numbers — кворум назван как есть, недобор не замазан
+- prichina-kak-claim — «рельса молчит» оказалось неверным диагнозом: настоящая причина у gemini = 429 вендора
+- dead-verdict-expires — 429 ≠ мёртвая рельса, перепроверять
+- false-corroboration-two-sources-agreeing — совпадение chatgpt и grok не закрывало вопрос; закрыл первоисточник
+- peer-capability-gap-help — дверь GLM требует узла с живой сессией
+- main-goals — препринт кормит миссию №2
 
 ## Оригиналы
 

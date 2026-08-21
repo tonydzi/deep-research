@@ -40,12 +40,12 @@ source: Palo Alto AI Research Lab — deep research programme
 - Reddit reports of '50+ hidden official plugins' in Anthropic's configs suggest an unofficial/undocumented discovery layer not fully explained in the report.
 
 ## Источник
-- DR-ID `DR26-07-02-HUB-02` · реестр [[_DR-Registry]]
-- оригинал: `E:\Obsidian\_originals\deep-research\DR26-07-02-HUB-02-key-findings.md`
+- DR-ID `DR26-07-02-HUB-02` · реестр _DR-Registry
+- оригинал: «внутренний путь лаборатории»
 
 ## Связано
-- [[Claude Code plugin ecosystem]]
-- [[skill marketplace distribution strategy]]
-- [[developer tool discoverability]]
-- [[open vs curated ecosystem governance]]
-- [[plugin submission schema (marketplace.json / SKILL.md)]]
+- Claude Code plugin ecosystem
+- skill marketplace distribution strategy
+- developer tool discoverability
+- open vs curated ecosystem governance
+- plugin submission schema (marketplace.json / SKILL.md)

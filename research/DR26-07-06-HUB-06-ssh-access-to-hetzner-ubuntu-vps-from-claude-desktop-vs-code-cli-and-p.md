@@ -26,7 +26,7 @@ source: Palo Alto AI Research Lab — deep research programme
 ## Рекомендации / решения
 - Close public port 22 in the Hetzner Cloud firewall by default; keep OpenSSH running on the VPS reachable only via Tailscale, with a disabled emergency public-22 rule kept ready for manual enabling.
 - Create one canonical SSH alias in ~/.ssh/config pointing at the VPS's Tailscale/MagicDNS address, and point both Claude Desktop's 'Add SSH connection' and VS Code Remote-SSH at that same alias.
-- Curate the VPS's own ~/.claude.json, MCP config, hooks, skills, and project memory directly on the remote host — Claude Desktop SSH sessions read Claude config from the remote machine, not the local laptop.
+- Curate the VPS's own «внутренний путь лаборатории», MCP config, hooks, skills, and project memory directly on the remote host — Claude Desktop SSH sessions read Claude config from the remote machine, not the local laptop.
 - For the VS Code hang: verify Ubuntu version + bash/curl/tar present, set remote.SSH.showLoginTerminal/useLocalServer/localServerDownload for diagnosis, inspect both ~/.vscode-server/cli/servers and ~/.vscode-server/bin, check noexec on /tmp and AllowTcpForwarding in sshd_config; if unresolved, switch to VS Code Remote Tunnels as the editor path.
 - Apply Anthropic's tmux passthrough config (allow-passthrough, extended-keys, terminal-features) and replace blind send-keys automation with pipe-pane (capture), remain-on-exit and respawn-pane (recovery); migrate long-running jobs to native Claude background sessions / claude agents where possible.
 - Standardize mobile access on Tailscale + Blink (iOS) or Termius (cross-platform); keep Tailscale SSH Console enabled only as an admin break-glass fallback, not the primary workflow.
@@ -44,15 +44,15 @@ source: Palo Alto AI Research Lab — deep research programme
 - No official or maintainer-confirmed source elevates SSH ControlMaster conflicts as a leading cause of the 'Initializing VS Code Server' hang — treated as low-confidence practitioner lore pending log evidence.
 
 ## Источник
-- DR-ID `DR26-07-06-HUB-06` · реестр [[_DR-Registry]]
-- оригинал: `E:\Obsidian\_originals\deep-research\DR26-07-06-HUB-06-dr26-07-06-hub-01-ssh-access-to-a-hetzner-ubu.md`
+- DR-ID `DR26-07-06-HUB-06` · реестр _DR-Registry
+- оригинал: «внутренний путь лаборатории»
 
 ## Связано
-- [[ssh-access-architecture]]
-- [[tailscale-networking]]
-- [[vscode-remote-ssh-troubleshooting]]
-- [[claude-desktop-ssh]]
-- [[tmux-session-management]]
-- [[hetzner-vps-security]]
-- [[mobile-ssh-clients]]
-- [[always-on-hub-machine]]
+- ssh-access-architecture
+- tailscale-networking
+- vscode-remote-ssh-troubleshooting
+- claude-desktop-ssh
+- tmux-session-management
+- hetzner-vps-security
+- mobile-ssh-clients
+- always-on-hub-machine

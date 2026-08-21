@@ -45,13 +45,13 @@ source: Palo Alto AI Research Lab — deep research programme
 - Whether the specific Hetzner VPS in question is affected by the newer VS Code Remote-SSH platform-misdetection regression (e.g. wrongly selecting cli-alpine-x64) has not been confirmed against its actual logs.
 
 ## Источник
-- DR-ID `DR26-07-06-HUB-01` · реестр [[_DR-Registry]]
-- оригинал: `C:\Users\Anton\Downloads\deep-research-report (2).md`
+- DR-ID `DR26-07-06-HUB-01` · реестр _DR-Registry
+- оригинал: «внутренний путь лаборатории» (2).md`
 
 ## Связано
-- [[tailscale-networking]]
-- [[claude-code-remote-sessions]]
-- [[vscode-remote-ssh-troubleshooting]]
-- [[hetzner-vps-hardening]]
-- [[tmux-agent-orchestration]]
-- [[mobile-ssh-access]]
+- tailscale-networking
+- claude-code-remote-sessions
+- vscode-remote-ssh-troubleshooting
+- hetzner-vps-hardening
+- tmux-agent-orchestration
+- mobile-ssh-access

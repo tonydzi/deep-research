@@ -45,17 +45,17 @@ source: Palo Alto AI Research Lab — deep research programme
 - Maturity/activity level of GraphQLite and the sqlite-graphrag crate as real competitive alternatives is unverified.
 
 ## Источник
-- DR-ID `DR26-07-04-ZB-02` · реестр [[_DR-Registry]]
-- оригинал: `E:\Obsidian\_originals\deep-research\DR26-07-04-ZB-02-graph-rag-on-sqlite-6a4853db-chatgpt.md`
+- DR-ID `DR26-07-04-ZB-02` · реестр _DR-Registry
+- оригинал: «внутренний путь лаборатории»
 
 ## Связано
-- [[Graph RAG]]
-- [[wikilink graph]]
-- [[Obsidian vault]]
-- [[agent memory]]
-- [[retrieval-augmented generation]]
-- [[SQLite]]
-- [[RAG evaluation benchmarks]]
-- [[query routing]]
-- [[insight-DR-DR26-07-26-ZB-05-obsidian-alternatives-i-mnogomernaya-perelinkovka]] — продолжение (2026-07-26): два внешних вендора независимо подтвердили замеренный здесь эффект «граф вредит entity-запросам» (имя механизма — семантическое разбавление) и предложили лечение помимо роутера: entity-enriched эмбеддинги и битемпоральные рёбра; плюс потолок масштаба GUI-приложений на 226k заметок
-- [[insight-DR-DR26-08-04-ZB-14-2214-graph-expansion-fan-penalty]] — прямая предыстория gate/fan-penalty решения в ZB-14 (entity-query regression, hub-note overreach)
+- Graph RAG
+- wikilink graph
+- Obsidian vault
+- agent memory
+- retrieval-augmented generation
+- SQLite
+- RAG evaluation benchmarks
+- query routing
+- insight-DR-DR26-07-26-ZB-05-obsidian-alternatives-i-mnogomernaya-perelinkovka — продолжение (2026-07-26): два внешних вендора независимо подтвердили замеренный здесь эффект «граф вредит entity-запросам» (имя механизма — семантическое разбавление) и предложили лечение помимо роутера: entity-enriched эмбеддинги и битемпоральные рёбра; плюс потолок масштаба GUI-приложений на 226k заметок
+- insight-DR-DR26-08-04-ZB-14-2214-graph-expansion-fan-penalty — прямая предыстория gate/fan-penalty решения в ZB-14 (entity-query regression, hub-note overreach)

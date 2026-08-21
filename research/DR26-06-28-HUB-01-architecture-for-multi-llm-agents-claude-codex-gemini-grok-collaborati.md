@@ -43,13 +43,13 @@ source: Palo Alto AI Research Lab — deep research programme
 - The report does not specify how conflicts between two agents' simultaneous Vault writes (race conditions) are resolved beyond general 'locked sections' mention.
 
 ## Источник
-- DR-ID `DR26-06-28-HUB-01` · реестр [[_DR-Registry]]
-- оригинал: `E:\Obsidian\_originals\deep-research\DR26-06-28-HUB-01-multi-llm-collaboration-on-a-shared-vault.md`
+- DR-ID `DR26-06-28-HUB-01` · реестр _DR-Registry
+- оригинал: «внутренний путь лаборатории»
 
 ## Связано
-- [[vault-data-architecture]]
-- [[machine-governance-leader-follower]]
-- [[multi-agent-role-discipline]]
-- [[multi-machine-auto-consensus]]
-- [[one-system-propagate]]
-- [[verify-existing-before-proposing]]
+- vault-data-architecture
+- machine-governance-leader-follower
+- multi-agent-role-discipline
+- multi-machine-auto-consensus
+- one-system-propagate
+- verify-existing-before-proposing

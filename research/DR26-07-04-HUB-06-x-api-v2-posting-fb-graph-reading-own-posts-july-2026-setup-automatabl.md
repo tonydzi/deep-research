@@ -34,12 +34,12 @@ source: Palo Alto AI Research Lab — deep research programme
 - Итоговый % автоматизации агентом и единственный owner-only блокер по каждой платформе — не получен (отчёт Deep Research отсутствует в материале).
 
 ## Источник
-- DR-ID `DR26-07-04-HUB-06` · реестр [[_DR-Registry]]
-- оригинал: `E:\Obsidian\_originals\deep-research\DR26-07-04-HUB-06-api-integration-setup-guide-6a48c934-chatgpt.md`
+- DR-ID `DR26-07-04-HUB-06` · реестр _DR-Registry
+- оригинал: «внутренний путь лаборатории»
 
 ## Связано
-- [[chrome-autonomy-self-drive]]
-- [[social-auth-autonomous]]
-- [[fb-post]]
-- [[telegram-account-identities]]
-- [[credential-store]]
+- chrome-autonomy-self-drive
+- social-auth-autonomous
+- fb-post
+- telegram-account-identities
+- credential-store

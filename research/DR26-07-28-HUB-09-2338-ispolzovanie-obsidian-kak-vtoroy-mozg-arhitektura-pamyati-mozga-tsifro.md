@@ -49,16 +49,16 @@ source: Palo Alto AI Research Lab — deep research programme
 - Предложенная архитектура не проверена практикой — это proposal, а не построенная и протестированная система.
 
 ## Источник
-- DR-ID `DR26-07-28-HUB-09-2338` · реестр [[_DR-Registry]]
-- оригинал: `E:\Obsidian\_originals\deep-research\DR26-07-28-HUB-09-2338-ispolzovanie-obsidian-kak-vtoroy-mozg-chatgpt.md`
-- оригинал: `E:\Obsidian\Anton-Knowledge\01-Conversations\ChatGPT\conversations\2026-07-22-ispolzovanie-obsidian-kak-vtoroy-mozg-6a61402a.md`
+- DR-ID `DR26-07-28-HUB-09-2338` · реестр _DR-Registry
+- оригинал: «внутренний путь лаборатории»
+- оригинал: «внутренний путь лаборатории»
 
 ## Связано
-- [[second-brain]]
-- [[PARA]]
-- [[Zettelkasten]]
-- [[evergreen-notes]]
-- [[spaced-repetition]]
-- [[GTD]]
-- [[memory-consolidation]]
-- [[knowledge-graph]]
+- second-brain
+- PARA
+- Zettelkasten
+- evergreen-notes
+- spaced-repetition
+- GTD
+- memory-consolidation
+- knowledge-graph

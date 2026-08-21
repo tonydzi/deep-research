@@ -39,12 +39,12 @@ source: Palo Alto AI Research Lab — deep research programme
 - Неясно, насколько репрезентативны редкие тесты Gainward и Palit, так как эти бренды малотестируемы
 
 ## Источник
-- DR-ID `DR26-06-26-HUB-09` · реестр [[_DR-Registry]]
-- оригинал: `E:\Obsidian\_originals\deep-research\DR26-06-26-HUB-09-рейтинг-бесшумности-и-надёжности-rtx-5060-ti.md`
+- DR-ID `DR26-06-26-HUB-09` · реестр _DR-Registry
+- оригинал: «внутренний путь лаборатории»
 
 ## Связано
-- [[RTX 5060 Ti]]
-- [[GPU cooler noise]]
-- [[0-dB fan stop technology]]
-- [[coil whine]]
-- [[PC hardware Portugal pricing]]
+- RTX 5060 Ti
+- GPU cooler noise
+- 0-dB fan stop technology
+- coil whine
+- PC hardware Portugal pricing

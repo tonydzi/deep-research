@@ -38,14 +38,14 @@ source: Palo Alto AI Research Lab — deep research programme
 - Third vendor section (a second structured report inside the same Grok transcript) exists only as chat-transcript text, not yet extracted to a standalone verbatim file.
 
 ## Источник
-- DR-ID `DR26-07-04-HUB-14` · реестр [[_DR-Registry]]
-- оригинал: `E:\Obsidian\_originals\deep-research\DR26-07-04-HUB-14-voice-recipe-chatgpt.md`
-- оригинал: `E:\Obsidian\_originals\deep-research\DR26-07-04-HUB-14-voice-recipe-provenance.md`
+- DR-ID `DR26-07-04-HUB-14` · реестр _DR-Registry
+- оригинал: «внутренний путь лаборатории»
+- оригинал: «внутренний путь лаборатории»
 
 ## Связано
-- [[the-journey-book]]
-- [[voice-recipe]]
-- [[digital-twin-narrative]]
-- [[everything-becomes-content]]
-- [[synthetic-cofounder]]
-- [[insight-DR-DR26-07-04-HUB-14-voice-recipe-for-the-journey-blending-reputable-ai]] — твин-заметка того же DR-ID, независимый синтез той же темы
+- the-journey-book
+- voice-recipe
+- digital-twin-narrative
+- everything-becomes-content
+- synthetic-cofounder
+- insight-DR-DR26-07-04-HUB-14-voice-recipe-for-the-journey-blending-reputable-ai — твин-заметка того же DR-ID, независимый синтез той же темы

@@ -96,7 +96,7 @@ shadow_ablation:
 
 ## Провенанс
 
-- `/Users/anton/Obsidian/Anton-Knowledge/_machine-bus/_dr/queue/DR26-08-04-ZB-14-2214/results/chatgpt.md`
-- `/Users/anton/Obsidian/Anton-Knowledge/_machine-bus/_dr/queue/DR26-08-04-ZB-14-2214/results/gemini.md`
-- `/Users/anton/Obsidian/Anton-Knowledge/_machine-bus/_dr/queue/DR26-08-04-ZB-14-2214/results/glm.md`
-- `/Users/anton/Obsidian/Anton-Knowledge/_machine-bus/_dr/queue/DR26-08-04-ZB-14-2214/results/grok.md`
+- «внутренний архив лаборатории»
+- «внутренний архив лаборатории»
+- «внутренний архив лаборатории»
+- «внутренний архив лаборатории»

@@ -42,7 +42,7 @@ source: Palo Alto AI Research Lab — deep research programme
 
 ## Что делаем во флоте Антона
 
-Конкретика (по Decision Memo [[DR26-07-14-MACB-01-engines-git-decision-memo]], Фаза 1 уже запущена 16.07):
+Конкретика (по Decision Memo DR26-07-14-MACB-01-engines-git-decision-memo, Фаза 1 уже запущена 16.07):
 
 1. **Фаза 1 (обратимая, идёт):** bare-репо на Маяке + зеркало на хабе; `git init` из текущего канона + baseline-tag; локальные клоны на каждом узле ВНЕ Syncthing-папок; Syncthing-папка engines пока живёт receiveonly (страховка отката).
 2. **Фаза 2:** хуки = наши существующие гейты (pre-receive/pre-push: portability, lint, import-probe, md5-verify); канон-ветку двигает только оператор-Антон (роуминг-ключ); пиры — ветки/PR-стиль; «почтовые» md5-патчи через `_transit` отмирают сами.
@@ -62,13 +62,13 @@ source: Palo Alto AI Research Lab — deep research programme
 
 ## Источник
 
-- DR-ID `DR26-07-14-MACB-01` · реестр [[_DR-Registry]]
+- DR-ID `DR26-07-14-MACB-01` · реестр _DR-Registry
 - Оригиналы (verbatim):
-  - `E:\Obsidian\_originals\deep-research\DR26-07-14-MACB-01-engines-sync-topology-chatgpt.md` (34 источника)
-  - `E:\Obsidian\_originals\deep-research\DR26-07-14-MACB-01-engines-sync-topology-grok.md` (97 источников)
-  - `E:\Obsidian\_originals\deep-research\DR26-07-14-MACB-01-engines-sync-topology-chatgpt-plan.md` (план, вторичен)
-- Решение: [[DR26-07-14-MACB-01-engines-git-decision-memo]] (approved-phase1, anton «+++» 2026-07-16)
-- Стыковка: [[DR26-07-10-MACB-01-syncthing-alternatives-decision-memo]] (Syncthing = data plane, чинить не менять)
+  - «внутренний путь лаборатории» (34 источника)
+  - «внутренний путь лаборатории» (97 источников)
+  - «внутренний путь лаборатории» (план, вторичен)
+- Решение: DR26-07-14-MACB-01-engines-git-decision-memo (approved-phase1, anton «+++» 2026-07-16)
+- Стыковка: DR26-07-10-MACB-01-syncthing-alternatives-decision-memo (Syncthing = data plane, чинить не менять)
 - Авто-дистилляция (EN, 14.07): `03-Insights\insight-DR-DR26-07-14-MACB-01-splitting-hub-roles-gpu-reindex-control-plane-sing.md`
 
 ---

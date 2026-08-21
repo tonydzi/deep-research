@@ -42,15 +42,15 @@ source: Palo Alto AI Research Lab — deep research programme
 - Exact latency/false-negative/timeout/fallback-rate numbers from the proposed week-long canary test were not yet measured — this was a forward plan, not results.
 
 ## Источник
-- DR-ID `DR26-07-07-HUB-08` · реестр [[_DR-Registry]]
-- оригинал: `E:\Obsidian\_originals\deep-research\DR26-07-07-MACANTON-03-brain-api-chatgpt.md`
+- DR-ID `DR26-07-07-HUB-08` · реестр _DR-Registry
+- оригинал: «внутренний путь лаборатории»
 
 ## Связано
-- [[vault-data-architecture]]
-- [[system-architect]]
-- [[raise-sync-autonomous]]
-- [[machine-bus-telegram-rail]]
-- [[own-fleet-peer-equality]]
-- [[vps-anchor-node]]
-- [[credential-store]]
-- [[insight-DR-DR26-07-14-HUB-05-brain-as-a-service-exposing-the-vault-rag-index-to]] — тот же вопрос (Brain as a Service) заголовок почти идентичен, другой вендор/дата
+- vault-data-architecture
+- system-architect
+- raise-sync-autonomous
+- machine-bus-telegram-rail
+- own-fleet-peer-equality
+- vps-anchor-node
+- credential-store
+- insight-DR-DR26-07-14-HUB-05-brain-as-a-service-exposing-the-vault-rag-index-to — тот же вопрос (Brain as a Service) заголовок почти идентичен, другой вендор/дата

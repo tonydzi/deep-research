@@ -44,16 +44,16 @@ source: Palo Alto AI Research Lab — deep research programme
 - How to bootstrap the review pipeline when only two vendors are actively available in Anton's setup, versus the four-vendor ideal described.
 
 ## Источник
-- DR-ID `DR26-06-29-LEG-02` · реестр [[_DR-Registry]]
-- оригинал: `E:\Obsidian\_originals\deep-research\2026-06-29-DR-multi-llm-collab-gemini.md`
+- DR-ID `DR26-06-29-LEG-02` · реестр _DR-Registry
+- оригинал: «внутренний путь лаборатории»
 
 ## Связано
-- [[multi-agent-role-discipline]]
-- [[one-system-propagate]]
-- [[machine-bus-telegram-rail]]
-- [[consensus-active-session-marking]]
-- [[verify-existing-before-proposing]]
-- [[git-worktree-isolation]]
-- [[heterogeneous-review-pairing]]
-- [[insight-DR-DR26-07-01-ZB-01-sota-architecture-for-a-unified-local-first-second]] — почти дублирующий DR по той же теме мульти-вендорной коллаборации поверх волта
-- [[insight-DR-DR26-07-28-HUB-10-2339-grok-coding-grok-4-5-grok-build-от-spacexai-возмож]] — обе разбирают Grok как вендора коллаборации/кодинг-агента
+- multi-agent-role-discipline
+- one-system-propagate
+- machine-bus-telegram-rail
+- consensus-active-session-marking
+- verify-existing-before-proposing
+- git-worktree-isolation
+- heterogeneous-review-pairing
+- insight-DR-DR26-07-01-ZB-01-sota-architecture-for-a-unified-local-first-second — почти дублирующий DR по той же теме мульти-вендорной коллаборации поверх волта
+- insight-DR-DR26-07-28-HUB-10-2339-grok-coding-grok-4-5-grok-build-от-spacexai-возмож — обе разбирают Grok как вендора коллаборации/кодинг-агента

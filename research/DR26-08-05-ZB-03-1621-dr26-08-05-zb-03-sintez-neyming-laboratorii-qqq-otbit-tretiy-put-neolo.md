@@ -11,7 +11,7 @@ source: Palo Alto AI Research Lab — deep research programme
 **Заказ:** голосовая Антона 05.08.2026 — «может быть QQQ… китайцы покупают короткий домен,
 и он становится брендом; надо стать суперуникальными, чтобы нас суперлегко искали».
 
-**Кворум:** 2 валидные рельсы из 4 требуемых ([[dr-quorum]] §9.1). Рельса `gemini` отклонена
+**Кворум:** 2 валидные рельсы из 4 требуемых (dr-quorum §9.1). Рельса `gemini` отклонена
 тиком раннера: тело нормального размера, **0 уникальных URL** = ответ из памяти модели без
 веб-грунтинга; засчитать её значило бы раздуть кворум слабым источником. Вывод ниже —
 **med-high, не окончательный**, но обе живые рельсы сошлись независимо и с первичными
@@ -45,7 +45,7 @@ source: Palo Alto AI Research Lab — deep research programme
 
 ## Что это значит для Миссии-2
 
-Прямая сшивка с нашим же замером [[reglament-vsyo-naruzhu-vyhodit-citiruemym]] и с
+Прямая сшивка с нашим же замером reglament-vsyo-naruzhu-vyhodit-citiruemym и с
 DR26-08-04-ZB-09 (`applied`): движки цитируют **атрибутируемый артефакт**, а не короткое имя.
 Perplexity вернул 10 источников из 10 — все репозиторий или курируемый список. Рекрутеры
 frontier-лабораторий смотрят GitHub, препринты, issue — у Anthropic, Cohere и Mistral имена
@@ -72,7 +72,7 @@ trademark clearance в классах 9 и 42 → проверить human recal
 Подпись склеена в одну сущность: `Tony Dzi (Anton Dziatkovskii)` ведущим везде, обратный
 порядок только на научных поверхностях (arXiv/ORCID — статья уже подана под юр. именем).
 Вписано в `_STYLE-footer.md` блок E. Домены `tonydzi.com` + `tonydzi.ai` ($93.78/год против
-$154 498 за qqq.ai) — куплены по задаче [[task-2026-08-06-kupit-domeny-tonydzi]].
+$154 498 за qqq.ai) — куплены по задаче task-2026-08-06-kupit-domeny-tonydzi.
 
 ## Что осталось открытым
 
@@ -80,13 +80,13 @@ $154 498 за qqq.ai) — куплены по задаче [[task-2026-08-06-kup
 - **«ABBYY / Dolce Lab»** — прозвучало в голосовых 05.08 и повторно 06.08 как часть подписи
   («Tony Dzi and Mycroft from Palo Alto and ABBYY/Dolce Lab»). Улик в волте по-прежнему ноль
   (сплошной grep). В канон и в подписи не берётся: выдуманный бренд = враньё в данных
-  [[fake-it-courage-not-fake-numbers]]. Ждёт слова Антона.
+  fake-it-courage-not-fake-numbers. Ждёт слова Антона.
 - Решение о смене имени — **Tier-2, за Антоном**. Здесь только карта.
 
-Источники verbatim: `_machine-bus/_dr/queue/DR26-08-05-ZB-03-1621/results/` (grok.md 32 КБ,
+Источники verbatim: «внутренний архив лаборатории» (grok.md 32 КБ,
 chatgpt.md 46 КБ; отклонённая gemini — в `_rejected/`).
 
-Ход сессии, где это решалось → [[retro-2026-08-06-naming-tonydzi-glue]].
+Ход сессии, где это решалось → retro-2026-08-06-naming-tonydzi-glue.
 
-Связано: [[post-mandatory-elements]], [[palo-alto-lab-site-hiring-magnet]],
-[[main-goals]], [[closed-dr-becomes-public-content]], [[fake-it-courage-not-fake-numbers]].
+Связано: post-mandatory-elements, palo-alto-lab-site-hiring-magnet,
+main-goals, closed-dr-becomes-public-content, fake-it-courage-not-fake-numbers.

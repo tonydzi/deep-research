@@ -44,12 +44,12 @@ source: Palo Alto AI Research Lab — deep research programme
 - Не уточнено, как балансировать добавление мотивации/контекста с риском избыточности на практике для разных типов задач
 
 ## Источник
-- DR-ID `DR26-07-01-HUB-01` · реестр [[_DR-Registry]]
-- оригинал: `E:\Obsidian\_originals\deep-research\DR26-07-01-HUB-01-рекомендации-anthropic-для-системных-подсказо.md`
+- DR-ID `DR26-07-01-HUB-01` · реестр _DR-Registry
+- оригинал: «внутренний путь лаборатории»
 
 ## Связано
-- [[prompt-engineering]]
-- [[context-window-management]]
-- [[claude-system-prompts]]
-- [[context-rot]]
-- [[xml-prompt-structuring]]
+- prompt-engineering
+- context-window-management
+- claude-system-prompts
+- context-rot
+- xml-prompt-structuring

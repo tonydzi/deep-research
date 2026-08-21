@@ -47,14 +47,14 @@ source: Palo Alto AI Research Lab — deep research programme
 - How to concretely implement drills/tabletop tests (all sleepers offline at propose, restored backup replay, dual-instance same key, clock jump, identity regeneration) before rollout — not yet executed, only recommended.
 
 ## Источник
-- DR-ID `DR26-07-02-HUB-04` · реестр [[_DR-Registry]]
-- оригинал: `E:\Obsidian\_originals\deep-research\DR26-07-02-HUB-04-quorum-design-for-a-sleeping-personal-fleet.md`
+- DR-ID `DR26-07-02-HUB-04` · реестр _DR-Registry
+- оригинал: «внутренний путь лаборатории»
 
 ## Связано
-- [[multi-machine-auto-consensus]]
-- [[machine-bus-telegram-rail]]
-- [[remote-approval-qqq]]
-- [[machine-governance-leader-follower]]
-- [[sleepy-consensus]]
-- [[consensus-active-session-marking]]
-- [[one-system-propagate]]
+- multi-machine-auto-consensus
+- machine-bus-telegram-rail
+- remote-approval-qqq
+- machine-governance-leader-follower
+- sleepy-consensus
+- consensus-active-session-marking
+- one-system-propagate

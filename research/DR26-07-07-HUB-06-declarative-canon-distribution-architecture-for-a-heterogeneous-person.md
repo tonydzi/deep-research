@@ -49,16 +49,16 @@ source: Palo Alto AI Research Lab — deep research programme
 - How does this architecture interoperate with the existing multi-machine consensus/bus mechanisms (e.g., machine_bus, consensus.py) already in use across the fleet?
 
 ## Источник
-- DR-ID `DR26-07-07-HUB-06` · реестр [[_DR-Registry]]
-- оригинал: `E:\Obsidian\_originals\deep-research\DR26-07-07-MACANTON-02-canon-dist-chatgpt.md`
+- DR-ID `DR26-07-07-HUB-06` · реестр _DR-Registry
+- оригинал: «внутренний путь лаборатории»
 
 ## Связано
-- [[machine-governance-leader-follower]]
-- [[one-system-propagate]]
-- [[config-safety-backup-and-migration-check]]
-- [[machine-bus-telegram-rail]]
-- [[vps-anchor-node]]
-- [[own-fleet-peer-equality]]
-- [[session-machine-tagging]]
-- [[credential-store]]
-- [[insight-DR-DR26-07-07-HUB-07-канон-дистрибуция-скриптов-на-гетерогенном-флоте-w]] — сиблинг-дистилляция того же DR (ChatGPT-версия того же MACANTON-02 canon-dist)
+- machine-governance-leader-follower
+- one-system-propagate
+- config-safety-backup-and-migration-check
+- machine-bus-telegram-rail
+- vps-anchor-node
+- own-fleet-peer-equality
+- session-machine-tagging
+- credential-store
+- insight-DR-DR26-07-07-HUB-07-канон-дистрибуция-скриптов-на-гетерогенном-флоте-w — сиблинг-дистилляция того же DR (ChatGPT-версия того же MACANTON-02 canon-dist)

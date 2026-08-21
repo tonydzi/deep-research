@@ -38,13 +38,13 @@ source: Palo Alto AI Research Lab — deep research programme
 - Флап-лаг 20-60 минут (re-establishment после сна/разрыва пира) остаётся нерешённым — самый ценный кандидат на отдельный точечный DR
 
 ## Источник
-- DR-ID `DR26-07-07-MACB-03` · реестр [[_DR-Registry]]
-- оригинал: `E:\Obsidian\Anton-Knowledge\05-Resources\Deep-Research\DR26-07-10-MACB-01-syncthing-alternatives-decision-memo.md`
+- DR-ID `DR26-07-07-MACB-03` · реестр _DR-Registry
+- оригинал: «внутренний путь лаборатории»
 
 ## Связано
-- [[machine-bus-telegram-rail]]
-- [[one-system-propagate]]
-- [[decision-vault-sync-architecture]]
-- [[control-plane-vs-data-plane]]
-- [[sync-self-heal-layers]]
-- [[ak47-simplicity]]
+- machine-bus-telegram-rail
+- one-system-propagate
+- decision-vault-sync-architecture
+- control-plane-vs-data-plane
+- sync-self-heal-layers
+- ak47-simplicity

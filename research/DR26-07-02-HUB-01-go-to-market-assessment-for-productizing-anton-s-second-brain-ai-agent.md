@@ -48,15 +48,15 @@ source: Palo Alto AI Research Lab — deep research programme
 - How competitive pressure from Google Gemini, Microsoft Copilot, and Anthropic's own Cowork might erode the standalone product's differentiation before launch.
 
 ## Источник
-- DR-ID `DR26-07-02-HUB-01` · реестр [[_DR-Registry]]
-- оригинал: `E:\Obsidian\_originals\deep-research\DR26-07-02-HUB-01-key-findings.md`
+- DR-ID `DR26-07-02-HUB-01` · реестр _DR-Registry
+- оригинал: «внутренний путь лаборатории»
 
 ## Связано
-- [[second-brain-northstar]]
-- [[digital-twin]]
-- [[ak47-simplicity]]
-- [[multi-agent-offer-reflex]]
-- [[credential-store]]
-- [[open-core-business-model]]
-- [[cofounder-identity]]
-- [[everything-becomes-content]]
+- second-brain-northstar
+- digital-twin
+- ak47-simplicity
+- multi-agent-offer-reflex
+- credential-store
+- open-core-business-model
+- cofounder-identity
+- everything-becomes-content

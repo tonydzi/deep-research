@@ -47,15 +47,15 @@ source: Palo Alto AI Research Lab — deep research programme
 - Точный набор KPI на уровне волта и точный человеко-контролируемый workflow ревью для нечётких мёрджей/удалений/переписи хабов предложены как разумные, но ещё не валидированы на практике для этого конкретного волта.
 
 ## Источник
-- DR-ID `DR26-07-07-MACB-01` · реестр [[_DR-Registry]]
-- оригинал: `E:\Obsidian\Anton-Knowledge\03-Insights\insight-DR-DR26-07-14-HUB-04-best-practices-for-maintaining-a-very-large-person.md`
+- DR-ID `DR26-07-07-MACB-01` · реестр _DR-Registry
+- оригинал: «внутренний путь лаборатории»
 
 ## Связано
-- [[entity-resolution]]
-- [[vault-data-architecture]]
-- [[second-brain-northstar]]
-- [[GraphRAG]]
-- [[sync-via-telegram-03-mandatory]]
-- [[dedup]]
-- [[one-system-propagate]]
-- [[always-on-memory-pilot]]
+- entity-resolution
+- vault-data-architecture
+- second-brain-northstar
+- GraphRAG
+- sync-via-telegram-03-mandatory
+- dedup
+- one-system-propagate
+- always-on-memory-pilot

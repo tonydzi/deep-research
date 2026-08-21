@@ -43,16 +43,16 @@ source: Palo Alto AI Research Lab — deep research programme
 - Generic vs domain-specific orchestration architectures — LangChain's benchmark suggests custom vertical architectures often outperform generic supervisor patterns, but tradeoff vs ease of adoption is unsettled.
 
 ## Источник
-- DR-ID `DR26-07-04-HUB-11` · реестр [[_DR-Registry]]
-- оригинал: `E:\Obsidian\_originals\deep-research\DR26-07-04-HUB-11-multi-session-and-multi-agent-llm-orchestrati.md`
+- DR-ID `DR26-07-04-HUB-11` · реестр _DR-Registry
+- оригинал: «внутренний путь лаборатории»
 
 ## Связано
-- [[multi-agent-offer-reflex]]
-- [[decompose-into-parallel-sessions]]
-- [[goal-drift-offload-to-seed-sessions]]
-- [[multi-agent-role-discipline]]
-- [[test-after-build-skill]]
-- [[cowork-vs-cc-division]]
-- [[connect-rule-pipeline-ownership]]
-- [[machine-governance-leader-follower]]
-- [[insight-DR-DR26-07-04-HUB-11-multi-session-and-multi-agent-llm-orchestration-fo]] — тот же dr_id, дубль-вариант того же исследования
+- multi-agent-offer-reflex
+- decompose-into-parallel-sessions
+- goal-drift-offload-to-seed-sessions
+- multi-agent-role-discipline
+- test-after-build-skill
+- cowork-vs-cc-division
+- connect-rule-pipeline-ownership
+- machine-governance-leader-follower
+- insight-DR-DR26-07-04-HUB-11-multi-session-and-multi-agent-llm-orchestration-fo — тот же dr_id, дубль-вариант того же исследования

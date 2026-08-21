@@ -48,15 +48,15 @@ source: Palo Alto AI Research Lab — deep research programme
 - Long-term architecture choice at N≳10 (local server vs. container orchestration vs. commercial multi-agent frameworks) left as a future evaluation, not decided.
 
 ## Источник
-- DR-ID `DR26-07-02-HUB-03` · реестр [[_DR-Registry]]
-- оригинал: `E:\Obsidian\_originals\deep-research\DR26-07-02-HUB-03-key-findings.md`
+- DR-ID `DR26-07-02-HUB-03` · реестр _DR-Registry
+- оригинал: «внутренний путь лаборатории»
 
 ## Связано
-- [[machine-bus-telegram-rail]]
-- [[one-system-propagate]]
-- [[machine-governance-leader-follower]]
-- [[multi-machine-auto-consensus]]
-- [[consensus-active-session-marking]]
-- [[credential-store]]
-- [[system-architect]]
-- [[config-safety-backup-and-migration-check]]
+- machine-bus-telegram-rail
+- one-system-propagate
+- machine-governance-leader-follower
+- multi-machine-auto-consensus
+- consensus-active-session-marking
+- credential-store
+- system-architect
+- config-safety-backup-and-migration-check

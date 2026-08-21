@@ -43,13 +43,13 @@ source: Palo Alto AI Research Lab — deep research programme
 - Whether ASA-100 accreditation timing (delay vs. pursue early) is optimal is an emerging judgment call, not settled guidance.
 
 ## Источник
-- DR-ID `DR26-07-28-HUB-11-2339` · реестр [[_DR-Registry]]
-- оригинал: `E:\Obsidian\_originals\deep-research\DR26-07-28-HUB-11-2339-usm-market-entry-playbook-chatgpt.md`
-- оригинал: `E:\Obsidian\Anton-Knowledge\01-Conversations\ChatGPT\conversations\2026-07-16-usm-market-entry-playbook-6a58c838.md`
+- DR-ID `DR26-07-28-HUB-11-2339` · реестр _DR-Registry
+- оригинал: «внутренний путь лаборатории»
+- оригинал: «внутренний путь лаборатории»
 
 ## Связано
-- [[USM aircraft parts trading]]
-- [[export control compliance (EAR/ITAR)]]
-- [[sanctions screening KYC]]
-- [[aircraft teardown market]]
-- [[aviation MRO supercycle]]
+- USM aircraft parts trading
+- export control compliance (EAR/ITAR)
+- sanctions screening KYC
+- aircraft teardown market
+- aviation MRO supercycle

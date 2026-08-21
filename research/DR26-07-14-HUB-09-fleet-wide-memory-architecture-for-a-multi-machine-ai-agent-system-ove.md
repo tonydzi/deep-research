@@ -45,15 +45,15 @@ source: Palo Alto AI Research Lab — deep research programme
 - Behavior when the hub or broker is down under option D is only characterized as 'promotion halts' — recovery/backlog semantics not fully detailed.
 
 ## Источник
-- DR-ID `DR26-07-14-HUB-09` · реестр [[_DR-Registry]]
-- оригинал: `E:\Obsidian\_originals\deep-research\DL-2026-07-14--FleetWide-Memory-for-a-MultiMachine-AI-Agent-Syste.md`
+- DR-ID `DR26-07-14-HUB-09` · реестр _DR-Registry
+- оригинал: «внутренний путь лаборатории»
 
 ## Связано
-- [[memory-index-hygiene]]
-- [[machine-bus-telegram-rail]]
-- [[one-system-propagate]]
-- [[always-on-memory-pilot]]
-- [[vault-data-architecture]]
-- [[config-safety-backup-and-migration-check]]
-- [[sync-via-telegram-03-mandatory]]
-- [[insight-DR-DR26-07-07-HUB-04-fleet-wide-memory-architecture-for-a-multi-machine]] — later duplicate/refined DR on the identical fleet-memory-architecture question
+- memory-index-hygiene
+- machine-bus-telegram-rail
+- one-system-propagate
+- always-on-memory-pilot
+- vault-data-architecture
+- config-safety-backup-and-migration-check
+- sync-via-telegram-03-mandatory
+- insight-DR-DR26-07-07-HUB-04-fleet-wide-memory-architecture-for-a-multi-machine — later duplicate/refined DR on the identical fleet-memory-architecture question

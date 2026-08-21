@@ -44,13 +44,13 @@ source: Palo Alto AI Research Lab — deep research programme
 - Long-term sustainability of community marketplaces (Alireza's, Longshore's) if maintainers stop updating is unresolved.
 
 ## Источник
-- DR-ID `DR26-07-02-HUB-12` · реестр [[_DR-Registry]]
-- оригинал: `E:\Obsidian\_originals\deep-research\2026-07-02-marketplace-distribution-DR-B.md`
+- DR-ID `DR26-07-02-HUB-12` · реестр _DR-Registry
+- оригинал: «внутренний путь лаборатории»
 
 ## Связано
-- [[claude-code-plugin-ecosystem]]
-- [[skill-distribution-channels]]
-- [[marketplace-curation-vs-aggregation]]
-- [[claude-plugins-official]]
-- [[ak47-simplicity]]
-- [[insight-DR-DR26-07-02-HUB-02-discovery-and-distribution-channels-for-claude-cod]] — почти-дубликат инсайта из того же DR-B, тот же список каналов и выводы
+- claude-code-plugin-ecosystem
+- skill-distribution-channels
+- marketplace-curation-vs-aggregation
+- claude-plugins-official
+- ak47-simplicity
+- insight-DR-DR26-07-02-HUB-02-discovery-and-distribution-channels-for-claude-cod — почти-дубликат инсайта из того же DR-B, тот же список каналов и выводы

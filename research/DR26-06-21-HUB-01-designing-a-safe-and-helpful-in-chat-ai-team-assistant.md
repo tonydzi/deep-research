@@ -44,15 +44,15 @@ source: Palo Alto AI Research Lab — deep research programme
 - The agent-protocol/browser-tool market is moving quickly, so specific product/tool recommendations (e.g., which MCP servers, which browser-agent framework) may become outdated fast.
 
 ## Источник
-- DR-ID `DR26-06-21-HUB-01` · реестр [[_DR-Registry]]
-- оригинал: `E:\Obsidian\_originals\deep-research\DR26-06-21-HUB-01-designing-a-safe-and-helpful-in-chat-ai-team.md`
+- DR-ID `DR26-06-21-HUB-01` · реестр _DR-Registry
+- оригинал: «внутренний путь лаборатории»
 
 ## Связано
-- [[human-in-the-loop approval design]]
-- [[agent governance tiers]]
-- [[structured task/operational memory vs RAG]]
-- [[proactive AI / interruption cost]]
-- [[consent integrity for agent actions]]
-- [[MCP security and tool poisoning]]
-- [[browser-use agent safety]]
-- [[algorithmic management and surveillance trust]]
+- human-in-the-loop approval design
+- agent governance tiers
+- structured task/operational memory vs RAG
+- proactive AI / interruption cost
+- consent integrity for agent actions
+- MCP security and tool poisoning
+- browser-use agent safety
+- algorithmic management and surveillance trust

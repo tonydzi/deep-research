@@ -90,7 +90,7 @@ source: Palo Alto AI Research Lab — deep research programme
 
 Риски самоанализа названы точно: конфабуляция стройной истории, угодливость (согласится с любой
 предложенной версией), и — важнее всего для нас — **предпочтение выводов, которые снимают вину с
-самого агента**. Наше правило [[prichina-kak-claim]] («вывод, который меня устраивает, требует
+самого агента**. Наше правило prichina-kak-claim («вывод, который меня устраивает, требует
 усиленной проверки») литературой подтверждено ✅.
 
 Одна дешёвая добавка, которой у нас нет: **строковая проверка цитат**. Любая строка, помеченная
@@ -146,5 +146,5 @@ source: Palo Alto AI Research Lab — deep research programme
 4. Добавляется строковая проверка `[ДОКАЗАНО]` по сырым логам.
 5. Счётчик метода получает вторую метрику: доля классов, распавшихся на проверке.
 
-Связано: [[five-whys-over-a-series]] · [[fix-root-cause-not-symptoms]] · [[prichina-kak-claim]] ·
-[[watchdog-must-verify-the-item]] · [[self-debug-transparency]]
+Связано: five-whys-over-a-series · fix-root-cause-not-symptoms · prichina-kak-claim ·
+watchdog-must-verify-the-item · self-debug-transparency

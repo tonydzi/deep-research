@@ -45,16 +45,16 @@ source: Palo Alto AI Research Lab — deep research programme
 - The two-stage ASR+LLM vs end-to-end spoken-to-formal model debate is still narrow/language-specific evidence as of 2026, unclear how it applies to Russian.
 
 ## Источник
-- DR-ID `DR26-07-28-HUB-22-2339` · реестр [[_DR-Registry]]
-- оригинал: `E:\Obsidian\_originals\deep-research\DR26-07-28-HUB-22-2339-voice-to-content-editorial-systems-chatgpt.md`
-- оригинал: `E:\Obsidian\Anton-Knowledge\01-Conversations\ChatGPT\conversations\2026-07-04-voice-to-content-editorial-systems-6a495177.md`
+- DR-ID `DR26-07-28-HUB-22-2339` · реестр _DR-Registry
+- оригинал: «внутренний путь лаборатории»
+- оригинал: «внутренний путь лаборатории»
 
 ## Связано
-- [[voice preservation]]
-- [[content-factory-v2]]
-- [[author-voice-fidelity]]
-- [[AI slop]]
-- [[platform-authenticity-penalties]]
-- [[ghostwriting-workflow]]
-- [[queue-and-cadence-management]]
-- [[everything-becomes-content]]
+- voice preservation
+- content-factory-v2
+- author-voice-fidelity
+- AI slop
+- platform-authenticity-penalties
+- ghostwriting-workflow
+- queue-and-cadence-management
+- everything-becomes-content

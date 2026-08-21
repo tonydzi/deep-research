@@ -44,16 +44,16 @@ source: Palo Alto AI Research Lab — deep research programme
 - Неясно, как разграничить raw capture между корпоративными и личными задачами на одном устройстве (managed company device vs личное использование) в конкретной реализации Антона
 
 ## Источник
-- DR-ID `DR26-07-28-HUB-13-2339` · реестр [[_DR-Registry]]
-- оригинал: `E:\Obsidian\_originals\deep-research\DR26-07-28-HUB-13-2339-konfidentsialnost-i-produktivnost-chatgpt.md`
-- оригинал: `E:\Obsidian\Anton-Knowledge\01-Conversations\ChatGPT\conversations\2026-07-10-konfidencialnost-i-produktivnost-6a511e1f.md`
+- DR-ID `DR26-07-28-HUB-13-2339` · реестр _DR-Registry
+- оригинал: «внутренний путь лаборатории»
+- оригинал: «внутренний путь лаборатории»
 
 ## Связано
-- [[second-brain-northstar]]
-- [[vault-data-architecture]]
-- [[credential-store]]
-- [[machine-governance-leader-follower]]
-- [[persona-kit-core-floor-split]]
-- [[local-first-software]]
-- [[zero-trust-authorization]]
-- [[multi-agent-role-discipline]]
+- second-brain-northstar
+- vault-data-architecture
+- credential-store
+- machine-governance-leader-follower
+- persona-kit-core-floor-split
+- local-first-software
+- zero-trust-authorization
+- multi-agent-role-discipline

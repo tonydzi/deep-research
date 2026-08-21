@@ -32,7 +32,7 @@ source: Palo Alto AI Research Lab — deep research programme
 **Строим свой партнёрский путь у Anthropic, не клон промо-сидовой механики OpenAI.** Порядок:
 
 1. Заявка в Claude Partner Network (Registered) + Partner Academy + Foundations — не ждём промо-сидов, их нет.
-2. Лид-магнит = **наш** доказательный аудит до первого разговора, а не чужая лицензия. Это уже наш канон ([[ai-audit-before-call-offer]]) — ДР его подтвердил внешне, отдельной стройки не требует.
+2. Лид-магнит = **наш** доказательный аудит до первого разговора, а не чужая лицензия. Это уже наш канон (ai-audit-before-call-offer) — ДР его подтвердил внешне, отдельной стройки не требует.
 3. Оффер-страница: спринт + ретейнер (цены выше как ориентир, не как обещание).
 4. Публичный OSS-компонент (eval harness / evidence-citation skill), не generic-обёртка — совпадает с уже идущей миссией №2.
 5. Powered by Claude — подавать **после** ≥1 публичной customer story.
@@ -47,7 +47,7 @@ source: Palo Alto AI Research Lab — deep research programme
 
 ## Связи
 
-[[ai-audit-before-call-offer]] · [[mission-get-noticed-hired-by-llm-company]] · [[anton-sales-avoidance-root]] · [[outreach-journal-and-daily-mandate]]
+ai-audit-before-call-offer · mission-get-noticed-hired-by-llm-company · anton-sales-avoidance-root · outreach-journal-and-daily-mandate
 
 ## 🧒 Простыми словами
 
@@ -55,6 +55,6 @@ source: Palo Alto AI Research Lab — deep research programme
 
 ## ⚠️ ПОПРАВКА 2026-08-18 (проверено на живой форме)
 
-Антон дал «+» на подачу в CPN. При заходе на форму (`claude.com/form/cpn-partner-application`) вскрылся порог, которого не назвала ни одна рельса ДР: **«Be a registered business with 10 or more employees»** — требование на САМОМ ВХОДЕ, не на уровне Select. У лаборатории столько людей нет, завышать цифру в форме запрещено ([[fake-it-courage-not-fake-numbers]]).
+Антон дал «+» на подачу в CPN. При заходе на форму (`claude.com/form/cpn-partner-application`) вскрылся порог, которого не назвала ни одна рельса ДР: **«Be a registered business with 10 or more employees»** — требование на САМОМ ВХОДЕ, не на уровне Select. У лаборатории столько людей нет, завышать цифру в форме запрещено (fake-it-courage-not-fake-numbers).
 
-**Решение (кофаундер, постфактум):** заявку НЕ подаём — она ушла бы в отказ и сожгла первое касание. Возвращаемся к CPN при 10+ оформленных людях либо под юрлицом партнёра. Пока: оффер [[offer-claude-launch-sprint]] + публичный продукт на Claude (Powered by Claude / ecosystem) + первая customer story. Лид-магнит без изменений — наш аудит.
+**Решение (кофаундер, постфактум):** заявку НЕ подаём — она ушла бы в отказ и сожгла первое касание. Возвращаемся к CPN при 10+ оформленных людях либо под юрлицом партнёра. Пока: оффер offer-claude-launch-sprint + публичный продукт на Claude (Powered by Claude / ecosystem) + первая customer story. Лид-магнит без изменений — наш аудит.

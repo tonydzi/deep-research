@@ -107,7 +107,7 @@ Grok — «да, как дополнение». GLM — payload содержит
 
 ## Связано
 
-- [[decision-2026-08-05-fb-watch-graph-api-vmesto-brauzera]] — Decision Memo по этому DR (статус `proposed`, решает Антон)
-- [[fb-watch]] · [[fb-post]] · [[credential-store]]
-- [[prichina-kak-claim]] — расхождение №1 разрешено именно так: у Grok причина не доказана, у GLM/ChatGPT показана документом
+- decision-2026-08-05-fb-watch-graph-api-vmesto-brauzera — Decision Memo по этому DR (статус `proposed`, решает Антон)
+- fb-watch · fb-post · credential-store
+- prichina-kak-claim — расхождение №1 разрешено именно так: у Grok причина не доказана, у GLM/ChatGPT показана документом
 - DR-предшественник `DR26-07-04-HUB-06` — задавал тот же вопрос 04.07.2026, но **отчёта не принёс**: в инсайте все ключевые пункты стоят «не отвечено». Этот прогон закрывает тот долг.

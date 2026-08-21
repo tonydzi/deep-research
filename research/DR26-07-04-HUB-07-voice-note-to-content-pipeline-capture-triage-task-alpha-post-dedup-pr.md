@@ -44,16 +44,16 @@ source: Palo Alto AI Research Lab — deep research programme
 - Whether n8n self-hosted vs n8n Cloud (from €20/month) is the right entry point given warnings that self-hosting is 'for expert users' (risk of data loss/security issues if misconfigured).
 
 ## Источник
-- DR-ID `DR26-07-04-HUB-07` · реестр [[_DR-Registry]]
-- оригинал: `E:\Obsidian\_originals\deep-research\DR26-07-04-HUB-07-s4-voice-to-content-pipeline-chatgpt.md`
+- DR-ID `DR26-07-04-HUB-07` · реестр _DR-Registry
+- оригинал: «внутренний путь лаборатории»
 
 ## Связано
-- [[second-brain-northstar]]
-- [[vault-data-architecture]]
-- [[everything-becomes-content]]
-- [[credential-store]]
-- [[reality-show]]
-- [[episode]]
-- [[content-factory]]
-- [[always-archive-artifacts-to-vault]]
-- [[insight-DR-DR26-07-04-ZB-07-voice-to-content-editorial-systems-at-near-total-c]] — другой DR того же дня о voice-note-to-content конвейере
+- second-brain-northstar
+- vault-data-architecture
+- everything-becomes-content
+- credential-store
+- reality-show
+- episode
+- content-factory
+- always-archive-artifacts-to-vault
+- insight-DR-DR26-07-04-ZB-07-voice-to-content-editorial-systems-at-near-total-c — другой DR того же дня о voice-note-to-content конвейере

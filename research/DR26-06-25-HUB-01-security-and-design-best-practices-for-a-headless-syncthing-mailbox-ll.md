@@ -41,14 +41,14 @@ source: Palo Alto AI Research Lab — deep research programme
 - Unresolved how much real GREEN-classified volume would need to materialize before automation is worth reintroducing, and what red-team test suite would count as 'passed' for the go/no-go criteria.
 
 ## Источник
-- DR-ID `DR26-06-25-HUB-01` · реестр [[_DR-Registry]]
-- оригинал: `E:\Obsidian\_originals\deep-research\DR26-06-25-HUB-01-security-and-design-best-practices-for-a-head.md`
+- DR-ID `DR26-06-25-HUB-01` · реестр _DR-Registry
+- оригинал: «внутренний путь лаборатории»
 
 ## Связано
-- [[machine-bus-telegram-rail]]
-- [[consensus-active-session-marking]]
-- [[remote-approval-qqq]]
-- [[credential-store]]
-- [[deterministic-script-gotchas]]
-- [[verify-existing-before-proposing]]
-- [[multi-agent-role-discipline]]
+- machine-bus-telegram-rail
+- consensus-active-session-marking
+- remote-approval-qqq
+- credential-store
+- deterministic-script-gotchas
+- verify-existing-before-proposing
+- multi-agent-role-discipline

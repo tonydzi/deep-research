@@ -42,16 +42,16 @@ source: Palo Alto AI Research Lab — deep research programme
 - Whether frontier labs will shift toward acquiring communities (vs. building DevRel/DevEx functions organically) is unverified going forward.
 
 ## Источник
-- DR-ID `DR26-07-07-HUB-01` · реестр [[_DR-Registry]]
-- оригинал: `E:\Obsidian\_originals\deep-research\DR26-07-07-HUB-01-engineering-communities-as-a-hiring-asset-in.md`
+- DR-ID `DR26-07-07-HUB-01` · реестр _DR-Registry
+- оригинал: «внутренний путь лаборатории»
 
 ## Связано
-- [[devrel-as-distribution]]
-- [[ai-productivity-leverage-vs-headcount]]
-- [[ghost-jobs-labor-market]]
-- [[t-shaped-talent-ai-era]]
-- [[blockchain-ecosystem-grants-as-hiring]]
-- [[second-brain-northstar]]
-- [[everything-becomes-content]]
-- [[insight-DR-DR26-07-14-HUB-08-engineering-communities-as-a-hiring-asset-in-the-a]] — тот же DR-вопрос (engineering communities as hiring asset), другой фанаут-вендор, почти дословно тот же контент
-- [[insight-DR-DR26-07-17-FLEE-12-engineer-following]] — same topic (engineer acquisition/hiring communities), complementary DR consensus
+- devrel-as-distribution
+- ai-productivity-leverage-vs-headcount
+- ghost-jobs-labor-market
+- t-shaped-talent-ai-era
+- blockchain-ecosystem-grants-as-hiring
+- second-brain-northstar
+- everything-becomes-content
+- insight-DR-DR26-07-14-HUB-08-engineering-communities-as-a-hiring-asset-in-the-a — тот же DR-вопрос (engineering communities as hiring asset), другой фанаут-вендор, почти дословно тот же контент
+- insight-DR-DR26-07-17-FLEE-12-engineer-following — same topic (engineer acquisition/hiring communities), complementary DR consensus

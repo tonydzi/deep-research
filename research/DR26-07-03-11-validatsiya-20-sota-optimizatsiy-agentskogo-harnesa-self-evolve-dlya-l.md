@@ -48,17 +48,17 @@ source: Palo Alto AI Research Lab — deep research programme
 - Применимы ли выводы о кэш-дисциплине к режиму Anthropic API (не subscription) с явным cache_control?
 
 ## Источник
-- DR-ID `DR26-07-03-11` · реестр [[_DR-Registry]]
-- оригинал: `E:\Obsidian\_originals\deep-research\DR26-07-03-11-agent-optimizations-gemini.md`
-- оригинал: `E:\Obsidian\_originals\deep-research\DR26-07-03-11-agent-optimizations-chatgpt.md`
-- оригинал: `E:\Obsidian\_originals\deep-research\DR26-07-03-11-agent-optimizations-grok.md`
+- DR-ID `DR26-07-03-11` · реестр _DR-Registry
+- оригинал: «внутренний путь лаборатории»
+- оригинал: «внутренний путь лаборатории»
+- оригинал: «внутренний путь лаборатории»
 
 ## Связано
-- [[prompt caching]]
-- [[model routing]]
-- [[context compression]]
-- [[temporal knowledge graph]]
-- [[bi-temporal memory]]
-- [[multi-agent deliberation]]
-- [[trace-level synthesis]]
-- [[self-evolving agents]]
+- prompt caching
+- model routing
+- context compression
+- temporal knowledge graph
+- bi-temporal memory
+- multi-agent deliberation
+- trace-level synthesis
+- self-evolving agents

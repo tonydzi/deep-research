@@ -46,7 +46,7 @@ source: Palo Alto AI Research Lab — deep research programme
 
 ## Связи
 
-[[mission-get-noticed-hired-by-llm-company]] · [[github-guerrilla-presence-over-merge]] · [[maintainer-first-issue-matching-measured]] · [[broadside-traction-lesson]] · [[oss-backlog-multi-vendor-wave2]]
+mission-get-noticed-hired-by-llm-company · github-guerrilla-presence-over-merge · maintainer-first-issue-matching-measured · broadside-traction-lesson · oss-backlog-multi-vendor-wave2
 
 ## 🧒 Простыми словами
 

@@ -44,13 +44,13 @@ source: Palo Alto AI Research Lab — deep research programme
 - Reachability estimates ('very realistic', 'stretch', 'low-probability') are the report's own inference from job descriptions, not sourced from actual acceptance-rate data.
 
 ## Источник
-- DR-ID `DR26-07-14-HUB-10` · реестр [[_DR-Registry]]
-- оригинал: `E:\Obsidian\_originals\deep-research\DL-2026-07-14--How-a-FounderBuilder-Can-Position-for-a-Frontier-L.md`
+- DR-ID `DR26-07-14-HUB-10` · реестр _DR-Registry
+- оригинал: «внутренний путь лаборатории»
 
 ## Связано
-- [[second-brain-northstar]]
-- [[everything-becomes-content]]
-- [[cofounder-identity]]
-- [[alpha-protocol-recall-plus-dr]]
-- [[developer-relations-positioning]]
-- [[open-source-portfolio-strategy]]
+- second-brain-northstar
+- everything-becomes-content
+- cofounder-identity
+- alpha-protocol-recall-plus-dr
+- developer-relations-positioning
+- open-source-portfolio-strategy

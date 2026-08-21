@@ -40,16 +40,16 @@ source: Palo Alto AI Research Lab — deep research programme
 - Нет количественных данных о том, насколько именно снижается approval fatigue при переходе на bounded autonomy (только качественная конвергенция продуктовых практик и науки об alert fatigue).
 
 ## Источник
-- DR-ID `DR26-07-28-HUB-14-2339` · реестр [[_DR-Registry]]
-- оригинал: `E:\Obsidian\_originals\deep-research\DR26-07-28-HUB-14-2339-ai-koding-ustalost-i-drift-chatgpt.md`
-- оригинал: `E:\Obsidian\Anton-Knowledge\01-Conversations\ChatGPT\conversations\2026-07-08-ai-koding-ustalost-i-drift-6a4e3df5.md`
+- DR-ID `DR26-07-28-HUB-14-2339` · реестр _DR-Registry
+- оригинал: «внутренний путь лаборатории»
+- оригинал: «внутренний путь лаборатории»
 
 ## Связано
-- [[approval-fatigue]]
-- [[session-drift]]
-- [[goal-drift]]
-- [[alert-fatigue]]
-- [[spec-first-workflow]]
-- [[plan-mode]]
-- [[claude-code-best-practices]]
-- [[worktree-isolation]]
+- approval-fatigue
+- session-drift
+- goal-drift
+- alert-fatigue
+- spec-first-workflow
+- plan-mode
+- claude-code-best-practices
+- worktree-isolation

@@ -142,12 +142,12 @@ source: Palo Alto AI Research Lab — deep research programme
 
 ## Файлы-источники
 
-1. `_machine-bus/_dr/queue/DR26-08-13-ZB-01-2110/results/chatgpt.md`
-2. `_machine-bus/_dr/queue/DR26-08-13-ZB-01-2110/results/claudeai.md`
-3. `_machine-bus/_dr/queue/DR26-08-13-ZB-01-2110/results/grok.md`
-4. `_machine-bus/_dr/queue/DR26-08-13-ZB-01-2110/results/glm.md`
+1. «внутренний архив лаборатории»
+2. «внутренний архив лаборатории»
+3. «внутренний архив лаборатории»
+4. «внутренний архив лаборатории»
 
-Связано: [[dr26-08-13-zb-01-2110-us-smb-ai-automation-consulting]] · [[03-Insights/_index|Индекс инсайтов]]
+Связано: dr26-08-13-zb-01-2110-us-smb-ai-automation-consulting · Индекс инсайтов
 
 ## Связано
-- [[insight-DR-DR26-08-13-ZB-01-2110-us-smb-ai-consulting]] — arthur-синтез замещает сироту (4/6 кворум добран позже), но обратной ссылки нет
+- insight-DR-DR26-08-13-ZB-01-2110-us-smb-ai-consulting — arthur-синтез замещает сироту (4/6 кворум добран позже), но обратной ссылки нет

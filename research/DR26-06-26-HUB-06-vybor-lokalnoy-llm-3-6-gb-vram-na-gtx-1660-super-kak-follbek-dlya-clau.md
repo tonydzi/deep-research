@@ -38,12 +38,12 @@ source: Palo Alto AI Research Lab — deep research programme
 - Не оценено количественно, при каком именно объёме фоновых агентов (порог между 'редко' и '20 агентов') локальная инфраструктура окупает энергозатраты и сложность поддержки.
 
 ## Источник
-- DR-ID `DR26-06-26-HUB-06` · реестр [[_DR-Registry]]
-- оригинал: `E:\Obsidian\_originals\deep-research\DR26-06-26-HUB-06-1-выбор-модели-3-6-gb.md`
+- DR-ID `DR26-06-26-HUB-06` · реестр _DR-Registry
+- оригинал: «внутренний путь лаборатории»
 
 ## Связано
-- [[local-llm-fallback]]
-- [[claude-code-rate-limit-handling]]
-- [[model-routing-sonnet-grunt]]
-- [[gpu-resource-allocation]]
-- [[ak47-simplicity]]
+- local-llm-fallback
+- claude-code-rate-limit-handling
+- model-routing-sonnet-grunt
+- gpu-resource-allocation
+- ak47-simplicity

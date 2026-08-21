@@ -43,11 +43,11 @@ Sigstore/SLSA подпись (Syncthing-транспорт уже mTLS межд�
 13. Failover: epoch = fencing-token, консументы ОТКЛОНЯЮТ бандл со stale-epoch (энфорс сильнее нашего .leader; cites etcd/Consul/ZK/K8s).
 
 ### ⚠️ 2 вызова нашему approved-дизайну (решает Антон)
-- **A. `local-*` префикс → ChatGPT против.** Плоский префикс легко зашадоуить (shadow)/мис-globнуть/случайно опубликовать; предлагает rooted-subtree `skills/local/<machine-id>/` + `skills/shared/`, ИЛИ держать локальное авторство ВНЕ синкаемого корня совсем (как `CLAUDE.local.md` — отдельный root). ⚠️ Тонкость: Claude Code грузит `~/.claude/skills/<name>/` ПЛОСКО — вложенный `skills/local/foo/` НЕ загрузится тем же glob'ом → rooted-subtree конфликтует с loader'ом; практичный вариант = отдельный локальный root через `--add-dir` вне синка. Наш `.stignore local-*` доказан рабочим, но collision-fatal loader (рельс 1) обязателен.
+- **A. `local-*` префикс → ChatGPT против.** Плоский префикс легко зашадоуить (shadow)/мис-globнуть/случайно опубликовать; предлагает rooted-subtree `skills/local/<machine-id>/` + `skills/shared/`, ИЛИ держать локальное авторство ВНЕ синкаемого корня совсем (как `CLAUDE.local.md` — отдельный root). ⚠️ Тонкость: Claude Code грузит «внутренний путь лаборатории»<name>/` ПЛОСКО — вложенный `skills/local/foo/` НЕ загрузится тем же glob'ом → rooted-subtree конфликтует с loader'ом; практичный вариант = отдельный локальный root через `--add-dir` вне синка. Наш `.stignore local-*` доказан рабочим, но collision-fatal loader (рельс 1) обязателен.
 - **B. Syncthing receive-only НЕ достаточно** (сильнейшая находка). Receive-only НЕ делает ФС immutable — локальные правки сохраняются и влияют на поведение узла, просто не распространяются. 🔴 ЖИВОЕ ДОКАЗАТЕЛЬСТВО: на этом Маке `receiveOnlyChangedFiles=10` прямо сейчас — 10 локально-изменённых файлов общего набора уже потенциально дивергентят узел. Нужен **OS-level read-only (ACL/ro-mount) на shared/ для агент-юзера**, поверх Syncthing. Материализовать из отдельной staging-папки.
 
 ## Что это меняет в плане стройки (для флота, через консенсус)
-К staged-плану из [[decision-2026-07-14-fleet-skill-autonomy-local-namespace]] добавить рельсы 1-6 + рассмотреть GitOps-промоушен как механизм шага 4. Приоритет внедрения: рельсы 1 (collision), 3 (sync-conflict), 2 (shell-off/capability) — high-value/low-effort, первыми.
+К staged-плану из decision-2026-07-14-fleet-skill-autonomy-local-namespace добавить рельсы 1-6 + рассмотреть GitOps-промоушен как механизм шага 4. Приоритет внедрения: рельсы 1 (collision), 3 (sync-conflict), 2 (shell-off/capability) — high-value/low-effort, первыми.
 
 ## Связано
-- [[beat-2026-07-16-came-to-fix-already-fixed-receiveonly-detective]] — DR формулирует ту же находку receive-only не достаточно
+- beat-2026-07-16-came-to-fix-already-fixed-receiveonly-detective — DR формулирует ту же находку receive-only не достаточно

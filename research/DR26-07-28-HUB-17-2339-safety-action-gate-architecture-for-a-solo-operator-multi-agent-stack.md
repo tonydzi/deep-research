@@ -41,15 +41,15 @@ source: Palo Alto AI Research Lab — deep research programme
 - Exact mapping of Anton's existing scattered gates (Tier-2 policy, QQQ phone flow, rate-limiter/kill-switch, Claude Code permission modes) into the single `guard_action()` chokepoint was not concretely specified in the report and needs local design work.
 
 ## Источник
-- DR-ID `DR26-07-28-HUB-17-2339` · реестр [[_DR-Registry]]
-- оригинал: `E:\Obsidian\_originals\deep-research\DR26-07-28-HUB-17-2339-safety-action-gate-architecture-chatgpt.md`
-- оригинал: `E:\Obsidian\Anton-Knowledge\01-Conversations\ChatGPT\conversations\2026-07-05-safety-action-gate-architecture-6a499674.md`
+- DR-ID `DR26-07-28-HUB-17-2339` · реестр _DR-Registry
+- оригинал: «внутренний путь лаборатории»
+- оригинал: «внутренний путь лаборатории»
 
 ## Связано
-- [[mcp-security]]
-- [[prompt-injection-defense]]
-- [[human-in-the-loop-gating]]
-- [[tier-2-policy]]
-- [[approval-fatigue]]
-- [[agent-sandboxing]]
-- [[tool-poisoning]]
+- mcp-security
+- prompt-injection-defense
+- human-in-the-loop-gating
+- tier-2-policy
+- approval-fatigue
+- agent-sandboxing
+- tool-poisoning

@@ -12,7 +12,7 @@ source: Palo Alto AI Research Lab — deep research programme
 
 ## Ключевые выводы
 - Index+lazy-body architecture (thin always-loaded triggers/pointers + full rule bodies fetched on demand) is the consensus-recommended, harness-proven pattern — implemented natively via Claude Code Skills (description always visible, full SKILL.md loaded only on invocation), path-scoped Rules in .claude/rules/ (glob frontmatter), Hooks (deterministic, additionalContext injection), subdirectory CLAUDE.md, and subagents; Cursor's 'Agent Requested' and Windsurf's 'model_decision' modes do the same via model-judged descriptions.
-- Claude Code has no native two-level lazy loader for the global always-loaded file itself — global ~/.claude/CLAUDE.md is always loaded in full each turn; only path-scoped rules and Skills give conditional loading. An April 2026 Anthropic feature request for full lazy-loading of context components (skills/MCP tools/rules) was reportedly closed 'not planned' per chatgpt vendor section.
+- Claude Code has no native two-level lazy loader for the global always-loaded file itself — global «внутренний путь лаборатории» is always loaded in full each turn; only path-scoped rules and Skills give conditional loading. An April 2026 Anthropic feature request for full lazy-loading of context components (skills/MCP tools/rules) was reportedly closed 'not planned' per chatgpt vendor section.
 - A rigorous 2026 factorial study on Claude Code (Sonnet/Opus 4.x, ~1,650 sessions, arXiv:2605.10039) found NO detectable adherence degradation from file size (25–500 lines), instruction position, single-vs-multi-file architecture, or internal conflicts (Bayes factors support the null) — contradicting anecdotal/official 'bloat dilutes adherence' warnings; within-session decay (~5.6% lower compliance odds per added function generated) and task complexity were the actual dominant predictors.
 - Contradicting the null-result study, practitioner reports describe a much lower practical ceiling: 30–150 lines as the sweet spot, performance dropping past ~150 lines; one cited case (Sohit Kumar) went from 70% to 99% first-try success after shrinking CLAUDE.md from 470 to 94 lines; ETH-Zurich research found LLM-generated context files often hurt performance (-0.5–2%) unless kept concise.
 - Semantic/keyword-based rule routing exists natively in Cursor/Windsurf (description-based model self-selection) and can be custom-built for Claude Code via a PreToolUse hook that scans each turn for keywords and injects only matching rule docs (a cited example, 'Primeline's Evolving Lite' router, claims ~80% token savings) — but this is a single-source/homegrown result with no formal published benchmark of missed-rule rate vs. tokens saved.
@@ -42,15 +42,15 @@ source: Palo Alto AI Research Lab — deep research programme
 - No public failure-rate benchmark for rule-specific semantic routing at fleet scale; large-fleet scaling of the native-first approach is rated only 'emerging' confidence, not established.
 
 ## Источник
-- DR-ID `DR26-07-16-FLEE-01` · реестр [[_DR-Registry]]
-- оригинал: `E:\Obsidian\_originals\deep-research\DR26-07-16-FLEE-01-dispatcher-grok.md`
-- оригинал: `E:\Obsidian\_originals\deep-research\DR26-07-16-FLEE-01-dispatcher-chatgpt.md`
+- DR-ID `DR26-07-16-FLEE-01` · реестр _DR-Registry
+- оригинал: «внутренний путь лаборатории»
+- оригинал: «внутренний путь лаборатории»
 
 ## Связано
-- [[memory-index-hygiene]]
-- [[claude-md-compression-contract]]
-- [[write-service-files-tight-no-recompress]]
-- [[capture-rules-into-bible]]
-- [[test-after-build-skill]]
-- [[always-on-memory-pilot]]
-- [[insight-DR-DR26-07-17-HUB-04-conditional-rule-activation-in-llm-agents-lazy-loa]] — twin DR report on the same conditional rule activation / lazy-loading topic
+- memory-index-hygiene
+- claude-md-compression-contract
+- write-service-files-tight-no-recompress
+- capture-rules-into-bible
+- test-after-build-skill
+- always-on-memory-pilot
+- insight-DR-DR26-07-17-HUB-04-conditional-rule-activation-in-llm-agents-lazy-loa — twin DR report on the same conditional rule activation / lazy-loading topic

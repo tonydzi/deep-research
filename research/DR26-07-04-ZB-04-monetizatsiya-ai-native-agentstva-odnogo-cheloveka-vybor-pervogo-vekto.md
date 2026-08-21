@@ -44,12 +44,12 @@ source: Palo Alto AI Research Lab — deep research programme
 - Конкретный прайсинг и объём для собственного оффера 'Relationship Ops OS' Антона не валидированы — нужен реальный тест на реактивации сети.
 
 ## Источник
-- DR-ID `DR26-07-04-ZB-04` · реестр [[_DR-Registry]]
-- оригинал: `E:\Obsidian\_originals\deep-research\DR-2026-07-04-monetization-vectors-ORIGINAL.md`
+- DR-ID `DR26-07-04-ZB-04` · реестр _DR-Registry
+- оригинал: «внутренний путь лаборатории»
 
 ## Связано
-- [[productized-implementation-service]]
-- [[relationship-ops-os]]
-- [[warm-outreach-reactivation]]
-- [[second-brain-northstar]]
-- [[everything-becomes-content]]
+- productized-implementation-service
+- relationship-ops-os
+- warm-outreach-reactivation
+- second-brain-northstar
+- everything-becomes-content

@@ -8,7 +8,7 @@ source: Palo Alto AI Research Lab — deep research programme
 
 # Insight (DR DR26-07-01-ZB-04): Дешёвая архитектура «негативного знания» / памяти провалов для кодинг-агентов
 
-> ⚠️ **UPDATE 2026-07-14:** эта заметка была сгенерена по ПРОМПТУ (тела отчёта тогда не было — ChatGPT не отдаёт DR через экспорт). Полный отчёт СОБРАН 14.07 (Export→Markdown), лежит в `_originals\deep-research\` (путь в «Источник»). Актуальный синтез: [[decision-agent-stack-dr-bundle-synthesis-2026-07-14]].
+> ⚠️ **UPDATE 2026-07-14:** эта заметка была сгенерена по ПРОМПТУ (тела отчёта тогда не было — ChatGPT не отдаёт DR через экспорт). Полный отчёт СОБРАН 14.07 (Export→Markdown), лежит в `_originals\deep-research\` (путь в «Источник»). Актуальный синтез: decision-agent-stack-dr-bundle-synthesis-2026-07-14.
 
 
 > Незавершённый DR-запрос: как дать личным кодинг-агентам долговечную структурированную (не векторную) память о неудачных подходах, чтобы не переоткрывать тупики каждую сессию — фактического отчёта с результатами исследования в файле нет, только пересланный промпт в Deep Research App.
@@ -41,15 +41,15 @@ source: Palo Alto AI Research Lab — deep research programme
 - Как измерять/предотвращать 'landfill' эффект (память провалов, которой никто не пользуется или которая протухает).
 
 ## Источник
-- DR-ID `DR26-07-01-ZB-04` · реестр [[_DR-Registry]]
-- оригинал: `E:\Obsidian\_originals\deep-research\DR26-07-01-ZB-04-negative-knowledge-for-agents-6a4adc44-chatgpt.md`
+- DR-ID `DR26-07-01-ZB-04` · реестр _DR-Registry
+- оригинал: «внутренний путь лаборатории»
 
 ## Связано
-- [[negative-knowledge]]
-- [[failure-memory]]
-- [[forced-grounding]]
-- [[structured-retrieval-vs-embeddings]]
-- [[sql-grep-before-llm]]
-- [[vault-data-architecture]]
-- [[reglament-lechim-koren-problemy-ne-simptomy]]
-- [[insight-DR-DR26-07-28-HUB-19-2339-durable-structured-failure-negative-knowledge-memo]] — тот же незавершённый DR (negative knowledge/failure memory); новый DR — полный отчёт
+- negative-knowledge
+- failure-memory
+- forced-grounding
+- structured-retrieval-vs-embeddings
+- sql-grep-before-llm
+- vault-data-architecture
+- reglament-lechim-koren-problemy-ne-simptomy
+- insight-DR-DR26-07-28-HUB-19-2339-durable-structured-failure-negative-knowledge-memo — тот же незавершённый DR (negative knowledge/failure memory); новый DR — полный отчёт

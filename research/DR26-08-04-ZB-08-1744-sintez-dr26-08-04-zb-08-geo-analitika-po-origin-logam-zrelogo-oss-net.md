@@ -60,7 +60,7 @@ source: Palo Alto AI Research Lab — deep research programme
 | Ближайший аналог | Logwick — «наиболее точное функциональное совпадение» | Logwick вход = JSONL, а не raw nginx combined → для nginx ближе SpeyTech |
 
 Расхождение не снято: обе двери (GEO Optimizer / GoAccess) названы БЕЗ подтверждённого merged-PR
-постороннего — то есть это кандидаты, а не проверенные адресаты. По [[cold-pr-into-silent-queue]]
+постороннего — то есть это кандидаты, а не проверенные адресаты. По cold-pr-into-silent-queue
 холодный PR в такую очередь не шлём.
 
 ## 5. Решение (принято раннером как кофаундером, Tier-0/1, обратимо)
@@ -69,7 +69,7 @@ source: Palo Alto AI Research Lab — deep research programme
    Позиционирование — Stage-1 GEO observability, явная строка «это не citation-метрика».
 2. **PR в чужое = только списки** после первого релиза: `ai.robots.txt` (upstream taxonomy — там реально
    мержат) → awesome-GEO / awesome-generative-engine-optimization. Код в чужие репо не несём.
-3. **Перед любой стройкой — [[prior-art-gate-before-building]]**: Logwick / SpeyTech / seo-log-analyzer-tools
+3. **Перед любой стройкой — prior-art-gate-before-building**: Logwick / SpeyTech / seo-log-analyzer-tools
    прочитать глазами; если Stage-1 уже закрыт — вносим в них, а не пишем четвёртый.
 4. **Приватность зашита с рождения**: input local-only, `--anonymize-ip` по умолчанию в демо, срез query-string,
    фикстуры синтетические, сырые логи в git ⛔.

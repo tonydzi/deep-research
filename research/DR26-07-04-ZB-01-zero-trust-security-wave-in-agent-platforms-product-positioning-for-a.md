@@ -44,14 +44,14 @@ source: Palo Alto AI Research Lab — deep research programme
 - How much A2A/Agent Card signing costs to implement for Anton's public-facing agents is unquantified ('if implementation cost is low').
 
 ## Источник
-- DR-ID `DR26-07-04-ZB-01` · реестр [[_DR-Registry]]
-- оригинал: `E:\Obsidian\_originals\deep-research\DR26-07-04-ZB-01-zero-trust-agent-platforms.md`
+- DR-ID `DR26-07-04-ZB-01` · реестр _DR-Registry
+- оригинал: «внутренний путь лаборатории»
 
 ## Связано
-- [[agent-identity-zero-trust]]
-- [[mcp-security]]
-- [[prompt-injection-benchmarks]]
-- [[agent-supply-chain-registry]]
-- [[ftc-ai-claims-liability]]
-- [[second-brain-northstar]]
-- [[everything-becomes-content]]
+- agent-identity-zero-trust
+- mcp-security
+- prompt-injection-benchmarks
+- agent-supply-chain-registry
+- ftc-ai-claims-liability
+- second-brain-northstar
+- everything-becomes-content

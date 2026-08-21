@@ -43,16 +43,16 @@ source: Palo Alto AI Research Lab — deep research programme
 - Поведение `align="left/right"` у изображений имело регрессии и не задокументировано как надёжный layout-механизм — требует точечной проверки перед использованием.
 
 ## Источник
-- DR-ID `DR26-07-06-HUB-04` · реестр [[_DR-Registry]]
-- оригинал: `E:\Obsidian\_originals\deep-research\DR26-07-06-HUB-04-markdown-typography-chatgpt.md`
-- оригинал: `E:\Obsidian\_originals\deep-research\DR26-07-06-HUB-04-markdown-typography-vendor2.md`
+- DR-ID `DR26-07-06-HUB-04` · реестр _DR-Registry
+- оригинал: «внутренний путь лаборатории»
+- оригинал: «внутренний путь лаборатории»
 
 ## Связано
-- [[GitHub Flavored Markdown]]
-- [[GFM alerts/callouts]]
-- [[dark-mode image strategy]]
-- [[editorial style guide]]
-- [[vault-data-architecture]]
-- [[content-factory]]
-- [[episode]]
-- [[second-brain-northstar]]
+- GitHub Flavored Markdown
+- GFM alerts/callouts
+- dark-mode image strategy
+- editorial style guide
+- vault-data-architecture
+- content-factory
+- episode
+- second-brain-northstar

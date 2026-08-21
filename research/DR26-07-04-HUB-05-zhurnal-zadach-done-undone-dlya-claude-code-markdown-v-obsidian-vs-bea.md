@@ -41,15 +41,15 @@ source: Palo Alto AI Research Lab — deep research programme
 - Точный UX триггера hooks для capture (все prompts vs явные намерения vs отдельная skill-команда) не определён — нужно калибровать по реальным разговорам Антона с Claude Code.
 
 ## Источник
-- DR-ID `DR26-07-04-HUB-05` · реестр [[_DR-Registry]]
-- оригинал: `E:\Obsidian\_originals\2026-07-04-DR26-07-04-HUB-05-task-journal-done-undone-best-practices.md`
+- DR-ID `DR26-07-04-HUB-05` · реестр _DR-Registry
+- оригинал: «внутренний путь лаборатории»
 
 ## Связано
-- [[vault-data-architecture]]
-- [[ak47-simplicity]]
-- [[one-system-propagate]]
-- [[machine-bus-telegram-rail]]
-- [[hanging-tasks-dashboard]]
-- [[prefer-visual-dashboards]]
-- [[second-brain-northstar]]
-- [[task-assignment-by-machine]]
+- vault-data-architecture
+- ak47-simplicity
+- one-system-propagate
+- machine-bus-telegram-rail
+- hanging-tasks-dashboard
+- prefer-visual-dashboards
+- second-brain-northstar
+- task-assignment-by-machine

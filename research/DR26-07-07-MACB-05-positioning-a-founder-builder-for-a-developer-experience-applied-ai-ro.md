@@ -45,13 +45,13 @@ source: Palo Alto AI Research Lab — deep research programme
 - Unclear how much the crypto-liability framing generalizes beyond Anthropic's fraud/scams-focused hiring signal to OpenAI, Mistral, xAI, and Google specifically.
 
 ## Источник
-- DR-ID `DR26-07-07-MACB-05` · реестр [[_DR-Registry]]
-- оригинал: `E:\Obsidian\_originals\deep-research\DR26-07-07-MACB-05-positioning-frontier-llm-role.md`
+- DR-ID `DR26-07-07-MACB-05` · реестр _DR-Registry
+- оригинал: «внутренний путь лаборатории»
 
 ## Связано
-- [[main-goals]]
-- [[everything-becomes-content]]
-- [[cofounder-identity]]
-- [[second-brain-northstar]]
-- [[alpha-protocol-recall-plus-dr]]
-- [[insight-DR-DR26-07-14-HUB-10-how-a-founder-builder-can-position-for-a-frontier-]] — тот же вопрос позиционирования founder-builder для роли в frontier lab, сиблинг-фанаут
+- main-goals
+- everything-becomes-content
+- cofounder-identity
+- second-brain-northstar
+- alpha-protocol-recall-plus-dr
+- insight-DR-DR26-07-14-HUB-10-how-a-founder-builder-can-position-for-a-frontier- — тот же вопрос позиционирования founder-builder для роли в frontier lab, сиблинг-фанаут

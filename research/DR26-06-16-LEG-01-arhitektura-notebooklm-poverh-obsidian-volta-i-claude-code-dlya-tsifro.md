@@ -44,14 +44,14 @@ source: Palo Alto AI Research Lab — deep research programme
 - Юридический статус unofficial automation (notebooklm-py) относительно ToS не доказан однозначно — риск оценён как ненулевой, но не как подтверждённое нарушение.
 
 ## Источник
-- DR-ID `DR26-06-16-LEG-01` · реестр [[_DR-Registry]]
-- оригинал: `E:\Obsidian\_originals\deep-research\DR-notebooklm-claude-code-2026-06-16-RU.md`
+- DR-ID `DR26-06-16-LEG-01` · реестр _DR-Registry
+- оригинал: «внутренний путь лаборатории»
 
 ## Связано
-- [[notebooklm-integration]]
-- [[second-brain-northstar]]
-- [[vault-data-architecture]]
-- [[digital-twin]]
-- [[obsidian-second-brain]]
-- [[local-first-architecture]]
-- [[long-context-rag]]
+- notebooklm-integration
+- second-brain-northstar
+- vault-data-architecture
+- digital-twin
+- obsidian-second-brain
+- local-first-architecture
+- long-context-rag

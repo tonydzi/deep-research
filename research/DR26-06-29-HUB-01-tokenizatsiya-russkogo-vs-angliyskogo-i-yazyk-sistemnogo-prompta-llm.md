@@ -39,12 +39,12 @@ source: Palo Alto AI Research Lab — deep research programme
 - Оптимальная граница между «перевести полностью» и «перевести селективно» для конкретных инструкций не определена количественно
 
 ## Источник
-- DR-ID `DR26-06-29-HUB-01` · реестр [[_DR-Registry]]
-- оригинал: `E:\Obsidian\_originals\deep-research\DR26-06-29-HUB-01-1-токенизация-русского-vs-английского.md`
+- DR-ID `DR26-06-29-HUB-01` · реестр _DR-Registry
+- оригинал: «внутренний путь лаборатории»
 
 ## Связано
-- [[vault-data-architecture]]
-- [[model-routing-sonnet-grunt]]
-- [[claude-md-optimization-mechanics]]
-- [[write-service-files-tight-no-recompress]]
-- [[memory-index-hygiene]]
+- vault-data-architecture
+- model-routing-sonnet-grunt
+- claude-md-optimization-mechanics
+- write-service-files-tight-no-recompress
+- memory-index-hygiene

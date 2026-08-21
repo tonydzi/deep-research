@@ -42,15 +42,15 @@ source: Palo Alto AI Research Lab — deep research programme
 - Оптимальный интервал/триггер для приоритетной обработки contribute/ узла, долго бывшего offline, не задан численно
 
 ## Источник
-- DR-ID `DR26-07-07-HUB-05` · реестр [[_DR-Registry]]
-- оригинал: `E:\Obsidian\_originals\deep-research\DR26-07-07-MACANTON-01-fleet-memory-grok.md`
+- DR-ID `DR26-07-07-HUB-05` · реестр _DR-Registry
+- оригинал: «внутренний путь лаборатории»
 
 ## Связано
-- [[vault-data-architecture]]
-- [[machine-bus-telegram-rail]]
-- [[one-system-propagate]]
-- [[memory-index-hygiene]]
-- [[always-on-memory-pilot]]
-- [[machine-governance-leader-follower]]
-- [[own-fleet-peer-equality]]
-- [[insight-DR-DR26-06-27-HUB-04-memory-architecture-patterns-for-long-running-ai-a]] — развитие тех же паттернов working/long-term memory на fleet-wide уровень
+- vault-data-architecture
+- machine-bus-telegram-rail
+- one-system-propagate
+- memory-index-hygiene
+- always-on-memory-pilot
+- machine-governance-leader-follower
+- own-fleet-peer-equality
+- insight-DR-DR26-06-27-HUB-04-memory-architecture-patterns-for-long-running-ai-a — развитие тех же паттернов working/long-term memory на fleet-wide уровень

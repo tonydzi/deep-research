@@ -43,15 +43,15 @@ source: Palo Alto AI Research Lab — deep research programme
 - Cost/complexity of enforcing the epoch check across all peers' log-parsing logic is estimated (~100-200 lines) but not yet implemented or tested.
 
 ## Источник
-- DR-ID `DR26-07-17-HUB-02` · реестр [[_DR-Registry]]
-- оригинал: `E:\Obsidian\_originals\deep-research\DR26-07-17-HUB-02-1-prior-art-mapping.md`
+- DR-ID `DR26-07-17-HUB-02` · реестр _DR-Registry
+- оригинал: «внутренний путь лаборатории»
 
 ## Связано
-- [[multi-machine-auto-consensus]]
-- [[machine-governance-leader-follower]]
-- [[remote-approval-qqq]]
-- [[vps-anchor-node]]
-- [[own-fleet-peer-equality]]
-- [[split-brain]]
-- [[fencing-tokens]]
-- [[syncthing-partition-detection]]
+- multi-machine-auto-consensus
+- machine-governance-leader-follower
+- remote-approval-qqq
+- vps-anchor-node
+- own-fleet-peer-equality
+- split-brain
+- fencing-tokens
+- syncthing-partition-detection

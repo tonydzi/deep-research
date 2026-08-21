@@ -45,14 +45,14 @@ source: Palo Alto AI Research Lab — deep research programme
 - Exact recovery process/timeline after Telegram account limitation for legitimate (non-abusive) automated use is not guaranteed or documented as an SLO.
 
 ## Источник
-- DR-ID `DR26-07-06-HUB-03` · реестр [[_DR-Registry]]
-- оригинал: `C:\Users\Anton\Downloads\deep-research-report (5).md`
-- оригинал: `E:\Obsidian\_originals\deep-research\DR26-07-06-HUB-03-tg-rail-chatgpt.md`
+- DR-ID `DR26-07-06-HUB-03` · реестр _DR-Registry
+- оригинал: «внутренний путь лаборатории» (5).md`
+- оригинал: «внутренний путь лаборатории»
 
 ## Связано
-- [[machine-bus-telegram-rail]]
-- [[one-system-propagate]]
-- [[multi-machine-auto-consensus]]
-- [[verify-existing-before-proposing]]
-- [[remote-approval-qqq]]
-- [[credential-store]]
+- machine-bus-telegram-rail
+- one-system-propagate
+- multi-machine-auto-consensus
+- verify-existing-before-proposing
+- remote-approval-qqq
+- credential-store

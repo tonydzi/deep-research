@@ -41,15 +41,15 @@ source: Palo Alto AI Research Lab — deep research programme
 - Актуальность указанных issue-номеров (#590, #581, #599 и др.) на момент, когда Антон реально будет делать PR — репозитории активно меняются, нужно перепроверить, не взяты ли уже задачи другим контрибьютором.
 
 ## Источник
-- DR-ID `DR26-07-28-HUB-08-2338` · реестр [[_DR-Registry]]
-- оригинал: `E:\Obsidian\_originals\deep-research\DR26-07-28-HUB-08-2338-issledovanie-andreya-kravatova-chatgpt.md`
-- оригинал: `E:\Obsidian\Anton-Knowledge\01-Conversations\ChatGPT\conversations\2026-07-22-issledovanie-andreya-kravatova-6a613ceb.md`
+- DR-ID `DR26-07-28-HUB-08-2338` · реестр _DR-Registry
+- оригинал: «внутренний путь лаборатории»
+- оригинал: «внутренний путь лаборатории»
 
 ## Связано
-- [[issue-matching]]
-- [[open-source-contribution-strategy]]
-- [[second-brain-architecture]]
-- [[llm-wiki-pattern]]
-- [[vibe-coding]]
-- [[software-3.0]]
-- [[multi-vendor-cookbook-radar]]
+- issue-matching
+- open-source-contribution-strategy
+- second-brain-architecture
+- llm-wiki-pattern
+- vibe-coding
+- software-3.0
+- multi-vendor-cookbook-radar

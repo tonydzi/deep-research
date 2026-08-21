@@ -38,16 +38,16 @@ source: Palo Alto AI Research Lab — deep research programme
 - This DR was retro-registered from a ChatGPT conversation on 2026-07-07; the harvested vault note for the dialogue itself was truncated (report body missing there) — verify no additional vendor sections (Gemini/Grok) exist elsewhere for this DR-ID.
 
 ## Источник
-- DR-ID `DR26-07-28-HUB-15-2339` · реестр [[_DR-Registry]]
-- оригинал: `E:\Obsidian\_originals\deep-research\DR26-07-28-HUB-15-2339-a2a-protokol-i-buduschee-agentov-chatgpt.md`
-- оригинал: `E:\Obsidian\Anton-Knowledge\01-Conversations\ChatGPT\conversations\2026-07-07-a2a-protokol-i-buduschee-agentov-6a4cf11b.md`
+- DR-ID `DR26-07-28-HUB-15-2339` · реестр _DR-Registry
+- оригинал: «внутренний путь лаборатории»
+- оригинал: «внутренний путь лаборатории»
 
 ## Связано
-- [[A2A protocol]]
-- [[MCP]]
-- [[AGNTCY]]
-- [[ANP]]
-- [[AP2]]
-- [[agent interoperability]]
-- [[swarm orchestration]]
-- [[AAA C(H+A)RM]]
+- A2A protocol
+- MCP
+- AGNTCY
+- ANP
+- AP2
+- agent interoperability
+- swarm orchestration
+- AAA C(H+A)RM

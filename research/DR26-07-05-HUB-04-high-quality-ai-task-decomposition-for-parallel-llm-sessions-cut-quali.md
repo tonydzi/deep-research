@@ -44,17 +44,17 @@ source: Palo Alto AI Research Lab — deep research programme
 - Grok's vendor section was truncated in the source collection — its specific findings/contradictions/best-practices beyond the shared framing are not fully captured here.
 
 ## Источник
-- DR-ID `DR26-07-05-HUB-04` · реестр [[_DR-Registry]]
-- оригинал: `E:\Obsidian\_originals\deep-research\DR26-07-05-HUB-04-decomposition-v2-chatgpt.md`
-- оригинал: `E:\Obsidian\_originals\deep-research\DR26-07-05-HUB-04-decomposition-v2-gemini.md`
-- оригинал: `E:\Obsidian\_originals\deep-research\DR26-07-05-HUB-04-decomposition-v2-grok.md`
+- DR-ID `DR26-07-05-HUB-04` · реестр _DR-Registry
+- оригинал: «внутренний путь лаборатории»
+- оригинал: «внутренний путь лаборатории»
+- оригинал: «внутренний путь лаборатории»
 
 ## Связано
-- [[decompose-into-parallel-sessions]]
-- [[multi-agent-offer-reflex]]
-- [[multi-agent-role-discipline]]
-- [[test-after-build-skill]]
-- [[goal-drift-offload-to-seed-sessions]]
-- [[verify-existing-before-proposing]]
-- [[connect-rule-pipeline-ownership]]
-- [[ak47-simplicity]]
+- decompose-into-parallel-sessions
+- multi-agent-offer-reflex
+- multi-agent-role-discipline
+- test-after-build-skill
+- goal-drift-offload-to-seed-sessions
+- verify-existing-before-proposing
+- connect-rule-pipeline-ownership
+- ak47-simplicity

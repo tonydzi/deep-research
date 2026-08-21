@@ -41,14 +41,14 @@ source: Palo Alto AI Research Lab — deep research programme
 - Долгосрочная динамика неизвестна: системы верификации Meta/X меняются с 2022–2023 гг., алгоритмы продолжают адаптироваться, текущие выводы актуальны только на середину 2026
 
 ## Источник
-- DR-ID `DR26-07-28-HUB-07-2338` · реестр [[_DR-Registry]]
-- оригинал: `E:\Obsidian\_originals\deep-research\DR26-07-28-HUB-07-2338-issledovanie-vliyaniya-galochki-chatgpt.md`
-- оригинал: `E:\Obsidian\Anton-Knowledge\01-Conversations\ChatGPT\conversations\2026-07-22-issledovanie-vliyaniya-galochki-6a60af6f.md`
+- DR-ID `DR26-07-28-HUB-07-2338` · реестр _DR-Registry
+- оригинал: «внутренний путь лаборатории»
+- оригинал: «внутренний путь лаборатории»
 
 ## Связано
-- [[social-media-verification]]
-- [[engagement-rate]]
-- [[algorithmic-ranking]]
-- [[meta-verified]]
-- [[x-premium]]
-- [[trust-signal-content]]
+- social-media-verification
+- engagement-rate
+- algorithmic-ranking
+- meta-verified
+- x-premium
+- trust-signal-content

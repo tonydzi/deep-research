@@ -46,15 +46,15 @@ source: Palo Alto AI Research Lab — deep research programme
 - Whether forecasting tournaments (audience forecast boards) actually improve creator/audience conversion is unsettled — evidence supports forecasting judgment accuracy generally, not this specific conversion effect.
 
 ## Источник
-- DR-ID `DR26-07-14-HUB-03` · реестр [[_DR-Registry]]
-- оригинал: `E:\Obsidian\_originals\deep-research\DL-2026-07-14--Audience-Power-Without-Chaos-and-Public-Build-to-L.md`
+- DR-ID `DR26-07-14-HUB-03` · реестр _DR-Registry
+- оригинал: «внутренний путь лаборатории»
 
 ## Связано
-- [[everything-becomes-content]]
-- [[reality-show]]
-- [[cofounder]]
-- [[alpha-protocol-recall-plus-dr]]
-- [[episode-content-factory]]
-- [[audience-participation-design]]
-- [[devrel-hiring-signals]]
-- [[insight-DR-DR26-07-07-HUB-02-audience-participation-design-without-strategy-cap]] — later refined DR on the exact same audience-participation-design + DevRel-hiring topic
+- everything-becomes-content
+- reality-show
+- cofounder
+- alpha-protocol-recall-plus-dr
+- episode-content-factory
+- audience-participation-design
+- devrel-hiring-signals
+- insight-DR-DR26-07-07-HUB-02-audience-participation-design-without-strategy-cap — later refined DR on the exact same audience-participation-design + DevRel-hiring topic

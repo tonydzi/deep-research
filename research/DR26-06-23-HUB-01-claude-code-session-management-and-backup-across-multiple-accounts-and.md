@@ -11,7 +11,7 @@ source: Palo Alto AI Research Lab — deep research programme
 > How should Claude Code local sessions, config and account state be backed up and kept consistent across multiple machines and accounts without relying on unsupported live sync?
 
 ## Ключевые выводы
-- Claude Code stores local plaintext session transcripts under ~/.claude/projects/ with a default 30-day retention (cleanupPeriodDays); the SDK's list_sessions()/get_session_messages() treat these transcripts as real operational state, not just a UI cache.
+- Claude Code stores local plaintext session transcripts under «внутренний путь лаборатории» with a default 30-day retention (cleanupPeriodDays); the SDK's list_sessions()/get_session_messages() treat these transcripts as real operational state, not just a UI cache.
 - Anthropic does NOT offer a general feature to sync all local Claude Code sessions/settings/history across machines and accounts — only narrower features exist: Remote Control (mirrors a still-running LOCAL session to web/mobile, nothing moves to cloud), VS Code's one-way download of certain cloud sessions from claude.ai (not synced back), and Claude app chat memory/search becoming portable.
 - Account portability is officially narrow: personal→Team/Enterprise migration is supported (chats, projects, files, memory, connectors, skills move), but Anthropic explicitly does NOT support importing exported data into another personal account or migrating data between two personal accounts.
 - Naive file-sync (Syncthing) is fundamentally file-replication, not transactional state management: it creates sync-conflict copies on simultaneous edits and is explicitly documented as not a backup system; SQLite explicitly warns of corruption under unreliable/networked locking and WAL requires single-host.
@@ -24,7 +24,7 @@ source: Palo Alto AI Research Lab — deep research programme
 - Adopt a layered/two-tier architecture: (1) working tier — each machine keeps live auth/settings/active sessions strictly local; use Remote Control to attach another device to the SAME running session instead of opening it from a second machine; (2) archive tier — a SessionEnd hook or scheduled job mirrors only closed/stabilized transcripts to a backup location.
 - Increase retention beyond the 30-day default via cleanupPeriodDays if longer local recovery windows are needed.
 - Keep portable, deterministic text config (CLAUDE.md, skills, prompts, MCP definitions) in Git/chezmoi with hostname-aware templating and env-var path indirection — do not hardcode user paths.
-- Never live-sync the whole ~/.claude tree; never make .claude a consumer-cloud-synced symlink root (proven to break via the OneDrive bug).
+- Never live-sync the whole «внутренний путь лаборатории» tree; never make .claude a consumer-cloud-synced symlink root (proven to break via the OneDrive bug).
 - Enforce single-writer-per-session semantics: don't resume the same session on a second machine until the first has closed and the closed transcript has propagated.
 - If continuing to use Syncthing for transcript archival, use send-only/single-writer staging + receive-only mirrors + versioning enabled, rather than syncing the active writer directory directly.
 - Build and maintain your own neutral session catalog (session_id, summary, cwd, created_at, last_modified, machine, account/org label) via the SDK's list_sessions(), rather than depending on any single Desktop 'recent sessions' UI registry.
@@ -43,15 +43,15 @@ source: Palo Alto AI Research Lab — deep research programme
 - Exact scope/limits of Remote Control's 'stays in sync across connected devices' mechanism beyond the documented cases isn't fully specified.
 
 ## Источник
-- DR-ID `DR26-06-23-HUB-01` · реестр [[_DR-Registry]]
-- оригинал: `E:\Obsidian\_originals\deep-research\DR26-06-23-HUB-01-claude-code-session-management-across-multipl.md`
+- DR-ID `DR26-06-23-HUB-01` · реестр _DR-Registry
+- оригинал: «внутренний путь лаборатории»
 
 ## Связано
-- [[claude-desktop-sessions-per-account]]
-- [[machine-bus-telegram-rail]]
-- [[one-system-propagate]]
-- [[session-machine-tagging]]
-- [[config-safety-backup-and-migration-check]]
-- [[deterministic-script-gotchas]]
-- [[vault-backup-rule]]
-- [[machine-migration]]
+- claude-desktop-sessions-per-account
+- machine-bus-telegram-rail
+- one-system-propagate
+- session-machine-tagging
+- config-safety-backup-and-migration-check
+- deterministic-script-gotchas
+- vault-backup-rule
+- machine-migration

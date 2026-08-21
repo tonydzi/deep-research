@@ -46,17 +46,17 @@ source: Palo Alto AI Research Lab — deep research programme
 - Gemini's full ~73k-character report could not be captured verbatim (tool truncation) — only executive summary and strategic recommendations were retrieved; full recapture recommended when a non-truncating path is available.
 
 ## Источник
-- DR-ID `DR26-07-03-HUB-01` · реестр [[_DR-Registry]]
-- оригинал: `E:\Obsidian\_originals\deep-research\DR26-07-03-HUB-01-no-content-available-6a484743-chatgpt.md`
-- оригинал: `E:\Obsidian\_originals\deep-research\DR26-07-03-HUB-01-call-transcript-mining-chatgpt.md`
-- оригинал: `E:\Obsidian\_originals\deep-research\DR26-07-03-HUB-01-call-transcript-mining-gemini.md`
-- оригинал: `E:\Obsidian\_originals\deep-research\DR26-07-03-HUB-01-call-transcript-mining-grok.md`
+- DR-ID `DR26-07-03-HUB-01` · реестр _DR-Registry
+- оригинал: «внутренний путь лаборатории»
+- оригинал: «внутренний путь лаборатории»
+- оригинал: «внутренний путь лаборатории»
+- оригинал: «внутренний путь лаборатории»
 
 ## Связано
-- [[vault-data-architecture]]
-- [[second-brain-northstar]]
-- [[alpha-protocol-recall-plus-dr]]
-- [[obsidian-ingest]]
-- [[granola-sync]]
-- [[crm-sync]]
-- [[model-routing-sonnet-grunt]]
+- vault-data-architecture
+- second-brain-northstar
+- alpha-protocol-recall-plus-dr
+- obsidian-ingest
+- granola-sync
+- crm-sync
+- model-routing-sonnet-grunt

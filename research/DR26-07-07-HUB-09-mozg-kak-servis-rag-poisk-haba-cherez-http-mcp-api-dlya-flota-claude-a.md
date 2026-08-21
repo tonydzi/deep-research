@@ -38,15 +38,15 @@ source: Palo Alto AI Research Lab — deep research programme
 - Нужно решить, добавлять ли OAuth 2.1 по MCP-спеке или достаточно API-key + Tailscale ACL
 
 ## Источник
-- DR-ID `DR26-07-07-HUB-09` · реестр [[_DR-Registry]]
-- оригинал: `E:\Obsidian\_originals\deep-research\DR26-07-07-MACANTON-03-brain-api-grok.md`
+- DR-ID `DR26-07-07-HUB-09` · реестр _DR-Registry
+- оригинал: «внутренний путь лаборатории»
 
 ## Связано
-- [[vault-data-architecture]]
-- [[second-brain-northstar]]
-- [[machine-bus-telegram-rail]]
-- [[own-fleet-peer-equality]]
-- [[vps-anchor-node]]
-- [[desktop-max-laptop-min]]
-- [[insight-DR-DR26-07-07-HUB-08-brain-as-a-service-exposing-the-hub-s-rag-vault-se]] — сиблинг из того же батча DR (MACANTON-03, русская версия), тот же вопрос
-- [[insight-DR-DR26-07-14-HUB-05-brain-as-a-service-exposing-the-vault-rag-index-to]] — почти дословный дубль-тема (RAG через HTTP/MCP для флота), более ранняя версия того же DR-вопроса
+- vault-data-architecture
+- second-brain-northstar
+- machine-bus-telegram-rail
+- own-fleet-peer-equality
+- vps-anchor-node
+- desktop-max-laptop-min
+- insight-DR-DR26-07-07-HUB-08-brain-as-a-service-exposing-the-hub-s-rag-vault-se — сиблинг из того же батча DR (MACANTON-03, русская версия), тот же вопрос
+- insight-DR-DR26-07-14-HUB-05-brain-as-a-service-exposing-the-vault-rag-index-to — почти дословный дубль-тема (RAG через HTTP/MCP для флота), более ранняя версия того же DR-вопроса

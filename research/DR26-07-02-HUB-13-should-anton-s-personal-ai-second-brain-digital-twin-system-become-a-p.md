@@ -47,15 +47,15 @@ source: Palo Alto AI Research Lab — deep research programme
 - Whether large incumbents (Google, Microsoft, Anthropic's own Cowork) will commoditize the same capability before this system could reach market.
 
 ## Источник
-- DR-ID `DR26-07-02-HUB-13` · реестр [[_DR-Registry]]
-- оригинал: `E:\Obsidian\_originals\deep-research\2026-07-02-public-productization-DR-A.md`
+- DR-ID `DR26-07-02-HUB-13` · реестр _DR-Registry
+- оригинал: «внутренний путь лаборатории»
 
 ## Связано
-- [[second-brain-northstar]]
-- [[ak47-simplicity]]
-- [[credential-store]]
-- [[multi-agent-offer-reflex]]
-- [[synthetic-cofounder]]
-- [[open-core-saas-model]]
-- [[informed-consent-explain-why]]
-- [[privacy-trust-boundary]]
+- second-brain-northstar
+- ak47-simplicity
+- credential-store
+- multi-agent-offer-reflex
+- synthetic-cofounder
+- open-core-saas-model
+- informed-consent-explain-why
+- privacy-trust-boundary

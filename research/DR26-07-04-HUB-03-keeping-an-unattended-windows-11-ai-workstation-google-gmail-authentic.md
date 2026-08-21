@@ -43,15 +43,15 @@ source: Palo Alto AI Research Lab — deep research programme
 - Whether periodic synthetic activity provides any durability benefit remains unproven either way (only inferred from risk-familiarity documentation).
 
 ## Источник
-- DR-ID `DR26-07-04-HUB-03` · реестр [[_DR-Registry]]
-- оригинал: `E:\Obsidian\_originals\2026-07-03-DR26-07-04-HUB-03-away-mode-45days-unattended-auth.md`
+- DR-ID `DR26-07-04-HUB-03` · реестр _DR-Registry
+- оригинал: «внутренний путь лаборатории»
 
 ## Связано
-- [[away-mode-hub-hardening]]
-- [[google-oauth-token-lifecycle]]
-- [[windows-update-policy-control]]
-- [[unattended-workstation-rescue-plan]]
-- [[chrome-session-persistence]]
-- [[machine-bus-telegram-rail]]
-- [[credential-store]]
-- [[insight-DR-DR26-07-03-HUB-03-keeping-an-unattended-windows-11-ai-workstation-au]] — почти дубль-DR днём позже по той же теме away-mode
+- away-mode-hub-hardening
+- google-oauth-token-lifecycle
+- windows-update-policy-control
+- unattended-workstation-rescue-plan
+- chrome-session-persistence
+- machine-bus-telegram-rail
+- credential-store
+- insight-DR-DR26-07-03-HUB-03-keeping-an-unattended-windows-11-ai-workstation-au — почти дубль-DR днём позже по той же теме away-mode

@@ -40,12 +40,12 @@ source: Palo Alto AI Research Lab — deep research programme
 - Whether the recommended posting sequence and spacing actually holds up in practice (author's own confidence label was 'emerging', not established).
 
 ## Источник
-- DR-ID `DR26-07-20-HUB-03` · реестр [[_DR-Registry]]
-- оригинал: `E:\Obsidian\_originals\deep-research\DR26-07-20-ZB-01-reddit-voice-grok.md`
+- DR-ID `DR26-07-20-HUB-03` · реестр _DR-Registry
+- оригинал: «внутренний путь лаборатории»
 
 ## Связано
-- [[everything-becomes-content]]
-- [[content-cascade-auto-execute-never-ask]]
-- [[no-public-content-without-natasha-ok]]
-- [[dr-fanout]]
-- [[reddit-native-voice-playbook]]
+- everything-becomes-content
+- content-cascade-auto-execute-never-ask
+- no-public-content-without-natasha-ok
+- dr-fanout
+- reddit-native-voice-playbook
