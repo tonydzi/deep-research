@@ -1,0 +1,59 @@
+---
+dr_id: DR26-07-28-HUB-13-2339
+title: "Локальная мульти-персональная архитектура AI-волта: приватность vs продуктивность контекст"
+date: 2026-07-28
+lang: mixed
+source: Palo Alto AI Research Lab — deep research programme
+---
+
+# Insight (DR DR26-07-28-HUB-13-2339): Локальная мульти-персональная архитектура AI-волта: приватность vs продуктивность контекста
+
+> Отвечает на вопрос, как устроить систему, где у каждого человека (Антон, Наталья, Руслана) есть свой локальный волт с максимальным личным контекстом, а расшаривание в семью/компанию остаётся полностью на его усмотрение.
+
+## Ключевые выводы
+- Правильная модель — не единый волт 'Антон=компания', а person-centric local-first архитектура: у каждого человека Personal Vault хранится локально на его устройствах, сервер играет вспомогательную роль (синк, бэкап, компьют)
+- Нужно минимум 5 доменов доверия с разными правилами шаринга: personal, company, family, friends, person-to-person — трактовать как отдельные security-домены, а не давать доверие по факту владения устройством или членства в сети/компании (позиция NIST zero-trust)
+- Ключевая инженерная поправка к запросу Антона: 'знать всё' не должно значить 'делиться всем' — нужно разделять capture (сбор), distillation (сжатие в память), retrieval (поиск) и sharing (публикация) как отдельные стадии (GDPR purpose limitation, data minimization, privacy-by-default)
+- Долгоживущим агентам нужна структурированная внешняя память, а не просто больший контекст: RAG-подход и MemGPT-иерархия памяти работают лучше, чем 'вываливать всю историю' — даже длинный контекст и обычный RAG деградируют на очень долгих мульти-сессионных диалогах
+- Структурированная память (Mem0-подобный подход: извлечение и консолидация значимой информации) даёт заметно ниже p95-latency и token cost, чем full-context baseline — но это пока arXiv-препринт, не зрелый стандарт
+- Для смешанного RU/EN корпуса (голосовые заметки Антона) нужен мультиязычный/кросс-лингвальный retrieval — Whisper мультиязычен, монолингвальный embedding тихо теряет recall на смешанном корпусе
+- Рекомендуемая эталонная архитектура: 'vault graph' — Personal Vault каждого человека + Domain Vaults (company/family/household/friends), агент читает свой Personal Vault по умолчанию, публикация в общие домены — только explicit policy
+- Авторизация должна сочетать ReBAC (граф отношений: 'Наташа — участник семьи X') и ABAC (условия: чувствительность, время, устройство, VPN); Google Zanzibar и OpenFGA рекомендуют трактовать агентов как отдельных 'principals' со scoped-делегированием, а не копированием прав пользователя
+- Дефолт политики: приватно по умолчанию, явная публикация для шаринга, ограниченное делегирование для агентов; прецедент — Microsoft Recall, где raw-capture строго opt-in, локален, фильтруется/удаляется, и админ НЕ может включить его за пользователя
+- Объект хранения должен быть не 'документ', а memory object с метаданными policy: owner, source, timestamp, scope, sensitivity, allowed_uses, retention, provenance, share_status — это позволяет проверить relevant/permitted/valid ДО того, как модель увидит данные
+
+## Рекомендации / решения
+- Запускать в фазах: (1) сначала локальный capture + локальный retrieval на каждой машине без кросс-шаринга, (2) затем ручная публикация памяти в family/company/person-to-person домены, (3) затем агенты как scoped principals с ограниченным доступом, (4) только потом федеративное обучение или облачный компьют
+- Для retrieval не полагаться только на векторный поиск — использовать гибрид BM25 + dense retrieval + reranker; для холодного старта без relevance-меток использовать RRF, позже переходить на convex-combination fusion
+- Для голосового ввода использовать whisper.cpp (лёгкий, кроссплатформенный, near-real-time streaming) или faster-whisper для более высокой пропускной способности на CPU/GPU
+- Для локального рантайма модели — llama.cpp с OpenAI-совместимым HTTP-сервером (chat/embeddings/reranking/structured JSON), держа транскрипцию, извлечение, классификацию памяти, retrieval и reasoning как отдельные модули, а не монолит
+- Если понадобится облачный компьют для тяжёлого reasoning — ориентироваться на модель Apple Private Cloud Compute (stateless: данные используются только для запроса и не сохраняются, включая логи)
+- Шифрование — не изобретать свою крипто-схему, а опираться на OS-native: BitLocker/Secure Enclave/Android Keystore с hardware-backed ключами
+- Для кросс-пользовательской персонализации без централизации сырых данных использовать federated learning/analytics только для узких агрегатных задач (ранжирование полезности памяти, wake-word и т.п.), не для тренировки центральной модели на сырых личных волтах
+- Приоритизировать high-value сигналы (календарь, задачи, принятые предпочтения, часто используемые документы, явные голосовые заметки, подтверждённые summary) вместо тотальной записи экрана — trust-adjusted продуктивность выше при меньшем сыром захвате (см. OWASP LLM risks: prompt injection, excessive agency, sensitive information disclosure)
+
+## Сущности
+- **Люди:** Anton, Natasha, Ruslana
+- **Компании:** Anthropic (OWASP упомянут как guidance-организация), Google (Zanzibar), Microsoft, Apple, OpenFGA
+- **Продукты/инструменты:** Whisper, whisper.cpp, faster-whisper, llama.cpp, MemGPT, Mem0, RAG, BitLocker, Secure Enclave, Android Keystore, Apple Private Cloud Compute, Microsoft Recall, Zanzibar, OpenFGA, GDPR, NIST zero-trust, OWASP LLM Top 10, CRDT
+
+## Открытые вопросы
+- Mem0-подход подтверждён только препринтом arXiv, не является зрелым production-стандартом — нужна собственная валидация перед принятием как основы архитектуры
+- CRDT-инструментарий для sync-слоя пока не является drop-in заменой проверенным production backend — если нужна коллаборация быстро, лучше использовать 'скучный' sync-слой, а не CRDT-heavy дизайн
+- Не проработан конкретный механизм, как именно Наталья и Руслана технически 'решают' что публиковать (UI/workflow публикации не детализирован, только принцип)
+- Неясно, как разграничить raw capture между корпоративными и личными задачами на одном устройстве (managed company device vs личное использование) в конкретной реализации Антона
+
+## Источник
+- DR-ID `DR26-07-28-HUB-13-2339` · реестр [[_DR-Registry]]
+- оригинал: `E:\Obsidian\_originals\deep-research\DR26-07-28-HUB-13-2339-konfidentsialnost-i-produktivnost-chatgpt.md`
+- оригинал: `E:\Obsidian\Anton-Knowledge\01-Conversations\ChatGPT\conversations\2026-07-10-konfidencialnost-i-produktivnost-6a511e1f.md`
+
+## Связано
+- [[second-brain-northstar]]
+- [[vault-data-architecture]]
+- [[credential-store]]
+- [[machine-governance-leader-follower]]
+- [[persona-kit-core-floor-split]]
+- [[local-first-software]]
+- [[zero-trust-authorization]]
+- [[multi-agent-role-discipline]]

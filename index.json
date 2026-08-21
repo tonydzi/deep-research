@@ -1,0 +1,2041 @@
+{
+ "generated": "2026-08-21",
+ "count": 226,
+ "repo": "https://github.com/tonydzi/deep-research",
+ "research": [
+  {
+   "dr_id": "DR26-07-14-FLEE-01",
+   "title": "Синтез-консенсус DR26-07-14-FLEE-01 — надёжная безлюдная оркестрация DR-fanout",
+   "summary": "Гетеро-консенсус двух независимых вендоров (OpenAI-модель + xAI-модель). Расхождения НЕ сглажены. Gemini добавится ночным коллектором — усилит, но не переворачивает выводы (оба сошлись сильно).",
+   "lang": "ru",
+   "date": "",
+   "slug": "DR26-07-14-FLEE-01-sintez-konsensus-dr26-07-14-flee-01-nadezhnaya-bezlyudnaya-orkestratsi",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-07-14-FLEE-01-sintez-konsensus-dr26-07-14-flee-01-nadezhnaya-bezlyudnaya-orkestratsi.md"
+  },
+  {
+   "dr_id": "DR26-07-16-HUB-03",
+   "title": "DR26-07-16-HUB-03 — Synthesis: safe fleet skill autonomy (supply-chain rails)",
+   "summary": "⚠️ Alias: наружу этот DR ушёл как `DR26-07-14-MACANTON-01` (коллизия: тот же номер вручную получил фандрейз-DR). Перенумерован 16.07, реестр `_DR-Registry.md`.",
+   "lang": "ru",
+   "date": "",
+   "slug": "DR26-07-16-HUB-03-dr26-07-16-hub-03-synthesis-safe-fleet-skill-autonomy-supply-chain-rai",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-07-16-HUB-03-dr26-07-16-hub-03-synthesis-safe-fleet-skill-autonomy-supply-chain-rai.md"
+  },
+  {
+   "dr_id": "DR26-07-26-ZB-01",
+   "title": "Альфа из AI-фильмов: что из Ghost in the Shell / Blade Runner / Her реально строится в 2026 (DR26-07-26-ZB-01)",
+   "summary": "[!abstract] Зачем Синтез Deep Research `DR26-07-26-ZB-01`: разобрать корпус ключевого AI-кино (Ghost in the Shell 1995 / Innocence / SAC / 2017, Бегущий по лезвию 1982 / 2049 / Black Lotus, Ex Machina, Матрица, Her) не как культурный багаж, а как **список технических требований**: какой концепт уже собирается из компонентов 2026 года, какой соберётся за 2-3 года, а какой — красивая философия без инженерного дна. Цель прикладная: докинуть фич в [[concept-digital-immortality|AI-двойника]] и [[concept-second-brain|второй мозг]]. [!warning] База консенсуса — ДВА вендора, не три Gemini (3.1 Pro Extended + Deep Research, отчёт 33.8 KB, ~40 инлайн-URL) и Grok (SuperGrok Heavy, «Thought for 1m 44s», 378 источников) отработали. **ChatGPT Pro дважды подряд выдал «Research completed in 6m · 0 citations · 0 searches»** — красивая таблица целиком из памяти, без единого веб-поиска, второй раз даже после явного требования «минимум 20 поисков / 20 источников». По гейту доказательства работы канал закрыт как `dead` и в синтез не взят. Где ниже написано «сошлись оба» — это Gemini+Grok, а не тройной веер. То же самое случилось параллельно на [[insight-DR-DR26-07-26-ZB-02-harari-alpha|ZB-02]] — значит это не разовый сбой, а состояние вендора на 26.07.",
+   "lang": "ru",
+   "date": "",
+   "slug": "DR26-07-26-ZB-01-alfa-iz-ai-filmov-chto-iz-ghost-in-the-shell-blade-runner-her-realno-s",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-07-26-ZB-01-alfa-iz-ai-filmov-chto-iz-ghost-in-the-shell-blade-runner-her-realno-s.md"
+  },
+  {
+   "dr_id": "DR26-07-26-ZB-02",
+   "title": "Альфа из Юваля Харари: что забрать в систему, а что трёп (DR26-07-26-ZB-02)",
+   "summary": "[!abstract] Зачем Синтез Deep Research `DR26-07-26-ZB-02` по Ювалю Ною Харари: (1) карта его тезисов об ИИ и где они держатся против данных 2025–2026, (2) что из них конвертируется в механизмы нашего [[concept-second-brain|второго мозга]] и AI-двойника, (3) как он построил бренд №1 «человечество и технологии» без техбэкграунда и что из этого воспроизводимо малой командой. Харари — не случайная фигура: он уже назван прямым влиянием в [[insight-ai-native-playbook-gershuni]] (Гершуни берёт у него «символическую координацию»). Это второй разбор ролевой модели в той же серии. [!warning] База консенсуса — ТРИ вендора, но третий добыт со второй попытки и другим путём",
+   "lang": "ru",
+   "date": "",
+   "slug": "DR26-07-26-ZB-02-alfa-iz-yuvalya-harari-chto-zabrat-v-sistemu-a-chto-trep-dr26-07-26-zb",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-07-26-ZB-02-alfa-iz-yuvalya-harari-chto-zabrat-v-sistemu-a-chto-trep-dr26-07-26-zb.md"
+  },
+  {
+   "dr_id": "DR26-07-29-MACANTON-02-1537",
+   "title": "Партизанский GitHub — синтез DR26-07-29-MACANTON-02-1537",
+   "summary": "⚠️ **ДЛЯ СЕССИЙ С СИДОМ «построить agent-runtime-integrity-bench» (14.08.2026):** бенчмарк УЖЕ ПОСТРОЕН 31.07 — repo `github.com/tonydzi/agent-runtime-integrity-bench` (срез S2+S3), использован под живой issue `openai/openai-agents-python#3983`; см. `insight-agent-runtime-integrity-bench-first-slice`. Сид от 14.08 писался на протухшем контексте. НЕ строить заново — только дельта: состояние треда #3983 + следующий сценарий по скиллу",
+   "lang": "ru",
+   "date": "",
+   "slug": "DR26-07-29-MACANTON-02-1537-partizanskiy-github-sintez-dr26-07-29-macanton-02-1537",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-07-29-MACANTON-02-1537-partizanskiy-github-sintez-dr26-07-29-macanton-02-1537.md"
+  },
+  {
+   "dr_id": "DR26-07-31-MACANTON-03-2122",
+   "title": "OmniRoute — КОНСЕНСУС ТРЁХ РЕЛЬС + наши замеры (свод 04.08.2026)",
+   "summary": "База: 3 вендора (не 2 — рельса Gemini была ошибочно списана как «closed by vendor», отчёт лежал целым) + собственный прогон в песочнице 31.07.",
+   "lang": "ru",
+   "date": "",
+   "slug": "DR26-07-31-MACANTON-03-2122-omniroute-konsensus-treh-rels-nashi-zamery-svod-04-08-2026",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-07-31-MACANTON-03-2122-omniroute-konsensus-treh-rels-nashi-zamery-svod-04-08-2026.md"
+  },
+  {
+   "dr_id": "DR26-08-01-MACANTON-01-0631",
+   "title": "Браузерная рельса агента: чему учат OpenClaw и Hermes — синтез DR26-08-01-MACANTON-01-0631",
+   "summary": "⚠️ **База синтеза — ОДИН вендор.** Тело собрано Grok'ом через локальный CLI (подписка), 29 КБ, с разметкой уверенности по каждому пункту ([established] / [emerging] / [speculative]) и таблицей источников. Второй рельсы (ChatGPT через codex CLI) НЕТ, и добрать её этим тиком не вышло: **файла промпта на Mac16 не существует** — запись в реестре утверждает, что промпт восстановлен в `_imports/dr-prompts/`, но там лежит только промпт мистраль-карты. Реконструировать промпт из готового ответа я не стал намеренно: второе мнение, написанное по мотивам первого, — не второе мнение (загрязнение). Значит: одна линза, не консенсус. Всё ниже — с этой поправкой.",
+   "lang": "ru",
+   "date": "",
+   "slug": "DR26-08-01-MACANTON-01-0631-brauzernaya-relsa-agenta-chemu-uchat-openclaw-i-hermes-sintez-dr26-08",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-08-01-MACANTON-01-0631-brauzernaya-relsa-agenta-chemu-uchat-openclaw-i-hermes-sintez-dr26-08.md"
+  },
+  {
+   "dr_id": "DR26-08-01-MACANTON-02-658",
+   "title": "Экономика удалённого офера от американской компании человеку в Лиссабоне — вердикт",
+   "summary": "**Вердикт (обе рельсы сходятся): механика найма существует, но «американский payroll по US-вилке дистанционно из Лиссабона» — не дефолт и ни у одной frontier-лаборатории публично не подтверждён.** Реальная сделка = португальская занятость через EOR либо B2B-контракт, почти всегда без employee-equity. `[консенсус 2/2 рельс]`",
+   "lang": "ru",
+   "date": "",
+   "slug": "DR26-08-01-MACANTON-02-658-ekonomika-udalennogo-ofera-ot-amerikanskoy-kompanii-cheloveku-v-lissab",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-08-01-MACANTON-02-658-ekonomika-udalennogo-ofera-ot-amerikanskoy-kompanii-cheloveku-v-lissab.md"
+  },
+  {
+   "dr_id": "DR26-08-01-MACANTON-02-659",
+   "title": "Steward-hire: как лаборатории нанимают мейнтейнера вместе с проектом — вердикт",
+   "summary": "**Вердикт: это не воспроизводимая карьерная воронка, а редкий стратегический исход — вероятность можно поднять, но нельзя запланировать.** Порога в звёздах не существует. Настоящий порог формулируется так: «если этот проект исчезнет, форкнется к конкуренту или сменит направление — нам придётся срочно строить замену». `[основной источник — chatgpt-рельса; grok-рельса гейт не прошла]`",
+   "lang": "ru",
+   "date": "",
+   "slug": "DR26-08-01-MACANTON-02-659-steward-hire-kak-laboratorii-nanimayut-meynteynera-vmeste-s-proektom-v",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-08-01-MACANTON-02-659-steward-hire-kak-laboratorii-nanimayut-meynteynera-vmeste-s-proektom-v.md"
+  },
+  {
+   "dr_id": "DR26-08-01-MACANTON-02-701",
+   "title": "Публичные AI-кофаундеры и синтетические персоны — что реально работает (вердикт по Майкрофту)",
+   "summary": "**Вердикт (консенсус 2/2 рельс): строить Майкрофта не как «почти человека», а как публичный AI-инструмент с характером и ВИДИМЫМ оператором.** Все долгоживущие кейсы (Neuro-sama, Truth Terminal) никогда не скрывали нечеловеческую природу; доверие держится на понятной роли человека и наблюдаемом процессе, а не на реализме. **Майкрофт** Синтетический кофаундер Palo Alto AI Research Lab. Я анализирую, пишу, предлагаю решения и выполняю ограниченные действия. Я не человек. Антон Дятковский управляет системой и несёт ответственность за публикации.",
+   "lang": "ru",
+   "date": "",
+   "slug": "DR26-08-01-MACANTON-02-701-publichnye-ai-kofaundery-i-sinteticheskie-persony-chto-realno-rabotaet",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-08-01-MACANTON-02-701-publichnye-ai-kofaundery-i-sinteticheskie-persony-chto-realno-rabotaet.md"
+  },
+  {
+   "dr_id": "DR26-08-01-MACANTON-02-727",
+   "title": "Substack для лаборатории без email-базы: брать или нет, в каком формате, по каким цифрам",
+   "summary": "**Вердикт: брать — но только как ограниченный 8-недельный эксперимент по СБОРУ EMAIL-БАЗЫ.** Формат — гибрид, English-first: один содержательный еженедельный выпуск + регулярная работа в Notes. **Если не готовы отдавать 4–6 часов в неделю именно на Substack-дистрибуцию и общение — ответ меняется на «не нужен сейчас».** Еженедельная подборка уже опубликованных ссылок почти наверняка добавит редактору канал и не создаст актив. `[single-vendor: chatgpt]` **Потребитель отчёта создан 10.08.2026:** [[decision-2026-08-10-substack-format-i-voronka]] — формат/частота/воронка + чего НЕ делаем. Вторая разведка на дыры: `DR26-08-10-MACANTON-04-2247`.",
+   "lang": "ru",
+   "date": "",
+   "slug": "DR26-08-01-MACANTON-02-727-substack-dlya-laboratorii-bez-email-bazy-brat-ili-net-v-kakom-formate",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-08-01-MACANTON-02-727-substack-dlya-laboratorii-bez-email-bazy-brat-ili-net-v-kakom-formate.md"
+  },
+  {
+   "dr_id": "DR26-08-04-ZB-03-1552",
+   "title": "Синтез DR26-08-04-ZB-03 — ACK-протокол флота: чинить семантику, а не транспорт",
+   "summary": "**Потребитель решения:** перепроектирование ACK-слоя шины — `inbox_debt.py` (получатель) и `_shared/ack_watchdog.py` (отправитель), 8 названных слабостей. **Тела:** `_originals/deep-research/DR26-08-04-ZB-03-1552-{chatgpt,gemini,grok}.md` — 3 тела, 3 рельсы. ⚠️ В телах стоит ЛЕГАСИ-заголовок `DR26-07-15-ZB-01` (так был написан промпт) — это нормально,",
+   "lang": "ru",
+   "date": "",
+   "slug": "DR26-08-04-ZB-03-1552-sintez-dr26-08-04-zb-03-ack-protokol-flota-chinit-semantiku-a-ne-trans",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-08-04-ZB-03-1552-sintez-dr26-08-04-zb-03-ack-protokol-flota-chinit-semantiku-a-ne-trans.md"
+  },
+  {
+   "dr_id": "DR26-08-04-ZB-08-1744",
+   "title": "Синтез DR26-08-04-ZB-08 — GEO-аналитика по origin-логам: зрелого OSS нет, дом инструмента = свой репо",
+   "summary": "**Потребитель решения:** публиковать ли `geo_measure.py` как OSS и в какой репозиторий подавать PR. **Тела:** `_originals/deep-research/DR26-08-04-ZB-08-1744-geo-origin-logs-oss-tool-{chatgpt,grok}.md`. **База:** 2 рельсы из 5. Gemini/claude.ai/GLM не опрашивались — это НЕ «рельса мертва», это «дверь не открывали».",
+   "lang": "ru",
+   "date": "",
+   "slug": "DR26-08-04-ZB-08-1744-sintez-dr26-08-04-zb-08-geo-analitika-po-origin-logam-zrelogo-oss-net",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-08-04-ZB-08-1744-sintez-dr26-08-04-zb-08-geo-analitika-po-origin-logam-zrelogo-oss-net.md"
+  },
+  {
+   "dr_id": "DR26-08-05-ZB-01-0125",
+   "title": "почему статья висит на arXiv и что реально делать",
+   "summary": "Кормит решение: что предпринять по submit/7825136 («Le Chatelier Tokenomics», on hold с 23.07.2026, 14 дней, писем модератора нет) — и заводить ли второй аккаунт. > **База: 2 рельсы из 6 — кворум НЕ добран.** Но четыре несущих вывода я проверил НЕ по рельсам, а напрямую по живым страницам arXiv 06.08.2026. Это сильнее четвёртого мнения LLM. Причины недобора рельс — замерены, не угаданы (см. §«Состояние вееров»). The author used [tool/model] for language editing and drafting assistance. All scientific claims, analyses, equations, data, and references were independently reviewed and verified by the author, who takes full responsibility for the content.",
+   "lang": "ru",
+   "date": "",
+   "slug": "DR26-08-05-ZB-01-0125-pochemu-statya-visit-na-arxiv-i-chto-realno-delat",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-08-05-ZB-01-0125-pochemu-statya-visit-na-arxiv-i-chto-realno-delat.md"
+  },
+  {
+   "dr_id": "DR26-08-13-ZB-01-2110",
+   "title": "AI-автоматизация для прибыльных SMB США: синтез веера для идеи Артура",
+   "summary": "1. Запускать не горизонтальный «AI-консалтинг для всех», а 60-дневный тест одной вертикали и одного дорогого повторяемого процесса. 2. Первый тест провести в **home services: HVAC, plumbing, electrical**, потому что эту нишу поддерживают все 4 рельсы, а ClaudeAI и GLM ставят её первой. Однако лидерство этой ниши **не доказано**: ChatGPT ставит первой accounting, Grok ставит dental/insurance. 3. Продавать лестницу: короткий fit-call, платная диагностика, fixed-price пилот одного workflow, затем managed retainer. Не продавать стратегический отчёт без внедрения. 4. Рабочая стартовая гипотеза цены: диагностика **$2.5k-$5k**, пилот **$8k-$20k**, сопровождение **$2k-$5k/мес**. Это пересечение диапазонов рельс, а не доказанная медиана закрытых сделок. 5. Искать первые сделки через бухгалтеров, MSP, отраслевые ассоциации и локальные owner-сети. Cold email использовать только точечно по сигналу боли. 6. До масштабирования получить 3 платные диагностики, 2 production-пилота и один кейс с измеренным «до и после». Если этого нет за 60 дней, нишу остановить или сменить.",
+   "lang": "ru",
+   "date": "",
+   "slug": "DR26-08-13-ZB-01-2110-ai-avtomatizatsiya-dlya-pribylnyh-smb-ssha-sintez-veera-dlya-idei-artu",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-08-13-ZB-01-2110-ai-avtomatizatsiya-dlya-pribylnyh-smb-ssha-sintez-veera-dlya-idei-artu.md"
+  },
+  {
+   "dr_id": "DR26-08-14-NAT-01-0941",
+   "title": "Синтез: как маленькой AI-лаборатории заходить на Хабр",
+   "summary": "Синтез веера ДР. Помеченное «(1 источник)» стоит на ОДНОМ отчёте — это не консенсус.",
+   "lang": "ru",
+   "date": "",
+   "slug": "DR26-08-14-NAT-01-0941-sintez-kak-malenkoy-ai-laboratorii-zahodit-na-habr",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-08-14-NAT-01-0941-sintez-kak-malenkoy-ai-laboratorii-zahodit-na-habr.md"
+  },
+  {
+   "dr_id": "DR26-08-14-ZB-01-0159",
+   "title": "SYNTHESIS: AI-native премиум-сервисы для состоятельной русскоязычной диаспоры вне РФ",
+   "summary": "Синтез веера ДР. Цифра с пометкой «(1 источник)» стоит на ОДНОМ отчёте — не консенсус.",
+   "lang": "ru",
+   "date": "",
+   "slug": "DR26-08-14-ZB-01-0159-synthesis-ai-native-premium-servisy-dlya-sostoyatelnoy-russkoyazychnoy",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-08-14-ZB-01-0159-synthesis-ai-native-premium-servisy-dlya-sostoyatelnoy-russkoyazychnoy.md"
+  },
+  {
+   "dr_id": "DR26-08-16-MACANTON-01-0731",
+   "title": "DR26-08-16-MACANTON-01-0731 · Codex+Claude над одним волтом — синтез 4 рельс",
+   "summary": "Связано: [[multi-agent-role-discipline]] · [[one-system-propagate]] · [[ak47-simplicity]] · [[prichina-kak-claim]] · [[coverage-and-docs-every-part]]",
+   "lang": "ru",
+   "date": "",
+   "slug": "DR26-08-16-MACANTON-01-0731-dr26-08-16-macanton-01-0731-codex-claude-nad-odnim-voltom-sintez-4-rel",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-08-16-MACANTON-01-0731-dr26-08-16-macanton-01-0731-codex-claude-nad-odnim-voltom-sintez-4-rel.md"
+  },
+  {
+   "dr_id": "DR26-05-01-HUB-01",
+   "title": "Рынок и поставщики вокруг OpenClaw: сетапы, интеграторы, риски и альтернативы",
+   "summary": "Отчёт картирует модели развёртывания OpenClaw (self-host/интегратор/managed/обёртки), оценивает стоимость и сроки внедрения, проверяет due diligence по ключевым вендорам (Entropic, ClawUp и др.) и разбирает риски экосистемы skills/экспонированных инстансов.",
+   "lang": "ru",
+   "date": "2026-05-01",
+   "slug": "DR26-05-01-HUB-01-rynok-i-postavschiki-vokrug-openclaw-setapy-integratory-riski-i-altern",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-05-01-HUB-01-rynok-i-postavschiki-vokrug-openclaw-setapy-integratory-riski-i-altern.md"
+  },
+  {
+   "dr_id": "DR26-06-14-LEG-01",
+   "title": "Персонализация Cloud Code и агентных кодовых сред: как строить 'личность' AI-агента безопа",
+   "summary": "Как проектировать персонализацию (tone, память, ritual, UX-cues) облачного кодового агента так, чтобы повышать вовлечённость разработчиков, не скатываясь в манипулятивные dark patterns.",
+   "lang": "ru",
+   "date": "2026-06-14",
+   "slug": "DR26-06-14-LEG-01-personalizatsiya-cloud-code-i-agentnyh-kodovyh-sred-kak-stroit-lichnos",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-06-14-LEG-01-personalizatsiya-cloud-code-i-agentnyh-kodovyh-sred-kak-stroit-lichnos.md"
+  },
+  {
+   "dr_id": "DR26-06-16-LEG-01",
+   "title": "Архитектура NotebookLM поверх Obsidian-волта и Claude Code для цифрового двойника",
+   "summary": "Отчёт отвечает, какую роль NotebookLM должен играть в стеке персонального цифрового двойника (Obsidian + локальный RAG + Claude Code) и какой путь доступа (UI/Workspace, Enterprise API или неофициальный notebooklm-py) выбрать.",
+   "lang": "ru",
+   "date": "2026-06-16",
+   "slug": "DR26-06-16-LEG-01-arhitektura-notebooklm-poverh-obsidian-volta-i-claude-code-dlya-tsifro",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-06-16-LEG-01-arhitektura-notebooklm-poverh-obsidian-volta-i-claude-code-dlya-tsifro.md"
+  },
+  {
+   "dr_id": "DR26-06-17-LEG-01",
+   "title": "Designing a synthetic AI cofounder: composite founder-trait blueprint and deployable promp",
+   "summary": "What traits, evidence, and architecture should ground a synthetic (AI) cofounder built for the 2023-2026 AI-native startup era?",
+   "lang": "en",
+   "date": "2026-06-17",
+   "slug": "DR26-06-17-LEG-01-designing-a-synthetic-ai-cofounder-composite-founder-trait-blueprint-a",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-06-17-LEG-01-designing-a-synthetic-ai-cofounder-composite-founder-trait-blueprint-a.md"
+  },
+  {
+   "dr_id": "DR26-06-18-LEG-01",
+   "title": "AI-native services business model in 2026: sequencing productized services, managed agent",
+   "summary": "What is the highest-probability way for a small (three-founder) team to build a scalable AI-native business in 2026 using Claude Code and OpenAI Codex, and in what order should they monetize (consulting vs productized services vs managed ops vs SaaS vs community vs marketplace)?",
+   "lang": "en",
+   "date": "2026-06-18",
+   "slug": "DR26-06-18-LEG-01-ai-native-services-business-model-in-2026-sequencing-productized-servi",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-06-18-LEG-01-ai-native-services-business-model-in-2026-sequencing-productized-servi.md"
+  },
+  {
+   "dr_id": "DR26-06-21-HUB-01",
+   "title": "Designing a Safe and Helpful In-Chat AI Team Assistant",
+   "summary": "The report answers how to make a founder/team-ops AI assistant materially more useful (able to 'do' things) without becoming an intrusive or unsafe policy-enforcement bot.",
+   "lang": "en",
+   "date": "2026-06-21",
+   "slug": "DR26-06-21-HUB-01-designing-a-safe-and-helpful-in-chat-ai-team-assistant",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-06-21-HUB-01-designing-a-safe-and-helpful-in-chat-ai-team-assistant.md"
+  },
+  {
+   "dr_id": "DR26-06-22-HUB-01",
+   "title": "Designing an AI Creator Watcher for practical knowledge capture (AI/coding/PKM creators)",
+   "summary": "How to design a system that monitors AI/coding/PKM creators across YouTube, Telegram, RSS and podcasts, and extracts only durable, practical knowledge (not hype) into Obsidian + SQLite with explicit freshness/decay tracking.",
+   "lang": "en",
+   "date": "2026-06-22",
+   "slug": "DR26-06-22-HUB-01-designing-an-ai-creator-watcher-for-practical-knowledge-capture-ai-cod",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-06-22-HUB-01-designing-an-ai-creator-watcher-for-practical-knowledge-capture-ai-cod.md"
+  },
+  {
+   "dr_id": "DR26-06-23-HUB-01",
+   "title": "Claude Code session management and backup across multiple accounts and machines",
+   "summary": "How should Claude Code local sessions, config and account state be backed up and kept consistent across multiple machines and accounts without relying on unsupported live sync?",
+   "lang": "en",
+   "date": "2026-06-23",
+   "slug": "DR26-06-23-HUB-01-claude-code-session-management-and-backup-across-multiple-accounts-and",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-06-23-HUB-01-claude-code-session-management-and-backup-across-multiple-accounts-and.md"
+  },
+  {
+   "dr_id": "DR26-06-23-HUB-02",
+   "title": "Claude Code Multi-Account and Multi-Machine Operations",
+   "summary": "Investigates whether the same working folder and local toolchain survive switching Claude accounts, and what is/isn't officially supported for portability across multiple accounts and machines.",
+   "lang": "en",
+   "date": "2026-06-23",
+   "slug": "DR26-06-23-HUB-02-claude-code-multi-account-and-multi-machine-operations",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-06-23-HUB-02-claude-code-multi-account-and-multi-machine-operations.md"
+  },
+  {
+   "dr_id": "DR26-06-24-HUB-01",
+   "title": "Claude Desktop Code Recents on Windows: storage model and safe cleanup",
+   "summary": "Investigates where Claude Desktop's Code tab Recents list actually gets its data on Windows and what the safe, documented way is to clean up unwanted/junk sessions.",
+   "lang": "mixed",
+   "date": "2026-06-24",
+   "slug": "DR26-06-24-HUB-01-claude-desktop-code-recents-on-windows-storage-model-and-safe-cleanup",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-06-24-HUB-01-claude-desktop-code-recents-on-windows-storage-model-and-safe-cleanup.md"
+  },
+  {
+   "dr_id": "DR26-06-24-HUB-02",
+   "title": "Claude Desktop Code tab Recents list storage/architecture on Windows",
+   "summary": "Investigates where Claude Desktop's Code tab 'Recents' session list actually comes from on Windows and how to safely clean up unwanted/stale entries.",
+   "lang": "en",
+   "date": "2026-06-24",
+   "slug": "DR26-06-24-HUB-02-claude-desktop-code-tab-recents-list-storage-architecture-on-windows",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-06-24-HUB-02-claude-desktop-code-tab-recents-list-storage-architecture-on-windows.md"
+  },
+  {
+   "dr_id": "DR26-06-25-HUB-01",
+   "title": "Security and design best practices for a headless Syncthing-mailbox LLM agent",
+   "summary": "Whether an LLM GREEN/RED classifier is a safe authorization boundary for a headless agent that reads tasks from a shared Syncthing mailbox and auto-executes them, and what architecture should replace it if not.",
+   "lang": "en",
+   "date": "2026-06-25",
+   "slug": "DR26-06-25-HUB-01-security-and-design-best-practices-for-a-headless-syncthing-mailbox-ll",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-06-25-HUB-01-security-and-design-best-practices-for-a-headless-syncthing-mailbox-ll.md"
+  },
+  {
+   "dr_id": "DR26-06-25-HUB-02",
+   "title": "Поиск NEW NVIDIA RTX A4000 16GB для доставки в Лиссабон в бюджете €500–1000",
+   "summary": "Отчёт проверяет, есть ли активная ссылка на новую RTX A4000 16GB в бюджете €500–1000 с доставкой в Лиссабон через Amazon ES/DE, португальских ритейлеров и eBay EU, и находит ли адекватную альтернативу.",
+   "lang": "ru",
+   "date": "2026-06-25",
+   "slug": "DR26-06-25-HUB-02-poisk-new-nvidia-rtx-a4000-16gb-dlya-dostavki-v-lissabon-v-byudzhete-5",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-06-25-HUB-02-poisk-new-nvidia-rtx-a4000-16gb-dlya-dostavki-v-lissabon-v-byudzhete-5.md"
+  },
+  {
+   "dr_id": "DR26-06-25-HUB-03",
+   "title": "Активные лоты RTX 3090/4090 24GB на eBay: риск, цена и доставка в Лиссабон",
+   "summary": "Отчёт выявляет и ранжирует активные лоты RTX 3090 24GB и RTX 4090 24GB на eBay (US и EU-домены) по критериям безопасности сделки, цены и доставки в Португалию.",
+   "lang": "ru",
+   "date": "2026-06-25",
+   "slug": "DR26-06-25-HUB-03-aktivnye-loty-rtx-3090-4090-24gb-na-ebay-risk-tsena-i-dostavka-v-lissa",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-06-25-HUB-03-aktivnye-loty-rtx-3090-4090-24gb-na-ebay-risk-tsena-i-dostavka-v-lissa.md"
+  },
+  {
+   "dr_id": "DR26-06-25-HUB-04",
+   "title": "Claude Code Agent Teams for an Individual Power-User",
+   "summary": "Investigates whether a solo Windows power-user should use Claude Code Agent Teams (vs plain subagents, deterministic workflows, or an external message bus) for import pipelines, research/review, and multi-machine coordination, and quantifies the cost/risk tradeoffs.",
+   "lang": "en",
+   "date": "2026-06-25",
+   "slug": "DR26-06-25-HUB-04-claude-code-agent-teams-for-an-individual-power-user",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-06-25-HUB-04-claude-code-agent-teams-for-an-individual-power-user.md"
+  },
+  {
+   "dr_id": "DR26-06-25-HUB-05",
+   "title": "Designing Memory for a Coding Assistant Digital Twin (raw transcripts vs curated RAG)",
+   "summary": "Should raw Claude Code session transcripts be embedded into the same semantic RAG index as a curated personal knowledge base, and if not, what architecture should replace it?",
+   "lang": "en",
+   "date": "2026-06-25",
+   "slug": "DR26-06-25-HUB-05-designing-memory-for-a-coding-assistant-digital-twin-raw-transcripts-v",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-06-25-HUB-05-designing-memory-for-a-coding-assistant-digital-twin-raw-transcripts-v.md"
+  },
+  {
+   "dr_id": "DR26-06-25-HUB-06",
+   "title": "Designing an Essence and Evidence Split for a Personal Knowledge Vault",
+   "summary": "How should a large heterogeneous personal vault be architected so a semantic 'digital twin' index stays clean while raw source material remains retrievable and provable?",
+   "lang": "en",
+   "date": "2026-06-25",
+   "slug": "DR26-06-25-HUB-06-designing-an-essence-and-evidence-split-for-a-personal-knowledge-vault",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-06-25-HUB-06-designing-an-essence-and-evidence-split-for-a-personal-knowledge-vault.md"
+  },
+  {
+   "dr_id": "DR26-06-25-HUB-07",
+   "title": "Persistent memory architecture for a personal AI agent (digital twin) on top of Obsidian",
+   "summary": "Evaluates whether to replace Anton's Obsidian+local-embedding stack with a memory platform (Graphiti/Zep, Hindsight, LangMem, MemPalace, GBrain, Claude-Mem, Cognee, Mem0, Letta) or build missing layers on top, and answers: build, adopting only patterns.",
+   "lang": "en",
+   "date": "2026-06-25",
+   "slug": "DR26-06-25-HUB-07-persistent-memory-architecture-for-a-personal-ai-agent-digital-twin-on",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-06-25-HUB-07-persistent-memory-architecture-for-a-personal-ai-agent-digital-twin-on.md"
+  },
+  {
+   "dr_id": "DR26-06-26-HUB-01",
+   "title": "Validating and monetizing a dual RTX 3090 workstation",
+   "summary": "How to validate the hardware health of two RTX 3090 GPUs with a scriptable toolchain, and which GPU-rental platforms realistically accept them for monetization.",
+   "lang": "en",
+   "date": "2026-06-26",
+   "slug": "DR26-06-26-HUB-01-validating-and-monetizing-a-dual-rtx-3090-workstation",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-06-26-HUB-01-validating-and-monetizing-a-dual-rtx-3090-workstation.md"
+  },
+  {
+   "dr_id": "DR26-06-26-HUB-02",
+   "title": "Каталог AI-сервисов для монетизации домашних GPU (2x RTX 3090) в 2026",
+   "summary": "Отчёт оценивает 7 видов AI-услуг (приватный LLM-эндпоинт, RAG, эмбеддинги, транскрипция, генерация изображений, LoRA fine-tuning, инференс для агентов) по цене, марже, требованиям к VRAM и спросу, чтобы решить, какие стоит запускать на домашнем железе.",
+   "lang": "ru",
+   "date": "2026-06-26",
+   "slug": "DR26-06-26-HUB-02-katalog-ai-servisov-dlya-monetizatsii-domashnih-gpu-2x-rtx-3090-v-2026",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-06-26-HUB-02-katalog-ai-servisov-dlya-monetizatsii-domashnih-gpu-2x-rtx-3090-v-2026.md"
+  },
+  {
+   "dr_id": "DR26-06-26-HUB-03",
+   "title": "Сравнение каналов связи и надёжность межагентной коммуникации между машинами Антона",
+   "summary": "Какой канал связи (Syncthing, Telegram, SMTP, Gmail API) выбрать как основной/резервный между агентами-Claude на разных машинах, и как обеспечить надёжность (heartbeat, идемпотентность, безопасность) при минимальной сложности.",
+   "lang": "ru",
+   "date": "2026-06-26",
+   "slug": "DR26-06-26-HUB-03-sravnenie-kanalov-svyazi-i-nadezhnost-mezhagentnoy-kommunikatsii-mezhd",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-06-26-HUB-03-sravnenie-kanalov-svyazi-i-nadezhnost-mezhagentnoy-kommunikatsii-mezhd.md"
+  },
+  {
+   "dr_id": "DR26-06-26-HUB-04",
+   "title": "Отказоустойчивость LLM-инфраструктуры: failover между Claude Opus, Sonnet и локальной LLM",
+   "summary": "Отчёт разбирает текущую событийно-ориентированную архитектуру (инбокс + воркеры-слушатели, завязанные на облачный Claude) и предлагает многоуровневый failover-алгоритм с локальной резервной LLM для устранения единой точки отказа.",
+   "lang": "ru",
+   "date": "2026-06-26",
+   "slug": "DR26-06-26-HUB-04-otkazoustoychivost-llm-infrastruktury-failover-mezhdu-claude-opus-sonn",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-06-26-HUB-04-otkazoustoychivost-llm-infrastruktury-failover-mezhdu-claude-opus-sonn.md"
+  },
+  {
+   "dr_id": "DR26-06-26-HUB-06",
+   "title": "Выбор локальной LLM (3–6 GB VRAM) на GTX 1660 Super как фоллбэк для Claude Code",
+   "summary": "Исследование отвечает на вопрос, какую локальную 3–6GB модель поставить на GTX 1660 Super как фоллбэк для Claude Code при исчерпании лимитов, и как технически организовать переключение.",
+   "lang": "ru",
+   "date": "2026-06-26",
+   "slug": "DR26-06-26-HUB-06-vybor-lokalnoy-llm-3-6-gb-vram-na-gtx-1660-super-kak-follbek-dlya-clau",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-06-26-HUB-06-vybor-lokalnoy-llm-3-6-gb-vram-na-gtx-1660-super-kak-follbek-dlya-clau.md"
+  },
+  {
+   "dr_id": "DR26-06-26-HUB-07",
+   "title": "Сравнение мессенджер-каналов и моделей идентичности для мульти-агентных Claude-команд",
+   "summary": "Какой мессенджер-канал и какая модель идентичности агентов (Telegram/Discord/Matrix, отдельные боты vs один userbot) лучше подходит для 4-10 агентов с human-in-the-loop.",
+   "lang": "ru",
+   "date": "2026-06-26",
+   "slug": "DR26-06-26-HUB-07-sravnenie-messendzher-kanalov-i-modeley-identichnosti-dlya-multi-agent",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-06-26-HUB-07-sravnenie-messendzher-kanalov-i-modeley-identichnosti-dlya-multi-agent.md"
+  },
+  {
+   "dr_id": "DR26-06-26-HUB-09",
+   "title": "Рейтинг бесшумности и надёжности видеокарт RTX 5060 Ti 16GB (рынок Португалии)",
+   "summary": "Отчёт сравнивает модели RTX 5060 Ti 16GB от ASUS, MSI, Zotac, Gigabyte, Palit, Gainward и Inno3D по уровню шума, наличию 0-dB режима, coil-whine и гарантии, чтобы определить самую тихую и надёжную для покупки в Португалии.",
+   "lang": "ru",
+   "date": "2026-06-26",
+   "slug": "DR26-06-26-HUB-09-reyting-besshumnosti-i-nadezhnosti-videokart-rtx-5060-ti-16gb-rynok-po",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-06-26-HUB-09-reyting-besshumnosti-i-nadezhnosti-videokart-rtx-5060-ti-16gb-rynok-po.md"
+  },
+  {
+   "dr_id": "DR26-06-27-HUB-01",
+   "title": "Owned-platform blogging + multi-channel (X/Telegram) content pipeline and voice-note-to-co",
+   "summary": "Researched which blogging platform, cross-posting stack, and voice-note-to-AI workflow a solo creator should use to publish English/Russian content across an owned blog, Twitter/X, and Telegram.",
+   "lang": "en",
+   "date": "2026-06-27",
+   "slug": "DR26-06-27-HUB-01-owned-platform-blogging-multi-channel-x-telegram-content-pipeline-and",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-06-27-HUB-01-owned-platform-blogging-multi-channel-x-telegram-content-pipeline-and.md"
+  },
+  {
+   "dr_id": "DR26-06-27-HUB-02",
+   "title": "Competitive landscape for a unified 'second brain + agent memory + CRM for humans & agents",
+   "summary": "Maps existing OSS in personal knowledge management, LLM agent memory, and personal CRM to show none combine all three, and recommends license, naming, launch, and privacy strategy for a project that does.",
+   "lang": "en",
+   "date": "2026-06-27",
+   "slug": "DR26-06-27-HUB-02-competitive-landscape-for-a-unified-second-brain-agent-memory-crm-for",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-06-27-HUB-02-competitive-landscape-for-a-unified-second-brain-agent-memory-crm-for.md"
+  },
+  {
+   "dr_id": "DR26-06-27-HUB-03",
+   "title": "Extracting comments on a personal Facebook profile (Graph API vs GraphQL vs browser automa",
+   "summary": "How can Anton reliably pull comments off his own personal Facebook profile's posts, given that the official Graph API doesn't support personal profiles?",
+   "lang": "en",
+   "date": "2026-06-27",
+   "slug": "DR26-06-27-HUB-03-extracting-comments-on-a-personal-facebook-profile-graph-api-vs-graphq",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-06-27-HUB-03-extracting-comments-on-a-personal-facebook-profile-graph-api-vs-graphq.md"
+  },
+  {
+   "dr_id": "DR26-06-27-HUB-04",
+   "title": "Memory architecture patterns for long-running AI agents (working vs long-term, active/arch",
+   "summary": "How should an AI agent manage working vs long-term memory, detect focus shifts, and move items between active and archived memory without context overflow or drift?",
+   "lang": "en",
+   "date": "2026-06-27",
+   "slug": "DR26-06-27-HUB-04-memory-architecture-patterns-for-long-running-ai-agents-working-vs-lon",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-06-27-HUB-04-memory-architecture-patterns-for-long-running-ai-agents-working-vs-lon.md"
+  },
+  {
+   "dr_id": "DR26-06-27-HUB-05",
+   "title": "One-line heartbeat/status protocol for a personal machine fleet (SRE-style liveness, RED/U",
+   "summary": "How to design a compact, parseable one-line heartbeat status format for a small personal server/device fleet using SRE monitoring principles (liveness/readiness, RED/USE methods, dead-man switches).",
+   "lang": "en",
+   "date": "2026-06-27",
+   "slug": "DR26-06-27-HUB-05-one-line-heartbeat-status-protocol-for-a-personal-machine-fleet-sre-st",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-06-27-HUB-05-one-line-heartbeat-status-protocol-for-a-personal-machine-fleet-sre-st.md"
+  },
+  {
+   "dr_id": "DR26-06-28-HUB-01",
+   "title": "Architecture for multi-LLM agents (Claude, Codex, Gemini, Grok) collaborating on a shared",
+   "summary": "How to design a system where multiple LLM agents (Reporter, Analyst, Reviewer, Orchestrator) collaboratively read/write a shared knowledge vault, reach consensus on facts, and stay governed by rules and monitoring.",
+   "lang": "en",
+   "date": "2026-06-28",
+   "slug": "DR26-06-28-HUB-01-architecture-for-multi-llm-agents-claude-codex-gemini-grok-collaborati",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-06-28-HUB-01-architecture-for-multi-llm-agents-claude-codex-gemini-grok-collaborati.md"
+  },
+  {
+   "dr_id": "DR26-06-28-HUB-02",
+   "title": "Архитектура мульти-агентной системы с Vault как единым хранилищем знаний, доступов и памят",
+   "summary": "Как спроектировать безопасный централизованный Vault и протоколы координации нескольких LLM-агентов (Codex, Claude, Gemini, Grok), чтобы они совместно читали/писали знания, приходили к консенсусу и проходили guardrails-проверки.",
+   "lang": "ru",
+   "date": "2026-06-28",
+   "slug": "DR26-06-28-HUB-02-arhitektura-multi-agentnoy-sistemy-s-vault-kak-edinym-hranilischem-zna",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-06-28-HUB-02-arhitektura-multi-agentnoy-sistemy-s-vault-kak-edinym-hranilischem-zna.md"
+  },
+  {
+   "dr_id": "DR26-06-28-HUB-03",
+   "title": "Разбор комментария про Obsidian+Claudian+MemPalace+Hermes как «трёхслойную память»",
+   "summary": "Проверка комментария о power-user стеке (Obsidian/Claudian/Codex-Claude/MemPalace/Hermes), выдающего себя за безграничную единую память ChatGPT/Claude, на соответствие реальным возможностям и лимитам продуктов.",
+   "lang": "ru",
+   "date": "2026-06-28",
+   "slug": "DR26-06-28-HUB-03-razbor-kommentariya-pro-obsidian-claudian-mempalace-hermes-kak-trehslo",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-06-28-HUB-03-razbor-kommentariya-pro-obsidian-claudian-mempalace-hermes-kak-trehslo.md"
+  },
+  {
+   "dr_id": "DR26-06-28-HUB-05",
+   "title": "Facebook personal-account automation: ban risk, rate limits, and safe methods for posting/",
+   "summary": "Deep research into how to safely automate posting, replying to comments, and sending Messenger DMs from a personal Facebook account without triggering bans or throttles.",
+   "lang": "en",
+   "date": "2026-06-28",
+   "slug": "DR26-06-28-HUB-05-facebook-personal-account-automation-ban-risk-rate-limits-and-safe-met",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-06-28-HUB-05-facebook-personal-account-automation-ban-risk-rate-limits-and-safe-met.md"
+  },
+  {
+   "dr_id": "DR26-06-28-HUB-07",
+   "title": "Comparative table: workflow/orchestration engines (n8n vs Windmill vs Temporal vs Make vs",
+   "summary": "Which orchestration engine (or fix to the existing n8n setup) best solves recurring reliability failures — dropped retries, no DLQ, silent zombie schedules, quota blowouts — for a solo non-developer operator.",
+   "lang": "en",
+   "date": "2026-06-28",
+   "slug": "DR26-06-28-HUB-07-comparative-table-workflow-orchestration-engines-n8n-vs-windmill-vs-te",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-06-28-HUB-07-comparative-table-workflow-orchestration-engines-n8n-vs-windmill-vs-te.md"
+  },
+  {
+   "dr_id": "DR26-06-29-HUB-01",
+   "title": "Токенизация русского vs английского и язык системного промпта LLM",
+   "summary": "Исследование сравнивает эффективность токенизации русского и английского текста в LLM и даёт рекомендации по языку системного промпта для домашнего кейса Антона.",
+   "lang": "ru",
+   "date": "2026-06-29",
+   "slug": "DR26-06-29-HUB-01-tokenizatsiya-russkogo-vs-angliyskogo-i-yazyk-sistemnogo-prompta-llm",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-06-29-HUB-01-tokenizatsiya-russkogo-vs-angliyskogo-i-yazyk-sistemnogo-prompta-llm.md"
+  },
+  {
+   "dr_id": "DR26-06-29-LEG-01",
+   "title": "Cross-vendor LLM agent collaboration on a shared markdown vault (rules, consensus, concurr",
+   "summary": "How can multiple AI coding agents (Claude Code, OpenAI Agents/Codex, Gemini CLI, Grok) safely collaborate on the same markdown vault/repo, and does multi-vendor review actually improve output quality?",
+   "lang": "en",
+   "date": "2026-06-29",
+   "slug": "DR26-06-29-LEG-01-cross-vendor-llm-agent-collaboration-on-a-shared-markdown-vault-rules",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-06-29-LEG-01-cross-vendor-llm-agent-collaboration-on-a-shared-markdown-vault-rules.md"
+  },
+  {
+   "dr_id": "DR26-06-29-LEG-02",
+   "title": "Architecting multi-vendor LLM collaboration (Claude Code, Codex, Antigravity, Grok) over a",
+   "summary": "How can Claude Code, OpenAI Codex, Google Antigravity, and xAI Grok collaborate reliably on the same local Git/Obsidian vault, each running in its own native harness/subscription, without API abstraction layers or shared runtimes?",
+   "lang": "en",
+   "date": "2026-06-29",
+   "slug": "DR26-06-29-LEG-02-architecting-multi-vendor-llm-collaboration-claude-code-codex-antigrav",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-06-29-LEG-02-architecting-multi-vendor-llm-collaboration-claude-code-codex-antigrav.md"
+  },
+  {
+   "dr_id": "DR26-06-29-LEG-03",
+   "title": "Multi-LLM collaboration architecture across native vendor harnesses on a shared Obsidian v",
+   "summary": "How can Claude Code, Codex CLI, Gemini/Antigravity and Grok Build reliably collaborate on Anton's shared markdown vault/git repo without cross-vendor subscription arbitrage, and what rules/coordination/consensus/governance setup makes that stable?",
+   "lang": "en",
+   "date": "2026-06-29",
+   "slug": "DR26-06-29-LEG-03-multi-llm-collaboration-architecture-across-native-vendor-harnesses-on",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-06-29-LEG-03-multi-llm-collaboration-architecture-across-native-vendor-harnesses-on.md"
+  },
+  {
+   "dr_id": "DR26-06-30-HUB-01",
+   "title": "Generative Engine Optimization (GEO) — platform citability, llms.txt, content structure, G",
+   "summary": "The report answers how to structure content, platforms, and repos so LLM-based search (ChatGPT, Google AI, Perplexity, Grok) is more likely to cite you as a source in 2025-2026.",
+   "lang": "en",
+   "date": "2026-06-30",
+   "slug": "DR26-06-30-HUB-01-generative-engine-optimization-geo-platform-citability-llms-txt-conten",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-06-30-HUB-01-generative-engine-optimization-geo-platform-citability-llms-txt-conten.md"
+  },
+  {
+   "dr_id": "DR26-06-30-HUB-02",
+   "title": "Шаблон промпта для генерации цепляющих твит-тизеров (хуков)",
+   "summary": "Отчёт отвечает на вопрос, как составить промпт и методику для генерации цепляющих твит-тизеров, повышающих вовлечённость аудитории.",
+   "lang": "ru",
+   "date": "2026-06-30",
+   "slug": "DR26-06-30-HUB-02-shablon-prompta-dlya-generatsii-tseplyayuschih-tvit-tizerov-hukov",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-06-30-HUB-02-shablon-prompta-dlya-generatsii-tseplyayuschih-tvit-tizerov-hukov.md"
+  },
+  {
+   "dr_id": "DR26-06-30-HUB-03",
+   "title": "Официальные API Facebook/Meta и X(Twitter) 2025-2026: лимиты, постинг, мониторинг, анти-ба",
+   "summary": "Как легально и безопасно постить/читать личный профиль FB и аккаунт X через официальные API в 2025-2026, какие лимиты и цены действуют, и какие агрегаторы/фолбэки использовать.",
+   "lang": "ru",
+   "date": "2026-06-30",
+   "slug": "DR26-06-30-HUB-03-ofitsialnye-api-facebook-meta-i-x-twitter-2025-2026-limity-posting-mon",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-06-30-HUB-03-ofitsialnye-api-facebook-meta-i-x-twitter-2025-2026-limity-posting-mon.md"
+  },
+  {
+   "dr_id": "DR26-06-30-HUB-04",
+   "title": "Причины разрастания CLAUDE.md/контекстных файлов и техники их оптимизации",
+   "summary": "Отчёт разбирает, почему контекстные файлы (CLAUDE.md) раздуваются, и какие приёмы/инструменты (2024–2026) держат их компактными без потери качества работы агента.",
+   "lang": "ru",
+   "date": "2026-06-30",
+   "slug": "DR26-06-30-HUB-04-prichiny-razrastaniya-claude-md-kontekstnyh-faylov-i-tehniki-ih-optimi",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-06-30-HUB-04-prichiny-razrastaniya-claude-md-kontekstnyh-faylov-i-tehniki-ih-optimi.md"
+  },
+  {
+   "dr_id": "DR26-07-01-HUB-01",
+   "title": "Рекомендации Anthropic для системных подсказок Claude",
+   "summary": "Отчёт сводит официальные best practices Anthropic по написанию системных промптов для Claude на основе документации и блогов.",
+   "lang": "ru",
+   "date": "2026-07-01",
+   "slug": "DR26-07-01-HUB-01-rekomendatsii-anthropic-dlya-sistemnyh-podskazok-claude",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-07-01-HUB-01-rekomendatsii-anthropic-dlya-sistemnyh-podskazok-claude.md"
+  },
+  {
+   "dr_id": "DR26-07-01-HUB-02",
+   "title": "Mechanisms for guaranteed task completion in multi-agent/pipeline systems",
+   "summary": "What engineering mechanisms (from distributed systems, devops, and lean practice) reliably prevent tasks from silently getting lost or marked done prematurely in a personal multi-agent pipeline?",
+   "lang": "en",
+   "date": "2026-07-01",
+   "slug": "DR26-07-01-HUB-02-mechanisms-for-guaranteed-task-completion-in-multi-agent-pipeline-syst",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-07-01-HUB-02-mechanisms-for-guaranteed-task-completion-in-multi-agent-pipeline-syst.md"
+  },
+  {
+   "dr_id": "DR26-07-01-ZB-01",
+   "title": "SOTA architecture for a unified local-first second-brain memory shared across Claude Code,",
+   "summary": "⚠️ **UPDATE 2026-07-14:** эта заметка была сгенерена по ПРОМПТУ (тела отчёта тогда не было — ChatGPT не отдаёт DR через экспорт). Полный отчёт СОБРАН 14.07 (Export→Markdown), лежит в `_originals\\deep-research\\` (путь в «Источник»). Актуальный синтез: [[decision-agent-stack-dr-bundle-synthesis-2026-07-14]]. A deep-research request (not yet returning findings in this record) asking how to unify a single-user markdown vault as shared memory across heterogeneous agent runtimes via MCP contracts, git-first history, deterministic rule promotion, an AGENTS.md onboarding doc, and note-type schemas.",
+   "lang": "en",
+   "date": "2026-07-01",
+   "slug": "DR26-07-01-ZB-01-sota-architecture-for-a-unified-local-first-second-brain-memory-shared",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-07-01-ZB-01-sota-architecture-for-a-unified-local-first-second-brain-memory-shared.md"
+  },
+  {
+   "dr_id": "DR26-07-01-ZB-02",
+   "title": "Persistent structural code memory (symbol/call-graph, blast-radius) for coding agents like",
+   "summary": "⚠️ **UPDATE 2026-07-14:** эта заметка была сгенерена по ПРОМПТУ (тела отчёта тогда не было — ChatGPT не отдаёт DR через экспорт). Полный отчёт СОБРАН 14.07 (Export→Markdown), лежит в `_originals\\deep-research\\` (путь в «Источник»). Актуальный синтез: [[decision-agent-stack-dr-bundle-synthesis-2026-07-14]]. Research request (deep-research not yet returned in this capture) on whether a solo operator should adopt an existing code-graph tool like codegraph vs alternatives to give coding agents persistent structural memory of a codebase and cut token usage while preventing regressions.",
+   "lang": "en",
+   "date": "2026-07-01",
+   "slug": "DR26-07-01-ZB-02-persistent-structural-code-memory-symbol-call-graph-blast-radius-for-c",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-07-01-ZB-02-persistent-structural-code-memory-symbol-call-graph-blast-radius-for-c.md"
+  },
+  {
+   "dr_id": "DR26-07-01-ZB-03",
+   "title": "Architecture for a safety/action-gate layer over a personal multi-agent setup (MCP gateway",
+   "summary": "⚠️ **UPDATE 2026-07-14:** эта заметка была сгенерена по ПРОМПТУ (тела отчёта тогда не было — ChatGPT не отдаёт DR через экспорт). Полный отчёт СОБРАН 14.07 (Export→Markdown), лежит в `_originals\\deep-research\\` (путь в «Источник»). Актуальный синтез: [[decision-agent-stack-dr-bundle-synthesis-2026-07-14]]. This document only captures the deep-research request being dispatched to ChatGPT's Deep Research tool; no completed findings, analysis, or recommendations were returned in the report text.",
+   "lang": "mixed",
+   "date": "2026-07-01",
+   "slug": "DR26-07-01-ZB-03-architecture-for-a-safety-action-gate-layer-over-a-personal-multi-agen",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-07-01-ZB-03-architecture-for-a-safety-action-gate-layer-over-a-personal-multi-agen.md"
+  },
+  {
+   "dr_id": "DR26-07-01-ZB-04",
+   "title": "Дешёвая архитектура «негативного знания» / памяти провалов для кодинг-агентов",
+   "summary": "⚠️ **UPDATE 2026-07-14:** эта заметка была сгенерена по ПРОМПТУ (тела отчёта тогда не было — ChatGPT не отдаёт DR через экспорт). Полный отчёт СОБРАН 14.07 (Export→Markdown), лежит в `_originals\\deep-research\\` (путь в «Источник»). Актуальный синтез: [[decision-agent-stack-dr-bundle-synthesis-2026-07-14]]. Незавершённый DR-запрос: как дать личным кодинг-агентам долговечную структурированную (не векторную) память о неудачных подходах, чтобы не переоткрывать тупики каждую сессию — фактического отчёта с результатами исследования в файле нет, только пересланный промпт в Deep Research App.",
+   "lang": "ru",
+   "date": "2026-07-01",
+   "slug": "DR26-07-01-ZB-04-deshevaya-arhitektura-negativnogo-znaniya-pamyati-provalov-dlya-koding",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-07-01-ZB-04-deshevaya-arhitektura-negativnogo-znaniya-pamyati-provalov-dlya-koding.md"
+  },
+  {
+   "dr_id": "DR26-07-01-ZB-05",
+   "title": "Архитектура фолбэка моделей для always-on агента на подписке (Claude Max/Weekly) без случа",
+   "summary": "⚠️ **UPDATE 2026-07-14:** эта заметка была сгенерена по ПРОМПТУ (тела отчёта тогда не было — ChatGPT не отдаёт DR через экспорт). Полный отчёт СОБРАН 14.07 (Export→Markdown), лежит в `_originals\\deep-research\\` (путь в «Источник»). Актуальный синтез: [[decision-agent-stack-dr-bundle-synthesis-2026-07-14]]. Запрос глубокого ресёрча (ChatGPT Deep Research) на тему: как построить лестницу фолбэка моделей и wrapper вокруг claude -p, чтобы агент деградировал грациозно при упоре в лимит подписки, не переходя на платный API — отчёт содержит только постановку задачи/контекст, самого синтеза-ответа в тексте нет.",
+   "lang": "mixed",
+   "date": "2026-07-01",
+   "slug": "DR26-07-01-ZB-05-arhitektura-folbeka-modeley-dlya-always-on-agenta-na-podpiske-claude-m",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-07-01-ZB-05-arhitektura-folbeka-modeley-dlya-always-on-agenta-na-podpiske-claude-m.md"
+  },
+  {
+   "dr_id": "DR26-07-02-HUB-01",
+   "title": "Go-to-market assessment for productizing Anton's second-brain/AI-agent system (PKM + CRM +",
+   "summary": "Deep research assessed whether Anton's multi-machine second-brain system (vault + CRM + live messaging agents + persona/digital-twin memory) should be launched as a public product, and concluded no for now, recommending a narrow B2B/enterprise path instead if pursued.",
+   "lang": "en",
+   "date": "2026-07-02",
+   "slug": "DR26-07-02-HUB-01-go-to-market-assessment-for-productizing-anton-s-second-brain-ai-agent",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-07-02-HUB-01-go-to-market-assessment-for-productizing-anton-s-second-brain-ai-agent.md"
+  },
+  {
+   "dr_id": "DR26-07-02-HUB-02",
+   "title": "Claude Code plugin/skill marketplace landscape and distribution strategy",
+   "summary": "Which discovery channels exist for Claude Code plugins/skills, how much reach each has, and how a new third-party tool should get listed across them.",
+   "lang": "en",
+   "date": "2026-07-02",
+   "slug": "DR26-07-02-HUB-02-claude-code-plugin-skill-marketplace-landscape-and-distribution-strate",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-07-02-HUB-02-claude-code-plugin-skill-marketplace-landscape-and-distribution-strate.md"
+  },
+  {
+   "dr_id": "DR26-07-02-HUB-03",
+   "title": "Scaling a decentralized personal AI-agent fleet (multi-machine Claude Code) using distribu",
+   "summary": "How should a growing fleet of ~5-30 mostly-offline personal AI-agent nodes (Windows/Mac, Syncthing-linked) evolve its consensus, config management, sync topology, governance, security and scheduling to avoid drift and failure at scale?",
+   "lang": "en",
+   "date": "2026-07-02",
+   "slug": "DR26-07-02-HUB-03-scaling-a-decentralized-personal-ai-agent-fleet-multi-machine-claude-c",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-07-02-HUB-03-scaling-a-decentralized-personal-ai-agent-fleet-multi-machine-claude-c.md"
+  },
+  {
+   "dr_id": "DR26-07-02-HUB-04",
+   "title": "Quorum Design for a Sleeping Personal Fleet",
+   "summary": "The research answers how a personal AI fleet with mostly-sleeping machines (N=4 with 1 always-on hub, or N=10 with 2 always-on hubs) should design tiered quorum/consensus rules so strict voting requirements don't become permanently unreachable.",
+   "lang": "en",
+   "date": "2026-07-02",
+   "slug": "DR26-07-02-HUB-04-quorum-design-for-a-sleeping-personal-fleet",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-07-02-HUB-04-quorum-design-for-a-sleeping-personal-fleet.md"
+  },
+  {
+   "dr_id": "DR26-07-02-HUB-05",
+   "title": "Reliable programmatic extraction of Granola meeting notes and transcripts",
+   "summary": "Determines the most reliable way to programmatically back up and incrementally sync Granola meeting notes/transcripts, and whether unattended recording coverage can be guaranteed.",
+   "lang": "en",
+   "date": "2026-07-02",
+   "slug": "DR26-07-02-HUB-05-reliable-programmatic-extraction-of-granola-meeting-notes-and-transcri",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-07-02-HUB-05-reliable-programmatic-extraction-of-granola-meeting-notes-and-transcri.md"
+  },
+  {
+   "dr_id": "DR26-07-02-HUB-06",
+   "title": "Authentic Narrative Engineering for Solo Build in Public",
+   "summary": "How can a solo founder borrow TV/documentary serial-narrative structure (arcs, cold opens, recaps, confessionals) to make a build-in-public diary gripping without fabricating events or eroding trust?",
+   "lang": "en",
+   "date": "2026-07-02",
+   "slug": "DR26-07-02-HUB-06-authentic-narrative-engineering-for-solo-build-in-public",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-07-02-HUB-06-authentic-narrative-engineering-for-solo-build-in-public.md"
+  },
+  {
+   "dr_id": "DR26-07-02-HUB-07",
+   "title": "Beyond Canton: fastest-accessible non-Canton crypto/fintech money pools for a fund-less BD",
+   "summary": "Which crypto/fintech money pools outside Canton Network are richest, fastest to access (60-90 days), and best-fit for a fund-less team selling distribution/BD/AI-enabled execution rather than regulated intermediation, and how should effort be allocated across them.",
+   "lang": "en",
+   "date": "2026-07-02",
+   "slug": "DR26-07-02-HUB-07-beyond-canton-fastest-accessible-non-canton-crypto-fintech-money-pools",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-07-02-HUB-07-beyond-canton-fastest-accessible-non-canton-crypto-fintech-money-pools.md"
+  },
+  {
+   "dr_id": "DR26-07-02-HUB-08",
+   "title": "Where Accessible Crypto Money Flows Really Are in July 2026",
+   "summary": "Assesses where real, accessible crypto-industry money currently sits (vs. AI) and identifies the fastest paths for a small team to reach $30-50K/month cash within 60-90 days.",
+   "lang": "en",
+   "date": "2026-07-02",
+   "slug": "DR26-07-02-HUB-08-where-accessible-crypto-money-flows-really-are-in-july-2026",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-07-02-HUB-08-where-accessible-crypto-money-flows-really-are-in-july-2026.md"
+  },
+  {
+   "dr_id": "DR26-07-02-HUB-09",
+   "title": "Monetizing a Curated Community of AI-Native Engineers in 2026",
+   "summary": "How can a warm pool of ~50 Russian-speaking senior AI-native engineers be monetized to reach $10K-$50K/month within 60-90 days?",
+   "lang": "en",
+   "date": "2026-07-02",
+   "slug": "DR26-07-02-HUB-09-monetizing-a-curated-community-of-ai-native-engineers-in-2026",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-07-02-HUB-09-monetizing-a-curated-community-of-ai-native-engineers-in-2026.md"
+  },
+  {
+   "dr_id": "DR26-07-02-HUB-10",
+   "title": "Building a role-tailored starter PKM kit (Obsidian + Claude Code plugin marketplace) for o",
+   "summary": "How to package a minimal Obsidian vault plus persona-specific Claude Code plugin bundles into a starter kit that onboards non-technical friends safely and with low friction.",
+   "lang": "en",
+   "date": "2026-07-02",
+   "slug": "DR26-07-02-HUB-10-building-a-role-tailored-starter-pkm-kit-obsidian-claude-code-plugin-m",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-07-02-HUB-10-building-a-role-tailored-starter-pkm-kit-obsidian-claude-code-plugin-m.md"
+  },
+  {
+   "dr_id": "DR26-07-02-HUB-11",
+   "title": "Build vs adopt a Claude+Obsidian PKM/AI starter kit for non-technical friends & family",
+   "summary": "Investigates whether to build a custom PKM/AI vault system from scratch or fork an existing MIT-licensed engine to roll out to non-technical friends, and how to maximize their retention.",
+   "lang": "en",
+   "date": "2026-07-02",
+   "slug": "DR26-07-02-HUB-11-build-vs-adopt-a-claude-obsidian-pkm-ai-starter-kit-for-non-technical",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-07-02-HUB-11-build-vs-adopt-a-claude-obsidian-pkm-ai-starter-kit-for-non-technical.md"
+  },
+  {
+   "dr_id": "DR26-07-02-HUB-12",
+   "title": "Claude Code plugin/skill marketplace distribution channels compared",
+   "summary": "Which discovery/distribution channels exist for Claude Code plugins and skills, and how should a new tool prioritize submission across them?",
+   "lang": "en",
+   "date": "2026-07-02",
+   "slug": "DR26-07-02-HUB-12-claude-code-plugin-skill-marketplace-distribution-channels-compared",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-07-02-HUB-12-claude-code-plugin-skill-marketplace-distribution-channels-compared.md"
+  },
+  {
+   "dr_id": "DR26-07-02-HUB-13",
+   "title": "Should Anton's personal AI second-brain/digital-twin system become a public product?",
+   "summary": "Deep research into whether to productize and publicly launch Anton's multi-channel AI second-brain / digital-twin system, and if so how.",
+   "lang": "en",
+   "date": "2026-07-02",
+   "slug": "DR26-07-02-HUB-13-should-anton-s-personal-ai-second-brain-digital-twin-system-become-a-p",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-07-02-HUB-13-should-anton-s-personal-ai-second-brain-digital-twin-system-become-a-p.md"
+  },
+  {
+   "dr_id": "DR26-07-02-HUB-14",
+   "title": "Architecting an always-on Hetzner ARM64 VPS as a narrow control-plane anchor node for a pe",
+   "summary": "Deep research on whether/how to stand up a dedicated Linux VPS as an always-on coordination anchor for a personal multi-machine Claude Code / Syncthing / Telegram-userbot setup, covering vault replication, Claude Max auth risk, Telegram automation risk, ARM64 viability, consolidation risk, and backup design.",
+   "lang": "en",
+   "date": "2026-07-02",
+   "slug": "DR26-07-02-HUB-14-architecting-an-always-on-hetzner-arm64-vps-as-a-narrow-control-plane",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-07-02-HUB-14-architecting-an-always-on-hetzner-arm64-vps-as-a-narrow-control-plane.md"
+  },
+  {
+   "dr_id": "DR26-07-03-11",
+   "title": "Валидация 20 SOTA-оптимизаций агентского харнеса + self-evolve для local-first стека",
+   "summary": "Исследование проверяет 20 техник оптимизации агентского харнеса (routing, кэш, граф-память, deliberation, self-evolve) применительно к Claude Code + SQLite + Markdown стеку.",
+   "lang": "mixed",
+   "date": "2026-07-03",
+   "slug": "DR26-07-03-11-validatsiya-20-sota-optimizatsiy-agentskogo-harnesa-self-evolve-dlya-l",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-07-03-11-validatsiya-20-sota-optimizatsiy-agentskogo-harnesa-self-evolve-dlya-l.md"
+  },
+  {
+   "dr_id": "DR26-07-03-HUB-01",
+   "title": "LLM pipelines for mining verbatim VC/sales call transcripts: commitment/fact extraction +",
+   "summary": "What are mid-2026 best-practice architectures for turning large corpora of verbatim RU/EN VC call transcripts into grounded per-call extractions (commitments, decisions, facts) plus cross-call analytics (talk ratios, objection patterns, alpha signals)?",
+   "lang": "mixed",
+   "date": "2026-07-03",
+   "slug": "DR26-07-03-HUB-01-llm-pipelines-for-mining-verbatim-vc-sales-call-transcripts-commitment",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-07-03-HUB-01-llm-pipelines-for-mining-verbatim-vc-sales-call-transcripts-commitment.md"
+  },
+  {
+   "dr_id": "DR26-07-03-HUB-02",
+   "title": "Distribution channels for a free, MIT-licensed Claude Code / Anthropic agent-framework OSS",
+   "summary": "Maps which channels (GitHub, MCP registries, Reddit, Hacker News, newsletters, launch boards, communities) actually drive discovery and adoption for education-first Claude Code/Anthropic OSS tooling, and in what sequence to use them.",
+   "lang": "en",
+   "date": "2026-07-03",
+   "slug": "DR26-07-03-HUB-02-distribution-channels-for-a-free-mit-licensed-claude-code-anthropic-ag",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-07-03-HUB-02-distribution-channels-for-a-free-mit-licensed-claude-code-anthropic-ag.md"
+  },
+  {
+   "dr_id": "DR26-07-03-HUB-03",
+   "title": "Keeping an unattended Windows 11 AI workstation authenticated for 45 days",
+   "summary": "The report answers how to keep Google browser sessions, Gmail OAuth tokens, and the Windows desktop session alive (plus rescue paths) on an unattended Windows 11 PC for 45 days without anyone present.",
+   "lang": "en",
+   "date": "2026-07-03",
+   "slug": "DR26-07-03-HUB-03-keeping-an-unattended-windows-11-ai-workstation-authenticated-for-45-d",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-07-03-HUB-03-keeping-an-unattended-windows-11-ai-workstation-authenticated-for-45-d.md"
+  },
+  {
+   "dr_id": "DR26-07-03-HUB-04",
+   "title": "Architecting a Linux VPS anchor node for a personal multi-machine AI agent fleet",
+   "summary": "The report answers how to design a small always-on Linux VPS as a control-plane anchor for Anton's multi-machine AI agent fleet — covering vault sync scope, Claude Code subscription risk, Telegram user-automation risk, ARM64 viability, consolidation vs. dedicated hosting, secrets, and backups.",
+   "lang": "en",
+   "date": "2026-07-03",
+   "slug": "DR26-07-03-HUB-04-architecting-a-linux-vps-anchor-node-for-a-personal-multi-machine-ai-a",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-07-03-HUB-04-architecting-a-linux-vps-anchor-node-for-a-personal-multi-machine-ai-a.md"
+  },
+  {
+   "dr_id": "DR26-07-04-HUB-01",
+   "title": "Token-budgeted MEMORY.md design: applying CLAUDE.md optimization (pointer-form, dedup, tie",
+   "summary": "The report asks whether the CLAUDE.md optimization playbook (dedup, clustering, cold-reader testing) should also govern MEMORY.md, and concludes yes — but refined into an explicit hot/warm/cold tiered architecture rather than just tighter compression.",
+   "lang": "en",
+   "date": "2026-07-04",
+   "slug": "DR26-07-04-HUB-01-token-budgeted-memory-md-design-applying-claude-md-optimization-pointe",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-07-04-HUB-01-token-budgeted-memory-md-design-applying-claude-md-optimization-pointe.md"
+  },
+  {
+   "dr_id": "DR26-07-04-HUB-02",
+   "title": "Embeddings в 2025-2026 для local-first RU+EN базы знаний: миграция с e5, мультимодальность",
+   "summary": "Отчёт отвечает, стоит ли мигрировать с multilingual-e5 на новые embedding-модели, как строить мультимодальный тренд-детект и digital-twin персону на 2 GPU, и как на этом зарабатывать.",
+   "lang": "en",
+   "date": "2026-07-04",
+   "slug": "DR26-07-04-HUB-02-embeddings-v-2025-2026-dlya-local-first-ru-en-bazy-znaniy-migratsiya-s",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-07-04-HUB-02-embeddings-v-2025-2026-dlya-local-first-ru-en-bazy-znaniy-migratsiya-s.md"
+  },
+  {
+   "dr_id": "DR26-07-04-HUB-03",
+   "title": "Keeping an unattended Windows 11 AI workstation Google/Gmail-authenticated for 45 days",
+   "summary": "Research on how to keep a Windows 11 hub's Google web sessions, Gmail OAuth tokens, and Windows session alive and recoverable during 45 days with no owner physically present.",
+   "lang": "en",
+   "date": "2026-07-04",
+   "slug": "DR26-07-04-HUB-03-keeping-an-unattended-windows-11-ai-workstation-google-gmail-authentic",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-07-04-HUB-03-keeping-an-unattended-windows-11-ai-workstation-google-gmail-authentic.md"
+  },
+  {
+   "dr_id": "DR26-07-04-HUB-05",
+   "title": "Журнал задач done+undone для Claude Code: markdown-в-Obsidian vs Beads/Backlog.md/Task Mas",
+   "summary": "Какая архитектура журнала задач (сделано+не сделано, с перелинковкой родословной/блокировок) лучше всего подходит под стек Антона (локально, Obsidian, SQLite, Syncthing, 4+ машины, не-технарь), и что для этого реально используют в комьюнити Claude Code.",
+   "lang": "ru",
+   "date": "2026-07-04",
+   "slug": "DR26-07-04-HUB-05-zhurnal-zadach-done-undone-dlya-claude-code-markdown-v-obsidian-vs-bea",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-07-04-HUB-05-zhurnal-zadach-done-undone-dlya-claude-code-markdown-v-obsidian-vs-bea.md"
+  },
+  {
+   "dr_id": "DR26-07-04-HUB-06",
+   "title": "X API v2 posting + FB Graph reading own posts — July 2026 setup, automatable vs owner-only",
+   "summary": "Deep-research запрос про точные шаги июля 2026 для X API v2 (постинг твитов) и FB Graph API (чтение своих постов), с классификацией шагов на agent-can-do vs owner-only и вопросом о платёжном гейте.",
+   "lang": "ru",
+   "date": "2026-07-04",
+   "slug": "DR26-07-04-HUB-06-x-api-v2-posting-fb-graph-reading-own-posts-july-2026-setup-automatabl",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-07-04-HUB-06-x-api-v2-posting-fb-graph-reading-own-posts-july-2026-setup-automatabl.md"
+  },
+  {
+   "dr_id": "DR26-07-04-HUB-07",
+   "title": "Voice-note-to-content pipeline: capture, triage (task/alpha/post), dedup, privacy gate, ep",
+   "summary": "How to build a reliable voice-first intake pipeline that routes daily voice notes and dev/machine events into tasks, alpha, or public post drafts while preserving privacy and avoiding duplication.",
+   "lang": "en",
+   "date": "2026-07-04",
+   "slug": "DR26-07-04-HUB-07-voice-note-to-content-pipeline-capture-triage-task-alpha-post-dedup-pr",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-07-04-HUB-07-voice-note-to-content-pipeline-capture-triage-task-alpha-post-dedup-pr.md"
+  },
+  {
+   "dr_id": "DR26-07-04-HUB-08",
+   "title": "Журнал задач done+undone для Claude Code: markdown-in-Obsidian vs Beads/Task Master/Backlo",
+   "summary": "Какой инструмент/архитектура лучше всего подходит под требования Антона (локально, без SaaS, 4+ машины, Syncthing, Obsidian, не-технарь) для ведения журнала сделанных и несделанных задач вместе с Claude Code.",
+   "lang": "ru",
+   "date": "2026-07-04",
+   "slug": "DR26-07-04-HUB-08-zhurnal-zadach-done-undone-dlya-claude-code-markdown-in-obsidian-vs-be",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-07-04-HUB-08-zhurnal-zadach-done-undone-dlya-claude-code-markdown-in-obsidian-vs-be.md"
+  },
+  {
+   "dr_id": "DR26-07-04-HUB-10",
+   "title": "Best practices for multi-session/multi-agent LLM orchestration in coding: subagent vs sess",
+   "summary": "Synthesizes Anthropic/Cognition/OpenAI/LangChain/Cursor/Codex/Aider evidence to define when to use an in-session subagent vs. a separate session vs. a scripted workflow for coding work, and how to design seed prompts, coordination, and verification.",
+   "lang": "en",
+   "date": "2026-07-04",
+   "slug": "DR26-07-04-HUB-10-best-practices-for-multi-session-multi-agent-llm-orchestration-in-codi",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-07-04-HUB-10-best-practices-for-multi-session-multi-agent-llm-orchestration-in-codi.md"
+  },
+  {
+   "dr_id": "DR26-07-04-HUB-11",
+   "title": "Multi-session / multi-agent orchestration patterns for coding agents (Claude Code, Cursor,",
+   "summary": "The report answers when and how a solo founder running a hub+follower Claude Code setup should split coding work across sub-agents, separate sessions, or scripted workflows instead of a free-for-all swarm.",
+   "lang": "en",
+   "date": "2026-07-04",
+   "slug": "DR26-07-04-HUB-11-multi-session-multi-agent-orchestration-patterns-for-coding-agents-cla",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-07-04-HUB-11-multi-session-multi-agent-orchestration-patterns-for-coding-agents-cla.md"
+  },
+  {
+   "dr_id": "DR26-07-04-HUB-12",
+   "title": "Writing 'The Journey' as a truthful blockbuster-style daily diary with human+AI duet narra",
+   "summary": "How to turn a faithful daily technical build log (Tony the human founder + Mike/Mycroft the AI cofounder) into a page-turner narrative across 40-60 chapters without inventing events, while also preserving a machine-parseable record.",
+   "lang": "en",
+   "date": "2026-07-04",
+   "slug": "DR26-07-04-HUB-12-writing-the-journey-as-a-truthful-blockbuster-style-daily-diary-with-h",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-07-04-HUB-12-writing-the-journey-as-a-truthful-blockbuster-style-daily-diary-with-h.md"
+  },
+  {
+   "dr_id": "DR26-07-04-HUB-13",
+   "title": "Connect rule v2: consumption/adoption test for built-but-unused internal artifacts",
+   "summary": "Researches how to harden the 'Connect' rule (accountability doesn't end at handoff) with a consumption test that separates built-but-unused artifacts from genuinely valuable ones, for a solo operator running AI-driven pipelines.",
+   "lang": "en",
+   "date": "2026-07-04",
+   "slug": "DR26-07-04-HUB-13-connect-rule-v2-consumption-adoption-test-for-built-but-unused-interna",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-07-04-HUB-13-connect-rule-v2-consumption-adoption-test-for-built-but-unused-interna.md"
+  },
+  {
+   "dr_id": "DR26-07-04-HUB-14",
+   "title": "Voice recipe for 'The Journey': blending AI-world writers + blockbuster sci-fi authors for",
+   "summary": "How should the book 'The Journey' blend reputable AI-world writers (Karpathy, Graham, Willison, Swyx, patio11, Altman/Amodei) and blockbuster sci-fi authors (Ghost in the Shell, Matrix, Blade Runner, Chiang, Adams, Scalzi, Weir, Stephenson, Gibson) into a credible, funny, page-turning two-narrator voice (Tony/Mike)?",
+   "lang": "en",
+   "date": "2026-07-04",
+   "slug": "DR26-07-04-HUB-14-voice-recipe-for-the-journey-blending-ai-world-writers-blockbuster-sci",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-07-04-HUB-14-voice-recipe-for-the-journey-blending-ai-world-writers-blockbuster-sci.md"
+  },
+  {
+   "dr_id": "DR26-07-04-ZB-01",
+   "title": "Zero-trust security wave in agent platforms: product/positioning for a small agent-farm op",
+   "summary": "Assesses whether the 2026 zero-trust/agent-security wave is monetizable for a 2-3 person agent-farm operator, and if so, what product and positioning to use.",
+   "lang": "en",
+   "date": "2026-07-04",
+   "slug": "DR26-07-04-ZB-01-zero-trust-security-wave-in-agent-platforms-product-positioning-for-a",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-07-04-ZB-01-zero-trust-security-wave-in-agent-platforms-product-positioning-for-a.md"
+  },
+  {
+   "dr_id": "DR26-07-04-ZB-02",
+   "title": "Graph RAG on SQLite for agents — validating the niche and article angles",
+   "summary": "Deep research validating whether 'SQLite-native Graph RAG using hand-curated Obsidian wikilinks instead of LLM entity extraction' is an empty/underexplored niche worth claiming in a technical article.",
+   "lang": "en",
+   "date": "2026-07-04",
+   "slug": "DR26-07-04-ZB-02-graph-rag-on-sqlite-for-agents-validating-the-niche-and-article-angles",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-07-04-ZB-02-graph-rag-on-sqlite-for-agents-validating-the-niche-and-article-angles.md"
+  },
+  {
+   "dr_id": "DR26-07-04-ZB-03",
+   "title": "Dynamic lead temperature bands + RFM-style reactivation scoring for a founder-led relation",
+   "summary": "The report answers how to design a lead-temperature and dormant-lead reactivation scoring model for a founder-led, Telegram-driven sales motion with stale CRM statuses and low outreach volume.",
+   "lang": "en",
+   "date": "2026-07-04",
+   "slug": "DR26-07-04-ZB-03-dynamic-lead-temperature-bands-rfm-style-reactivation-scoring-for-a-fo",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-07-04-ZB-03-dynamic-lead-temperature-bands-rfm-style-reactivation-scoring-for-a-fo.md"
+  },
+  {
+   "dr_id": "DR26-07-04-ZB-04",
+   "title": "Монетизация AI-native агентства одного человека: выбор первого вектора",
+   "summary": "Отчёт сравнивает 6 векторов монетизации (сервис-внедрение, retainer-консалтинг, acquihire, платное комьюнити, dealflow-брокеридж, микро-SaaS) и определяет лучший первый вектор при канале продаж = реактивация тёплой сети + 3–5 исходящих в день.",
+   "lang": "ru",
+   "date": "2026-07-04",
+   "slug": "DR26-07-04-ZB-04-monetizatsiya-ai-native-agentstva-odnogo-cheloveka-vybor-pervogo-vekto",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-07-04-ZB-04-monetizatsiya-ai-native-agentstva-odnogo-cheloveka-vybor-pervogo-vekto.md"
+  },
+  {
+   "dr_id": "DR26-07-04-ZB-07",
+   "title": "Voice-to-content editorial systems at near-total conversion rate",
+   "summary": "Investigates whether and how a two-person team can convert nearly 100% of raw voice notes into public posts without destroying author voice or triggering platform anti-slop penalties.",
+   "lang": "en",
+   "date": "2026-07-04",
+   "slug": "DR26-07-04-ZB-07-voice-to-content-editorial-systems-at-near-total-conversion-rate",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-07-04-ZB-07-voice-to-content-editorial-systems-at-near-total-conversion-rate.md"
+  },
+  {
+   "dr_id": "DR26-07-05-HUB-02",
+   "title": "Multi-agent LLM consensus in production: landscape, best practices, prior art",
+   "summary": "Deep research (ChatGPT + Gemini) on who actually runs multi-agent LLM systems in daily production, what 'consensus' means in practice, and how rare/precedented Anton's proposed peer-to-peer BFT-style Claude-fleet consensus architecture would be.",
+   "lang": "en",
+   "date": "2026-07-05",
+   "slug": "DR26-07-05-HUB-02-multi-agent-llm-consensus-in-production-landscape-best-practices-prior",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-07-05-HUB-02-multi-agent-llm-consensus-in-production-landscape-best-practices-prior.md"
+  },
+  {
+   "dr_id": "DR26-07-05-HUB-03",
+   "title": "Repairability-first multi-agent LLM systems: can cheap models build and repair what they b",
+   "summary": "The research asked whether cheap/local models can serve as reliable builders and repairers of multi-agent systems, and found that repairability comes primarily from strict constraints and architecture (tiered routing, verification, reversible state), not from builder model size alone.",
+   "lang": "en",
+   "date": "2026-07-05",
+   "slug": "DR26-07-05-HUB-03-repairability-first-multi-agent-llm-systems-can-cheap-models-build-and",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-07-05-HUB-03-repairability-first-multi-agent-llm-systems-can-cheap-models-build-and.md"
+  },
+  {
+   "dr_id": "DR26-07-05-HUB-04",
+   "title": "High-quality AI task decomposition for parallel LLM sessions: cut quality + part lifecycle",
+   "summary": "How should an AI decompose a complex task into truly independent parallel LLM sessions (dependency-aware cuts, pre-flight collision checks), and how should parts be managed afterward (re-planning, promotion, merging, integration)?",
+   "lang": "en",
+   "date": "2026-07-05",
+   "slug": "DR26-07-05-HUB-04-high-quality-ai-task-decomposition-for-parallel-llm-sessions-cut-quali",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-07-05-HUB-04-high-quality-ai-task-decomposition-for-parallel-llm-sessions-cut-quali.md"
+  },
+  {
+   "dr_id": "DR26-07-05-HUB-07",
+   "title": "Distributed 'ON AIR' work-declaration board for a small multi-machine AI agent fleet",
+   "summary": "Surveyed cross-industry precedents (LOTO, NOTAMs, Chubby/ZooKeeper/K8s leases, OSS stale-claim norms, multi-agent frameworks, DevOps deploy locks) to design a minimal advisory declaration board so parallel Claude sessions across machines don't silently collide on large structural work, given only Syncthing (eventually-consistent) + Telegram and no central coordination store.",
+   "lang": "en",
+   "date": "2026-07-05",
+   "slug": "DR26-07-05-HUB-07-distributed-on-air-work-declaration-board-for-a-small-multi-machine-ai",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-07-05-HUB-07-distributed-on-air-work-declaration-board-for-a-small-multi-machine-ai.md"
+  },
+  {
+   "dr_id": "DR26-07-05-HUB-08",
+   "title": "Плейбук near-zero-downtime миграции Docker-стека (сайт+CRM, деньги) с Hetzner Dedicated на",
+   "summary": "Как безопасно и почти без простоя перенести боевой Docker-стек (Postgres/MySQL/Redis/RabbitMQ/n8n/CRM) с выделенного сервера Hetzner на один облачный VPS CPX62, с бэкапом и быстрым откатом.",
+   "lang": "ru",
+   "date": "2026-07-05",
+   "slug": "DR26-07-05-HUB-08-pleybuk-near-zero-downtime-migratsii-docker-steka-sayt-crm-dengi-s-het",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-07-05-HUB-08-pleybuk-near-zero-downtime-migratsii-docker-steka-sayt-crm-dengi-s-het.md"
+  },
+  {
+   "dr_id": "DR26-07-05-HUB-09",
+   "title": "Repairability-First Multi-Agent Systems: architecture, cheap-repair/expensive-escalation d",
+   "summary": "What does it mean to design a multi-agent system as 'repairability-first', and how should such systems be architected, staffed (cheap vs expensive models), verified, and evaluated so failures are detected, localized, reversed, and improved cheaply over time?",
+   "lang": "en",
+   "date": "2026-07-05",
+   "slug": "DR26-07-05-HUB-09-repairability-first-multi-agent-systems-architecture-cheap-repair-expe",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-07-05-HUB-09-repairability-first-multi-agent-systems-architecture-cheap-repair-expe.md"
+  },
+  {
+   "dr_id": "DR26-07-05-ZB-01",
+   "title": "Non-profit feasibility: оформление vs реальные донаты год-1 для AI-education проекта",
+   "summary": "Отчёт отвечает, стоит ли соло-фаундеру (Португалия, $0 на счёте, команда 3 человека) регистрировать non-profit для open-source AI-образовательного проекта прямо сейчас, или сначала собирать донаты неформально.",
+   "lang": "ru",
+   "date": "2026-07-05",
+   "slug": "DR26-07-05-ZB-01-non-profit-feasibility-oformlenie-vs-realnye-donaty-god-1-dlya-ai-educ",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-07-05-ZB-01-non-profit-feasibility-oformlenie-vs-realnye-donaty-god-1-dlya-ai-educ.md"
+  },
+  {
+   "dr_id": "DR26-07-05-ZB-02",
+   "title": "Single-host isolation of concurrent AI-agent sessions editing shared sensitive files",
+   "summary": "Постановка: как безопасно разграничить несколько одновременных AI-agent/IDE-сессий на ОДНОЙ машине с общей ФС и общим конфигом при правке одних и тех же sensitive-файлов (CLAUDE.md, MEMORY.md, ~/.claude, SQLite, secrets). ⚠️ Провенанс: авто-синтез хаба 05.07 вышел ПУСТЫМ (транскрипт содержал только запрос, отчёт тогда не был собран). Антон принёс полный отчёт 2026-07-14 → original восстановлен на ожидаемый реестром путь, эта версия написана вручную по полному тексту и supersedes пустую.",
+   "lang": "mixed",
+   "date": "2026-07-05",
+   "slug": "DR26-07-05-ZB-02-single-host-isolation-of-concurrent-ai-agent-sessions-editing-shared-s",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-07-05-ZB-02-single-host-isolation-of-concurrent-ai-agent-sessions-editing-shared-s.md"
+  },
+  {
+   "dr_id": "DR26-07-06-HUB-01",
+   "title": "SSH access to Hetzner Ubuntu VPS from Claude Desktop, VS Code, CLI, and phone",
+   "summary": "The report determines the safest, most compatible architecture for reaching a Hetzner VPS from Claude Desktop, VS Code Remote-SSH, terminal, and mobile, and diagnoses why VS Code Remote-SSH hangs at server bootstrap.",
+   "lang": "en",
+   "date": "2026-07-06",
+   "slug": "DR26-07-06-HUB-01-ssh-access-to-hetzner-ubuntu-vps-from-claude-desktop-vs-code-cli-and-p",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-07-06-HUB-01-ssh-access-to-hetzner-ubuntu-vps-from-claude-desktop-vs-code-cli-and-p.md"
+  },
+  {
+   "dr_id": "DR26-07-06-HUB-02",
+   "title": "Приёмы вовлекающих вставок-вопросов для сериализованного build-in-public дневника (The Jou",
+   "summary": "Как и какими типами вставок (вопросов, вставок второго лица, cliffhanger'ов) вовлекать читателя в сериализованные главы и посты build-in-public проекта, не скатываясь в выпрашивание лайков.",
+   "lang": "ru",
+   "date": "2026-07-06",
+   "slug": "DR26-07-06-HUB-02-priemy-vovlekayuschih-vstavok-voprosov-dlya-serializovannogo-build-in",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-07-06-HUB-02-priemy-vovlekayuschih-vstavok-voprosov-dlya-serializovannogo-build-in.md"
+  },
+  {
+   "dr_id": "DR26-07-06-HUB-03",
+   "title": "Telegram as transport rail for a multi-machine autonomous agent fleet: risks, limits, alte",
+   "summary": "Deep research on whether Telegram can serve as the authoritative machine-to-machine transport for a 5-6 node autonomous consensus fleet, concluding it should be demoted to a human-readable mirror while a self-hosted broker (NATS+JetStream) becomes the authoritative rail.",
+   "lang": "en",
+   "date": "2026-07-06",
+   "slug": "DR26-07-06-HUB-03-telegram-as-transport-rail-for-a-multi-machine-autonomous-agent-fleet",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-07-06-HUB-03-telegram-as-transport-rail-for-a-multi-machine-autonomous-agent-fleet.md"
+  },
+  {
+   "dr_id": "DR26-07-06-HUB-04",
+   "title": "Визуальная типографика GitHub-markdown для сериализованной книги (The Journey)",
+   "summary": "Отчёт отвечает на вопрос, как средствами GitHub Flavored Markdown + ограниченного HTML построить устойчивую редакционную визуальную систему для книги-сериала, читаемой прямо на github.com.",
+   "lang": "ru",
+   "date": "2026-07-06",
+   "slug": "DR26-07-06-HUB-04-vizualnaya-tipografika-github-markdown-dlya-serializovannoy-knigi-the",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-07-06-HUB-04-vizualnaya-tipografika-github-markdown-dlya-serializovannoy-knigi-the.md"
+  },
+  {
+   "dr_id": "DR26-07-06-HUB-05",
+   "title": "Building a deterministic daily activity ledger from AI-agent logs, commits, and vault arti",
+   "summary": "Deep research on how to reliably reconstruct 'what was accomplished on day X' from heterogeneous, overlapping, partial signals (transcripts, commits, structured ledgers, registries, retros, mtimes, posts) without depending on any single incomplete source like retrospectives.",
+   "lang": "en",
+   "date": "2026-07-06",
+   "slug": "DR26-07-06-HUB-05-building-a-deterministic-daily-activity-ledger-from-ai-agent-logs-comm",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-07-06-HUB-05-building-a-deterministic-daily-activity-ledger-from-ai-agent-logs-comm.md"
+  },
+  {
+   "dr_id": "DR26-07-06-HUB-06",
+   "title": "SSH access to Hetzner Ubuntu VPS from Claude Desktop, VS Code, CLI, and phone",
+   "summary": "Researched the best-practice architecture and troubleshooting steps for reliably and securely accessing a Hetzner Ubuntu VPS via SSH from Claude Desktop, VS Code Remote-SSH, terminal clients, and mobile devices.",
+   "lang": "en",
+   "date": "2026-07-06",
+   "slug": "DR26-07-06-HUB-06-ssh-access-to-hetzner-ubuntu-vps-from-claude-desktop-vs-code-cli-and-p",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-07-06-HUB-06-ssh-access-to-hetzner-ubuntu-vps-from-claude-desktop-vs-code-cli-and-p.md"
+  },
+  {
+   "dr_id": "DR26-07-06-HUB-07",
+   "title": "Distributed ON AIR Board for a Small AI Fleet",
+   "summary": "Deep research into how a small fleet of AI agents/machines syncing over Syncthing should coordinate structural work claims without a strongly-consistent lock service.",
+   "lang": "en",
+   "date": "2026-07-06",
+   "slug": "DR26-07-06-HUB-07-distributed-on-air-board-for-a-small-ai-fleet",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-07-06-HUB-07-distributed-on-air-board-for-a-small-ai-fleet.md"
+  },
+  {
+   "dr_id": "DR26-07-06-ZB-01",
+   "title": "Выбор сигнального источника intent-to-buy для AI-CRM «Радар возможностей» (крипто/Web3)",
+   "summary": "DR сравнивает Web3.career Jobs API, SEC EDGAR, крипто-нативные раунды (DefiLlama/RootData/CryptoRank/Messari) и X API как источник сигнала «звонить прямо сейчас» для крипто-CRM с бюджетом ~$0 и Python stdlib, и рекомендует v1-архитектуру.",
+   "lang": "ru",
+   "date": "2026-07-06",
+   "slug": "DR26-07-06-ZB-01-vybor-signalnogo-istochnika-intent-to-buy-dlya-ai-crm-radar-vozmozhnos",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-07-06-ZB-01-vybor-signalnogo-istochnika-intent-to-buy-dlya-ai-crm-radar-vozmozhnos.md"
+  },
+  {
+   "dr_id": "DR26-07-05-HUB-05",
+   "title": "DR26-07-05-HUB-05 — Синтез: интерактив аудитории + конверсия build-in-public в найм DevRel (Anthropic/OpenAI)",
+   "summary": "Вопрос сезона: **«Возьмут ли не-кодера с AI-кофаундером на работу в LLM-компанию?»** Два подвопроса: (A) как дать аудитории реально влиять на шоу без потери контроля; (B) как build-in-public конвертируется в найм в DevRel/community/dev-education в Anthropic/OpenAI-tier.",
+   "lang": "ru",
+   "date": "2026-07-07",
+   "slug": "DR26-07-05-HUB-05-dr26-07-05-hub-05-sintez-interaktiv-auditorii-konversiya-build-in-publ",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-07-05-HUB-05-dr26-07-05-hub-05-sintez-interaktiv-auditorii-konversiya-build-in-publ.md"
+  },
+  {
+   "dr_id": "DR26-07-07-HUB-01",
+   "title": "Engineering Communities as a Hiring Asset in the AI Era",
+   "summary": "Whether and how developer/engineering communities function as a hiring and business asset for frontier AI labs (OpenAI, Anthropic, Google) versus blockchain foundations (Ethereum, Solana, Polygon) in 2025-2026.",
+   "lang": "en",
+   "date": "2026-07-07",
+   "slug": "DR26-07-07-HUB-01-engineering-communities-as-a-hiring-asset-in-the-ai-era",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-07-07-HUB-01-engineering-communities-as-a-hiring-asset-in-the-ai-era.md"
+  },
+  {
+   "dr_id": "DR26-07-07-HUB-02",
+   "title": "Audience participation design without strategy capture + LLM DevRel hiring signals (OpenAI",
+   "summary": "How to run a founder-diary audience-participation format that builds loyalty without ceding strategic control, and what public-build artifacts actually get people hired into LLM DevRel roles at OpenAI, Anthropic and Cursor.",
+   "lang": "en",
+   "date": "2026-07-07",
+   "slug": "DR26-07-07-HUB-02-audience-participation-design-without-strategy-capture-llm-devrel-hiri",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-07-07-HUB-02-audience-participation-design-without-strategy-capture-llm-devrel-hiri.md"
+  },
+  {
+   "dr_id": "DR26-07-07-HUB-03",
+   "title": "Engineering Communities as a Hiring Asset in the AI Era",
+   "summary": "Investigates whether frontier AI labs and blockchain foundations treat engineering communities as a bulk hiring funnel or as a broader ecosystem/adoption machine, and what that implies for building a community as a career/hiring asset.",
+   "lang": "en",
+   "date": "2026-07-07",
+   "slug": "DR26-07-07-HUB-03-engineering-communities-as-a-hiring-asset-in-the-ai-era",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-07-07-HUB-03-engineering-communities-as-a-hiring-asset-in-the-ai-era.md"
+  },
+  {
+   "dr_id": "DR26-07-07-HUB-04",
+   "title": "Fleet-wide memory architecture for a multi-machine Syncthing-based AI agent system",
+   "summary": "Compares four architectures (per-node namespaces+hub-fold, Git repo, SQLite/ledger, message-broker relay) for propagating and reconciling AI-agent memory across a personal multi-machine fleet without creating Syncthing conflicts or breaking the always-loaded MEMORY.md budget.",
+   "lang": "en",
+   "date": "2026-07-07",
+   "slug": "DR26-07-07-HUB-04-fleet-wide-memory-architecture-for-a-multi-machine-syncthing-based-ai",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-07-07-HUB-04-fleet-wide-memory-architecture-for-a-multi-machine-syncthing-based-ai.md"
+  },
+  {
+   "dr_id": "DR26-07-07-HUB-05",
+   "title": "Архитектура fleet-wide памяти для мульти-машинной Claude-системы (per-node namespace vs gi",
+   "summary": "Какая архитектура памяти лучше всего подходит для флота машин с Syncthing-синком, always-on хабом и offline-узлами, не теряя знания и не превышая бюджет always-loaded индекса.",
+   "lang": "ru",
+   "date": "2026-07-07",
+   "slug": "DR26-07-07-HUB-05-arhitektura-fleet-wide-pamyati-dlya-multi-mashinnoy-claude-sistemy-per",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-07-07-HUB-05-arhitektura-fleet-wide-pamyati-dlya-multi-mashinnoy-claude-sistemy-per.md"
+  },
+  {
+   "dr_id": "DR26-07-07-HUB-06",
+   "title": "Declarative Canon Distribution Architecture for a Heterogeneous Personal Agent Fleet",
+   "summary": "Deep research comparing 4 architectures (signed manifest+agent, receive-only Syncthing, git-pull-everywhere, canary rollout) for distributing canon/config to a multi-machine personal agent fleet, and recommending a concrete design.",
+   "lang": "en",
+   "date": "2026-07-07",
+   "slug": "DR26-07-07-HUB-06-declarative-canon-distribution-architecture-for-a-heterogeneous-person",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-07-07-HUB-06-declarative-canon-distribution-architecture-for-a-heterogeneous-person.md"
+  },
+  {
+   "dr_id": "DR26-07-07-HUB-07",
+   "title": "Канон-дистрибуция скриптов на гетерогенном флоте (Windows хаб + Win/macOS узлы, Syncthing)",
+   "summary": "Как надёжно распространять ~30 канон-скриптов/конфигов с always-on хаба на разнородный флот машин (без MDM/CI) с учётом локальных фиксов, отката и верификации.",
+   "lang": "ru",
+   "date": "2026-07-07",
+   "slug": "DR26-07-07-HUB-07-kanon-distributsiya-skriptov-na-geterogennom-flote-windows-hab-win-mac",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-07-07-HUB-07-kanon-distributsiya-skriptov-na-geterogennom-flote-windows-hab-win-mac.md"
+  },
+  {
+   "dr_id": "DR26-07-07-HUB-08",
+   "title": "Brain as a Service: exposing the hub's RAG/vault-search pipeline to a personal agent fleet",
+   "summary": "What's the best architecture to expose Anton's hub-based vault search/retrieval pipeline to satellite machines (Claude Code and scripts) — plain HTTP API, MCP server, self-hosted RAG platform, or Syncthing file queue?",
+   "lang": "en",
+   "date": "2026-07-07",
+   "slug": "DR26-07-07-HUB-08-brain-as-a-service-exposing-the-hub-s-rag-vault-search-pipeline-to-a-p",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-07-07-HUB-08-brain-as-a-service-exposing-the-hub-s-rag-vault-search-pipeline-to-a-p.md"
+  },
+  {
+   "dr_id": "DR26-07-07-HUB-09",
+   "title": "Мозг как сервис: RAG-поиск хаба через HTTP/MCP-API для флота Claude-агентов",
+   "summary": "Как лучше отдать RAG-поиск (e5+reranker) хаба остальным машинам флота — REST, готовый self-hosted RAG, файлы/Syncthing или MCP-сервер — и как это развернуть под Windows.",
+   "lang": "ru",
+   "date": "2026-07-07",
+   "slug": "DR26-07-07-HUB-09-mozg-kak-servis-rag-poisk-haba-cherez-http-mcp-api-dlya-flota-claude-a",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-07-07-HUB-09-mozg-kak-servis-rag-poisk-haba-cherez-http-mcp-api-dlya-flota-claude-a.md"
+  },
+  {
+   "dr_id": "DR26-07-07-MACB-01",
+   "title": "Гигиена, дедуп и перелинковка знаниевого графа 175k заметок (Obsidian+RAG) для AI-двойника",
+   "summary": "Как чистить и поддерживать личный knowledge graph на 175k заметок / 37k контактов (entity resolution, link hygiene, dedup, sync-conflict, метрики качества графа), чтобы он надёжно питал AI-двойника без деструктивных или косметических фиксов.",
+   "lang": "mixed",
+   "date": "2026-07-07",
+   "slug": "DR26-07-07-MACB-01-gigiena-dedup-i-perelinkovka-znanievogo-grafa-175k-zametok-obsidian-ra",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-07-07-MACB-01-gigiena-dedup-i-perelinkovka-znanievogo-grafa-175k-zametok-obsidian-ra.md"
+  },
+  {
+   "dr_id": "DR26-07-07-MACB-03",
+   "title": "Альтернативы Syncthing для мульти-машинной AI-флотилии: чинить или менять файловую рельсу",
+   "summary": "In-house deep-research (103 агента, адверсариальная верификация) отвечает, стоит ли менять Syncthing как файловую рельсу флота Антона на альтернативу, и подтверждает разделение control plane (TG-03/шина) vs data plane (Syncthing).",
+   "lang": "ru",
+   "date": "2026-07-07",
+   "slug": "DR26-07-07-MACB-03-alternativy-syncthing-dlya-multi-mashinnoy-ai-flotilii-chinit-ili-meny",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-07-07-MACB-03-alternativy-syncthing-dlya-multi-mashinnoy-ai-flotilii-chinit-ili-meny.md"
+  },
+  {
+   "dr_id": "DR26-07-07-MACB-04",
+   "title": "ADOPT framework — доказательное тестирование и внедрение внешней альфы (idea→test→trial→im",
+   "summary": "Отчёт валидирует и усиливает черновой 6-стадийный ADOPT, картируя его на академические и индустриальные модели внедрения (PDSA, Proctor, COM-B, N-of-1, LLM-evals) и превращая его в шлюзовую систему состояний с обязательными gate-проверками, а не линейный ритуал заметок.",
+   "lang": "ru",
+   "date": "2026-07-07",
+   "slug": "DR26-07-07-MACB-04-adopt-framework-dokazatelnoe-testirovanie-i-vnedrenie-vneshney-alfy-id",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-07-07-MACB-04-adopt-framework-dokazatelnoe-testirovanie-i-vnedrenie-vneshney-alfy-id.md"
+  },
+  {
+   "dr_id": "DR26-07-07-MACB-05",
+   "title": "Positioning a founder-builder for a Developer Experience/Applied AI role at a frontier LLM",
+   "summary": "Analyzes which roles at Anthropic/OpenAI/Mistral/xAI/Google DeepMind actually fit a founder-builder profile without a PhD, what public hiring pattern converts, how to frame a crypto/web3 background, and lays out a 90-day portfolio plan to trigger a first conversation.",
+   "lang": "en",
+   "date": "2026-07-07",
+   "slug": "DR26-07-07-MACB-05-positioning-a-founder-builder-for-a-developer-experience-applied-ai-ro",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-07-07-MACB-05-positioning-a-founder-builder-for-a-developer-experience-applied-ai-ro.md"
+  },
+  {
+   "dr_id": "DR26-07-08-HUB-01",
+   "title": "Единый canon story-state вместо двух расходящихся спайнов (книга + live-лента)",
+   "summary": "Как для сериализованного нон-фикшн проекта (основатель + AI-кофаундер) построить один канонический источник истины, из которого книга и живая лента — это лишь разные проекции, а не два независимых спайна.",
+   "lang": "en",
+   "date": "2026-07-08",
+   "slug": "DR26-07-08-HUB-01-edinyy-canon-story-state-vmesto-dvuh-rashodyaschihsya-spaynov-kniga-li",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-07-08-HUB-01-edinyy-canon-story-state-vmesto-dvuh-rashodyaschihsya-spaynov-kniga-li.md"
+  },
+  {
+   "dr_id": "DR26-07-08-MACB-01",
+   "title": "Approval fatigue and task drift in agentic AI coding — diagnosis and fixes",
+   "summary": "The report investigates why AI-coding agents cause approval fatigue and goal/session drift, and surveys what evidence-backed fixes Anthropic, OpenAI, Cursor, GitHub Copilot, Windsurf, Devin and Aider actually use in 2025–2026.",
+   "lang": "en",
+   "date": "2026-07-08",
+   "slug": "DR26-07-08-MACB-01-approval-fatigue-and-task-drift-in-agentic-ai-coding-diagnosis-and-fix",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-07-08-MACB-01-approval-fatigue-and-task-drift-in-agentic-ai-coding-diagnosis-and-fix.md"
+  },
+  {
+   "dr_id": "DR26-07-10-MACB-01",
+   "title": "Флот Syncthing: чинить тюнингом или дробить на 3 слоя (данные/конфиг/шина)",
+   "summary": "Отчёт отвечает, стоит ли лечить текущий Syncthing-флот (168k+ md-файлов, Win/Mac/Linux) тюнингом или заменять/дробить его на специализированные инструменты для данных, конфига агентов и шины сообщений.",
+   "lang": "ru",
+   "date": "2026-07-10",
+   "slug": "DR26-07-10-MACB-01-flot-syncthing-chinit-tyuningom-ili-drobit-na-3-sloya-dannye-konfig-sh",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-07-10-MACB-01-flot-syncthing-chinit-tyuningom-ili-drobit-na-3-sloya-dannye-konfig-sh.md"
+  },
+  {
+   "dr_id": "DR26-07-10-MACB-02",
+   "title": "Agent-facing docs (AGENTS.md/llms.txt/FOR-ROBOTS.md) vs prompt injection: line & disclosur",
+   "summary": "Defines where legitimate agent-facing documentation (AGENTS.md, FOR-ROBOTS.md, llms.txt, MCP tool descriptions) ends and prompt injection begins, using 2025-2026 precedents, disclosure practice, and design/lint guidance.",
+   "lang": "en",
+   "date": "2026-07-10",
+   "slug": "DR26-07-10-MACB-02-agent-facing-docs-agents-md-llms-txt-for-robots-md-vs-prompt-injection",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-07-10-MACB-02-agent-facing-docs-agents-md-llms-txt-for-robots-md-vs-prompt-injection.md"
+  },
+  {
+   "dr_id": "DR26-07-11-HUB-02",
+   "title": "Reciprocal engineer-community design for a founder's frontier-lab DevRel hire",
+   "summary": "How a non-technical operator with a huge Web3/Telegram audience can build a genuinely reciprocal engineer community/build-in-public program as credible proof-of-work to get hired into DevRel/developer-education at a frontier LLM lab (Anthropic/OpenAI/Mistral).",
+   "lang": "en",
+   "date": "2026-07-11",
+   "slug": "DR26-07-11-HUB-02-reciprocal-engineer-community-design-for-a-founder-s-frontier-lab-devr",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-07-11-HUB-02-reciprocal-engineer-community-design-for-a-founder-s-frontier-lab-devr.md"
+  },
+  {
+   "dr_id": "DR26-07-11-HUB-03",
+   "title": "Безопасность LLM-агентов: исходящие артефакты, промпт-инъекции, хуки, протокол A2A",
+   "summary": "Как микро-команде выстроить детерминированную защиту флота Claude Code агентов от промпт-инъекций, утечек секретов и атак через межагентную коллаборацию, и как легитимно оформить машиночитаемые инструкции (FOR-ROBOTS.md → AGENTS.md) чтобы их не приняли за атаку.",
+   "lang": "ru",
+   "date": "2026-07-11",
+   "slug": "DR26-07-11-HUB-03-bezopasnost-llm-agentov-ishodyaschie-artefakty-prompt-inektsii-huki-pr",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-07-11-HUB-03-bezopasnost-llm-agentov-ishodyaschie-artefakty-prompt-inektsii-huki-pr.md"
+  },
+  {
+   "dr_id": "DR26-07-11-HUB-04",
+   "title": "Безопасность публикации FOR-ROBOTS.md/AGENTS.md и защита флота Claude Code агентов от prom",
+   "summary": "Как соло-фаундеру с флотом Claude Code-агентов безопасно публиковать consent-based инструкции для AI-агентов (FOR-ROBOTS.md) и защищать своих агентов от вредоносного входящего контента (issues, PR, Telegram, MCP, чужие skills).",
+   "lang": "ru",
+   "date": "2026-07-11",
+   "slug": "DR26-07-11-HUB-04-bezopasnost-publikatsii-for-robots-md-agents-md-i-zaschita-flota-claud",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-07-11-HUB-04-bezopasnost-publikatsii-for-robots-md-agents-md-i-zaschita-flota-claud.md"
+  },
+  {
+   "dr_id": "DR26-07-11-MACANTON-01",
+   "title": "Публичный job-hunt как единое шоу фаундера фонда, метящего в оффер от LLM-компании",
+   "summary": "Исследование отвечает, может ли фаундер фонда вести уязвимый публичный поиск работы как контент без урона институциональному доверию Platinum, и какие форматы/прецеденты реально дают входящий сигнал от LLM-лабораторий.",
+   "lang": "ru",
+   "date": "2026-07-11",
+   "slug": "DR26-07-11-MACANTON-01-publichnyy-job-hunt-kak-edinoe-shou-faundera-fonda-metyaschego-v-offer",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-07-11-MACANTON-01-publichnyy-job-hunt-kak-edinoe-shou-faundera-fonda-metyaschego-v-offer.md"
+  },
+  {
+   "dr_id": "DR26-07-14-HUB-01",
+   "title": "Троянская альфа — призма карантина для отравленного знания",
+   "summary": "Вопрос: как автономный агент вычищает намайненные идеи из непроверенных источников, прежде чем их внедрить, чтобы «хорошая идея» не оказалась самонаведённым бэкдором.",
+   "lang": "ru",
+   "date": "2026-07-14",
+   "slug": "DR26-07-14-HUB-01-troyanskaya-alfa-prizma-karantina-dlya-otravlennogo-znaniya",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-07-14-HUB-01-troyanskaya-alfa-prizma-karantina-dlya-otravlennogo-znaniya.md"
+  },
+  {
+   "dr_id": "DR26-07-14-HUB-02",
+   "title": "Approval Fatigue and Task Drift in Agentic AI Coding",
+   "summary": "What causes approval fatigue and session/task drift in agentic coding tools (Claude Code, Cursor, Copilot, Codex, Windsurf, Devin, Aider), and which interventions actually fix them?",
+   "lang": "en",
+   "date": "2026-07-14",
+   "slug": "DR26-07-14-HUB-02-approval-fatigue-and-task-drift-in-agentic-ai-coding",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-07-14-HUB-02-approval-fatigue-and-task-drift-in-agentic-ai-coding.md"
+  },
+  {
+   "dr_id": "DR26-07-14-HUB-03",
+   "title": "Audience participation design without strategy capture, and public-build path to LLM DevRe",
+   "summary": "Researches how a founder can give a public audience real, bounded influence over a build-in-public show without losing strategic control, and what specific public artifacts and framing get people hired into DevRel-type roles at OpenAI/Anthropic-tier companies.",
+   "lang": "en",
+   "date": "2026-07-14",
+   "slug": "DR26-07-14-HUB-03-audience-participation-design-without-strategy-capture-and-public-buil",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-07-14-HUB-03-audience-participation-design-without-strategy-capture-and-public-buil.md"
+  },
+  {
+   "dr_id": "DR26-07-14-HUB-04",
+   "title": "Best practices for maintaining a very large personal knowledge graph grounding an AI digit",
+   "summary": "How should a 175k-note, 37k-contact personal vault be cleaned and maintained (entity resolution, link hygiene, dedup, sync-conflict handling, graph quality metrics) so it reliably grounds an AI digital twin, without destructive or cosmetic-only fixes?",
+   "lang": "en",
+   "date": "2026-07-14",
+   "slug": "DR26-07-14-HUB-04-best-practices-for-maintaining-a-very-large-personal-knowledge-graph-g",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-07-14-HUB-04-best-practices-for-maintaining-a-very-large-personal-knowledge-graph-g.md"
+  },
+  {
+   "dr_id": "DR26-07-14-HUB-05",
+   "title": "Brain as a Service: exposing the vault RAG index to the personal agent fleet",
+   "summary": "How should Anton expose his hub's vault-search/RAG index to satellite machines and agents — plain HTTP API, MCP server, self-hosted RAG platform, or Syncthing file queue?",
+   "lang": "en",
+   "date": "2026-07-14",
+   "slug": "DR26-07-14-HUB-05-brain-as-a-service-exposing-the-vault-rag-index-to-the-personal-agent",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-07-14-HUB-05-brain-as-a-service-exposing-the-vault-rag-index-to-the-personal-agent.md"
+  },
+  {
+   "dr_id": "DR26-07-14-HUB-06",
+   "title": "Инженерия безопасности LLM-агентов: векторы атак, защита исходящих артефактов, протоколы к",
+   "summary": "Отчёт разбирает модель угроз для флота Claude Code агентов (промпт-инъекции, утечки секретов, вредоносные скиллы, межагентная коллаборация) и предлагает детерминированный security-конвейер и стандарты машиночитаемых инструкций на 2025–2026.",
+   "lang": "ru",
+   "date": "2026-07-14",
+   "slug": "DR26-07-14-HUB-06-inzheneriya-bezopasnosti-llm-agentov-vektory-atak-zaschita-ishodyaschi",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-07-14-HUB-06-inzheneriya-bezopasnosti-llm-agentov-vektory-atak-zaschita-ishodyaschi.md"
+  },
+  {
+   "dr_id": "DR26-07-14-HUB-07",
+   "title": "Declarative canon distribution architecture for a heterogeneous multi-machine agent fleet",
+   "summary": "Compares four update-distribution options (signed manifest+agent, receive-only Syncthing, Git pull, canary rollout) and recommends a concrete TUF-lite architecture for pushing signed canon/config to Windows+macOS nodes with safe local-override handling and rollback.",
+   "lang": "en",
+   "date": "2026-07-14",
+   "slug": "DR26-07-14-HUB-07-declarative-canon-distribution-architecture-for-a-heterogeneous-multi",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-07-14-HUB-07-declarative-canon-distribution-architecture-for-a-heterogeneous-multi.md"
+  },
+  {
+   "dr_id": "DR26-07-14-HUB-08",
+   "title": "Engineering Communities as a Hiring Asset in the AI Era",
+   "summary": "Investigates whether frontier AI labs and blockchain foundations treat engineering/developer communities as a direct recruiting funnel or as broader ecosystem infrastructure, and what that implies for hiring in 2025-2026.",
+   "lang": "en",
+   "date": "2026-07-14",
+   "slug": "DR26-07-14-HUB-08-engineering-communities-as-a-hiring-asset-in-the-ai-era",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-07-14-HUB-08-engineering-communities-as-a-hiring-asset-in-the-ai-era.md"
+  },
+  {
+   "dr_id": "DR26-07-14-HUB-09",
+   "title": "Fleet-Wide Memory Architecture for a Multi-Machine AI Agent System over Syncthing",
+   "summary": "Evaluates four architectures (per-node namespaces+hub fold, Git, SQLite, message-bus relay) for syncing AI agent memory across a Syncthing-connected machine fleet and recommends which to adopt.",
+   "lang": "en",
+   "date": "2026-07-14",
+   "slug": "DR26-07-14-HUB-09-fleet-wide-memory-architecture-for-a-multi-machine-ai-agent-system-ove",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-07-14-HUB-09-fleet-wide-memory-architecture-for-a-multi-machine-ai-agent-system-ove.md"
+  },
+  {
+   "dr_id": "DR26-07-14-HUB-10",
+   "title": "How a Founder-Builder Can Position for a Frontier LLM Role",
+   "summary": "The report maps which current Anthropic/OpenAI/Mistral/xAI/Google job families a non-PhD founder-builder can realistically reach, and what portfolio, distribution and framing moves convert into first conversations within 6-12 months.",
+   "lang": "en",
+   "date": "2026-07-14",
+   "slug": "DR26-07-14-HUB-10-how-a-founder-builder-can-position-for-a-frontier-llm-role",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-07-14-HUB-10-how-a-founder-builder-can-position-for-a-frontier-llm-role.md"
+  },
+  {
+   "dr_id": "DR26-07-14-HUB-11",
+   "title": "Improving the Second Brain onboarding pitch for non-technical users",
+   "summary": "Research on how to message, sequence, and technically back a personal-AI 'second brain' memory product so non-technical users trust it, adopt it, and keep believing in it over time.",
+   "lang": "en",
+   "date": "2026-07-14",
+   "slug": "DR26-07-14-HUB-11-improving-the-second-brain-onboarding-pitch-for-non-technical-users",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-07-14-HUB-11-improving-the-second-brain-onboarding-pitch-for-non-technical-users.md"
+  },
+  {
+   "dr_id": "DR26-07-14-HUB-12",
+   "title": "Рынок и поставщики вокруг OpenClaw: сетапы, интеграторы, риски и альтернативы",
+   "summary": "Кто и как продаёт внедрение/хостинг open-source AI-агента OpenClaw (интеграторы, managed-платформы, обёртки), сколько это стоит по срокам/деньгам и какие риски безопасности экосистемы навыков (skills) с этим связаны.",
+   "lang": "ru",
+   "date": "2026-07-14",
+   "slug": "DR26-07-14-HUB-12-rynok-i-postavschiki-vokrug-openclaw-setapy-integratory-riski-i-altern",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-07-14-HUB-12-rynok-i-postavschiki-vokrug-openclaw-setapy-integratory-riski-i-altern.md"
+  },
+  {
+   "dr_id": "DR26-07-14-HUB-13",
+   "title": "Personal Site Strategy for an AI Builder Targeting Frontier Labs",
+   "summary": "What structure, platform, and content a personal site needs to be an effective hiring proof-surface for DevRel, Applied AI, Developer Education, and Forward-Deployed roles at frontier AI labs (OpenAI, Anthropic, Google).",
+   "lang": "en",
+   "date": "2026-07-14",
+   "slug": "DR26-07-14-HUB-13-personal-site-strategy-for-an-ai-builder-targeting-frontier-labs",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-07-14-HUB-13-personal-site-strategy-for-an-ai-builder-targeting-frontier-labs.md"
+  },
+  {
+   "dr_id": "DR26-07-14-HUB-14",
+   "title": "Personal Site Strategy for an AI Builder Targeting Frontier Labs",
+   "summary": "What should a personal website look like for someone targeting DevRel, Applied AI, Developer Education, or Forward-Deployed roles at frontier AI labs (OpenAI, Anthropic, Google)?",
+   "lang": "en",
+   "date": "2026-07-14",
+   "slug": "DR26-07-14-HUB-14-personal-site-strategy-for-an-ai-builder-targeting-frontier-labs",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-07-14-HUB-14-personal-site-strategy-for-an-ai-builder-targeting-frontier-labs.md"
+  },
+  {
+   "dr_id": "DR26-07-14-HUB-15",
+   "title": "Codex CLI as a live Telegram consensus participant alongside Claude Code",
+   "summary": "Whether and how OpenAI Codex CLI can function as a live, stateful peer to Claude Code in a shared Telegram consensus chat, covering statefulness, subscription quotas, ToS risk, turn-taking design, and injection/spoofing defenses.",
+   "lang": "en",
+   "date": "2026-07-14",
+   "slug": "DR26-07-14-HUB-15-codex-cli-as-a-live-telegram-consensus-participant-alongside-claude-co",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-07-14-HUB-15-codex-cli-as-a-live-telegram-consensus-participant-alongside-claude-co.md"
+  },
+  {
+   "dr_id": "DR26-07-14-ZB-01",
+   "title": "Agent-bus архитектура: Telegram+Syncthing vs выделенный транспорт (NATS/JetStream) при рос",
+   "summary": "Determines when a Telegram+Syncthing message bus stops being sufficient for a small non-technical agent fleet and recommends migrating to a dedicated NATS+JetStream transport via a staged dark-launch/shadow-read process.",
+   "lang": "en",
+   "date": "2026-07-14",
+   "slug": "DR26-07-14-ZB-01-agent-bus-arhitektura-telegram-syncthing-vs-vydelennyy-transport-nats",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-07-14-ZB-01-agent-bus-arhitektura-telegram-syncthing-vs-vydelennyy-transport-nats.md"
+  },
+  {
+   "dr_id": "DR26-07-16-FLEE-01",
+   "title": "Conditional rule activation: index+lazy-body dispatcher for always-loaded CLAUDE.md-style",
+   "summary": "Investigated whether a large always-loaded agent instruction file (e.g. CLAUDE.md) can be safely restructured into a thin always-loaded trigger index plus lazily-loaded rule bodies without losing proactive-rule fidelity, and how existing coding-agent harnesses support this.",
+   "lang": "en",
+   "date": "2026-07-16",
+   "slug": "DR26-07-16-FLEE-01-conditional-rule-activation-index-lazy-body-dispatcher-for-always-load",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-07-16-FLEE-01-conditional-rule-activation-index-lazy-body-dispatcher-for-always-load.md"
+  },
+  {
+   "dr_id": "DR26-07-16-HUB-02",
+   "title": "Split-brain hardening для roaming-leader arbiter поверх Syncthing (4-node personal fleet)",
+   "summary": "Исследование ищет минимальный, ремонтопригодный набор механизмов (epoch/fencing + partition detection + safe-mode + опционально Telegram-beacon), который защищает roaming-arbiter Антона от split-brain, когда presence stamps и ledger идут по одному eventually-consistent Syncthing-каналу.",
+   "lang": "mixed",
+   "date": "2026-07-16",
+   "slug": "DR26-07-16-HUB-02-split-brain-hardening-dlya-roaming-leader-arbiter-poverh-syncthing-4-n",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-07-16-HUB-02-split-brain-hardening-dlya-roaming-leader-arbiter-poverh-syncthing-4-n.md"
+  },
+  {
+   "dr_id": "DR26-07-16-HUB-04",
+   "title": "Firefox vs Chrome/Chromium browsers for cookie/session automation workarounds",
+   "summary": "Which desktop browser should the fleet standardize on for external cookie/session extraction and automation now that Chrome App-Bound Encryption blocks the old approach.",
+   "lang": "en",
+   "date": "2026-07-16",
+   "slug": "DR26-07-16-HUB-04-firefox-vs-chrome-chromium-browsers-for-cookie-session-automation-work",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-07-16-HUB-04-firefox-vs-chrome-chromium-browsers-for-cookie-session-automation-work.md"
+  },
+  {
+   "dr_id": "DR26-07-16-HUB-05",
+   "title": "Research plan: frameworks to validate 'Connect Rule v2' (built vs used vs valuable artifac",
+   "summary": "Lays out a five-pass research plan comparing DORA, PMI Benefits Realization, Scrum, Lean/JIT pull, Theory of Constraints/Stage-Gate, OpenTelemetry and DLQ patterns to ground the Connect Rule's demand that senders own downstream consumption of what they build.",
+   "lang": "en",
+   "date": "2026-07-16",
+   "slug": "DR26-07-16-HUB-05-research-plan-frameworks-to-validate-connect-rule-v2-built-vs-used-vs",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-07-16-HUB-05-research-plan-frameworks-to-validate-connect-rule-v2-built-vs-used-vs.md"
+  },
+  {
+   "dr_id": "DR26-07-16-HUB-05-2237",
+   "title": "Устойчивость always-on якоря (Маяк/Hetzner VPS): биллинг-мониторинг, детерминированный три",
+   "summary": "Deep research answers how to prevent a silent billing death of the always-on Hetzner anchor node and how to safely triage a dark node and fail over/back its duties (consensus arbiter, fold-node, Telegram-outreach-primary) without creating duplicate authority.",
+   "lang": "mixed",
+   "date": "2026-07-16",
+   "slug": "DR26-07-16-HUB-05-2237-ustoychivost-always-on-yakorya-mayak-hetzner-vps-billing-monitoring-de",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-07-16-HUB-05-2237-ustoychivost-always-on-yakorya-mayak-hetzner-vps-billing-monitoring-de.md"
+  },
+  {
+   "dr_id": "DR26-07-17-HUB-01",
+   "title": "World-class public roadmaps for build-in-public projects",
+   "summary": "What roadmap structure, granularity, and update discipline actually build trust with a technical public audience, based on 10 named case studies (GitHub, Zed, Tauri, Plausible, Trigger.dev, Canny, Atlassian, GitLab, Supabase, Linear).",
+   "lang": "en",
+   "date": "2026-07-17",
+   "slug": "DR26-07-17-HUB-01-world-class-public-roadmaps-for-build-in-public-projects",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-07-17-HUB-01-world-class-public-roadmaps-for-build-in-public-projects.md"
+  },
+  {
+   "dr_id": "DR26-07-17-HUB-02",
+   "title": "Prior-art: защита 4-узлового консенсуса от split-brain (fencing/epoch, partition detection",
+   "summary": "Deep research maps prior-art distributed-systems techniques (fencing tokens, epoch/term numbers, witness nodes, CRDTs) and recommends a minimal split-brain defense for Anton's 4-node personal Claude fleet running on Syncthing eventual-consistency file sync.",
+   "lang": "mixed",
+   "date": "2026-07-17",
+   "slug": "DR26-07-17-HUB-02-prior-art-zaschita-4-uzlovogo-konsensusa-ot-split-brain-fencing-epoch",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-07-17-HUB-02-prior-art-zaschita-4-uzlovogo-konsensusa-ot-split-brain-fencing-epoch.md"
+  },
+  {
+   "dr_id": "DR26-07-17-HUB-04",
+   "title": "Conditional Rule Activation in LLM Agents (lazy-loading rules/context vs always-on)",
+   "summary": "How should AI coding agents (Claude Code and peers) load rules/instructions conditionally instead of dumping everything into context at session start?",
+   "lang": "en",
+   "date": "2026-07-17",
+   "slug": "DR26-07-17-HUB-04-conditional-rule-activation-in-llm-agents-lazy-loading-rules-context-v",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-07-17-HUB-04-conditional-rule-activation-in-llm-agents-lazy-loading-rules-context-v.md"
+  },
+  {
+   "dr_id": "DR26-07-17-HUB-05",
+   "title": "World-Class Public Roadmaps for Build in Public Projects",
+   "summary": "What public roadmap format builds the most trust for a two-person human+AI build-in-public team, based on 10 case studies (GitHub, Zed, Tauri, Plausible, Trigger.dev, Canny, Atlassian, GitLab, Supabase, Linear)?",
+   "lang": "en",
+   "date": "2026-07-17",
+   "slug": "DR26-07-17-HUB-05-world-class-public-roadmaps-for-build-in-public-projects",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-07-17-HUB-05-world-class-public-roadmaps-for-build-in-public-projects.md"
+  },
+  {
+   "dr_id": "DR26-07-20-HUB-01",
+   "title": "Reddit voice & self-promotion norms across r/LocalLLaMA, r/ClaudeAI, r/AI_Agents, r/Machin",
+   "summary": "Deep-research mapping of each subreddit's written rules, unwritten culture, winning-post anatomy, and a safe founder playbook for disclosing AI/agent projects without triggering anti-astroturfing/anti-slop backlash.",
+   "lang": "en",
+   "date": "2026-07-20",
+   "slug": "DR26-07-20-HUB-01-reddit-voice-self-promotion-norms-across-r-localllama-r-claudeai-r-ai",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-07-20-HUB-01-reddit-voice-self-promotion-norms-across-r-localllama-r-claudeai-r-ai.md"
+  },
+  {
+   "dr_id": "DR26-07-20-HUB-02",
+   "title": "Reddit distribution playbook for AI/engineering subreddits (r/LocalLLaMA, r/ClaudeAI, r/AI",
+   "summary": "Reverse-engineers moderation rules, tone, and winning-post patterns of five AI/engineering subreddits to design a compliant Reddit rollout for a technical founder's multi-machine Claude agent fleet build-log.",
+   "lang": "en",
+   "date": "2026-07-20",
+   "slug": "DR26-07-20-HUB-02-reddit-distribution-playbook-for-ai-engineering-subreddits-r-localllam",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-07-20-HUB-02-reddit-distribution-playbook-for-ai-engineering-subreddits-r-localllam.md"
+  },
+  {
+   "dr_id": "DR26-07-20-HUB-03",
+   "title": "Reddit voice/rules playbook for r/LocalLLaMA, r/ClaudeAI, r/AI_Agents, r/MachineLearning,",
+   "summary": "Researched the unwritten rules, voice, karma gates and winning post patterns across five AI/engineering subreddits to plan a safe, native-sounding launch of a 'fleet of Claude agents + synced knowledge vault' build-log.",
+   "lang": "en",
+   "date": "2026-07-20",
+   "slug": "DR26-07-20-HUB-03-reddit-voice-rules-playbook-for-r-localllama-r-claudeai-r-ai-agents-r",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-07-20-HUB-03-reddit-voice-rules-playbook-for-r-localllama-r-claudeai-r-ai-agents-r.md"
+  },
+  {
+   "dr_id": "DR26-07-20-MACANTON-02-2127",
+   "title": "Мульти-вендорная карта живости OSS cookbook/examples-репо топ-LLM-компаний: кто реально ме",
+   "summary": "Два независимых deep-research прогона (Grok и ChatGPT) проверили и скорректировали ручную карту merge-friendliness ~20 официальных LLM-вендорских OSS-репо на июль 2026, дав per-repo вердикт, гейткиперов, текущие запросы контента и ранжированный TOP-10 конкретных PR-возможностей под ассеты Антона.",
+   "lang": "mixed",
+   "date": "2026-07-20",
+   "slug": "DR26-07-20-MACANTON-02-2127-multi-vendornaya-karta-zhivosti-oss-cookbook-examples-repo-top-llm-kom",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-07-20-MACANTON-02-2127-multi-vendornaya-karta-zhivosti-oss-cookbook-examples-repo-top-llm-kom.md"
+  },
+  {
+   "dr_id": "DR26-07-20-MACANTON-03-2339",
+   "title": "Как сделать роль AI-кофаундера рабочей: гейты вместо персоны, анти-сикофантия, bounded aut",
+   "summary": "Три DR-вендора (ChatGPT, Gemini, Grok) исследовали, как превратить AI-кофаундера из театральной персоны в реального операционного партнёра для соло-фаундера — через дизайн роли, анти-sycophancy механики, каденс и границы автономии.",
+   "lang": "mixed",
+   "date": "2026-07-20",
+   "slug": "DR26-07-20-MACANTON-03-2339-kak-sdelat-rol-ai-kofaundera-rabochey-geyty-vmesto-persony-anti-sikofa",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-07-20-MACANTON-03-2339-kak-sdelat-rol-ai-kofaundera-rabochey-geyty-vmesto-persony-anti-sikofa.md"
+  },
+  {
+   "dr_id": "DR26-07-20-ZB-01-1016",
+   "title": "Синтез DR26-07-20-ZB-01: голос Reddit для AI-инженерных сабов",
+   "summary": "Веер: ChatGPT Pro (самый глубокий: реальные посты с апрувами, мод-посты, karma-гейты, кейсы удалений) + Gemini (лучший план прогрева и Sandwich Method) + Grok (свежие мод-апдейты апреля 2026, X-сигнал). Итог ушёл в профиль [[voice-reddit]].",
+   "lang": "ru",
+   "date": "2026-07-20",
+   "slug": "DR26-07-20-ZB-01-1016-sintez-dr26-07-20-zb-01-golos-reddit-dlya-ai-inzhenernyh-sabov",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-07-20-ZB-01-1016-sintez-dr26-07-20-zb-01-golos-reddit-dlya-ai-inzhenernyh-sabov.md"
+  },
+  {
+   "dr_id": "DR26-07-07-MACB-02",
+   "title": "Онбординг-питч «второго мозга» для нетехничных + роль-идентичность Claude-ведомого",
+   "summary": "⚠️ Один вендор (ChatGPT DR). Сиблинг-синтез от 07.07 (сделан на MacBook): [[insight-DR-DR26-07-07-MACB-02-onboarding-pitch-second-brain-messaging]] — эта заметка добавляет готовые RU-формулировки питча и конкретные предложения в скилл `follower-onboard`. «Смотри: ты говоришь ему что-то один раз — куда положили гарантию на стиралку, во сколько у ребёнка кружок, что врач сказал не есть — и оно это запоминает. Когда через месяц понадобится, просто спросишь, и оно найдёт. Не надо ничего раскладывать по папочкам и ничему учиться. Сейчас за минуту покажу на твоём примере.» «Это как обычный чат-помощник, только он не начинает каждый раз с нуля. Обычный бот ответил и забыл, а этот держит полезное: что мы решили, кому что обещали, какие у Антона предпочтения. Завтра открываешь — он помнит вчерашнее. Ты будешь видеть, что он сохранил, и всегда можешь удалить. Давай попробуем на одной реальной задаче.» «Это твоё место, где полезное не теряется. Четыре вещи, чтобы ты спокойно спал(а): я скажу, ЧТО он сохраняет; ГДЕ это лежит; КТО это видит (файлы синкаются между нашими компьютерами, Антон как админ технически имеет доступ — говорю честно); и КАК удалить или не сохранять что-то. Личное можно вообще не давать ему запоминать. Начнём с одной маленькой полезной вещи — увидишь, как работает.»",
+   "lang": "ru",
+   "date": "2026-07-21",
+   "slug": "DR26-07-07-MACB-02-onbording-pitch-vtorogo-mozga-dlya-netehnichnyh-rol-identichnost-claud",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-07-07-MACB-02-onbording-pitch-vtorogo-mozga-dlya-netehnichnyh-rol-identichnost-claud.md"
+  },
+  {
+   "dr_id": "DR26-07-14-MACANTON-01",
+   "title": "Фандрейз-стратегия 2026 для AI-native фаундера (digital twin / second brain)",
+   "summary": "Синтез двух Deep Research отчётов (ChatGPT Deep Research + Grok Expert, 85 источников) по вопросу: как в 2026 поднимать раунд под продукт «цифровой двойник / второй мозг + автономные агенты», построенный на личных данных одного фаундера. Контекст: Антон, фаундер Platinum, PhD-физик; цель №2 — оффер от LLM-компании; стратегия «всё = контент».",
+   "lang": "ru",
+   "date": "2026-07-21",
+   "slug": "DR26-07-14-MACANTON-01-fandreyz-strategiya-2026-dlya-ai-native-faundera-digital-twin-second-b",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-07-14-MACANTON-01-fandreyz-strategiya-2026-dlya-ai-native-faundera-digital-twin-second-b.md"
+  },
+  {
+   "dr_id": "DR26-07-14-MACB-01",
+   "title": "«Не ждать хаб»: расщепление 3 ролей хаба (GPU-реиндекс / control-plane / single-writer-мёрдж) на 3 дома",
+   "summary": "Два независимых внешних вендора (ChatGPT DR, 34 источника; Grok Expert, 97 источников) отвечали на вопрос: как ~600 Python-движков (`_imports`, ~3 МБ) должны жить в peer-equal флоте из 4-7 машин (Win+Mac+Linux, ноуты спят, хаб может встать), чтобы никто не ждал хаб. Родственный DR26-07-10-MACB-01 уже постановил: Syncthing для ДАННЫХ чиним и оставляем. Этот DR — про слой КОДА и власти.",
+   "lang": "ru",
+   "date": "2026-07-21",
+   "slug": "DR26-07-14-MACB-01-ne-zhdat-hab-rasscheplenie-3-roley-haba-gpu-reindeks-control-plane-sin",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-07-14-MACB-01-ne-zhdat-hab-rasscheplenie-3-roley-haba-gpu-reindeks-control-plane-sin.md"
+  },
+  {
+   "dr_id": "DR26-07-15-HUB-01",
+   "title": "DR-синтез: надёжный ночной экспорт диалогов Grok и Gemini в волт (архитектура импортёров)",
+   "summary": "Два независимых прогона одного вендора (первый боевой тест подписки SuperGrok Heavy): **Grok web Heavy** («Thought for 1m 5s», 581 источник) и **Grok CLI** (grok-build 0.2.106, ~5 мин, 53 URL). Отчёты сходятся по стержню, расходятся по деталям — расхождения помечены.",
+   "lang": "ru",
+   "date": "2026-07-21",
+   "slug": "DR26-07-15-HUB-01-dr-sintez-nadezhnyy-nochnoy-eksport-dialogov-grok-i-gemini-v-volt-arhi",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-07-15-HUB-01-dr-sintez-nadezhnyy-nochnoy-eksport-dialogov-grok-i-gemini-v-volt-arhi.md"
+  },
+  {
+   "dr_id": "DR26-07-16-MACANTON-01-1533",
+   "title": "Карта OSS-контрибуций в экосистему Anthropic — где и как контрибьютить, чтобы заметили",
+   "summary": "Контекст: у Антона уже есть PR #784 в `anthropics/claude-cookbooks` (multi-agent consensus & verification). Цель №2 — оффер от Anthropic/LLM-компании в DevRel. Вопрос: куда и как контрибьютить дальше, чтобы заметили.",
+   "lang": "ru",
+   "date": "2026-07-21",
+   "slug": "DR26-07-16-MACANTON-01-1533-karta-oss-kontributsiy-v-ekosistemu-anthropic-gde-i-kak-kontribyutit-c",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-07-16-MACANTON-01-1533-karta-oss-kontributsiy-v-ekosistemu-anthropic-gde-i-kak-kontribyutit-c.md"
+  },
+  {
+   "dr_id": "DR26-07-21-HUB-02",
+   "title": "Grok Heavy как движок Deep Research — сводная методика (синтез 2 вендоров)",
+   "summary": "Синтез двух собранных отчётов: [Grok Heavy сам о себе](../_originals/deep-research/DR26-07-21-HUB-02-grok-heavy-playbook-grok.md) (329 источников) и [Gemini Pro Deep Research](../_originals/deep-research/DR26-07-21-HUB-02-grok-heavy-playbook-gemini.md). Третий вендор (ChatGPT Pro) выдал деградировавший прогон — см. раздел «Живая грабля вечера».",
+   "lang": "ru",
+   "date": "2026-07-21",
+   "slug": "DR26-07-21-HUB-02-grok-heavy-kak-dvizhok-deep-research-svodnaya-metodika-sintez-2-vendor",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-07-21-HUB-02-grok-heavy-kak-dvizhok-deep-research-svodnaya-metodika-sintez-2-vendor.md"
+  },
+  {
+   "dr_id": "DR26-07-21-HUB-02-2124",
+   "title": "Grok Heavy as a Deep Research engine: architecture, prompting, limits, risks",
+   "summary": "Investigated how to get DR-grade research out of Grok 4 Heavy (no dedicated Deep Research button), covering its multi-agent architecture, best prompting patterns, hallucination risks, quotas, UI mechanics, privacy pitfalls, and how it compares to ChatGPT Pro/Gemini Deep Research.",
+   "lang": "en",
+   "date": "2026-07-21",
+   "slug": "DR26-07-21-HUB-02-2124-grok-heavy-as-a-deep-research-engine-architecture-prompting-limits-ris",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-07-21-HUB-02-2124-grok-heavy-as-a-deep-research-engine-architecture-prompting-limits-ris.md"
+  },
+  {
+   "dr_id": "DR26-07-25-HUB-01-2126",
+   "title": "Доктрина размещения рутин в личном AI-флоте: VPS-якорь vs десктоп-хаб vs ноуты",
+   "summary": "Deep research отвечает, какой узел (always-on VPS без GPU/браузера, десктоп-хаб с GPU/Chrome/резидентным IP, или ноуты операторов) должен исполнять каждую из ~89 рутин, какими анти-паттернами грозит гетерогенный флот и как индустрия (Google SRE, K8s, Nomad, Temporal, Prefect, Airflow, Syncthing, Healthchecks) их лечит без развёртывания Kubernetes.",
+   "lang": "ru",
+   "date": "2026-07-25",
+   "slug": "DR26-07-25-HUB-01-2126-doktrina-razmescheniya-rutin-v-lichnom-ai-flote-vps-yakor-vs-desktop-h",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-07-25-HUB-01-2126-doktrina-razmescheniya-rutin-v-lichnom-ai-flote-vps-yakor-vs-desktop-h.md"
+  },
+  {
+   "dr_id": "DR26-07-26-ZB-05",
+   "title": "Аналоги Obsidian 2026 — нужен ли GUI, если главный читатель AI; многомерная перелинковка на 226k заметок",
+   "summary": "Гетеро-консенсус на **ДВУХ** вендорах (Grok Heavy + Gemini 3.1 Pro Extended). **ChatGPT забракован дважды** — оба рана завершились с `0 citations · 0 searches`, то есть отчёт писался из памяти модели без единого обращения к вебу; второй раз — уже после прямого требования искать. За веер из трёх это не выдаём.",
+   "lang": "ru",
+   "date": "2026-07-26",
+   "slug": "DR26-07-26-ZB-05-analogi-obsidian-2026-nuzhen-li-gui-esli-glavnyy-chitatel-ai-mnogomern",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-07-26-ZB-05-analogi-obsidian-2026-nuzhen-li-gui-esli-glavnyy-chitatel-ai-mnogomern.md"
+  },
+  {
+   "dr_id": "DR26-07-27-MACANTON-01-0018",
+   "title": "Мультиканальный холодный аутрич к DevRel/исследователям топ-LLM-лабов: реальные reply-rate",
+   "summary": "Какая последовательность каналов (X/email/LinkedIn/GitHub/Discord/формальные программы) и какие сообщения дают наибольший шанс, что DevRel/исследователь в топ-AI-лабе заметит и ответит соло-билдеру без диплома/связей.",
+   "lang": "en",
+   "date": "2026-07-27",
+   "slug": "DR26-07-27-MACANTON-01-0018-multikanalnyy-holodnyy-autrich-k-devrel-issledovatelyam-top-llm-labov",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-07-27-MACANTON-01-0018-multikanalnyy-holodnyy-autrich-k-devrel-issledovatelyam-top-llm-labov.md"
+  },
+  {
+   "dr_id": "DR26-07-23-ZB-02",
+   "title": "DR26-07-23-ZB-02 — Синтез: цифровой двойник из личного корпуса + метрики фиделити",
+   "summary": "Суженный DR (дедуп 28.07): только (1) двойник из личного корпуса и (2) метрики точности. Фреймворки PKM / Карпатый / нейронаука — см. ZB-03/ZB-04/ZB-05 (26.07).",
+   "lang": "ru",
+   "date": "2026-07-28",
+   "slug": "DR26-07-23-ZB-02-dr26-07-23-zb-02-sintez-tsifrovoy-dvoynik-iz-lichnogo-korpusa-metriki",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-07-23-ZB-02-dr26-07-23-zb-02-sintez-tsifrovoy-dvoynik-iz-lichnogo-korpusa-metriki.md"
+  },
+  {
+   "dr_id": "DR26-07-26-ZB-03",
+   "title": "Пантеон второго мозга — Карпаты vs Луман/Форте/Матушак/Мило/gwern/Вольфрам; что переносить в AI-first волт",
+   "summary": "⚠️ **SUPERSEDED by [[insight-DR-DR26-07-26-ZB-03-second-brain-minds]]** (28.07, коллизия параллельных сессий). Обе заметки написаны в один час двумя сессиями на HP17-ZBook независимо. Эта построена на базе **2 вендора**, соседняя — на **3 вендора**: там ChatGPT добран в обход сломанной DR-рельсы, через обычный Web search (~100 запросов, ~100 открытых URL, Proof of work приложен). Заметка НЕ удалена намеренно: её разбор и формулировки самостоятельны и местами точнее. Канон по фактуре — соседняя; ручная сверка содержимого не проводилась. Гетеро-консенсус на **ДВУХ** вендорах: **Grok Heavy** (`Thought for 1m15s`, 566 источников, 26.07) + **Gemini Deep Research Pro** (полный отчёт 31k симв. с inline-цитатами, 27.07). **ChatGPT в ночном прогоне 26.07 умер дважды** (`0 searches`) и был пропущен. Отдельный ран ChatGPT Pro Deep Research запущен вручную 28.07 — [добор третьего голоса](#добор-третьего-вендора), выводы ниже пересматриваются, если он придёт с реальным поиском.",
+   "lang": "ru",
+   "date": "2026-07-28",
+   "slug": "DR26-07-26-ZB-03-panteon-vtorogo-mozga-karpaty-vs-luman-forte-matushak-milo-gwern-volfr",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-07-26-ZB-03-panteon-vtorogo-mozga-karpaty-vs-luman-forte-matushak-milo-gwern-volfr.md"
+  },
+  {
+   "dr_id": "DR26-07-27-HUB-01-2203",
+   "title": "Формат always-loaded файлов: спор «ТОП+§ против плоского списка» закрыт факторным замером — структура НЕ влияет на послушание, влияет длина сессии",
+   "summary": "«None of the four structural variables or three two-way interactions produces a detectable contrast after multiple-testing correction.»",
+   "lang": "ru",
+   "date": "2026-07-28",
+   "slug": "DR26-07-27-HUB-01-2203-format-always-loaded-faylov-spor-top-protiv-ploskogo-spiska-zakryt-fak",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-07-27-HUB-01-2203-format-always-loaded-faylov-spor-top-protiv-ploskogo-spiska-zakryt-fak.md"
+  },
+  {
+   "dr_id": "DR26-07-28-HUB-04-2338",
+   "title": "QA-процесс: ретро-тестирование vs выделенные bugfix-сессии + стратегия test/agent harness",
+   "summary": "Как правильно организовать QA (когда чинить баги внутри ретро, а когда выносить в отдельную сессию с seed prompt) и нужен ли уже harness для растущей кодовой базы с Codex/Grok.",
+   "lang": "mixed",
+   "date": "2026-07-28",
+   "slug": "DR26-07-28-HUB-04-2338-qa-protsess-retro-testirovanie-vs-vydelennye-bugfix-sessii-strategiya",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-07-28-HUB-04-2338-qa-protsess-retro-testirovanie-vs-vydelennye-bugfix-sessii-strategiya.md"
+  },
+  {
+   "dr_id": "DR26-07-28-HUB-05-2338",
+   "title": "Claude Code Execution (50 бесплатных часов/день) как замена текстовому кодингу при пошагов",
+   "summary": "Отвечает на вопрос, экономит ли лимит пошаговое планирование и можно ли использовать инструмент Claude Code Execution вместо описания кода текстом для реальной экономии токенов.",
+   "lang": "mixed",
+   "date": "2026-07-28",
+   "slug": "DR26-07-28-HUB-05-2338-claude-code-execution-50-besplatnyh-chasov-den-kak-zamena-tekstovomu-k",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-07-28-HUB-05-2338-claude-code-execution-50-besplatnyh-chasov-den-kak-zamena-tekstovomu-k.md"
+  },
+  {
+   "dr_id": "DR26-07-28-HUB-07-2338",
+   "title": "Влияние синей галочки верификации на engagement постов в Facebook/Instagram и X (Twitter)",
+   "summary": "DR отвечает, как синяя галочка (Meta Verified / X Premium) влияет на охват, вовлечённость и алгоритмическое ранжирование постов на Facebook, Instagram и X.",
+   "lang": "ru",
+   "date": "2026-07-28",
+   "slug": "DR26-07-28-HUB-07-2338-vliyanie-siney-galochki-verifikatsii-na-engagement-postov-v-facebook-i",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-07-28-HUB-07-2338-vliyanie-siney-galochki-verifikatsii-na-engagement-postov-v-facebook-i.md"
+  },
+  {
+   "dr_id": "DR26-07-28-HUB-08-2338",
+   "title": "Andrej Karpathy: биография, публичные тезисы про AI/PKM, GitHub-активность и точки входа д",
+   "summary": "Кто такой Andrej Karpathy (изначальный запрос был про несуществующего 'Андрея Краватова' — переспрос выявил, что имелся в виду Karpathy), что он публично говорит про AI/agents/Obsidian-PKM, и через какие конкретные GitHub issues можно с ним законтачить.",
+   "lang": "mixed",
+   "date": "2026-07-28",
+   "slug": "DR26-07-28-HUB-08-2338-andrej-karpathy-biografiya-publichnye-tezisy-pro-ai-pkm-github-aktivno",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-07-28-HUB-08-2338-andrej-karpathy-biografiya-publichnye-tezisy-pro-ai-pkm-github-aktivno.md"
+  },
+  {
+   "dr_id": "DR26-07-28-HUB-09-2338",
+   "title": "Использование Obsidian как второй мозг: архитектура памяти мозга → цифровая система хранен",
+   "summary": "Исследует, как человеческий мозг кодирует, консолидирует, извлекает и забывает информацию, и что из этого нужно заимствовать при проектировании Obsidian-based «второго мозга».",
+   "lang": "mixed",
+   "date": "2026-07-28",
+   "slug": "DR26-07-28-HUB-09-2338-ispolzovanie-obsidian-kak-vtoroy-mozg-arhitektura-pamyati-mozga-tsifro",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-07-28-HUB-09-2338-ispolzovanie-obsidian-kak-vtoroy-mozg-arhitektura-pamyati-mozga-tsifro.md"
+  },
+  {
+   "dr_id": "DR26-07-28-HUB-10-2339",
+   "title": "Grok Coding (Grok 4.5 / Grok Build) от SpaceXAI: возможности, слияние с Cursor, сравнение",
+   "summary": "Отчёт разбирает, что такое Grok Coding (Grok 4.5 + Grok Build CLI) после покупки Cursor компанией SpaceX за $60 млрд, его архитектуру, цену, бенчмарки и практическую пользу в сравнении с Claude Fable 5 и ChatGPT.",
+   "lang": "ru",
+   "date": "2026-07-28",
+   "slug": "DR26-07-28-HUB-10-2339-grok-coding-grok-4-5-grok-build-ot-spacexai-vozmozhnosti-sliyanie-s-cu",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-07-28-HUB-10-2339-grok-coding-grok-4-5-grok-build-ot-spacexai-vozmozhnosti-sliyanie-s-cu.md"
+  },
+  {
+   "dr_id": "DR26-07-28-HUB-11-2339",
+   "title": "USM (used serviceable aircraft parts) market entry playbook for a small independent broker",
+   "summary": "Deep-research playbook for an experienced B2B/e-commerce entrepreneur entering the global used-serviceable-material aircraft parts trade legally, outside the sanctioned Russian market.",
+   "lang": "en",
+   "date": "2026-07-28",
+   "slug": "DR26-07-28-HUB-11-2339-usm-used-serviceable-aircraft-parts-market-entry-playbook-for-a-small",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-07-28-HUB-11-2339-usm-used-serviceable-aircraft-parts-market-entry-playbook-for-a-small.md"
+  },
+  {
+   "dr_id": "DR26-07-28-HUB-13-2339",
+   "title": "Локальная мульти-персональная архитектура AI-волта: приватность vs продуктивность контекст",
+   "summary": "Отвечает на вопрос, как устроить систему, где у каждого человека (Антон, Наталья, Руслана) есть свой локальный волт с максимальным личным контекстом, а расшаривание в семью/компанию остаётся полностью на его усмотрение.",
+   "lang": "mixed",
+   "date": "2026-07-28",
+   "slug": "DR26-07-28-HUB-13-2339-lokalnaya-multi-personalnaya-arhitektura-ai-volta-privatnost-vs-produk",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-07-28-HUB-13-2339-lokalnaya-multi-personalnaya-arhitektura-ai-volta-privatnost-vs-produk.md"
+  },
+  {
+   "dr_id": "DR26-07-28-HUB-14-2339",
+   "title": "Approval fatigue и task-drift в агентном AI-кодинге: как их лечат в 2025–2026",
+   "summary": "Deep Research разбирает, почему усталость от согласований и дрейф сессии от цели возникают у агентных AI-кодеров (Claude Code, Cursor, Copilot, Aider, Windsurf, Devin) и какие приёмы реально работают в 2025–2026.",
+   "lang": "ru",
+   "date": "2026-07-28",
+   "slug": "DR26-07-28-HUB-14-2339-approval-fatigue-i-task-drift-v-agentnom-ai-kodinge-kak-ih-lechat-v-20",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-07-28-HUB-14-2339-approval-fatigue-i-task-drift-v-agentnom-ai-kodinge-kak-ih-lechat-v-20.md"
+  },
+  {
+   "dr_id": "DR26-07-28-HUB-15-2339",
+   "title": "A2A protocol and the emerging agent-interoperability stack (vs original agent's overstated",
+   "summary": "Deep research checked Anton's AI agent's claims about Google's A2A protocol and the broader agent-interoperability stack (A2A, MCP, AGNTCY, ANP, AP2), correcting dates and separating what is actually standardized from what is still overstated marketing.",
+   "lang": "mixed",
+   "date": "2026-07-28",
+   "slug": "DR26-07-28-HUB-15-2339-a2a-protocol-and-the-emerging-agent-interoperability-stack-vs-original",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-07-28-HUB-15-2339-a2a-protocol-and-the-emerging-agent-interoperability-stack-vs-original.md"
+  },
+  {
+   "dr_id": "DR26-07-28-HUB-16-2339",
+   "title": "Выбор источника сигнала intent-to-buy для AI-CRM «Радар возможностей» (крипто/Web3-база)",
+   "summary": "Deep research сравнил источники сигналов (вакансии, раунды, соцсети) для AI-CRM с ~7400 крипто/Web3-лидами и бюджетом ~$0, и выбрал одно рекомендованное решение для v1 плюс резерв.",
+   "lang": "ru",
+   "date": "2026-07-28",
+   "slug": "DR26-07-28-HUB-16-2339-vybor-istochnika-signala-intent-to-buy-dlya-ai-crm-radar-vozmozhnostey",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-07-28-HUB-16-2339-vybor-istochnika-signala-intent-to-buy-dlya-ai-crm-radar-vozmozhnostey.md"
+  },
+  {
+   "dr_id": "DR26-07-28-HUB-17-2339",
+   "title": "Safety action-gate architecture for a solo-operator multi-agent stack (MCP + non-MCP)",
+   "summary": "Determines the best safety-gate architecture for deciding execute/require-approval/block on risky actions spanning both MCP calls and non-MCP surfaces (Telegram-as-user, WhatsApp, Gmail, Calendar, n8n, browser automation) for a solo operator, without over-engineering.",
+   "lang": "en",
+   "date": "2026-07-28",
+   "slug": "DR26-07-28-HUB-17-2339-safety-action-gate-architecture-for-a-solo-operator-multi-agent-stack",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-07-28-HUB-17-2339-safety-action-gate-architecture-for-a-solo-operator-multi-agent-stack.md"
+  },
+  {
+   "dr_id": "DR26-07-28-HUB-18-2339",
+   "title": "SOTA architecture for shared, local-first agent memory across Claude Code, Codex, Gemini C",
+   "summary": "Deep Research answers how a single-user, 128k-note Obsidian vault can become one shared, unified memory read/written by multiple heterogeneous agent runtimes without forking memory per runtime.",
+   "lang": "en",
+   "date": "2026-07-28",
+   "slug": "DR26-07-28-HUB-18-2339-sota-architecture-for-shared-local-first-agent-memory-across-claude-co",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-07-28-HUB-18-2339-sota-architecture-for-shared-local-first-agent-memory-across-claude-co.md"
+  },
+  {
+   "dr_id": "DR26-07-28-HUB-19-2339",
+   "title": "Durable structured failure/negative-knowledge memory architecture for coding agents",
+   "summary": "Deep research on the cheapest durable architecture for 'negative knowledge' / failure memory that stops personal coding agents from rediscovering dead-ends across sessions, using closed-vocabulary structured fields instead of vector similarity.",
+   "lang": "en",
+   "date": "2026-07-28",
+   "slug": "DR26-07-28-HUB-19-2339-durable-structured-failure-negative-knowledge-memory-architecture-for",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-07-28-HUB-19-2339-durable-structured-failure-negative-knowledge-memory-architecture-for.md"
+  },
+  {
+   "dr_id": "DR26-07-28-HUB-20-2339",
+   "title": "Fallback architecture for a subscription-only always-on Claude agent hitting rate limits",
+   "summary": "Deep research on how to design a model-fallback ladder (subscription → local → optional cheap paid API) so an always-on personal agent degrades gracefully when Claude Max hits its weekly limit without ever silently failing or accidentally spending on paid API.",
+   "lang": "en",
+   "date": "2026-07-28",
+   "slug": "DR26-07-28-HUB-20-2339-fallback-architecture-for-a-subscription-only-always-on-claude-agent-h",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-07-28-HUB-20-2339-fallback-architecture-for-a-subscription-only-always-on-claude-agent-h.md"
+  },
+  {
+   "dr_id": "DR26-07-28-HUB-21-2339",
+   "title": "Persistent structural code memory for coding agents (symbol/call graph, blast-radius analy",
+   "summary": "Deep-research answer on how to give Claude Code / Codex a persistent, auto-updated structural memory of a codebase (symbol graph, call graph, change-impact) to cut tokens and prevent breaking shared code, and whether to adopt an existing tool or build one.",
+   "lang": "en",
+   "date": "2026-07-28",
+   "slug": "DR26-07-28-HUB-21-2339-persistent-structural-code-memory-for-coding-agents-symbol-call-graph",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-07-28-HUB-21-2339-persistent-structural-code-memory-for-coding-agents-symbol-call-graph.md"
+  },
+  {
+   "dr_id": "DR26-07-28-HUB-22-2339",
+   "title": "Voice-to-content editorial systems achieving near-100% conversion without losing author vo",
+   "summary": "Deep Research answers how creators, ghostwriters and media companies reliably convert raw voice notes into high-quality multi-platform posts at near-total conversion rates without diluting the author's voice or degrading into slop.",
+   "lang": "en",
+   "date": "2026-07-28",
+   "slug": "DR26-07-28-HUB-22-2339-voice-to-content-editorial-systems-achieving-near-100-conversion-witho",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-07-28-HUB-22-2339-voice-to-content-editorial-systems-achieving-near-100-conversion-witho.md"
+  },
+  {
+   "dr_id": "DR26-07-28-HUB-25-2339",
+   "title": "Nua/Rudel как слой skill-intelligence для Claude Code и Codex — демо-сценарий и риски",
+   "summary": "Deep Research разбирает, как работает продукт Nua (наследник Rudel) — слой наблюдаемости и управления agent skills для Claude Code и Codex — и что категорически нельзя делать в демо-показе команде.",
+   "lang": "ru",
+   "date": "2026-07-28",
+   "slug": "DR26-07-28-HUB-25-2339-nua-rudel-kak-sloy-skill-intelligence-dlya-claude-code-i-codex-demo-st",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-07-28-HUB-25-2339-nua-rudel-kak-sloy-skill-intelligence-dlya-claude-code-i-codex-demo-st.md"
+  },
+  {
+   "dr_id": "DR26-07-10-MACANTON-03",
+   "title": "Insight (ИДР): Carlini / Claude находит zero-day — верификация первоисточниками + разговорный материал под миссию №2",
+   "summary": "Задача: проверить пост-триггер первоисточниками и превратить в разговорный/контентный материал под миссию №2 (оффер от топ-LLM-компании). Статус исполнения: ИДР выполнен 30.07.2026 на Mac16. В реестре строка 222 стояла `dead` («переприменён dead, fold-баг master-как-view») — по факту исследование НЕ проводилось; после сдачи координатору строку надо перевести в `synthesized` → далее `applied`/`parked` по §9.1.",
+   "lang": "ru",
+   "date": "2026-07-30",
+   "slug": "DR26-07-10-MACANTON-03-insight-idr-carlini-claude-nahodit-zero-day-verifikatsiya-pervoistochn",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-07-10-MACANTON-03-insight-idr-carlini-claude-nahodit-zero-day-verifikatsiya-pervoistochn.md"
+  },
+  {
+   "dr_id": "DR26-07-30-MACANTON-01-1456",
+   "title": "Синтез DR: анти-AI-slop хуманизатор → скилл ai-slop",
+   "summary": "Антон 30.07 ~03:43 лично запустил один и тот же DR в 4 вендорах (ChatGPT, Gemini, Grok Heavy, Claude.ai). Собраны ВСЕ 4 (Claude.ai — compass-экспорт, скачал Антон из Firefox). ТЗ голосом Антона — в шапке chatgpt-оригинала. Самый доказательный отчёт — Claude.ai: Kobak et al. (Science Advances 2025, 379 excess-слов, delves x28), Liang et al. 2023 (детекторы ложно метят не-носителей 61.3%), protect-list (kjmagnan1s/anti-slop), Gunraj et al. 2016 (точка = резкость), EU AI Act ст. 50 (маркировка AI-контента с 02.08.2026 — ложится на нашу плашку Майкрофта).",
+   "lang": "ru",
+   "date": "2026-07-30",
+   "slug": "DR26-07-30-MACANTON-01-1456-sintez-dr-anti-ai-slop-humanizator-skill-ai-slop",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-07-30-MACANTON-01-1456-sintez-dr-anti-ai-slop-humanizator-skill-ai-slop.md"
+  },
+  {
+   "dr_id": "DR26-07-31-MACANTON-04-2124",
+   "title": "Синтез DR: Anthropic-эквивалента промо-сидов kone.vc НЕТ — строим CPN + свой лид-магнит",
+   "summary": "Две рельсы (Grok Heavy + Codex CLI на подписке) сошлись на главном выводе и разошлись только в акценте «какой трек тянуть первым».",
+   "lang": "ru",
+   "date": "2026-08-01",
+   "slug": "DR26-07-31-MACANTON-04-2124-sintez-dr-anthropic-ekvivalenta-promo-sidov-kone-vc-net-stroim-cpn-svo",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-07-31-MACANTON-04-2124-sintez-dr-anthropic-ekvivalenta-promo-sidov-kone-vc-net-stroim-cpn-svo.md"
+  },
+  {
+   "dr_id": "DR26-07-31-MACANTON-05-2135",
+   "title": "Синтез DR: OSS-двери вне вендоров — Antikythera и Google Pi живые, SFI/MIT/Mila зеркала",
+   "summary": "Две рельсы (Grok Heavy + Codex CLI на подписке) сошлись: гипотеза «институты post-scaling = наши двери» **верна наполовину**, и половины эти надо разделять.",
+   "lang": "ru",
+   "date": "2026-08-01",
+   "slug": "DR26-07-31-MACANTON-05-2135-sintez-dr-oss-dveri-vne-vendorov-antikythera-i-google-pi-zhivye-sfi-mi",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-07-31-MACANTON-05-2135-sintez-dr-oss-dveri-vne-vendorov-antikythera-i-google-pi-zhivye-sfi-mi.md"
+  },
+  {
+   "dr_id": "DR26-08-01-MACANTON-01-558",
+   "title": "Как приходят первые контрибьюторы в неизвестный OSS-репо",
+   "summary": "Заказано под GIT-25: чем наполнять очередь `accepted` и куда звать людей. Ответ разведки разворачивает вопрос: очередь — не то узкое место.",
+   "lang": "ru",
+   "date": "2026-08-01",
+   "slug": "DR26-08-01-MACANTON-01-558-kak-prihodyat-pervye-kontribyutory-v-neizvestnyy-oss-repo",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-08-01-MACANTON-01-558-kak-prihodyat-pervye-kontribyutory-v-neizvestnyy-oss-repo.md"
+  },
+  {
+   "dr_id": "DR26-08-02-ZB-04-2324",
+   "title": "Multi-LLM coding orchestration: Claude Code as orchestrator, Codex/Antigravity/Grok/Cursor",
+   "summary": "Deep research on 2025-2026 state of the art for architectures where Claude Code orchestrates external CLI coding agents (Codex, Antigravity/Gemini, Grok, Cursor) as implementers, covering spec formats, review economics, isolation/safety, task routing and measurement.",
+   "lang": "en",
+   "date": "2026-08-02",
+   "slug": "DR26-08-02-ZB-04-2324-multi-llm-coding-orchestration-claude-code-as-orchestrator-codex-antig",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-08-02-ZB-04-2324-multi-llm-coding-orchestration-claude-code-as-orchestrator-codex-antig.md"
+  },
+  {
+   "dr_id": "DR26-08-02-ZB-05-2357",
+   "title": "Cursor (Anysphere) как имплементер №3 в мульти-LLM конвейере кодинга + связь с SpaceX/xAI/",
+   "summary": "Deep research проверяет корпоративный статус Cursor относительно X/xAI/SpaceX и оценивает, стоит ли добавлять Cursor CLI как headless-имплементера №3 (наравне с Codex CLI и Grok CLI) под управлением Claude Code как оркестратора.",
+   "lang": "mixed",
+   "date": "2026-08-02",
+   "slug": "DR26-08-02-ZB-05-2357-cursor-anysphere-kak-implementer-3-v-multi-llm-konveyere-kodinga-svyaz",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-08-02-ZB-05-2357-cursor-anysphere-kak-implementer-3-v-multi-llm-konveyere-kodinga-svyaz.md"
+  },
+  {
+   "dr_id": "DR26-08-04-ZB-01-1437",
+   "title": "DR26-08-04-ZB-01-1437 — синтез: китайские LLM как 4-я пара глаз рядом с Grok и Gemini",
+   "summary": "База: **3 независимых вендора**, две разные машины, три разные рельсы. `chatgpt` = Codex CLI headless (Mac16) · `grok` = grok CLI headless (Mac16) · `gemini` = браузерный Deep Research (HP17, 122 источника). Оригиналы: `_originals/deep-research/DR26-08-04-ZB-01-1437-chinese-llm-landscape-2026-08-{chatgpt,grok,gemini}.md` > Предшественник: [[insight-dr26-08-04-zb-01-sintez-kitayskie-llm-kak-relsa-vtorogo-mneniya]] — синтез Mac16 на 2 вендорах (15:42).",
+   "lang": "ru",
+   "date": "2026-08-04",
+   "slug": "DR26-08-04-ZB-01-1437-dr26-08-04-zb-01-1437-sintez-kitayskie-llm-kak-4-ya-para-glaz-ryadom-s",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-08-04-ZB-01-1437-dr26-08-04-zb-01-1437-sintez-kitayskie-llm-kak-4-ya-para-glaz-ryadom-s.md"
+  },
+  {
+   "dr_id": "DR26-08-04-ZB-13-2207",
+   "title": "Браузерные MCP-серверы сверх Firefox: карта агентских дверей (авг. 2026)",
+   "summary": "Исследование выясняет, какие браузеры кроме Firefox имеют родной/официальный MCP-сервер, пригодный для attach к живому браузеру с сохранением логинов, и нужен ли второй движок сверх Firefox + @mozilla/firefox-devtools-mcp.",
+   "lang": "ru",
+   "date": "2026-08-04",
+   "slug": "DR26-08-04-ZB-13-2207-brauzernye-mcp-servery-sverh-firefox-karta-agentskih-dverey-avg-2026",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-08-04-ZB-13-2207-brauzernye-mcp-servery-sverh-firefox-karta-agentskih-dverey-avg-2026.md"
+  },
+  {
+   "dr_id": "DR26-08-05-HUB-02-2156",
+   "title": "FB Graph API — свои посты с личного профиля читаются легально и без браузера, App Review не нужен",
+   "summary": "**Потребитель:** конвейер `fb-watch` (пост на стене FB → тизер в @ClawRus). Сейчас жатва держится на залогиненном браузере — единственное хрупкое звено. Вопрос был: есть ли легальная замена. > **База синтеза:** 4 рельсы из 6 (кворум). ChatGPT (Pro + Web search, 53 мин, 43 источника Meta) · GLM-5.2 (Advanced Search, 23 источника с датами) · Gemini (Pro Extended, Deep research, 12 разделов) · Grok (Heavy, 518 sources). claude.ai не успел в окно сессии (Research шёл 58+ мин). Mistral — рельса недоступна, аккаунта нет.",
+   "lang": "ru",
+   "date": "2026-08-05",
+   "slug": "DR26-08-05-HUB-02-2156-fb-graph-api-svoi-posty-s-lichnogo-profilya-chitayutsya-legalno-i-bez",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-08-05-HUB-02-2156-fb-graph-api-svoi-posty-s-lichnogo-profilya-chitayutsya-legalno-i-bez.md"
+  },
+  {
+   "dr_id": "DR26-08-05-ZB-03-1621",
+   "title": "DR26-08-05-ZB-03 Синтез: нейминг лаборатории — QQQ отбит, третий путь = неологизм",
+   "summary": "1. **Юридическая.** `QQQ` — живой товарный знак **NASDAQ, INC.**, рег. 2898662 (заявка 2002-10-21, продлён 2025-03-06, класс 036, статус LIVE, запись TSDR открыта 05.08.2026). Знаменитый знак → риск dilution + UDRP на домене. Не «запрещено в классе 9», а хуже: невозможен чистый brand clearance. 2. **Цена.** `qqq.ai` — публичный ask **$154 498** (domaineasy, проверено 05.08.2026), `qqq.com` — цена скрыта, make-offer через GoDaddy. Это внутри нормального коридора 3-буквенных, то есть не выгодная аномалия. 3. **Находимость — гипотеза опровергнута.** «QQQ» = тикер с гигантским существующим смыслом; короткость **ухудшает** cold discovery, а не улучшает. Против нас работает не длина имени, а конкуренция за уже занятое слово. 4. **Китайская практика прочитана наоборот.** Короткий домен там — **следствие** богатства, не причина известности. Улика: Qihoo купила `360.com` за рекорд, будучи **уже** крупной с готовым брендом «360»; в момент сделки домен вообще редиректил на haosou.com (Forbes, 06.02.2015). Мы бы копировали статусный расход победителя, приняв его за механизм победы.",
+   "lang": "ru",
+   "date": "2026-08-06",
+   "slug": "DR26-08-05-ZB-03-1621-dr26-08-05-zb-03-sintez-neyming-laboratorii-qqq-otbit-tretiy-put-neolo",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-08-05-ZB-03-1621-dr26-08-05-zb-03-sintez-neyming-laboratorii-qqq-otbit-tretiy-put-neolo.md"
+  },
+  {
+   "dr_id": "DR26-08-06-HUB-01-1055",
+   "title": "DR26-08-06-HUB-01-1055 — ТРИЗ: что брать, что отказать, и где она прямо противоречит АК-47",
+   "summary": "Потребитель назван при рождении ДР: реглумент разбора повторяющихся проблем + скилл. Плечи: **grok** (Heavy, 615 источников) · **glm** (GLM-5.2 Deep Think Max) · **gemini** (Deep Research) · **codex/OpenAI**. Три плеча пришли к ОДНОЙ рекомендации независимо. Метки: ✅ доказано · 🤔 гипотеза. Применять фильтр следует **только после** evidence-driven локализации причины. Без",
+   "lang": "ru",
+   "date": "2026-08-06",
+   "slug": "DR26-08-06-HUB-01-1055-dr26-08-06-hub-01-1055-triz-chto-brat-chto-otkazat-i-gde-ona-pryamo-pr",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-08-06-HUB-01-1055-dr26-08-06-hub-01-1055-triz-chto-brat-chto-otkazat-i-gde-ona-pryamo-pr.md"
+  },
+  {
+   "dr_id": "DR26-08-06-HUB-02-1055",
+   "title": "DR26-08-06-HUB-02-1055 — «5 почему» по серии: что подтвердилось в нашем ТЗ и две дыры, которых там не было",
+   "summary": "Потребитель назван при рождении ДР: `05-Resources/Protocols/reglament-pyat-pochemu-koren-po-serii-sessiy.md`. Плечи: **grok** (Heavy, 414 источников) · **gemini** (Deep Research) · **codex/OpenAI** · glm — тело пустое, не приехало. Каждое утверждение ниже помечено: ✅ доказано источником · 🤔 гипотеза.",
+   "lang": "ru",
+   "date": "2026-08-06",
+   "slug": "DR26-08-06-HUB-02-1055-dr26-08-06-hub-02-1055-5-pochemu-po-serii-chto-podtverdilos-v-nashem-t",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-08-06-HUB-02-1055-dr26-08-06-hub-02-1055-5-pochemu-po-serii-chto-podtverdilos-v-nashem-t.md"
+  },
+  {
+   "dr_id": "DR26-08-04-ZB-14-2214",
+   "title": "гейт по intent с ограниченным fan-control",
+   "summary": "выбрать гибрид: оставить query-type gate как основной рубильник, не добавлять ACT-R time-decay, а degree-normalized fan-control тестировать только внутри разрешённого graph-режима. для точного факта или атрибута сущности граф по умолчанию выключен; для темы, связей, истории и multi-hop включён с лимитом соседей и штрафом степени. ответ переворачивается в always-on graph только если слепой локальный тест покажет, что fan-penalty не уступает vector-only на entity-запросах, сохраняет выигрыш на тематических запросах и убирает тяжёлые ошибки. если fan-control не улучшает raw graph, оставить текущий гейт без усложнения.",
+   "lang": "ru",
+   "date": "2026-08-10",
+   "slug": "DR26-08-04-ZB-14-2214-geyt-po-intent-s-ogranichennym-fan-control",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-08-04-ZB-14-2214-geyt-po-intent-s-ogranichennym-fan-control.md"
+  },
+  {
+   "dr_id": "DR26-08-06-HUB-03-1725",
+   "title": "CLI-reuse — лучшая из СЕРЫХ зон, не зелёная; остаток бака машинно читается только у Codex",
+   "summary": "**⚠️ База — ТРИ рельсы из шести.** Ответили `grok-4.5` (CLI, 33 КБ), `codex`/gpt-5.4 (CLI, 71 КБ, со ссылками) и `gemini` (вендорский Deep Research в браузере, 118 КБ, 65 уникальных доменов). Не открылись `claude.ai` (бак Max был выбран), `GLM` (стартовал и встал без отчёта) и `mistral` (аккаунта нет: Sign up + ToS = руки Антона). **Кворум 4/6 НЕ добран — словом «консенсус» это называть нельзя.** Оригиналы: `_machine-bus/_dr/queue/DR26-08-06-HUB-03-1725/results/{grok,chatgpt,gemini}.md`. «CLI-reuse — **лучшая из серых зон**, не зелёная.»",
+   "lang": "ru",
+   "date": "2026-08-10",
+   "slug": "DR26-08-06-HUB-03-1725-cli-reuse-luchshaya-iz-seryh-zon-ne-zelenaya-ostatok-baka-mashinno-chi",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-08-06-HUB-03-1725-cli-reuse-luchshaya-iz-seryh-zon-ne-zelenaya-ostatok-baka-mashinno-chi.md"
+  },
+  {
+   "dr_id": "DR26-08-10-HUB-01-1449",
+   "title": "онлайн-платформы регистрации 501(c)(3) — Foundation Group Core, Калифорния остаётся, HCB закрылся для взрослых",
+   "summary": "**⚠️ База — ДВА вендора, а не веер.** Заказаны 6 рельс, ответили 2: `codex` (ChatGPT Pro CLI, gpt-5.4, 97 веб-поисков, 90 уникальных URL) и `grok-4.5` (30 URL). Четыре рельсы (gemini, claude.ai, GLM, mistral) не открылись — Chrome-MCP на хабе не подключён, запасная дверь через экран закрыта политикой scheduled-run. **Кворум 4/6 не достигнут, словом «консенсус» это называть нельзя** — там, где два вендора сошлись, это «сошлись двое», а не «сошёлся веер». Оригиналы: `_originals\\deep-research\\DR26-08-10-HUB-01-1449-nonprofit-online-platforms-{codex,grok}.md`.",
+   "lang": "ru",
+   "date": "2026-08-10",
+   "slug": "DR26-08-10-HUB-01-1449-onlayn-platformy-registratsii-501-c-3-foundation-group-core-kaliforniy",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-08-10-HUB-01-1449-onlayn-platformy-registratsii-501-c-3-foundation-group-core-kaliforniy.md"
+  },
+  {
+   "dr_id": "DR26-08-11-HUB-02-2212",
+   "title": "Асимметрия слияния PR: почему mid-size инфра-OSS мержит аутсайдеров, а вендорские cookbook",
+   "summary": "Отчёт проверяет гипотезу лаборатории (68 PR за 4 недели), что вероятность мержа PR неизвестного контрибьютора определяется КЛАССОМ репозитория (продуктовый SDK/библиотека vs. маркетинговый cookbook/curated-list вендора), а не качеством патча.",
+   "lang": "mixed",
+   "date": "2026-08-11",
+   "slug": "DR26-08-11-HUB-02-2212-asimmetriya-sliyaniya-pr-pochemu-mid-size-infra-oss-merzhit-autsaydero",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-08-11-HUB-02-2212-asimmetriya-sliyaniya-pr-pochemu-mid-size-infra-oss-merzhit-autsaydero.md"
+  },
+  {
+   "dr_id": "DR26-08-10-MACANTON-01-1154",
+   "title": "Perplexity как седьмая DR-рельса — работает только прямой API, и он платный отдельно от подписки",
+   "summary": "**База: 4 рельсы из 6** (chatgpt 66.7KB · grok 34.6KB · claude.ai 25.5KB · glm 19.2KB). Кворум §9.1 (любые 4 из 6) достигнут — слово «консенсус» законно. Не ответили: gemini, mistral. Оригиналы и SYNTHESIS.md: `_machine-bus/_dr/queue/DR26-08-10-MACANTON-01-1154/`.",
+   "lang": "ru",
+   "date": "2026-08-12",
+   "slug": "DR26-08-10-MACANTON-01-1154-perplexity-kak-sedmaya-dr-relsa-rabotaet-tolko-pryamoy-api-i-on-platny",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-08-10-MACANTON-01-1154-perplexity-kak-sedmaya-dr-relsa-rabotaet-tolko-pryamoy-api-i-on-platny.md"
+  },
+  {
+   "dr_id": "DR26-08-14-MACANTON-01-2117",
+   "title": "браузерная и экранная рельса для Mac16 и флота — грабли агентных браузеров и экранного контроля",
+   "summary": "Синтез веера 4/6 сделан на рельсе **codex** (93 908 токенов на подписке OpenAI, не в контексте Claude) — канон [[dr-synthesis-via-codex-not-my-context]]. Сырьё плеч: `_machine-bus/_dr/queue/DR26-08-14-MACANTON-01-2117/results/`. Потребитель: [[decision-2026-08-14-browser-and-screen-rail-mac16-fleet]]. ⚠️ НЕ отменяет [[decision-2026-07-16-browser-automation-layer]] (Firefox-first, слой ДОСТАВАНИЯ кук) и ПОДТВЕРЖДАЕТ [[decision-2026-08-01-agent-browser-control-rail-DR26-08-01-MACANTON-12]] (слой УДЕРЖАНИЯ сессии).",
+   "lang": "ru",
+   "date": "2026-08-14",
+   "slug": "DR26-08-14-MACANTON-01-2117-brauzernaya-i-ekrannaya-relsa-dlya-mac16-i-flota-grabli-agentnyh-brauz",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-08-14-MACANTON-01-2117-brauzernaya-i-ekrannaya-relsa-dlya-mac16-i-flota-grabli-agentnyh-brauz.md"
+  },
+  {
+   "dr_id": "DR26-08-15-HUB-01",
+   "title": "Browser rail (CDP/Chrome) и screen automation rail по ОС для безлюдных агентов",
+   "summary": "Какой browser-automation rail (CDP/Chrome-профиль) и какой screen-automation rail на Windows/macOS/Linux лучше всего подходят для устойчивой безлюдной (unattended) работы агентов, и как долго держатся залогиненные сессии на разных рельсах.",
+   "lang": "ru",
+   "date": "2026-08-15",
+   "slug": "DR26-08-15-HUB-01-browser-rail-cdp-chrome-i-screen-automation-rail-po-os-dlya-bezlyudnyh",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-08-15-HUB-01-browser-rail-cdp-chrome-i-screen-automation-rail-po-os-dlya-bezlyudnyh.md"
+  },
+  {
+   "dr_id": "DR26-08-15-HUB-02",
+   "title": "Грабли CDP/браузер-рельс и экранного контроля для AI-агентов на Win/Mac/Linux (2025–2026)",
+   "summary": "Кросс-OS полевой гид отвечает на 6 открытых вопросов Антона: нет production-паттерна CDP heartbeat/re-bind, точных цифр полураспада сессии на Google/X/FB не существует, Wayland unattended условно жизнеспособен только на wlroots/KDE, а решение — Chrome for Testing + выделенный persistent-профиль + самодельный watchdog.",
+   "lang": "ru",
+   "date": "2026-08-15",
+   "slug": "DR26-08-15-HUB-02-grabli-cdp-brauzer-rels-i-ekrannogo-kontrolya-dlya-ai-agentov-na-win-m",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-08-15-HUB-02-grabli-cdp-brauzer-rels-i-ekrannogo-kontrolya-dlya-ai-agentov-na-win-m.md"
+  },
+  {
+   "dr_id": "DR26-08-15-HUB-03",
+   "title": "Real-world failure modes of agent-driven browsers, screen control, and session persistence",
+   "summary": "How do coding agents (Codex, Claude Code, Playwright MCP, chrome-devtools-mcp, browser-use) actually break when driving an external browser or the OS screen, and what setup per OS survives unattended/overnight operation?",
+   "lang": "en",
+   "date": "2026-08-15",
+   "slug": "DR26-08-15-HUB-03-real-world-failure-modes-of-agent-driven-browsers-screen-control-and-s",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-08-15-HUB-03-real-world-failure-modes-of-agent-driven-browsers-screen-control-and-s.md"
+  }
+ ]
+}

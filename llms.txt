@@ -1,0 +1,233 @@
+# Palo Alto AI Research Lab — deep research corpus
+
+226 distilled deep-research reports. Machine-readable index: index.json
+Each file: frontmatter (dr_id, title, date, lang) + summary + key findings + recommendations.
+Multi-model methodology: every question fanned out to several frontier models, then reconciled.
+License: CC BY 4.0. Cite as: Palo Alto AI Research Lab, deep research <dr_id>.
+
+- DR26-08-15-HUB-01 (2026-08-15, ru): Browser rail (CDP/Chrome) и screen automation rail по ОС для безлюдных агентов
+- DR26-08-15-HUB-02 (2026-08-15, ru): Грабли CDP/браузер-рельс и экранного контроля для AI-агентов на Win/Mac/Linux (2025–2026)
+- DR26-08-15-HUB-03 (2026-08-15, en): Real-world failure modes of agent-driven browsers, screen control, and session persistence
+- DR26-08-14-MACANTON-01-2117 (2026-08-14, ru): браузерная и экранная рельса для Mac16 и флота — грабли агентных браузеров и экранного контроля
+- DR26-08-10-MACANTON-01-1154 (2026-08-12, ru): Perplexity как седьмая DR-рельса — работает только прямой API, и он платный отдельно от подписки
+- DR26-08-11-HUB-02-2212 (2026-08-11, mixed): Асимметрия слияния PR: почему mid-size инфра-OSS мержит аутсайдеров, а вендорские cookbook
+- DR26-08-04-ZB-14-2214 (2026-08-10, ru): гейт по intent с ограниченным fan-control
+- DR26-08-06-HUB-03-1725 (2026-08-10, ru): CLI-reuse — лучшая из СЕРЫХ зон, не зелёная; остаток бака машинно читается только у Codex
+- DR26-08-10-HUB-01-1449 (2026-08-10, ru): онлайн-платформы регистрации 501(c)(3) — Foundation Group Core, Калифорния остаётся, HCB закрылся для взрослых
+- DR26-08-05-ZB-03-1621 (2026-08-06, ru): DR26-08-05-ZB-03 Синтез: нейминг лаборатории — QQQ отбит, третий путь = неологизм
+- DR26-08-06-HUB-01-1055 (2026-08-06, ru): DR26-08-06-HUB-01-1055 — ТРИЗ: что брать, что отказать, и где она прямо противоречит АК-47
+- DR26-08-06-HUB-02-1055 (2026-08-06, ru): DR26-08-06-HUB-02-1055 — «5 почему» по серии: что подтвердилось в нашем ТЗ и две дыры, которых там не было
+- DR26-08-05-HUB-02-2156 (2026-08-05, ru): FB Graph API — свои посты с личного профиля читаются легально и без браузера, App Review не нужен
+- DR26-08-04-ZB-01-1437 (2026-08-04, ru): DR26-08-04-ZB-01-1437 — синтез: китайские LLM как 4-я пара глаз рядом с Grok и Gemini
+- DR26-08-04-ZB-13-2207 (2026-08-04, ru): Браузерные MCP-серверы сверх Firefox: карта агентских дверей (авг. 2026)
+- DR26-08-02-ZB-04-2324 (2026-08-02, en): Multi-LLM coding orchestration: Claude Code as orchestrator, Codex/Antigravity/Grok/Cursor
+- DR26-08-02-ZB-05-2357 (2026-08-02, mixed): Cursor (Anysphere) как имплементер №3 в мульти-LLM конвейере кодинга + связь с SpaceX/xAI/
+- DR26-07-31-MACANTON-04-2124 (2026-08-01, ru): Синтез DR: Anthropic-эквивалента промо-сидов kone.vc НЕТ — строим CPN + свой лид-магнит
+- DR26-07-31-MACANTON-05-2135 (2026-08-01, ru): Синтез DR: OSS-двери вне вендоров — Antikythera и Google Pi живые, SFI/MIT/Mila зеркала
+- DR26-08-01-MACANTON-01-558 (2026-08-01, ru): Как приходят первые контрибьюторы в неизвестный OSS-репо
+- DR26-07-10-MACANTON-03 (2026-07-30, ru): Insight (ИДР): Carlini / Claude находит zero-day — верификация первоисточниками + разговорный материал под миссию №2
+- DR26-07-30-MACANTON-01-1456 (2026-07-30, ru): Синтез DR: анти-AI-slop хуманизатор → скилл ai-slop
+- DR26-07-23-ZB-02 (2026-07-28, ru): DR26-07-23-ZB-02 — Синтез: цифровой двойник из личного корпуса + метрики фиделити
+- DR26-07-26-ZB-03 (2026-07-28, ru): Пантеон второго мозга — Карпаты vs Луман/Форте/Матушак/Мило/gwern/Вольфрам; что переносить в AI-first волт
+- DR26-07-27-HUB-01-2203 (2026-07-28, ru): Формат always-loaded файлов: спор «ТОП+§ против плоского списка» закрыт факторным замером — структура НЕ влияет на послушание, влияет длина сессии
+- DR26-07-28-HUB-04-2338 (2026-07-28, mixed): QA-процесс: ретро-тестирование vs выделенные bugfix-сессии + стратегия test/agent harness
+- DR26-07-28-HUB-05-2338 (2026-07-28, mixed): Claude Code Execution (50 бесплатных часов/день) как замена текстовому кодингу при пошагов
+- DR26-07-28-HUB-07-2338 (2026-07-28, ru): Влияние синей галочки верификации на engagement постов в Facebook/Instagram и X (Twitter)
+- DR26-07-28-HUB-08-2338 (2026-07-28, mixed): Andrej Karpathy: биография, публичные тезисы про AI/PKM, GitHub-активность и точки входа д
+- DR26-07-28-HUB-09-2338 (2026-07-28, mixed): Использование Obsidian как второй мозг: архитектура памяти мозга → цифровая система хранен
+- DR26-07-28-HUB-10-2339 (2026-07-28, ru): Grok Coding (Grok 4.5 / Grok Build) от SpaceXAI: возможности, слияние с Cursor, сравнение
+- DR26-07-28-HUB-11-2339 (2026-07-28, en): USM (used serviceable aircraft parts) market entry playbook for a small independent broker
+- DR26-07-28-HUB-13-2339 (2026-07-28, mixed): Локальная мульти-персональная архитектура AI-волта: приватность vs продуктивность контекст
+- DR26-07-28-HUB-14-2339 (2026-07-28, ru): Approval fatigue и task-drift в агентном AI-кодинге: как их лечат в 2025–2026
+- DR26-07-28-HUB-15-2339 (2026-07-28, mixed): A2A protocol and the emerging agent-interoperability stack (vs original agent's overstated
+- DR26-07-28-HUB-16-2339 (2026-07-28, ru): Выбор источника сигнала intent-to-buy для AI-CRM «Радар возможностей» (крипто/Web3-база)
+- DR26-07-28-HUB-17-2339 (2026-07-28, en): Safety action-gate architecture for a solo-operator multi-agent stack (MCP + non-MCP)
+- DR26-07-28-HUB-18-2339 (2026-07-28, en): SOTA architecture for shared, local-first agent memory across Claude Code, Codex, Gemini C
+- DR26-07-28-HUB-19-2339 (2026-07-28, en): Durable structured failure/negative-knowledge memory architecture for coding agents
+- DR26-07-28-HUB-20-2339 (2026-07-28, en): Fallback architecture for a subscription-only always-on Claude agent hitting rate limits
+- DR26-07-28-HUB-21-2339 (2026-07-28, en): Persistent structural code memory for coding agents (symbol/call graph, blast-radius analy
+- DR26-07-28-HUB-22-2339 (2026-07-28, en): Voice-to-content editorial systems achieving near-100% conversion without losing author vo
+- DR26-07-28-HUB-25-2339 (2026-07-28, ru): Nua/Rudel как слой skill-intelligence для Claude Code и Codex — демо-сценарий и риски
+- DR26-07-27-MACANTON-01-0018 (2026-07-27, en): Мультиканальный холодный аутрич к DevRel/исследователям топ-LLM-лабов: реальные reply-rate
+- DR26-07-26-ZB-05 (2026-07-26, ru): Аналоги Obsidian 2026 — нужен ли GUI, если главный читатель AI; многомерная перелинковка на 226k заметок
+- DR26-07-25-HUB-01-2126 (2026-07-25, ru): Доктрина размещения рутин в личном AI-флоте: VPS-якорь vs десктоп-хаб vs ноуты
+- DR26-07-07-MACB-02 (2026-07-21, ru): Онбординг-питч «второго мозга» для нетехничных + роль-идентичность Claude-ведомого
+- DR26-07-14-MACANTON-01 (2026-07-21, ru): Фандрейз-стратегия 2026 для AI-native фаундера (digital twin / second brain)
+- DR26-07-14-MACB-01 (2026-07-21, ru): «Не ждать хаб»: расщепление 3 ролей хаба (GPU-реиндекс / control-plane / single-writer-мёрдж) на 3 дома
+- DR26-07-15-HUB-01 (2026-07-21, ru): DR-синтез: надёжный ночной экспорт диалогов Grok и Gemini в волт (архитектура импортёров)
+- DR26-07-16-MACANTON-01-1533 (2026-07-21, ru): Карта OSS-контрибуций в экосистему Anthropic — где и как контрибьютить, чтобы заметили
+- DR26-07-21-HUB-02 (2026-07-21, ru): Grok Heavy как движок Deep Research — сводная методика (синтез 2 вендоров)
+- DR26-07-21-HUB-02-2124 (2026-07-21, en): Grok Heavy as a Deep Research engine: architecture, prompting, limits, risks
+- DR26-07-20-HUB-01 (2026-07-20, en): Reddit voice & self-promotion norms across r/LocalLLaMA, r/ClaudeAI, r/AI_Agents, r/Machin
+- DR26-07-20-HUB-02 (2026-07-20, en): Reddit distribution playbook for AI/engineering subreddits (r/LocalLLaMA, r/ClaudeAI, r/AI
+- DR26-07-20-HUB-03 (2026-07-20, en): Reddit voice/rules playbook for r/LocalLLaMA, r/ClaudeAI, r/AI_Agents, r/MachineLearning,
+- DR26-07-20-MACANTON-02-2127 (2026-07-20, mixed): Мульти-вендорная карта живости OSS cookbook/examples-репо топ-LLM-компаний: кто реально ме
+- DR26-07-20-MACANTON-03-2339 (2026-07-20, mixed): Как сделать роль AI-кофаундера рабочей: гейты вместо персоны, анти-сикофантия, bounded aut
+- DR26-07-20-ZB-01-1016 (2026-07-20, ru): Синтез DR26-07-20-ZB-01: голос Reddit для AI-инженерных сабов
+- DR26-07-17-HUB-01 (2026-07-17, en): World-class public roadmaps for build-in-public projects
+- DR26-07-17-HUB-02 (2026-07-17, mixed): Prior-art: защита 4-узлового консенсуса от split-brain (fencing/epoch, partition detection
+- DR26-07-17-HUB-04 (2026-07-17, en): Conditional Rule Activation in LLM Agents (lazy-loading rules/context vs always-on)
+- DR26-07-17-HUB-05 (2026-07-17, en): World-Class Public Roadmaps for Build in Public Projects
+- DR26-07-16-FLEE-01 (2026-07-16, en): Conditional rule activation: index+lazy-body dispatcher for always-loaded CLAUDE.md-style
+- DR26-07-16-HUB-02 (2026-07-16, mixed): Split-brain hardening для roaming-leader arbiter поверх Syncthing (4-node personal fleet)
+- DR26-07-16-HUB-04 (2026-07-16, en): Firefox vs Chrome/Chromium browsers for cookie/session automation workarounds
+- DR26-07-16-HUB-05 (2026-07-16, en): Research plan: frameworks to validate 'Connect Rule v2' (built vs used vs valuable artifac
+- DR26-07-16-HUB-05-2237 (2026-07-16, mixed): Устойчивость always-on якоря (Маяк/Hetzner VPS): биллинг-мониторинг, детерминированный три
+- DR26-07-14-HUB-01 (2026-07-14, ru): Троянская альфа — призма карантина для отравленного знания
+- DR26-07-14-HUB-02 (2026-07-14, en): Approval Fatigue and Task Drift in Agentic AI Coding
+- DR26-07-14-HUB-03 (2026-07-14, en): Audience participation design without strategy capture, and public-build path to LLM DevRe
+- DR26-07-14-HUB-04 (2026-07-14, en): Best practices for maintaining a very large personal knowledge graph grounding an AI digit
+- DR26-07-14-HUB-05 (2026-07-14, en): Brain as a Service: exposing the vault RAG index to the personal agent fleet
+- DR26-07-14-HUB-06 (2026-07-14, ru): Инженерия безопасности LLM-агентов: векторы атак, защита исходящих артефактов, протоколы к
+- DR26-07-14-HUB-07 (2026-07-14, en): Declarative canon distribution architecture for a heterogeneous multi-machine agent fleet
+- DR26-07-14-HUB-08 (2026-07-14, en): Engineering Communities as a Hiring Asset in the AI Era
+- DR26-07-14-HUB-09 (2026-07-14, en): Fleet-Wide Memory Architecture for a Multi-Machine AI Agent System over Syncthing
+- DR26-07-14-HUB-10 (2026-07-14, en): How a Founder-Builder Can Position for a Frontier LLM Role
+- DR26-07-14-HUB-11 (2026-07-14, en): Improving the Second Brain onboarding pitch for non-technical users
+- DR26-07-14-HUB-12 (2026-07-14, ru): Рынок и поставщики вокруг OpenClaw: сетапы, интеграторы, риски и альтернативы
+- DR26-07-14-HUB-13 (2026-07-14, en): Personal Site Strategy for an AI Builder Targeting Frontier Labs
+- DR26-07-14-HUB-14 (2026-07-14, en): Personal Site Strategy for an AI Builder Targeting Frontier Labs
+- DR26-07-14-HUB-15 (2026-07-14, en): Codex CLI as a live Telegram consensus participant alongside Claude Code
+- DR26-07-14-ZB-01 (2026-07-14, en): Agent-bus архитектура: Telegram+Syncthing vs выделенный транспорт (NATS/JetStream) при рос
+- DR26-07-11-HUB-02 (2026-07-11, en): Reciprocal engineer-community design for a founder's frontier-lab DevRel hire
+- DR26-07-11-HUB-03 (2026-07-11, ru): Безопасность LLM-агентов: исходящие артефакты, промпт-инъекции, хуки, протокол A2A
+- DR26-07-11-HUB-04 (2026-07-11, ru): Безопасность публикации FOR-ROBOTS.md/AGENTS.md и защита флота Claude Code агентов от prom
+- DR26-07-11-MACANTON-01 (2026-07-11, ru): Публичный job-hunt как единое шоу фаундера фонда, метящего в оффер от LLM-компании
+- DR26-07-10-MACB-01 (2026-07-10, ru): Флот Syncthing: чинить тюнингом или дробить на 3 слоя (данные/конфиг/шина)
+- DR26-07-10-MACB-02 (2026-07-10, en): Agent-facing docs (AGENTS.md/llms.txt/FOR-ROBOTS.md) vs prompt injection: line & disclosur
+- DR26-07-08-HUB-01 (2026-07-08, en): Единый canon story-state вместо двух расходящихся спайнов (книга + live-лента)
+- DR26-07-08-MACB-01 (2026-07-08, en): Approval fatigue and task drift in agentic AI coding — diagnosis and fixes
+- DR26-07-05-HUB-05 (2026-07-07, ru): DR26-07-05-HUB-05 — Синтез: интерактив аудитории + конверсия build-in-public в найм DevRel (Anthropic/OpenAI)
+- DR26-07-07-HUB-01 (2026-07-07, en): Engineering Communities as a Hiring Asset in the AI Era
+- DR26-07-07-HUB-02 (2026-07-07, en): Audience participation design without strategy capture + LLM DevRel hiring signals (OpenAI
+- DR26-07-07-HUB-03 (2026-07-07, en): Engineering Communities as a Hiring Asset in the AI Era
+- DR26-07-07-HUB-04 (2026-07-07, en): Fleet-wide memory architecture for a multi-machine Syncthing-based AI agent system
+- DR26-07-07-HUB-05 (2026-07-07, ru): Архитектура fleet-wide памяти для мульти-машинной Claude-системы (per-node namespace vs gi
+- DR26-07-07-HUB-06 (2026-07-07, en): Declarative Canon Distribution Architecture for a Heterogeneous Personal Agent Fleet
+- DR26-07-07-HUB-07 (2026-07-07, ru): Канон-дистрибуция скриптов на гетерогенном флоте (Windows хаб + Win/macOS узлы, Syncthing)
+- DR26-07-07-HUB-08 (2026-07-07, en): Brain as a Service: exposing the hub's RAG/vault-search pipeline to a personal agent fleet
+- DR26-07-07-HUB-09 (2026-07-07, ru): Мозг как сервис: RAG-поиск хаба через HTTP/MCP-API для флота Claude-агентов
+- DR26-07-07-MACB-01 (2026-07-07, mixed): Гигиена, дедуп и перелинковка знаниевого графа 175k заметок (Obsidian+RAG) для AI-двойника
+- DR26-07-07-MACB-03 (2026-07-07, ru): Альтернативы Syncthing для мульти-машинной AI-флотилии: чинить или менять файловую рельсу
+- DR26-07-07-MACB-04 (2026-07-07, ru): ADOPT framework — доказательное тестирование и внедрение внешней альфы (idea→test→trial→im
+- DR26-07-07-MACB-05 (2026-07-07, en): Positioning a founder-builder for a Developer Experience/Applied AI role at a frontier LLM
+- DR26-07-06-HUB-01 (2026-07-06, en): SSH access to Hetzner Ubuntu VPS from Claude Desktop, VS Code, CLI, and phone
+- DR26-07-06-HUB-02 (2026-07-06, ru): Приёмы вовлекающих вставок-вопросов для сериализованного build-in-public дневника (The Jou
+- DR26-07-06-HUB-03 (2026-07-06, en): Telegram as transport rail for a multi-machine autonomous agent fleet: risks, limits, alte
+- DR26-07-06-HUB-04 (2026-07-06, ru): Визуальная типографика GitHub-markdown для сериализованной книги (The Journey)
+- DR26-07-06-HUB-05 (2026-07-06, en): Building a deterministic daily activity ledger from AI-agent logs, commits, and vault arti
+- DR26-07-06-HUB-06 (2026-07-06, en): SSH access to Hetzner Ubuntu VPS from Claude Desktop, VS Code, CLI, and phone
+- DR26-07-06-HUB-07 (2026-07-06, en): Distributed ON AIR Board for a Small AI Fleet
+- DR26-07-06-ZB-01 (2026-07-06, ru): Выбор сигнального источника intent-to-buy для AI-CRM «Радар возможностей» (крипто/Web3)
+- DR26-07-05-HUB-02 (2026-07-05, en): Multi-agent LLM consensus in production: landscape, best practices, prior art
+- DR26-07-05-HUB-03 (2026-07-05, en): Repairability-first multi-agent LLM systems: can cheap models build and repair what they b
+- DR26-07-05-HUB-04 (2026-07-05, en): High-quality AI task decomposition for parallel LLM sessions: cut quality + part lifecycle
+- DR26-07-05-HUB-07 (2026-07-05, en): Distributed 'ON AIR' work-declaration board for a small multi-machine AI agent fleet
+- DR26-07-05-HUB-08 (2026-07-05, ru): Плейбук near-zero-downtime миграции Docker-стека (сайт+CRM, деньги) с Hetzner Dedicated на
+- DR26-07-05-HUB-09 (2026-07-05, en): Repairability-First Multi-Agent Systems: architecture, cheap-repair/expensive-escalation d
+- DR26-07-05-ZB-01 (2026-07-05, ru): Non-profit feasibility: оформление vs реальные донаты год-1 для AI-education проекта
+- DR26-07-05-ZB-02 (2026-07-05, mixed): Single-host isolation of concurrent AI-agent sessions editing shared sensitive files
+- DR26-07-04-HUB-01 (2026-07-04, en): Token-budgeted MEMORY.md design: applying CLAUDE.md optimization (pointer-form, dedup, tie
+- DR26-07-04-HUB-02 (2026-07-04, en): Embeddings в 2025-2026 для local-first RU+EN базы знаний: миграция с e5, мультимодальность
+- DR26-07-04-HUB-03 (2026-07-04, en): Keeping an unattended Windows 11 AI workstation Google/Gmail-authenticated for 45 days
+- DR26-07-04-HUB-05 (2026-07-04, ru): Журнал задач done+undone для Claude Code: markdown-в-Obsidian vs Beads/Backlog.md/Task Mas
+- DR26-07-04-HUB-06 (2026-07-04, ru): X API v2 posting + FB Graph reading own posts — July 2026 setup, automatable vs owner-only
+- DR26-07-04-HUB-07 (2026-07-04, en): Voice-note-to-content pipeline: capture, triage (task/alpha/post), dedup, privacy gate, ep
+- DR26-07-04-HUB-08 (2026-07-04, ru): Журнал задач done+undone для Claude Code: markdown-in-Obsidian vs Beads/Task Master/Backlo
+- DR26-07-04-HUB-10 (2026-07-04, en): Best practices for multi-session/multi-agent LLM orchestration in coding: subagent vs sess
+- DR26-07-04-HUB-11 (2026-07-04, en): Multi-session / multi-agent orchestration patterns for coding agents (Claude Code, Cursor,
+- DR26-07-04-HUB-12 (2026-07-04, en): Writing 'The Journey' as a truthful blockbuster-style daily diary with human+AI duet narra
+- DR26-07-04-HUB-13 (2026-07-04, en): Connect rule v2: consumption/adoption test for built-but-unused internal artifacts
+- DR26-07-04-HUB-14 (2026-07-04, en): Voice recipe for 'The Journey': blending AI-world writers + blockbuster sci-fi authors for
+- DR26-07-04-ZB-01 (2026-07-04, en): Zero-trust security wave in agent platforms: product/positioning for a small agent-farm op
+- DR26-07-04-ZB-02 (2026-07-04, en): Graph RAG on SQLite for agents — validating the niche and article angles
+- DR26-07-04-ZB-03 (2026-07-04, en): Dynamic lead temperature bands + RFM-style reactivation scoring for a founder-led relation
+- DR26-07-04-ZB-04 (2026-07-04, ru): Монетизация AI-native агентства одного человека: выбор первого вектора
+- DR26-07-04-ZB-07 (2026-07-04, en): Voice-to-content editorial systems at near-total conversion rate
+- DR26-07-03-11 (2026-07-03, mixed): Валидация 20 SOTA-оптимизаций агентского харнеса + self-evolve для local-first стека
+- DR26-07-03-HUB-01 (2026-07-03, mixed): LLM pipelines for mining verbatim VC/sales call transcripts: commitment/fact extraction +
+- DR26-07-03-HUB-02 (2026-07-03, en): Distribution channels for a free, MIT-licensed Claude Code / Anthropic agent-framework OSS
+- DR26-07-03-HUB-03 (2026-07-03, en): Keeping an unattended Windows 11 AI workstation authenticated for 45 days
+- DR26-07-03-HUB-04 (2026-07-03, en): Architecting a Linux VPS anchor node for a personal multi-machine AI agent fleet
+- DR26-07-02-HUB-01 (2026-07-02, en): Go-to-market assessment for productizing Anton's second-brain/AI-agent system (PKM + CRM +
+- DR26-07-02-HUB-02 (2026-07-02, en): Claude Code plugin/skill marketplace landscape and distribution strategy
+- DR26-07-02-HUB-03 (2026-07-02, en): Scaling a decentralized personal AI-agent fleet (multi-machine Claude Code) using distribu
+- DR26-07-02-HUB-04 (2026-07-02, en): Quorum Design for a Sleeping Personal Fleet
+- DR26-07-02-HUB-05 (2026-07-02, en): Reliable programmatic extraction of Granola meeting notes and transcripts
+- DR26-07-02-HUB-06 (2026-07-02, en): Authentic Narrative Engineering for Solo Build in Public
+- DR26-07-02-HUB-07 (2026-07-02, en): Beyond Canton: fastest-accessible non-Canton crypto/fintech money pools for a fund-less BD
+- DR26-07-02-HUB-08 (2026-07-02, en): Where Accessible Crypto Money Flows Really Are in July 2026
+- DR26-07-02-HUB-09 (2026-07-02, en): Monetizing a Curated Community of AI-Native Engineers in 2026
+- DR26-07-02-HUB-10 (2026-07-02, en): Building a role-tailored starter PKM kit (Obsidian + Claude Code plugin marketplace) for o
+- DR26-07-02-HUB-11 (2026-07-02, en): Build vs adopt a Claude+Obsidian PKM/AI starter kit for non-technical friends & family
+- DR26-07-02-HUB-12 (2026-07-02, en): Claude Code plugin/skill marketplace distribution channels compared
+- DR26-07-02-HUB-13 (2026-07-02, en): Should Anton's personal AI second-brain/digital-twin system become a public product?
+- DR26-07-02-HUB-14 (2026-07-02, en): Architecting an always-on Hetzner ARM64 VPS as a narrow control-plane anchor node for a pe
+- DR26-07-01-HUB-01 (2026-07-01, ru): Рекомендации Anthropic для системных подсказок Claude
+- DR26-07-01-HUB-02 (2026-07-01, en): Mechanisms for guaranteed task completion in multi-agent/pipeline systems
+- DR26-07-01-ZB-01 (2026-07-01, en): SOTA architecture for a unified local-first second-brain memory shared across Claude Code,
+- DR26-07-01-ZB-02 (2026-07-01, en): Persistent structural code memory (symbol/call-graph, blast-radius) for coding agents like
+- DR26-07-01-ZB-03 (2026-07-01, mixed): Architecture for a safety/action-gate layer over a personal multi-agent setup (MCP gateway
+- DR26-07-01-ZB-04 (2026-07-01, ru): Дешёвая архитектура «негативного знания» / памяти провалов для кодинг-агентов
+- DR26-07-01-ZB-05 (2026-07-01, mixed): Архитектура фолбэка моделей для always-on агента на подписке (Claude Max/Weekly) без случа
+- DR26-06-30-HUB-01 (2026-06-30, en): Generative Engine Optimization (GEO) — platform citability, llms.txt, content structure, G
+- DR26-06-30-HUB-02 (2026-06-30, ru): Шаблон промпта для генерации цепляющих твит-тизеров (хуков)
+- DR26-06-30-HUB-03 (2026-06-30, ru): Официальные API Facebook/Meta и X(Twitter) 2025-2026: лимиты, постинг, мониторинг, анти-ба
+- DR26-06-30-HUB-04 (2026-06-30, ru): Причины разрастания CLAUDE.md/контекстных файлов и техники их оптимизации
+- DR26-06-29-HUB-01 (2026-06-29, ru): Токенизация русского vs английского и язык системного промпта LLM
+- DR26-06-29-LEG-01 (2026-06-29, en): Cross-vendor LLM agent collaboration on a shared markdown vault (rules, consensus, concurr
+- DR26-06-29-LEG-02 (2026-06-29, en): Architecting multi-vendor LLM collaboration (Claude Code, Codex, Antigravity, Grok) over a
+- DR26-06-29-LEG-03 (2026-06-29, en): Multi-LLM collaboration architecture across native vendor harnesses on a shared Obsidian v
+- DR26-06-28-HUB-01 (2026-06-28, en): Architecture for multi-LLM agents (Claude, Codex, Gemini, Grok) collaborating on a shared
+- DR26-06-28-HUB-02 (2026-06-28, ru): Архитектура мульти-агентной системы с Vault как единым хранилищем знаний, доступов и памят
+- DR26-06-28-HUB-03 (2026-06-28, ru): Разбор комментария про Obsidian+Claudian+MemPalace+Hermes как «трёхслойную память»
+- DR26-06-28-HUB-05 (2026-06-28, en): Facebook personal-account automation: ban risk, rate limits, and safe methods for posting/
+- DR26-06-28-HUB-07 (2026-06-28, en): Comparative table: workflow/orchestration engines (n8n vs Windmill vs Temporal vs Make vs
+- DR26-06-27-HUB-01 (2026-06-27, en): Owned-platform blogging + multi-channel (X/Telegram) content pipeline and voice-note-to-co
+- DR26-06-27-HUB-02 (2026-06-27, en): Competitive landscape for a unified 'second brain + agent memory + CRM for humans & agents
+- DR26-06-27-HUB-03 (2026-06-27, en): Extracting comments on a personal Facebook profile (Graph API vs GraphQL vs browser automa
+- DR26-06-27-HUB-04 (2026-06-27, en): Memory architecture patterns for long-running AI agents (working vs long-term, active/arch
+- DR26-06-27-HUB-05 (2026-06-27, en): One-line heartbeat/status protocol for a personal machine fleet (SRE-style liveness, RED/U
+- DR26-06-26-HUB-01 (2026-06-26, en): Validating and monetizing a dual RTX 3090 workstation
+- DR26-06-26-HUB-02 (2026-06-26, ru): Каталог AI-сервисов для монетизации домашних GPU (2x RTX 3090) в 2026
+- DR26-06-26-HUB-03 (2026-06-26, ru): Сравнение каналов связи и надёжность межагентной коммуникации между машинами Антона
+- DR26-06-26-HUB-04 (2026-06-26, ru): Отказоустойчивость LLM-инфраструктуры: failover между Claude Opus, Sonnet и локальной LLM
+- DR26-06-26-HUB-06 (2026-06-26, ru): Выбор локальной LLM (3–6 GB VRAM) на GTX 1660 Super как фоллбэк для Claude Code
+- DR26-06-26-HUB-07 (2026-06-26, ru): Сравнение мессенджер-каналов и моделей идентичности для мульти-агентных Claude-команд
+- DR26-06-26-HUB-09 (2026-06-26, ru): Рейтинг бесшумности и надёжности видеокарт RTX 5060 Ti 16GB (рынок Португалии)
+- DR26-06-25-HUB-01 (2026-06-25, en): Security and design best practices for a headless Syncthing-mailbox LLM agent
+- DR26-06-25-HUB-02 (2026-06-25, ru): Поиск NEW NVIDIA RTX A4000 16GB для доставки в Лиссабон в бюджете €500–1000
+- DR26-06-25-HUB-03 (2026-06-25, ru): Активные лоты RTX 3090/4090 24GB на eBay: риск, цена и доставка в Лиссабон
+- DR26-06-25-HUB-04 (2026-06-25, en): Claude Code Agent Teams for an Individual Power-User
+- DR26-06-25-HUB-05 (2026-06-25, en): Designing Memory for a Coding Assistant Digital Twin (raw transcripts vs curated RAG)
+- DR26-06-25-HUB-06 (2026-06-25, en): Designing an Essence and Evidence Split for a Personal Knowledge Vault
+- DR26-06-25-HUB-07 (2026-06-25, en): Persistent memory architecture for a personal AI agent (digital twin) on top of Obsidian
+- DR26-06-24-HUB-01 (2026-06-24, mixed): Claude Desktop Code Recents on Windows: storage model and safe cleanup
+- DR26-06-24-HUB-02 (2026-06-24, en): Claude Desktop Code tab Recents list storage/architecture on Windows
+- DR26-06-23-HUB-01 (2026-06-23, en): Claude Code session management and backup across multiple accounts and machines
+- DR26-06-23-HUB-02 (2026-06-23, en): Claude Code Multi-Account and Multi-Machine Operations
+- DR26-06-22-HUB-01 (2026-06-22, en): Designing an AI Creator Watcher for practical knowledge capture (AI/coding/PKM creators)
+- DR26-06-21-HUB-01 (2026-06-21, en): Designing a Safe and Helpful In-Chat AI Team Assistant
+- DR26-06-18-LEG-01 (2026-06-18, en): AI-native services business model in 2026: sequencing productized services, managed agent
+- DR26-06-17-LEG-01 (2026-06-17, en): Designing a synthetic AI cofounder: composite founder-trait blueprint and deployable promp
+- DR26-06-16-LEG-01 (2026-06-16, ru): Архитектура NotebookLM поверх Obsidian-волта и Claude Code для цифрового двойника
+- DR26-06-14-LEG-01 (2026-06-14, ru): Персонализация Cloud Code и агентных кодовых сред: как строить 'личность' AI-агента безопа
+- DR26-05-01-HUB-01 (2026-05-01, ru): Рынок и поставщики вокруг OpenClaw: сетапы, интеграторы, риски и альтернативы
+- DR26-07-14-FLEE-01 (, ru): Синтез-консенсус DR26-07-14-FLEE-01 — надёжная безлюдная оркестрация DR-fanout
+- DR26-07-16-HUB-03 (, ru): DR26-07-16-HUB-03 — Synthesis: safe fleet skill autonomy (supply-chain rails)
+- DR26-07-26-ZB-01 (, ru): Альфа из AI-фильмов: что из Ghost in the Shell / Blade Runner / Her реально строится в 2026 (DR26-07-26-ZB-01)
+- DR26-07-26-ZB-02 (, ru): Альфа из Юваля Харари: что забрать в систему, а что трёп (DR26-07-26-ZB-02)
+- DR26-07-29-MACANTON-02-1537 (, ru): Партизанский GitHub — синтез DR26-07-29-MACANTON-02-1537
+- DR26-07-31-MACANTON-03-2122 (, ru): OmniRoute — КОНСЕНСУС ТРЁХ РЕЛЬС + наши замеры (свод 04.08.2026)
+- DR26-08-01-MACANTON-01-0631 (, ru): Браузерная рельса агента: чему учат OpenClaw и Hermes — синтез DR26-08-01-MACANTON-01-0631
+- DR26-08-01-MACANTON-02-658 (, ru): Экономика удалённого офера от американской компании человеку в Лиссабоне — вердикт
+- DR26-08-01-MACANTON-02-659 (, ru): Steward-hire: как лаборатории нанимают мейнтейнера вместе с проектом — вердикт
+- DR26-08-01-MACANTON-02-701 (, ru): Публичные AI-кофаундеры и синтетические персоны — что реально работает (вердикт по Майкрофту)
+- DR26-08-01-MACANTON-02-727 (, ru): Substack для лаборатории без email-базы: брать или нет, в каком формате, по каким цифрам
+- DR26-08-04-ZB-03-1552 (, ru): Синтез DR26-08-04-ZB-03 — ACK-протокол флота: чинить семантику, а не транспорт
+- DR26-08-04-ZB-08-1744 (, ru): Синтез DR26-08-04-ZB-08 — GEO-аналитика по origin-логам: зрелого OSS нет, дом инструмента = свой репо
+- DR26-08-05-ZB-01-0125 (, ru): почему статья висит на arXiv и что реально делать
+- DR26-08-13-ZB-01-2110 (, ru): AI-автоматизация для прибыльных SMB США: синтез веера для идеи Артура
+- DR26-08-14-NAT-01-0941 (, ru): Синтез: как маленькой AI-лаборатории заходить на Хабр
+- DR26-08-14-ZB-01-0159 (, ru): SYNTHESIS: AI-native премиум-сервисы для состоятельной русскоязычной диаспоры вне РФ
+- DR26-08-16-MACANTON-01-0731 (, ru): DR26-08-16-MACANTON-01-0731 · Codex+Claude над одним волтом — синтез 4 рельс
