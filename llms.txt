@@ -1,6 +1,6 @@
 # Palo Alto AI Research Lab — deep research corpus
 
-226 distilled deep-research reports. Machine-readable index: index.json
+227 distilled deep-research reports. Machine-readable index: index.json
 Each file: frontmatter (dr_id, title, date, lang) + summary + key findings + recommendations.
 Multi-model methodology: every question fanned out to several frontier models, then reconciled.
 License: CC BY 4.0. Cite as: Palo Alto AI Research Lab, deep research <dr_id>.
@@ -231,3 +231,4 @@ License: CC BY 4.0. Cite as: Palo Alto AI Research Lab, deep research <dr_id>.
 - DR26-08-14-NAT-01-0941 (, ru): Синтез: как маленькой AI-лаборатории заходить на Хабр
 - DR26-08-14-ZB-01-0159 (, ru): SYNTHESIS: AI-native премиум-сервисы для состоятельной русскоязычной диаспоры вне РФ
 - DR26-08-16-MACANTON-01-0731 (, ru): DR26-08-16-MACANTON-01-0731 · Codex+Claude над одним волтом — синтез 4 рельс
+- DR26-08-21-HUB-02-1609 (, ru): Экономика синтетических сотрудников — что из тезиса «90% на токены» можно публиковать

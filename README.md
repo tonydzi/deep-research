@@ -1,6 +1,6 @@
 # Deep Research — Palo Alto AI Research Lab
 
-226 deep-research reports, distilled. Every entry answers two questions: why we ran this research, and what we got out of it.
+227 deep-research reports, distilled. Every entry answers two questions: why we ran this research, and what we got out of it.
 
 Each report was run across several frontier models (ChatGPT, Gemini, Grok, Claude, GLM, Mistral), then reconciled into the distilled note you see here. Findings are the reconciled ones, not a single model's opinion.
 
@@ -251,3 +251,4 @@ Raw model transcripts stay in our vault. What is published here is the distilled
 | [DR26-08-14-NAT-01-0941](research/DR26-08-14-NAT-01-0941-sintez-kak-malenkoy-ai-laboratorii-zahodit-na-habr.md) | Синтез: как маленькой AI-лаборатории заходить на Хабр |  |
 | [DR26-08-14-ZB-01-0159](research/DR26-08-14-ZB-01-0159-synthesis-ai-native-premium-servisy-dlya-sostoyatelnoy-russkoyazychnoy.md) | SYNTHESIS: AI-native премиум-сервисы для состоятельной русскоязычной диаспоры вне РФ |  |
 | [DR26-08-16-MACANTON-01-0731](research/DR26-08-16-MACANTON-01-0731-dr26-08-16-macanton-01-0731-codex-claude-nad-odnim-voltom-sintez-4-rel.md) | DR26-08-16-MACANTON-01-0731 · Codex+Claude над одним волтом — синтез 4 рельс |  |
+| [DR26-08-21-HUB-02-1609](research/DR26-08-21-HUB-02-1609-ekonomika-sinteticheskih-sotrudnikov-chto-iz-tezisa-90-na-tokeny-mozhn.md) | Экономика синтетических сотрудников — что из тезиса «90% на токены» можно публиковать |  |
