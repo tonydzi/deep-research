@@ -20,6 +20,7 @@ Raw model transcripts stay in our vault. What is published here is the distilled
 
 | ID | Topic | Date |
 |---|---|---|
+| [MEMO-2026-09-23](research/MEMO-2026-09-23-canton-half-billion-that-never-left-the-room.md) | Forensic memo: how startups fool naive crypto folks. Canton's "half a billion" that never left the room (headline vs outside cash) | 2026-09-23 |
 | [DR26-08-15-HUB-03](research/DR26-08-15-HUB-03-real-world-failure-modes-of-agent-driven-browsers-screen-control-and-s.md) | Real-world failure modes of agent-driven browsers, screen control, and session persistence | 2026-08-15 |
 | [DR26-08-11-HUB-02-2212](research/DR26-08-11-HUB-02-2212-asimmetriya-sliyaniya-pr-pochemu-mid-size-infra-oss-merzhit-autsaydero.md) | Асимметрия слияния PR: почему mid-size инфра-OSS мержит аутсайдеров, а вендорские cookbook | 2026-08-11 |
 | [DR26-08-02-ZB-04-2324](research/DR26-08-02-ZB-04-2324-multi-llm-coding-orchestration-claude-code-as-orchestrator-codex-antig.md) | Multi-LLM coding orchestration: Claude Code as orchestrator, Codex/Antigravity/Grok/Cursor | 2026-08-02 |
