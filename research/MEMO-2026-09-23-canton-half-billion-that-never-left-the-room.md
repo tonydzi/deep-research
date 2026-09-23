@@ -51,6 +51,22 @@ Canton Strategic Holdings ($545M "private placement", 82% CC, 18% cash)
 
 The only money that provably came from outside that loop is the **$99.4M cash offering** (Bloomberg's pre-close estimate was $100–200M; the filed number landed at the bottom of it), plus **$90.4M** raised in 2026 ($55M underwritten offering + $35.5M at-the-market). Everything else is a coin being re-priced, not capital being raised.
 
+## 1b. Evidence ladder: how far up does the "$99.4M cash" actually climb?
+
+A skeptic's standard, stated by Anton: a raise is proven only when **both sides** confirm it independently, and even then the "cash" may be money the network handed to the investor first. Applying that ladder to the $99.4M:
+
+| Rung | What would prove it | What exists | Verdict |
+|---|---|---|---|
+| 1. Press release | company says so | PR Newswire, Nov 6 2025 | claim only |
+| 2. SEC filing signed by the company | 8-K / 424B5 / 10-Q under Section 18 liability | cash offering $99.4M, CC offering $446.2M | company's claim under legal liability |
+| 3. Audited statement | auditor signs the cash flow line | 10-K FY2025: "proceeds from cash and cryptocurrency PIPE" **$99,368,636**, net financing **$107.2M**. Auditor: **Rosenberg Rich Baker Berman P.A.**, a small New Jersey firm, whose prior-year report carried a **going-concern** paragraph. ([10-K](https://www.sec.gov/Archives/edgar/data/1861657/000149315226013861/form10-k.htm), [DEF 14A via StockTitan](https://www.stocktitan.net/sec-filings/CNTN/def-14a-canton-strategic-holdings-inc-definitive-proxy-statement-495c3cce8ae8.html)) | cash existed in a bank account at some point; a regional auditor says so |
+| 4. Investor-side filing | the counterparty signs its own ownership | **ARK Investment Management** 13G: 3,252,033 shares, **8.92%**, as of 31.12.2025; CNTN also sits in ARKF's daily holdings. **Liberty City (LCV Fund III, LCV Fund VIII, LCV Blockchain Management)** 13G: ~**16.5M warrants** under 9.99% blockers, i.e. the in-kind CC side. **Broadridge** 13G. ([ARK 13G](https://www.sec.gov/Archives/edgar/data/1697748/000110465926009589/primary_doc.xml), [LCV 13G](https://www.sec.gov/Archives/edgar/data/1858209/000119312526034141/xslSCHEDULE_13G_X01/primary_doc.xml), [Broadridge 13G](https://www.sec.gov/Archives/edgar/data/1861657/000114036126004166/0001140361-26-004166-index.htm)) | ownership is two-sided for these three names; **who paid cash vs coin is still not two-sided** |
+| 5. Origin of the cash | bank records showing the investor's money was its own, not routed from the network, the Foundation or Digital Asset | none public; the Canton Foundation and Digital Asset are themselves listed as PIPE participants | **unfalsifiable from public data** |
+
+So the honest sentence is: **$99.4M of cash passed through the company's bank account, per a regional auditor. Whose cash it was, and whether some of it was first handed to the "investors" by the ecosystem, no public document can show.** That is the ceiling of what a journalist can prove without a subpoena; anyone quoting a higher confidence is selling something.
+
+One structural detail worth keeping: DRW's **William Wiley** (Head of Equities at DRW, chief of staff to DRW's CEO) joined the board Feb 2026, alongside CEO Mark Wendland (ex-COO of DRW). The largest coin contributor, the treasury's management and its board seat are the same firm.
+
 ## 2. Why the $0.15 price tag is soft
 
 The treasury is "worth" $500M only at the market price of CC.
