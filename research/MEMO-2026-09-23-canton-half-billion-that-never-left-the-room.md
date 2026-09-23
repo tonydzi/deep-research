@@ -13,10 +13,10 @@
 
 | Headline | What it actually is | Outside cash, as far as public documents show |
 |---|---|---|
-| "$500M treasury raise" (Oct 2025) → "$545M private placement" (Nov 2025) | A Nasdaq shell (Tharimmune → Canton Strategic Holdings, CNTN) that received **Canton Coin** from the two firms that had been *minting* that coin since genesis | Bloomberg: **$100–200M** from external investors; the 8-K shows **$501.8M of the treasury is CC** valued at ~$0.15 |
+| "$500M treasury raise" (Oct 2025) → "$545M private placement" (Nov 2025) | A Nasdaq shell (Tharimmune → Canton Strategic Holdings, CNTN) that received **Canton Coin** from the two firms that had been *minting* that coin since genesis | Per the company's own 10-Q: **$99.4M cash**, **$446.2M in Canton Coin tendered in-kind**. Cash = **18%** of the headline. |
 | "$355M a16z raise" (Jun 2026) | An equity round into Digital Asset (the company), $2B valuation | Press release only. **No cash vs in-kind breakdown, no audited disclosure, private company.** Same insider names as every prior round. |
 
-So: the half-billion that everyone quotes is ~92% a token that the contributors printed for themselves. The $355M is real *as a press release*; whether it is $355M of outside cash, nobody outside the cap table can verify. Those are different sentences and the ecosystem benefits from you not noticing.
+So: the half-billion that everyone quotes is **82% a token that the contributors printed for themselves**, by the company's own SEC filing. The $355M is real *as a press release*; whether it is $355M of outside cash, nobody outside the cap table can verify. Those are different sentences and the ecosystem benefits from you not noticing.
 
 ---
 
@@ -27,7 +27,8 @@ So: the half-billion that everyone quotes is ~92% a token that the contributors 
 1. **July 2024, genesis.** Canton Coin starts minting. In the first six months, **80% of all new CC goes to Super Validators**, a permissioned set of ~13 institutions. Cumberland (DRW's trading arm) and Liberty City Ventures are founding Super Validators. ([tokenomics writeup](https://sawinyh.com/blog/canton-coin-tokenomics/), [CIP-0114 analysis](https://sawinyh.com/blog/canton-cip-0114-dat-program/))
 2. **Oct 29, 2025, Bloomberg:** DRW leads talks for a **$500M** listed vehicle to buy Canton Coin. DRW and Liberty City "contribute a significant portion of the funds **in the form of Canton Coins**." External investors: **$100M–$200M**. ([Bloomberg](https://www.bloomberg.com/news/articles/2025-10-29/drw-leads-talks-to-raise-500-million-for-canton-token-treasury), [Cointelegraph via TradingView](https://www.tradingview.com/news/cointelegraph:c9faf332d094b:0-institutional-backers-plot-500m-canton-token-treasury-report/), [Phemex summary](https://phemex.com/news/article/canton-network-backers-seek-500-million-for-investment-entity-31197))
 3. **Nov 6, 2025:** Tharimmune (NASDAQ: THAR), a micro-cap biotech shell, closes a **$545M private placement** at $3.075/share, led by DRW and Liberty City, with the **Canton Foundation itself participating**. Digital Asset, Tradeweb, Polychain, 7RIDGE, SBI also on the list. ([Pulse2](https://pulse2.com/tharimmune-545-million-private-placement-closed-to-advance-canton-coin-treasury-strategy/))
-4. **Dec 31, 2025, SEC 8-K:** the renamed Canton Strategic Holdings holds **3,339,569,946 CC** with a fair value of **$501,760,369**. That is ~$0.15 per coin and **92% of the "$545M raise."** The document does not break out cash vs in-kind. ([SEC 8-K, exhibit 99.1](https://www.sec.gov/Archives/edgar/data/1861657/000149315226013823/ex99-1.htm))
+4. **The split, from the filings.** The 424B5 prospectus and the Q2 2026 10-Q describe two offerings inside the one "$545M" number: a **cash offering** (25,966,048 shares + 6,351,021 pre-funded warrants at $3.075 = **~$99.4M gross**) and a **"cryptocurrency offering"** (145,105,094 pre-funded warrants paid for with **Canton Coin worth ~$446.2M**). Net proceeds $537.1M after $8.5M costs. Cash at Dec 31, 2025: **$17M** (8-K) / $12.0M (10-Q). Revenue since inception: **zero** through Q1 2026. ([SEC 424B5](https://www.sec.gov/Archives/edgar/data/1861657/000149315226008711/form424b5.htm), [10-Q via StockTitan](https://www.stocktitan.net/sec-filings/CNTN/10-q-canton-strategic-holdings-inc-quarterly-earnings-report-bacd7820759e.html), [SEC 8-K, exhibit 99.1](https://www.sec.gov/Archives/edgar/data/1861657/000149315226013823/ex99-1.htm), [Q1 2026 results](https://www.stocktitan.net/news/CNTN/canton-strategic-holdings-reports-first-quarter-2026-financial-and-7igg69ug1mtx.html))
+4b. **Dec 31, 2025, SEC 8-K:** the renamed Canton Strategic Holdings holds **3,339,569,946 CC** with a fair value of **$501,760,369**, ~$0.15 per coin. ([SEC 8-K, exhibit 99.1](https://www.sec.gov/Archives/edgar/data/1861657/000149315226013823/ex99-1.htm))
 5. **Early 2026:** the vehicle is approved as a Super Validator, so it now **earns more CC** for holding CC. Its CEO, Mark Wendland, is the former **COO of DRW**. ([SEC 8-K](https://www.sec.gov/Archives/edgar/data/1861657/000149315226013823/ex99-1.htm))
 6. **March 2026, CIP-0114:** a protocol change grants Super Validator governance weight to any treasury company holding ≥$100M of CC **at cost basis**. The proposal was **authored by Wendland**, whose company is the only one that fits it, on a network whose Foundation invested in his placement. The analyst who documented it calls out "in-kind contributions from related parties" as the obvious way to game the cost basis. ([CIP-0114 analysis](https://sawinyh.com/blog/canton-cip-0114-dat-program/))
 
@@ -40,14 +41,14 @@ Super Validators (DRW/Cumberland, Liberty City, ...)
    Canton Coin (self-issued, thin float)
       │  "contributed" at market price into a Nasdaq shell
       ▼
-Canton Strategic Holdings ($545M "private placement", ~92% CC)
+Canton Strategic Holdings ($545M "private placement", 82% CC, 18% cash)
       │  approved as Super Validator → mints more CC
       │  CEO writes the CIP that grants his own vehicle governance
       ▼
    Headline: "Canton backers raise $500M+"
 ```
 
-The only money that provably came from outside that loop is Bloomberg's **$100–200M**, plus a **$55M** follow-on stock offering in early 2026. Everything else is a coin being re-priced, not capital being raised.
+The only money that provably came from outside that loop is the **$99.4M cash offering** (Bloomberg's pre-close estimate was $100–200M; the filed number landed at the bottom of it), plus **$90.4M** raised in 2026 ($55M underwritten offering + $35.5M at-the-market). Everything else is a coin being re-priced, not capital being raised.
 
 ## 2. Why the $0.15 price tag is soft
 
@@ -103,7 +104,7 @@ A reader who does not separate *equity in the company*, *coin in a treasury*, an
 
 ## 6. What would change our mind
 
-- A cash/in-kind breakdown of the $545M placement (the 8-K could have included it and did not).
+- ~~A cash/in-kind breakdown of the $545M placement.~~ Found: 424B5 + 10-Q, $99.4M cash / $446.2M CC. The press release and the 8-K omitted it; the prospectus did not.
 - Audited financials for Digital Asset showing the $355M as cash received.
 - A cap table showing which $355M investors are *not* Super Validators or prior-round holders.
 - Sustained CC volume that could actually absorb a $500M sale.
