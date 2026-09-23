@@ -79,6 +79,15 @@ What we cannot verify, and nobody can from the outside:
 
 We are **not** saying the $355M is fake. We are saying that "Digital Asset raised $355M from a16z" and "Canton attracted $355M of new outside capital" are different claims, and only the first one has a source.
 
+## 4b. Track record: the last flagship deployment cost the client A$250M
+
+Before pricing a $2B valuation off twelve years of raises, look at what the company shipped:
+
+- **ASX CHESS (2017–2022).** Digital Asset was the DLT vendor for the Australian Securities Exchange's post-trade replacement. Announced for April 2021, delayed repeatedly, paused in November 2022 after an Accenture review found the solution "not fit for purpose", and ASX **wrote off ~A$250M**. ([Finextra](https://www.finextra.com/newsarticle/41337/asx-takes-a250m-hit-after-scrapping-dlt-based-chess-replacement-project), [Inside Story](https://insidestory.org.au/the-asxs-chess-checkmate/))
+- **ASIC sued ASX** over "on track" and "progressing well" statements from February 2022; ASX admitted one contravention and paid a **A$20.5M** penalty. Digital Asset was not the defendant, but the project it delivered is the subject. ([ASIC media release](https://www.asic.gov.au/about-asic/news-centre/find-a-media-release/2024-releases/24-177mr-asic-sues-asx-for-alleged-misleading-statements/), [Business News Australia](https://www.businessnewsaustralia.com/articles/asx-agrees-to-pay-20m-penalty-over-misleading-statements-related-to-chess-replacement.html))
+- **"Permissionless" is marketing.** The CEO's own words to DL News: "The world is not permissionless. Even if we wanted it to be permissionless, it's just not." Critics are "crypto ideologues". Super Validators are vetted institutions; DL News also names the early accumulation of CC by those institutions as a sticking point. ([DL News](https://www.dlnews.com/articles/defi/canton-network-ceo-addresses-criticism-from-crypto-ideologues/))
+- **Equity vs coin asymmetry.** Institutions get Digital Asset equity *and* early CC via validator rewards. Retail gets CC only, bought later, on the mark that the same institutions set. Who owns the upside is not a rhetorical question.
+
 ## 5. The pattern, generalized: how the trick works on a naive reader
 
 This is not a Canton-specific trick. It is the standard 2025–26 institutional-crypto playbook:
