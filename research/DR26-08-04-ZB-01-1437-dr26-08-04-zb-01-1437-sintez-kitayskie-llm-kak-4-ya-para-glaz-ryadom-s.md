@@ -82,3 +82,4 @@ Gemini ставит его №2 ($0.30/$1.20 с промо-скидкой 50% н
 
 ## Связано
 gemini-third-reviewer-rail · hub-review-rails · model-routing-fable-smart · prefer-included-limits-before-paid-api · false-corroboration-two-sources-agreeing · coding-outsource-external-implementers
+- insight-DR-DR26-08-25-MACANTON-09-0740-сравнение-новых-llm-2026-glm-mimo-kimi-k3-claude-f — тот же DR-разбор GLM/Kimi K3, прямое пересечение

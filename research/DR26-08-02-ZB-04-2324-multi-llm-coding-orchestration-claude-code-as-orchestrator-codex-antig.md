@@ -58,3 +58,4 @@ source: Palo Alto AI Research Lab — deep research programme
 - AGENTS.md
 - secondop-second-opinion
 - shadow-first-mvp-pattern
+- insight-DR-DR26-08-25-MACANTON-16-0740-google-antigravity-2-0-архитектура-интерфейсы-desk — раздел про Antigravity CLI — прямое дополнение

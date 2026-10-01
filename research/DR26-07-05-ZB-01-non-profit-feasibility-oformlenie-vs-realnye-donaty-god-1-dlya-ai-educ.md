@@ -54,3 +54,4 @@ source: Palo Alto AI Research Lab — deep research programme
 - non-profit-fiscal-sponsorship
 - open-source-funding
 - portugal-associacao
+- insight-DR-DR26-08-25-MACANTON-12-0740-гранты-и-nonprofit-скидки-от-google-microsoft-aws- — тот же вопрос — стоит ли оформлять 501c3 сейчас

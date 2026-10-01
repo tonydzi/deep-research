@@ -70,3 +70,6 @@ Codex читает свои правила стопкой: сначала общ
 - ❌ 32-КБ обрез на Mac16 неактуален: `project_doc_max_bytes` = 262144 с посылки `codex-cap-handoff-20260809`.
 - ⚠️ Побочный урок: Codex, спрошенный «какие AGENTS.md ты загрузил», назвал НЕСУЩЕСТВУЮЩИЙ путь. Состав контекста меряется только sentinel-строкой.
 Принятое решение (АК-47, §5.10 — 1-й случай, механизм не строим): рабочее ПРАВИЛО в `_imports/AGENTS.md` — запускать codex по движкам только `--cd /Users/anton/Obsidian/_imports --skip-git-repo-check`.
+
+## Связано
+- insight-DR-DR26-08-28-MACANTON-01-1114-dual-agent-codex-cli-claude-code-над-общим-волтом- — прямой предшественник — тот же DR-тред Codex+Claude dual-agent над волтом

@@ -57,3 +57,4 @@ source: Palo Alto AI Research Lab — deep research programme
 - heterogeneous-review-pairing
 - insight-DR-DR26-07-01-ZB-01-sota-architecture-for-a-unified-local-first-second — почти дублирующий DR по той же теме мульти-вендорной коллаборации поверх волта
 - insight-DR-DR26-07-28-HUB-10-2339-grok-coding-grok-4-5-grok-build-от-spacexai-возмож — обе разбирают Grok как вендора коллаборации/кодинг-агента
+- insight-DR-DR26-08-25-MACANTON-16-0740-google-antigravity-2-0-архитектура-интерфейсы-desk — тот же DR про мульти-вендорную коллаборацию, разбирает Antigravity

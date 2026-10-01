@@ -72,7 +72,7 @@ trademark clearance в классах 9 и 42 → проверить human recal
 Подпись склеена в одну сущность: `Tony Dzi (Anton Dziatkovskii)` ведущим везде, обратный
 порядок только на научных поверхностях (arXiv/ORCID — статья уже подана под юр. именем).
 Вписано в `_STYLE-footer.md` блок E. Домены `tonydzi.com` + `tonydzi.ai` ($93.78/год против
-$154 498 за qqq.ai) — куплены по задаче task-2026-08-06-kupit-domeny-tonydzi.
+$154 498 за qqq.ai) — заказаны задачей (⚠️ на 25.08 НЕ куплены — RDAP 404 на оба, задача запаркована 19.08) task-2026-08-06-kupit-domeny-tonydzi.
 
 ## Что осталось открытым
 
@@ -89,4 +89,5 @@ chatgpt.md 46 КБ; отклонённая gemini — в `_rejected/`).
 Ход сессии, где это решалось → retro-2026-08-06-naming-tonydzi-glue.
 
 Связано: post-mandatory-elements, palo-alto-lab-site-hiring-magnet,
-main-goals, closed-dr-becomes-public-content, fake-it-courage-not-fake-numbers.
+main-goals, closed-dr-becomes-public-content, fake-it-courage-not-fake-numbers,
+insight-DR-DR26-08-25-HUB-01-0712-claw-cluster (продолжение: карта CLAW-кластера и цена корня).

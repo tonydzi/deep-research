@@ -1,6 +1,6 @@
 {
- "generated": "2026-08-23",
- "count": 227,
+ "generated": "2026-10-01",
+ "count": 328,
  "repo": "https://github.com/tonydzi/deep-research",
  "research": [
   {
@@ -173,6 +173,276 @@
    "date": "",
    "slug": "DR26-08-21-HUB-02-1609-ekonomika-sinteticheskih-sotrudnikov-chto-iz-tezisa-90-na-tokeny-mozhn",
    "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-08-21-HUB-02-1609-ekonomika-sinteticheskih-sotrudnikov-chto-iz-tezisa-90-na-tokeny-mozhn.md"
+  },
+  {
+   "dr_id": "DR26-08-23-HUB-02-2226",
+   "title": "Touch base — ледокол для спящего тёплого контакта, якорь и no-delta спор",
+   "summary": "Полный синтез (формат A-H, evidence-graded): [[SYNTHESIS-DR26-08-23-HUB-02-2226]] · файл `_machine-bus/_dr/queue/DR26-08-23-HUB-02-2226/SYNTHESIS.md`",
+   "lang": "ru",
+   "date": "",
+   "slug": "DR26-08-23-HUB-02-2226-touch-base-ledokol-dlya-spyaschego-teplogo-kontakta-yakor-i-no-delta-s",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-08-23-HUB-02-2226-touch-base-ledokol-dlya-spyaschego-teplogo-kontakta-yakor-i-no-delta-s.md"
+  },
+  {
+   "dr_id": "DR26-08-24-HUB-03-1747",
+   "title": "Механика найма во frontier-LLM-компаниях — доска, визы, OSS-двери и спека монитора",
+   "summary": "Две рельсы — **grok Heavy** (77 КБ, по памяти, без веб-инструментов) и **codex/GPT-5.6** (72 КБ, **177 уникальных источников**, живой веб-поиск, 23 минуты) — **плюс собственный детерминированный замер** этой сессии: 30 публичных job-board API дёрнуты живьём 24.08.2026. Оригиналы: `_originals\\deep-research\\DR26-08-24-HUB-03-1747-llm-hiring-mechanics-{grok,chatgpt}.md`",
+   "lang": "ru",
+   "date": "",
+   "slug": "DR26-08-24-HUB-03-1747-mehanika-nayma-vo-frontier-llm-kompaniyah-doska-vizy-oss-dveri-i-speka",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-08-24-HUB-03-1747-mehanika-nayma-vo-frontier-llm-kompaniyah-doska-vizy-oss-dveri-i-speka.md"
+  },
+  {
+   "dr_id": "DR26-08-24-HUB-04-1830",
+   "title": "Gonka / GNK и братья Либерман: ревизия кейса на 24.08.2026",
+   "summary": "Потребитель: продавать ли им наши услуги, заходить ли в токен, копировать ли схему сбора денег. Связано: [[hub-dr-research]], [[hub-leads-outreach]], [[zero-trust-product-line]], [[false-corroboration-two-sources-agreeing]], [[check-all-places-not-one]], [[insight-DR-DR26-08-24-HUB-05-1830-crypto-rounds-audit]]. Каталог их фандрайз-приёмов (журналистское досье + наш детектор): [[reglament-fandrayz-po-tipu-gonki]] (дверь = скилл `/gonka-fundraise`).",
+   "lang": "ru",
+   "date": "",
+   "slug": "DR26-08-24-HUB-04-1830-gonka-gnk-i-bratya-liberman-reviziya-keysa-na-24-08-2026",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-08-24-HUB-04-1830-gonka-gnk-i-bratya-liberman-reviziya-keysa-na-24-08-2026.md"
+  },
+  {
+   "dr_id": "DR26-08-24-HUB-05-1830",
+   "title": "Аудит свежих раундов в крипте июнь-август 2026: реестр, кластеры, BD-адреса",
+   "summary": "Потребитель: список BD-адресов на аутрич + карта рынка. Связано: [[hub-leads-outreach]], [[hub-dr-research]], [[zero-trust-product-line]], [[false-corroboration-two-sources-agreeing]], [[check-all-places-not-one]].",
+   "lang": "ru",
+   "date": "",
+   "slug": "DR26-08-24-HUB-05-1830-audit-svezhih-raundov-v-kripte-iyun-avgust-2026-reestr-klastery-bd-adr",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-08-24-HUB-05-1830-audit-svezhih-raundov-v-kripte-iyun-avgust-2026-reestr-klastery-bd-adr.md"
+  },
+  {
+   "dr_id": "DR26-08-24-HUB-06-2040",
+   "title": "Плейбук упаковки: как поднимают крупно при слабом adoption — и что из этого наше",
+   "summary": "Потребитель: решение, как упаковать наш продукт и наш рейз. Связано: [[insight-DR-DR26-08-20-MACANTON-01-1327-предмет-подъёма-при-нулевом-adoption-продукт-vs-ау]], [[insight-DR-DR26-08-24-HUB-04-1830-gonka-gnk-revision]], [[insight-DR-DR26-08-24-HUB-05-1830-crypto-rounds-audit]], [[zero-trust-product-line]], [[agent-security-funding-2026]], [[false-corroboration-two-sources-agreeing]], [[check-all-places-not-one]], [[fake-it-courage-not-fake-numbers]], [[hub-dr-research]].",
+   "lang": "ru",
+   "date": "",
+   "slug": "DR26-08-24-HUB-06-2040-pleybuk-upakovki-kak-podnimayut-krupno-pri-slabom-adoption-i-chto-iz-e",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-08-24-HUB-06-2040-pleybuk-upakovki-kak-podnimayut-krupno-pri-slabom-adoption-i-chto-iz-e.md"
+  },
+  {
+   "dr_id": "DR26-08-25-HUB-02-0712",
+   "title": "Лёгкость фандрейза по трём витринам: аудит легче всего, Сиренка — красный океан, сила в комбо",
+   "summary": "[!success] Продолжение → полный инвест-мемо на кворуме 4/6 Этот insight (HUB-02, 2/6) уточнён и углублён в **[[decision-DR26-08-25-HUB-03-control-plane-raise-memo]]** (DR26-08-25-HUB-03, кворум 4/6: grok+codex+mistral+glm). Там: точный размер чека (~$5M seed), победившая формулировка «zero-trust execution boundary для флота агентов», разбор 4 моатов, WOW-артефакт (которого сейчас НЕТ) и 7 возражений со снятием. Главный сдвиг: «30 CVE + 21k» — это слайд, а не ров, пока нет независимого воспроизведения.",
+   "lang": "ru",
+   "date": "",
+   "slug": "DR26-08-25-HUB-02-0712-legkost-fandreyza-po-trem-vitrinam-audit-legche-vsego-sirenka-krasnyy",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-08-25-HUB-02-0712-legkost-fandreyza-po-trem-vitrinam-audit-legche-vsego-sirenka-krasnyy.md"
+  },
+  {
+   "dr_id": "DR26-08-26-HUB-01-0727",
+   "title": "SMB/mid-market AI: гипотеза «<1%» опровергнута, горизонтальный «второй мозг для SMB» — слабейшая упаковка",
+   "summary": "Потребитель: решение о сегментации двух бизнесов. Связано: [[decision-DR26-08-25-HUB-03-control-plane-raise-memo]], [[two-storefronts-raise-and-acquihire]], [[insight-DR-DR26-08-25-HUB-02-0712-fundraise-ease-three-storefronts]], [[second-brain-northstar]], [[fake-it-courage-not-fake-numbers]].",
+   "lang": "ru",
+   "date": "",
+   "slug": "DR26-08-26-HUB-01-0727-smb-mid-market-ai-gipoteza-1-oprovergnuta-gorizontalnyy-vtoroy-mozg-dl",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-08-26-HUB-01-0727-smb-mid-market-ai-gipoteza-1-oprovergnuta-gorizontalnyy-vtoroy-mozg-dl.md"
+  },
+  {
+   "dr_id": "DR26-08-26-HUB-02-0727",
+   "title": "Карта агентского секюрити 2024-2026: три переполненные полки + одна пустая (fleet control plane) — наш клин",
+   "summary": "Цифры — из chatgpt (SEC-первоисточники); стадия на авг.2026. Спорные атрибуции помечены.",
+   "lang": "ru",
+   "date": "",
+   "slug": "DR26-08-26-HUB-02-0727-karta-agentskogo-sekyuriti-2024-2026-tri-perepolnennye-polki-odna-pust",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-08-26-HUB-02-0727-karta-agentskogo-sekyuriti-2024-2026-tri-perepolnennye-polki-odna-pust.md"
+  },
+  {
+   "dr_id": "DR26-08-26-HUB-03-0935",
+   "title": "ДР-синтез: оптимизация ретро и компакта (SOTA сжатия контекста, бенчмарки, апгрейды)",
+   "summary": "Заказ: сессия 65c9f647 26.08 (публикация compact-canon + claw-retro) заказала ДР «что делает мир за пределами GitHub-хоббистов и что нам улучшить». Синтез по частичному сбору 2/6, недобранные рельсы остаются в missing; добор возможен после ребута хаба, но решения ниже он скорее уточнит, чем перевернёт (оба пришедших отчёта сошлись в главном независимо от третьего голоса).",
+   "lang": "ru",
+   "date": "",
+   "slug": "DR26-08-26-HUB-03-0935-dr-sintez-optimizatsiya-retro-i-kompakta-sota-szhatiya-konteksta-bench",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-08-26-HUB-03-0935-dr-sintez-optimizatsiya-retro-i-kompakta-sota-szhatiya-konteksta-bench.md"
+  },
+  {
+   "dr_id": "DR26-08-29-ZB-01-0856",
+   "title": "Корпоративный второй мозг: возражение опровергнуто по сути, верно только про СЛОВО; дверь = память для агентов",
+   "summary": "Потребитель: решение про возражение «корпоратам нет смысла продавать второй мозг» + упаковка предложения. Связано: [[insight-DR-DR26-08-26-HUB-01-0727-smb-market-penetration]], [[insight-DR-DR26-08-25-HUB-02-0712-fundraise-ease-three-storefronts]], [[decision-DR26-08-25-HUB-03-control-plane-raise-memo]], [[two-storefronts-raise-and-acquihire]], [[second-brain-northstar]], [[false-corroboration-two-sources-agreeing]].",
+   "lang": "ru",
+   "date": "",
+   "slug": "DR26-08-29-ZB-01-0856-korporativnyy-vtoroy-mozg-vozrazhenie-oprovergnuto-po-suti-verno-tolko",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-08-29-ZB-01-0856-korporativnyy-vtoroy-mozg-vozrazhenie-oprovergnuto-po-suti-verno-tolko.md"
+  },
+  {
+   "dr_id": "DR26-08-31-MACANTON-02-0655",
+   "title": "DR DR26-08-31-MACANTON-02-0655 · Hyperliquid: карта раундов, найма и дверей (август 2026)",
+   "summary": "Синтез трёх НЕЗАВИСИМЫХ рельс. Каждый факт несёт число согласившихся рельс. Оригиналы verbatim: `_originals/deep-research/DR26-08-31-MACANTON-02-0655-hyperliquid-ecosystem-hiring-funding-map-{grok,chatgpt,claudeai}.md`",
+   "lang": "ru",
+   "date": "",
+   "slug": "DR26-08-31-MACANTON-02-0655-dr-dr26-08-31-macanton-02-0655-hyperliquid-karta-raundov-nayma-i-dvere",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-08-31-MACANTON-02-0655-dr-dr26-08-31-macanton-02-0655-hyperliquid-karta-raundov-nayma-i-dvere.md"
+  },
+  {
+   "dr_id": "DR26-08-31-ZB-01-2223",
+   "title": "Найм против нового проекта: синтез трёх рельс",
+   "summary": "Кворум: 3 из 6 рельс. В синтез вошли Grok, Codex и Gemini. Claude.ai Research к моменту синтеза ещё считал. GLM и Mistral не стартовали из-за разлогина и гейта ToS.",
+   "lang": "ru",
+   "date": "",
+   "slug": "DR26-08-31-ZB-01-2223-naym-protiv-novogo-proekta-sintez-treh-rels",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-08-31-ZB-01-2223-naym-protiv-novogo-proekta-sintez-treh-rels.md"
+  },
+  {
+   "dr_id": "DR26-09-04-HUB-02-2326",
+   "title": "bb: два проекта с одним именем — что из харнеса Browserbase брать, а что у нас уже стоит",
+   "summary": "Связано: [[credential-store]] · [[no-harness-approval-prompts]] · [[routine-must-declare-its-output]] · [[hub-dr-research]] · [[ak47-simplicity]] · [[prichina-kak-claim]]",
+   "lang": "ru",
+   "date": "",
+   "slug": "DR26-09-04-HUB-02-2326-bb-dva-proekta-s-odnim-imenem-chto-iz-harnesa-browserbase-brat-a-chto",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-09-04-HUB-02-2326-bb-dva-proekta-s-odnim-imenem-chto-iz-harnesa-browserbase-brat-a-chto.md"
+  },
+  {
+   "dr_id": "DR26-09-14-MACANTON-01-1204",
+   "title": "Портреты тех, кого берут: хедж-фонды · COO/IR/CoS в AI-стартапе · PD/COO/EIR в инкубаторах (DR26-09-14-MACANTON-01-1204)",
+   "summary": "Заказ: [[voice-20260913080550-msg6598|голосовая Антона #6598 от 13.09]] → закрыть три семьи ролей, которых не было в предыдущих ДР по найму. Сверка с фактами: [[Anton-Canonical-Identity-CV]]. Соседи: [[insight-DR-DR26-08-24-HUB-03-1747-llm-hiring-mechanics]] (механика найма в LLM-лабах), [[portrait-devrel-and-developer-education]] (четвёртая семья ролей: DevRel и Developer Education, DR26-09-14-ZB-10-2009). Хаб сводит DevRel / биржи / стейблкоины / BD — его заметка `insight-2026-09-14-ideal-candidate-portraits-hub` на момент синтеза на Mac16 не доехала, общий мемо ждёт её. Код не правлю. Это план для сессии `/cv`. ⛔ Цифр, которых нет в мастере, не выдумывать — строки с 🤔 требуют фактов от Антона.",
+   "lang": "ru",
+   "date": "",
+   "slug": "DR26-09-14-MACANTON-01-1204-portrety-teh-kogo-berut-hedzh-fondy-coo-ir-cos-v-ai-startape-pd-coo-ei",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-09-14-MACANTON-01-1204-portrety-teh-kogo-berut-hedzh-fondy-coo-ir-cos-v-ai-startape-pd-coo-ei.md"
+  },
+  {
+   "dr_id": "DR26-09-14-ZB-10-2009",
+   "title": "DevRel / Developer Education в AI-лаборатории: собирательный портрет",
+   "summary": "Ровно по центральному вопросу ТЗ («какая дверь шире без FAANG-инженерного прошлого») ноги разошлись:",
+   "lang": "ru",
+   "date": "",
+   "slug": "DR26-09-14-ZB-10-2009-devrel-developer-education-v-ai-laboratorii-sobiratelnyy-portret",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-09-14-ZB-10-2009-devrel-developer-education-v-ai-laboratorii-sobiratelnyy-portret.md"
+  },
+  {
+   "dr_id": "DR26-09-14-ZB-11-2009",
+   "title": "BD / Partnerships / Forward-Deployed / EIR: как читается бывший фаундер",
+   "summary": "Обе сильные ноги независимо дали **ноль подтверждённых EIR-наймов** во всём скоупе (Anthropic, OpenAI, DeepMind, Mistral, Cohere, xAI, Scale, Palantir, Sierra, Harvey, Glean, Databricks, Together) за 24 месяца. Формулировка chatgpt: «создавать фиктивную выборку EIR было бы вводящим в заблуждение».",
+   "lang": "ru",
+   "date": "",
+   "slug": "DR26-09-14-ZB-11-2009-bd-partnerships-forward-deployed-eir-kak-chitaetsya-byvshiy-faunder",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-09-14-ZB-11-2009-bd-partnerships-forward-deployed-eir-kak-chitaetsya-byvshiy-faunder.md"
+  },
+  {
+   "dr_id": "DR26-09-14-ZB-12-2009",
+   "title": "COO / Chief of Staff / IR / Capital Formation: заполняются ли эти роли публично",
+   "summary": "**Чем стратегичнее роль, тем меньше она постится публично.** COO, Chief of Staff-to-CEO и Head of IR закрывают через сеть, инвесторов и retained search ДО появления вакансии. А Head of Ops / BizOps / VP Ops — наоборот, висят открыто на Ashby/Greenhouse/Wellfound. «Raised $80M through a global ICO community in six weeks.» «Led a cross-border primary financing process from investor segmentation and data-room preparation through counsel-led securities analysis, KYC/AML, disclosure, treasury setup and close; generated $X net cash proceeds from Y verified investors and extended operating runway by Z months.» «Capital formation under regulatory and reputational uncertainty: built compliant process, controlled disclosures, coordinated counsel, closed institutional capital and maintained treasury/investor reporting.»",
+   "lang": "ru",
+   "date": "",
+   "slug": "DR26-09-14-ZB-12-2009-coo-chief-of-staff-ir-capital-formation-zapolnyayutsya-li-eti-roli-pub",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-09-14-ZB-12-2009-coo-chief-of-staff-ir-capital-formation-zapolnyayutsya-li-eti-roli-pub.md"
+  },
+  {
+   "dr_id": "DR26-09-14-ZB-13-2009",
+   "title": "Стейблкоины vs криптобиржи vs хедж-фонды: где профиль крипто-фаундера заходит легче",
+   "summary": "Доехали две ноги разных вендоров (chatgpt и grok), обе крупные и с источниками. **Не доехали три бака Claude**, и причина измерена, а не предположена:",
+   "lang": "ru",
+   "date": "",
+   "slug": "DR26-09-14-ZB-13-2009-steyblkoiny-vs-kriptobirzhi-vs-hedzh-fondy-gde-profil-kripto-faundera",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-09-14-ZB-13-2009-steyblkoiny-vs-kriptobirzhi-vs-hedzh-fondy-gde-profil-kripto-faundera.md"
+  },
+  {
+   "dr_id": "DR26-09-14-ZB-14-2009",
+   "title": "Инкубаторы/акселераторы и исследовательские роли в лаборатории без ML-PhD",
+   "summary": "«Я владею архитектурой, evals, отказами и production-результатом; AI-агенты увеличивают мою скорость реализации».",
+   "lang": "ru",
+   "date": "",
+   "slug": "DR26-09-14-ZB-14-2009-inkubatory-akseleratory-i-issledovatelskie-roli-v-laboratorii-bez-ml-p",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-09-14-ZB-14-2009-inkubatory-akseleratory-i-issledovatelskie-roli-v-laboratorii-bez-ml-p.md"
+  },
+  {
+   "dr_id": "DR26-09-14-ZB-20-2206",
+   "title": "FDE: какой реальный уровень кодинга спрашивают на интервью",
+   "summary": "⚠️ **Заказ намеренно НЕ помечен `synthesized`.** Отметка кворума выводит его из-под суточного доборщика `dr_latecomer_sweep.py`, и четыре недобранные ноги станут мёртвым долгом. Пусть висит `collecting`.",
+   "lang": "ru",
+   "date": "",
+   "slug": "DR26-09-14-ZB-20-2206-fde-kakoy-realnyy-uroven-kodinga-sprashivayut-na-intervyu",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-09-14-ZB-20-2206-fde-kakoy-realnyy-uroven-kodinga-sprashivayut-na-intervyu.md"
+  },
+  {
+   "dr_id": "DR26-09-15-HUB-01-1111",
+   "title": "Стоит ли непрерывная запись экрана своей цены, если звук и текст уже есть",
+   "summary": "16 суток screenpipe 0.4.50 пишет экран+звук на хабе (4 монитора). Собственный замер: 224 899 кадров, 22.9 ГБ, 1.51 ГБ/сутки; один и тот же текст хранится 4 раза (`full_text` 0.61 ГБ, `elements` ~20 ГБ, `text_json` 4.22 ГБ, `accessibility_tree_json` 6.37 ГБ); спрос на чтение экрана за 30 суток по 5 машинам = 1 вызов; звук, наоборот, даёт 38.6 ГБ сырья → 388 КБ используемых заметок за 13 дней. Вопрос внешней разведке: подтверждает ли рынок наш вывод «экран — почти весь дубль или мусор»?",
+   "lang": "ru",
+   "date": "",
+   "slug": "DR26-09-15-HUB-01-1111-stoit-li-nepreryvnaya-zapis-ekrana-svoey-tseny-esli-zvuk-i-tekst-uzhe",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-09-15-HUB-01-1111-stoit-li-nepreryvnaya-zapis-ekrana-svoey-tseny-esli-zvuk-i-tekst-uzhe.md"
+  },
+  {
+   "dr_id": "DR26-09-15-HUB-04-1610",
+   "title": "Как проходят интервью в AI-лабораториях и FAANG — и что это значит для Антона",
+   "summary": "**Заказ:** DR26-09-15-HUB-04-1610 · **Потребитель:** коучинг Антона перед звонками (Пайп A) + обновление [[interview-prep]] и `/coach`. **Родители:** [[insight-DR-DR26-09-14-ZB-11-2009-bd-partnerships-fde-eir]] (кого берут), [[insight-DR-DR26-08-24-HUB-03-1747-llm-hiring-mechanics]] (механика найма), [[insight-2026-08-31-recall-anton-candidate-positioning-full-map]] (позиционирование). Предыдущие ДР закрывали отбор **до** интервью. Этот — первый про **сам процесс**.",
+   "lang": "ru",
+   "date": "",
+   "slug": "DR26-09-15-HUB-04-1610-kak-prohodyat-intervyu-v-ai-laboratoriyah-i-faang-i-chto-eto-znachit-d",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-09-15-HUB-04-1610-kak-prohodyat-intervyu-v-ai-laboratoriyah-i-faang-i-chto-eto-znachit-d.md"
+  },
+  {
+   "dr_id": "DR26-09-15-HUB-05-1826",
+   "title": "Как ВЕСТИ СЕБЯ в семи комнатах интервью: поведенческая механика (DR26-09-15-HUB-05-1826)",
+   "summary": "«I see two approaches. The hash-map version is linear but uses O(n) memory; sorting costs O(n log n) but bounds memory differently. Given this constraint, I'll use the map and first test duplicate inputs.» «Give me ten seconds to compare the two failure modes.» «I'm glad to discuss compensation when there's mutual fit; right now I want to understand the role.» «The problem was X. I personally owned Y. The measured result was Z. The hardest trade-off was A versus B. I can start with architecture, the failure that changed the design, or rollout — where would you like depth?»",
+   "lang": "ru",
+   "date": "",
+   "slug": "DR26-09-15-HUB-05-1826-kak-vesti-sebya-v-semi-komnatah-intervyu-povedencheskaya-mehanika-dr26",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-09-15-HUB-05-1826-kak-vesti-sebya-v-semi-komnatah-intervyu-povedencheskaya-mehanika-dr26.md"
+  },
+  {
+   "dr_id": "DR26-09-15-MACANTON-02-1229",
+   "title": "Синтез DR26-09-15-MACANTON-02-1229 — AI-визионеры: слова против ставок, прогноз 2026-2030, двери для внешнего билдера",
+   "summary": "**Кворум 4/5:** Grok (115 источников) · claude.ai (49) · GLM (55) · Gemini (121). ChatGPT не собран. Отчёты лежат в `_machine-bus/_dr/queue/DR26-09-15-MACANTON-02-1229/results/`. Черновой desk-scan до ДР: [[insight-2026-09-15-ai-visionaries-karpathy-league-theses-and-bets]]. Связи: [[decision-2026-07-29-github-visibility-measurement-and-karpathy-position]] · [[insight-DR-DR26-07-28-HUB-08-2338-andrej-karpathy-биография-публичные-тезисы-про-ai-]] · [[MOC-AI-Agents]] · [[mission-get-noticed-hired-by-llm-company]] · [[cold-pr-into-silent-queue]]",
+   "lang": "ru",
+   "date": "",
+   "slug": "DR26-09-15-MACANTON-02-1229-sintez-dr26-09-15-macanton-02-1229-ai-vizionery-slova-protiv-stavok-pr",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-09-15-MACANTON-02-1229-sintez-dr26-09-15-macanton-02-1229-ai-vizionery-slova-protiv-stavok-pr.md"
+  },
+  {
+   "dr_id": "DR26-09-15-ZB-04-0758",
+   "title": "Планировщики соцсетей с MCP: кто держит платный доступ к X за нас",
+   "summary": "У Антона есть своё developer-приложение X, но оно **не enrolled в pay-per-use**, поэтому X API v2 отдаёт `403 client-not-enrolled`. Пока это так, любая рельса «принеси свой ключ» упирается ровно в эту стену. Вопрос был: кто из планировщиков держит платный доступ к X **на своей стороне**, чтобы агент публиковал через OAuth и без биллинга X.",
+   "lang": "ru",
+   "date": "",
+   "slug": "DR26-09-15-ZB-04-0758-planirovschiki-sotssetey-s-mcp-kto-derzhit-platnyy-dostup-k-x-za-nas",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-09-15-ZB-04-0758-planirovschiki-sotssetey-s-mcp-kto-derzhit-platnyy-dostup-k-x-za-nas.md"
+  },
+  {
+   "dr_id": "DR26-09-16-MACANTON-01-0446",
+   "title": "Конференции Bay Area как двигатель найма и набора инженеров-пользователей — плейбук",
+   "summary": "Оригиналы: `_originals/deep-research/DR26-09-16-MACANTON-01-0446-conference-playbook-{grok,chatgpt,chatgpt-a2,glm}.md`. Потребитель: [[task-2026-09-16-conference-playbook-sf]]. Убеждение, которое проверяем: [[insight-konferentsii-bessmyslenny-bez-raboty-s-lidami]]. \"I'm Anton, Palo Alto. I build and run agent tooling in production — agent memory and a multi-machine Claude fleet — and I ship it in public: about 15 open-source repos and open PRs into Anthropic's cookbook. I'm looking for a developer-community or DevRel role where turning power-user workflows into adoption is the job. I'll send one page and the repo tonight.\" \"I build agent memory and multi-machine orchestration for Claude — I specify, test and ship through coding agents and own the eval and feedback loop. I'm looking for engineers who'll tell me where it breaks on a real stack. Sixty-second demo?\"",
+   "lang": "ru",
+   "date": "",
+   "slug": "DR26-09-16-MACANTON-01-0446-konferentsii-bay-area-kak-dvigatel-nayma-i-nabora-inzhenerov-polzovate",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-09-16-MACANTON-01-0446-konferentsii-bay-area-kak-dvigatel-nayma-i-nabora-inzhenerov-polzovate.md"
+  },
+  {
+   "dr_id": "DR26-09-16-MACANTON-02-0453",
+   "title": "Синтез DR26-09-16-MACANTON-02-0453 — вторая память: какие репо взять в Graph RAG над волтом, какие тесты ставить, и почему это «память», а не «мозг»",
+   "summary": "**Собрано 3/6:** ChatGPT/codex (43 источника, 33 КБ) · claude.ai CLI (103 источника, 48 КБ) · Grok (58 источников, 39 КБ). **Не собрано:** Gemini (CLI пустое тело; Firefox «не нашёл пункт Deep Research»), GLM (слайдер-капча, эхо промпта), Mistral (двери на Mac16 нет). Кворум 4/6 не добран, пол «3 разные LLM» выполнен; недобор докупает `dr_latecomer_sweep.py`. Отчёты: `_machine-bus/_dr/queue/DR26-09-16-MACANTON-02-0453/results/`. Промпт: там же, `queue/DR26-09-16-MACANTON-02-0453.md`. Заказ: голосовая Антона 16.09 04:47 («прошу Claude провести глубокое исследование… репозитории на GitHub… тесты для второго мозга… второй мозг — это вторая память»). Связи: [[sqlite-graph-memory]] · [[second-brain-starter-kit]] · [[vault-data-architecture]] · [[always-on-memory-pilot]] · [[memory-records-close-by-fields-not-rewrite]] · [[watchdog-must-verify-the-item]] · [[MOC-AI-Agents]] · [[mission-get-noticed-hired-by-llm-company]]",
+   "lang": "ru",
+   "date": "",
+   "slug": "DR26-09-16-MACANTON-02-0453-sintez-dr26-09-16-macanton-02-0453-vtoraya-pamyat-kakie-repo-vzyat-v-g",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-09-16-MACANTON-02-0453-sintez-dr26-09-16-macanton-02-0453-vtoraya-pamyat-kakie-repo-vzyat-v-g.md"
+  },
+  {
+   "dr_id": "DR26-09-22-ZB-01-1143",
+   "title": "DR ZB-01-1143: AI-compute провайдеры (neocloud) как работодатели — синтез",
+   "summary": "Заказ [[DR26-09-22-ZB-01-1143]], кормит [[mission-llm-hire-weekly-plan]]. Синтез собран 23.09 суточным исполнителем долгов.",
+   "lang": "ru",
+   "date": "",
+   "slug": "DR26-09-22-ZB-01-1143-dr-zb-01-1143-ai-compute-provaydery-neocloud-kak-rabotodateli-sintez",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-09-22-ZB-01-1143-dr-zb-01-1143-ai-compute-provaydery-neocloud-kak-rabotodateli-sintez.md"
+  },
+  {
+   "dr_id": "DR26-09-23-ZB-01-0631",
+   "title": "Китайские LLM-лаборатории и Долина — нужен ли им местный ecosystem/DevRel-оператор, и где именно дверь",
+   "summary": "Заказ: Антон, 23.09.2026 06:26, голосом в чат. Гипотеза: китайские лаборатории (GLM, DeepSeek и др.) хотят быть сильнее представлены в Долине, и Антон как живущий там инженер с сетью «всех инженеров Долины и умных ИИ-инвесторов» им нужен. Рельсы: **Grok** (headless, DeeperSearch, 49 КБ, 65 URL, 8 мин) · **GLM-5.3** (Deep Think Max + Advanced Search, ~28 КБ) · **claude.ai Fable 5.1 Max + Research** (381 источник, 50 КБ, артефакт на русском). Gemini Deep Research запущен, доедет добором. ChatGPT выпал: разлогинен в обоих браузерах. Оригиналы: `_machine-bus\\_dr\\queue\\DR26-09-23-ZB-01-0631\\results\\{grok,glm,claudeai}.md`, ноги и ссылки на чаты в `legs.md` рядом.",
+   "lang": "ru",
+   "date": "",
+   "slug": "DR26-09-23-ZB-01-0631-kitayskie-llm-laboratorii-i-dolina-nuzhen-li-im-mestnyy-ecosystem-devr",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-09-23-ZB-01-0631-kitayskie-llm-laboratorii-i-dolina-nuzhen-li-im-mestnyy-ecosystem-devr.md"
+  },
+  {
+   "dr_id": "DR26-09-23-ZB-02-1231",
+   "title": "Иностранные AI/compute-компании в Долине — кому нужен местный landing lead с комьюнити, и где открытые двери",
+   "summary": "Заказ: Антон, 23.09.2026 12:31, голосом. Расширение ДР №1 (китайские лабы) на ЛЮБЫЕ иностранные супербогатые AI/compute-компании (тип «Lambda, но иностранная»): Корея, Япония, Индия, Сингапур, Залив, Израиль, Европа. Потребитель: отдельный CV-кластер `sv-landing` + максимально активный apply. Рельсы: **Grok** (headless DeeperSearch, 60 КБ, 71 URL) · **claude.ai Fable 5.1 Max + Research** (44 КБ, 429+ источников, артефакт на русском) · **Mistral Vibe deep-research** (канвас, ~40 компаний, 47 источников) · **ChatGPT Deep Research** (18 мин, 53 цитаты, 556 поисков, 67 КБ). Gemini и GLM не доехали. Оригиналы: `_machine-bus\\_dr\\queue\\DR26-09-23-ZB-02-1231\\results\\{grok,claudeai,mistral,chatgpt}.md` + `_originals\\deep-research\\DR26-09-23-ZB-02-1231-*`; ноги и чаты в `legs.md` рядом.",
+   "lang": "ru",
+   "date": "",
+   "slug": "DR26-09-23-ZB-02-1231-inostrannye-ai-compute-kompanii-v-doline-komu-nuzhen-mestnyy-landing-l",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-09-23-ZB-02-1231-inostrannye-ai-compute-kompanii-v-doline-komu-nuzhen-mestnyy-landing-l.md"
   },
   {
    "dr_id": "DR26-05-01-HUB-01",
@@ -2045,6 +2315,645 @@
    "date": "2026-08-15",
    "slug": "DR26-08-15-HUB-03-real-world-failure-modes-of-agent-driven-browsers-screen-control-and-s",
    "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-08-15-HUB-03-real-world-failure-modes-of-agent-driven-browsers-screen-control-and-s.md"
+  },
+  {
+   "dr_id": "DR26-08-20-MACANTON-02-2259",
+   "title": "n8n 2.x: недоиспользуемые фичи и антипаттерны под архитектуру событийных ушей для локальны",
+   "summary": "GLM-отчёт (1 из 6 плечей DR, кворум не набран) ранжирует высокоценные паттерны n8n 2.x под конкретные боли Антона (зомби-расписания, потеря forensics, retry на 429, статик-дата лаг, изоляция мышления от оркестрации) и даёт список антипаттернов.",
+   "lang": "mixed",
+   "date": "2026-08-20",
+   "slug": "DR26-08-20-MACANTON-02-2259-n8n-2-x-nedoispolzuemye-fichi-i-antipatterny-pod-arhitekturu-sobytiyny",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-08-20-MACANTON-02-2259-n8n-2-x-nedoispolzuemye-fichi-i-antipatterny-pod-arhitekturu-sobytiyny.md"
+  },
+  {
+   "dr_id": "DR26-08-23-HUB-01-2221",
+   "title": "Аяуаска: агрессия, стыд, привыкание, риски, декриминализация + верификация Хэнкока и Бигли",
+   "summary": "ДР проверил шесть публичных утверждений заказчика об аяуаске (снижение агрессии, катарсис-стыд, отсутствие привыкания, риски, открытия на трипах, экономика запрета) и биографические claims про Хэнкока и Биглино — почти все требуют смягчения формулировок, а не снятия целиком.",
+   "lang": "ru",
+   "date": "2026-08-23",
+   "slug": "DR26-08-23-HUB-01-2221-ayauaska-agressiya-styd-privykanie-riski-dekriminalizatsiya-verifikats",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-08-23-HUB-01-2221-ayauaska-agressiya-styd-privykanie-riski-dekriminalizatsiya-verifikats.md"
+  },
+  {
+   "dr_id": "DR26-07-23-MACANTON-01-1118",
+   "title": "HuggingFace/вендорские cookbooks как рычаг найма в frontier-LLM — синтез + Decision Memo",
+   "summary": "⛔ SUPERSEDED 2026-09-04 → канон [[insight-DR-DR26-08-25-MACANTON-17-0742-huggingface-vendor-cookbook-contributions-as-a-hir]] (тот же ChatGPT-чат, полное тело). Decision Memo ниже остаётся как компаньон. ⚠️ В 0742 цель «smolagents #2656 = governance hooks» — фабрикация DR (реальный #2656 = баг AgentImage inverts pixels); в работу НЕ брать.",
+   "lang": "ru",
+   "date": "2026-08-24",
+   "slug": "DR26-07-23-MACANTON-01-1118-huggingface-vendorskie-cookbooks-kak-rychag-nayma-v-frontier-llm-sinte",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-07-23-MACANTON-01-1118-huggingface-vendorskie-cookbooks-kak-rychag-nayma-v-frontier-llm-sinte.md"
+  },
+  {
+   "dr_id": "DR26-08-24-HUB-01-0830",
+   "title": "NSFW/adult AI как moat — синтез 4 вендоров (moat реален, но операционный; победил угол OF-copilot)",
+   "summary": "Гипотеза Антона (24.08, голосом): NSFW = защитный moat для AI-стартапа, потому что крупные вендоры туда структурно не пойдут. Веер: ChatGPT (gpt-5-6-pro, 69 источников) · Gemini (Deep Research) · Grok (116 источников, через Firefox) · GLM-5.2 (Advanced Search). claude.ai — ран шёл >1ч, добор ночным `dr_collect`. Кворум 4/6 закрыт.",
+   "lang": "ru",
+   "date": "2026-08-24",
+   "slug": "DR26-08-24-HUB-01-0830-nsfw-adult-ai-kak-moat-sintez-4-vendorov-moat-realen-no-operatsionnyy",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-08-24-HUB-01-0830-nsfw-adult-ai-kak-moat-sintez-4-vendorov-moat-realen-no-operatsionnyy.md"
+  },
+  {
+   "dr_id": "DR26-08-24-HUB-02-1401",
+   "title": "Досье 11 игроков NSFW-AI — консенсус 4 вендоров: Infloww = партнёр №1, Supercreator/Substy = планка, датасет с исходами = moat",
+   "summary": "Продолжение [[insight-DR-DR26-08-24-HUB-01-0830-nsfw-ai-moat]]. Кворум 4/6: ChatGPT gpt-5-6-pro (73k, лучший из четырёх) · GLM-5.2 (54k) · Gemini DR (50k) · Grok (145 источников). claudeai добирается ночным сборщиком.",
+   "lang": "ru",
+   "date": "2026-08-24",
+   "slug": "DR26-08-24-HUB-02-1401-dose-11-igrokov-nsfw-ai-konsensus-4-vendorov-infloww-partner-1-supercr",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-08-24-HUB-02-1401-dose-11-igrokov-nsfw-ai-konsensus-4-vendorov-infloww-partner-1-supercr.md"
+  },
+  {
+   "dr_id": "DR26-08-24-MACANTON-02-1025",
+   "title": "Выбор EU-юрисдикции (не Португалия) для второго юрлица под EIC-гранты при живом Delaware C",
+   "summary": "Отчёт отвечает, в какой стране ЕС завести дочернюю компанию Delaware C-corp, чтобы получить доступ к грантам EIC Accelerator/Horizon Europe, не создав налоговых рисков через резидентство основателя в Португалии.",
+   "lang": "en",
+   "date": "2026-08-24",
+   "slug": "DR26-08-24-MACANTON-02-1025-vybor-eu-yurisdiktsii-ne-portugaliya-dlya-vtorogo-yurlitsa-pod-eic-gra",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-08-24-MACANTON-02-1025-vybor-eu-yurisdiktsii-ne-portugaliya-dlya-vtorogo-yurlitsa-pod-eic-gra.md"
+  },
+  {
+   "dr_id": "DR26-08-25-HUB-01-0712",
+   "title": "DR26-08-25-HUB-01 Синтез: корень CLAW — это чужая грамматика имён, а не свободное слово",
+   "summary": "В экосистеме сложился шаблон имени **`[префикс размера/материала] + Claw`**, и он забит крупными игроками:",
+   "lang": "ru",
+   "date": "2026-08-25",
+   "slug": "DR26-08-25-HUB-01-0712-dr26-08-25-hub-01-sintez-koren-claw-eto-chuzhaya-grammatika-imen-a-ne",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-08-25-HUB-01-0712-dr26-08-25-hub-01-sintez-koren-claw-eto-chuzhaya-grammatika-imen-a-ne.md"
+  },
+  {
+   "dr_id": "DR26-08-25-MACANTON-01-0740",
+   "title": "Deep-research template (no topic given) applied to urban heat islands & public health in E",
+   "summary": "Ресёрч не содержал заданной темы, поэтому ChatGPT построил универсальный шаблон deep-research методологии и применил его на примере урбанистических тепловых островов и здоровья населения в европейских городах.",
+   "lang": "en",
+   "date": "2026-08-25",
+   "slug": "DR26-08-25-MACANTON-01-0740-deep-research-template-no-topic-given-applied-to-urban-heat-islands-pu",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-08-25-MACANTON-01-0740-deep-research-template-no-topic-given-applied-to-urban-heat-islands-pu.md"
+  },
+  {
+   "dr_id": "DR26-08-25-MACANTON-02-0740",
+   "title": "Резонансы Шумана и магнитосфера Земли: физика, измерения, влияние на технику и человека",
+   "summary": "DR разобрал научную природу резонансов Шумана и магнитосферных процессов, методы их измерения и реальные (не конспирологические) риски для техники и здоровья человека.",
+   "lang": "ru",
+   "date": "2026-08-25",
+   "slug": "DR26-08-25-MACANTON-02-0740-rezonansy-shumana-i-magnitosfera-zemli-fizika-izmereniya-vliyanie-na-t",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-08-25-MACANTON-02-0740-rezonansy-shumana-i-magnitosfera-zemli-fizika-izmereniya-vliyanie-na-t.md"
+  },
+  {
+   "dr_id": "DR26-08-25-MACANTON-05-0740",
+   "title": "Партизанское продвижение GitHub-профиля инженера для видимости и трудоустройства",
+   "summary": "DR разобрал, какие GitHub-активности (PR, review, issues, документация, packages, Actions) реально повышают заметность инженера у рекрутеров и какие партизанские тактики это ускоряют.",
+   "lang": "ru",
+   "date": "2026-08-25",
+   "slug": "DR26-08-25-MACANTON-05-0740-partizanskoe-prodvizhenie-github-profilya-inzhenera-dlya-vidimosti-i-t",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-08-25-MACANTON-05-0740-partizanskoe-prodvizhenie-github-profilya-inzhenera-dlya-vidimosti-i-t.md"
+  },
+  {
+   "dr_id": "DR26-08-25-MACANTON-06-0740",
+   "title": "B2B: что реально повышает конверсию «да» → забуканный звонок (Telegram DM, advisor-ask)",
+   "summary": "Ресёрч отвечает на вопрос, какие тайминги, форматы предложения слота, каналы (голос/текст) и последовательности реанимации максимизируют долю лидов, доходящих от устного согласия до звонка в календаре, применительно к Telegram-аутричу небольшой AI-лаборатории.",
+   "lang": "ru",
+   "date": "2026-08-25",
+   "slug": "DR26-08-25-MACANTON-06-0740-b2b-chto-realno-povyshaet-konversiyu-da-zabukannyy-zvonok-telegram-dm",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-08-25-MACANTON-06-0740-b2b-chto-realno-povyshaet-konversiyu-da-zabukannyy-zvonok-telegram-dm.md"
+  },
+  {
+   "dr_id": "DR26-08-25-MACANTON-07-0740",
+   "title": "Как некодер/лоу-код контрибьютор строит карьеру и оффер через GitHub без написания кода",
+   "summary": "Deep Research собрал документированные истории некодеров и low-code контрибьюторов, которые за месяцы-год превратили публичную работу на GitHub (доки, шаблоны, curated-листы, community-помощь, контент вокруг вклада) в оффер, роль или репутацию.",
+   "lang": "ru",
+   "date": "2026-08-25",
+   "slug": "DR26-08-25-MACANTON-07-0740-kak-nekoder-lou-kod-kontribyutor-stroit-kareru-i-offer-cherez-github-b",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-08-25-MACANTON-07-0740-kak-nekoder-lou-kod-kontribyutor-stroit-kareru-i-offer-cherez-github-b.md"
+  },
+  {
+   "dr_id": "DR26-08-25-MACANTON-08-0740",
+   "title": "Как переписывать AI-текст, чтобы он читался как текст живого занятого человека",
+   "summary": "DR исследовал лингвистические маркеры, отличающие AI-текст от человеческого, и вывел конкретные правила/пайплайн для скилла анти-AI-slop, превращающего сгенерированный текст в короткий, неидеальный и человечный.",
+   "lang": "mixed",
+   "date": "2026-08-25",
+   "slug": "DR26-08-25-MACANTON-08-0740-kak-perepisyvat-ai-tekst-chtoby-on-chitalsya-kak-tekst-zhivogo-zanyato",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-08-25-MACANTON-08-0740-kak-perepisyvat-ai-tekst-chtoby-on-chitalsya-kak-tekst-zhivogo-zanyato.md"
+  },
+  {
+   "dr_id": "DR26-08-25-MACANTON-09-0740",
+   "title": "Сравнение новых LLM 2026: GLM, MiMo, Kimi K3, Claude Fable 5/Opus 5, GPT-5.6 Sol",
+   "summary": "DR сравнивает архитектуру, размеры, контекст, цены, лицензии, бенчмарки и сценарии использования шести новых крупных LLM (GLM, MiMo, Kimi K3, Claude Fable 5, Claude Opus 5, GPT-5.6 Sol) по запросу Антона, разбиравшегося в незнакомых ему моделях.",
+   "lang": "ru",
+   "date": "2026-08-25",
+   "slug": "DR26-08-25-MACANTON-09-0740-sravnenie-novyh-llm-2026-glm-mimo-kimi-k3-claude-fable-5-opus-5-gpt-5",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-08-25-MACANTON-09-0740-sravnenie-novyh-llm-2026-glm-mimo-kimi-k3-claude-fable-5-opus-5-gpt-5.md"
+  },
+  {
+   "dr_id": "DR26-08-25-MACANTON-10-0740",
+   "title": "Лимиты Deep Research в ChatGPT Plus/Pro на август 2026 и что после исчерпания",
+   "summary": "Ресёрч выясняет точные месячные квоты запросов Deep Research для ChatGPT Plus и Pro на август 2026 и официально задокументированное поведение после их исчерпания.",
+   "lang": "ru",
+   "date": "2026-08-25",
+   "slug": "DR26-08-25-MACANTON-10-0740-limity-deep-research-v-chatgpt-plus-pro-na-avgust-2026-i-chto-posle-is",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-08-25-MACANTON-10-0740-limity-deep-research-v-chatgpt-plus-pro-na-avgust-2026-i-chto-posle-is.md"
+  },
+  {
+   "dr_id": "DR26-08-25-MACANTON-11-0740",
+   "title": "Тизер как самодостаточная польза для Telegram-чата, а не приманка-крючок",
+   "summary": "Ресёрч проверяет, можно ли переделать телеграм-тизер (≤240 символов) так, чтобы он сам по себе давал законченную пользу и не раздражал аудиторию при высокой частоте публикаций.",
+   "lang": "en",
+   "date": "2026-08-25",
+   "slug": "DR26-08-25-MACANTON-11-0740-tizer-kak-samodostatochnaya-polza-dlya-telegram-chata-a-ne-primanka-kr",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-08-25-MACANTON-11-0740-tizer-kak-samodostatochnaya-polza-dlya-telegram-chata-a-ne-primanka-kr.md"
+  },
+  {
+   "dr_id": "DR26-08-25-MACANTON-12-0740",
+   "title": "Гранты и nonprofit-скидки от Google/Microsoft/AWS/Walmart/Costco/BofA — нужна ли US 501(c)",
+   "summary": "DR проверил заявленные в PDF «60+ грантов и льгот» США на актуальность на 09.08.2026 и определил, для каких программ реально нужна собственная американская 501(c)(3), а для каких достаточно local nonprofit-статуса или fiscal sponsor.",
+   "lang": "ru",
+   "date": "2026-08-25",
+   "slug": "DR26-08-25-MACANTON-12-0740-granty-i-nonprofit-skidki-ot-google-microsoft-aws-walmart-costco-bofa",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-08-25-MACANTON-12-0740-granty-i-nonprofit-skidki-ot-google-microsoft-aws-walmart-costco-bofa.md"
+  },
+  {
+   "dr_id": "DR26-08-25-MACANTON-13-0740",
+   "title": "Регистрация nonprofit 501(c)(3) в Калифорнии: процесс, формы, сроки, сервисы",
+   "summary": "DR отвечает, есть ли аналог Stripe Atlas для регистрации non-profit в США, и вместо единого сервиса даёт полную практическую карту California + IRS процесса и сравнение специализированных филинг-сервисов.",
+   "lang": "ru",
+   "date": "2026-08-25",
+   "slug": "DR26-08-25-MACANTON-13-0740-registratsiya-nonprofit-501-c-3-v-kalifornii-protsess-formy-sroki-serv",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-08-25-MACANTON-13-0740-registratsiya-nonprofit-501-c-3-v-kalifornii-protsess-formy-sroki-serv.md"
+  },
+  {
+   "dr_id": "DR26-08-25-MACANTON-14-0740",
+   "title": "Первые команды и первый урок для новичков в Claude Code, Codex и Grok Build",
+   "summary": "Ресёрч выясняет, какие проблемы чаще всего возникают у новичков в кодинг-агентах (Claude Code, Codex, Grok Build) и какой набор первых команд/промптов даст студентам «вау»-эффект и желание продолжать.",
+   "lang": "mixed",
+   "date": "2026-08-25",
+   "slug": "DR26-08-25-MACANTON-14-0740-pervye-komandy-i-pervyy-urok-dlya-novichkov-v-claude-code-codex-i-grok",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-08-25-MACANTON-14-0740-pervye-komandy-i-pervyy-urok-dlya-novichkov-v-claude-code-codex-i-grok.md"
+  },
+  {
+   "dr_id": "DR26-08-25-MACANTON-15-0740",
+   "title": "Venice.ai vs Fanvue: сравнение финансирования, оценки и рисков (авг. 2026)",
+   "summary": "Ресёрч проверяет заявления о Venice как unicorn на крипто-деньгах и Fanvue с $22M от «exited founders», сравнивая funding, valuation, traction и риски обеих компаний.",
+   "lang": "ru",
+   "date": "2026-08-25",
+   "slug": "DR26-08-25-MACANTON-15-0740-venice-ai-vs-fanvue-sravnenie-finansirovaniya-otsenki-i-riskov-avg-202",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-08-25-MACANTON-15-0740-venice-ai-vs-fanvue-sravnenie-finansirovaniya-otsenki-i-riskov-avg-202.md"
+  },
+  {
+   "dr_id": "DR26-08-25-MACANTON-16-0740",
+   "title": "Google Antigravity 2.0: архитектура, интерфейсы (Desktop/CLI/headless/SDK/Managed API), пр",
+   "summary": "Ресёрч выясняет, что такое Google Antigravity, как он доступен (CLI/headless/browser/SDK), зачем его использовать вместо альтернатив, и насколько он пригоден для построения second brain и искусственной личности.",
+   "lang": "ru",
+   "date": "2026-08-25",
+   "slug": "DR26-08-25-MACANTON-16-0740-google-antigravity-2-0-arhitektura-interfeysy-desktop-cli-headless-sdk",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-08-25-MACANTON-16-0740-google-antigravity-2-0-arhitektura-interfeysy-desktop-cli-headless-sdk.md"
+  },
+  {
+   "dr_id": "DR26-08-25-MACANTON-17-0742",
+   "title": "HuggingFace/vendor cookbook contributions as a hiring lever into frontier LLM labs",
+   "summary": "DR investigates which Hugging Face surfaces (Cookbook, Spaces, Models, Datasets, Posts, library PRs) and vendor cookbook contributions actually convert into hiring attention/intros at top LLM companies, and how to sequence them for Palo Alto AI Research Lab.",
+   "lang": "en",
+   "date": "2026-08-25",
+   "slug": "DR26-08-25-MACANTON-17-0742-huggingface-vendor-cookbook-contributions-as-a-hiring-lever-into-front",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-08-25-MACANTON-17-0742-huggingface-vendor-cookbook-contributions-as-a-hiring-lever-into-front.md"
+  },
+  {
+   "dr_id": "DR26-08-25-MACANTON-18-0745",
+   "title": "CatchClub/Connectli: рынок, конкуренция и фандрайзинг в США 2026",
+   "summary": "Отчёт оценивает, фандрейзабелен ли CatchClub/Connectli (платные Telegram-клубы с AI-матчингом) в Silicon Valley как есть, и что нужно изменить.",
+   "lang": "ru",
+   "date": "2026-08-25",
+   "slug": "DR26-08-25-MACANTON-18-0745-catchclub-connectli-rynok-konkurentsiya-i-fandrayzing-v-ssha-2026",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-08-25-MACANTON-18-0745-catchclub-connectli-rynok-konkurentsiya-i-fandrayzing-v-ssha-2026.md"
+  },
+  {
+   "dr_id": "DR26-08-25-MACRUS-01-1406",
+   "title": "Роликовые коньки: выбор для детей 7-10 лет и взрослого в Португалии",
+   "summary": "Отчёт отвечает, какие роликовые коньки купить детям 7-10 лет (inline и quad) и взрослому (под плохой асфальт), с моделями, ценами и магазинами доставки в район Синтра/Лиссабон.",
+   "lang": "ru",
+   "date": "2026-08-25",
+   "slug": "DR26-08-25-MACRUS-01-1406-rolikovye-konki-vybor-dlya-detey-7-10-let-i-vzroslogo-v-portugalii",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-08-25-MACRUS-01-1406-rolikovye-konki-vybor-dlya-detey-7-10-let-i-vzroslogo-v-portugalii.md"
+  },
+  {
+   "dr_id": "DR26-08-25-HUB-03-2301",
+   "title": "DR26-08-25-HUB-03: аудит рельс — из кворума 4/6 подтверждающих рельс ДВЕ, и часть списка инвесторов опирается на рельсу без единой ссылки",
+   "summary": "Это **не второй синтез**. Синтез уже собран утром 26.08: [[decision-DR26-08-25-HUB-03-control-plane-raise-memo]] — он полный и по существу верный. Эта заметка — поправка к его доказательной базе, найденная при повторном чтении сырья.",
+   "lang": "ru",
+   "date": "2026-08-26",
+   "slug": "DR26-08-25-HUB-03-2301-dr26-08-25-hub-03-audit-rels-iz-kvoruma-4-6-podtverzhdayuschih-rels-dv",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-08-25-HUB-03-2301-dr26-08-25-hub-03-audit-rels-iz-kvoruma-4-6-podtverzhdayuschih-rels-dv.md"
+  },
+  {
+   "dr_id": "DR26-08-28-MACANTON-01-1114",
+   "title": "Dual-agent Codex CLI + Claude Code над общим волтом/монорепо: инструкции, конкурентность,",
+   "summary": "Исследование выясняет, как безопасно совмещать Codex CLI и Claude Code над одним недокументированным Python-монорепо и non-git волтом Антона — механику загрузки инструкций, hooks, конкурентность записи и bootstrapping legacy-кода.",
+   "lang": "ru",
+   "date": "2026-08-28",
+   "slug": "DR26-08-28-MACANTON-01-1114-dual-agent-codex-cli-claude-code-nad-obschim-voltom-monorepo-instrukts",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-08-28-MACANTON-01-1114-dual-agent-codex-cli-claude-code-nad-obschim-voltom-monorepo-instrukts.md"
+  },
+  {
+   "dr_id": "DR26-08-29-MACANTON-01-0742",
+   "title": "Meta: reusable deep-research methodology template, applied to urban heat islands & public",
+   "summary": "Since the original DR brief had no specified topic, the report delivers a reusable deep-research workflow template and demonstrates it on urban heat islands (UHI) and public health in European cities.",
+   "lang": "en",
+   "date": "2026-08-29",
+   "slug": "DR26-08-29-MACANTON-01-0742-meta-reusable-deep-research-methodology-template-applied-to-urban-heat",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-08-29-MACANTON-01-0742-meta-reusable-deep-research-methodology-template-applied-to-urban-heat.md"
+  },
+  {
+   "dr_id": "DR26-08-29-MACANTON-02-0742",
+   "title": "Deep Research scoping report: no topic specified — ranking of 5 candidate longevity/health",
+   "summary": "Since the original DR request had no concrete topic, the report instead scopes and ranks five plausible longevity/health research topics (CRF/grip strength, metformin, CGM in non-diabetics, NAD precursors, SIBO/microbiome) by evidence maturity and decision value.",
+   "lang": "en",
+   "date": "2026-08-29",
+   "slug": "DR26-08-29-MACANTON-02-0742-deep-research-scoping-report-no-topic-specified-ranking-of-5-candidate",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-08-29-MACANTON-02-0742-deep-research-scoping-report-no-topic-specified-ranking-of-5-candidate.md"
+  },
+  {
+   "dr_id": "DR26-08-29-MACANTON-03-0742",
+   "title": "Резонансы Шумана и магнитосфера Земли: физика, измерение, влияние на технику и человека",
+   "summary": "DR отвечает, что такое резонансы Шумана и магнитосфера, как их измеряют и насколько обоснованы конспирологические claims об их влиянии на электронику и людей.",
+   "lang": "ru",
+   "date": "2026-08-29",
+   "slug": "DR26-08-29-MACANTON-03-0742-rezonansy-shumana-i-magnitosfera-zemli-fizika-izmerenie-vliyanie-na-te",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-08-29-MACANTON-03-0742-rezonansy-shumana-i-magnitosfera-zemli-fizika-izmerenie-vliyanie-na-te.md"
+  },
+  {
+   "dr_id": "DR26-08-29-MACANTON-06-0742",
+   "title": "Партизанское продвижение GitHub-профиля инженера для трудоустройства и известности",
+   "summary": "Deep research отвечает на вопрос, какие активности на GitHub (PR, issues, ревью, документация, awesome-листы, actions) реально повышают заметность инженера и его шансы получить работу в IT-компании.",
+   "lang": "ru",
+   "date": "2026-08-29",
+   "slug": "DR26-08-29-MACANTON-06-0742-partizanskoe-prodvizhenie-github-profilya-inzhenera-dlya-trudoustroyst",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-08-29-MACANTON-06-0742-partizanskoe-prodvizhenie-github-profilya-inzhenera-dlya-trudoustroyst.md"
+  },
+  {
+   "dr_id": "DR26-08-29-MACANTON-07-0742",
+   "title": "Как переписывать AI-сгенерированный текст в человеческий (анти-AI-slop стиль)",
+   "summary": "Исследование выясняет лингвистические маркеры, отличающие AI-текст от человеческого, и формулирует конкретные правила переписывания текста в стиль занятого человека для skill'а anti-AI-slop.",
+   "lang": "mixed",
+   "date": "2026-08-29",
+   "slug": "DR26-08-29-MACANTON-07-0742-kak-perepisyvat-ai-sgenerirovannyy-tekst-v-chelovecheskiy-anti-ai-slop",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-08-29-MACANTON-07-0742-kak-perepisyvat-ai-sgenerirovannyy-tekst-v-chelovecheskiy-anti-ai-slop.md"
+  },
+  {
+   "dr_id": "DR26-08-29-MACANTON-08-0742",
+   "title": "Что реально повышает конверсию «да» → забуканный звонок в B2B (Telegram DM, advisor-ask и",
+   "summary": "DR отвечает, с какой скоростью и в каком формате нужно предлагать слот звонка после «да», как реанимировать 129 зависших золотых лидов и когда звонок вообще не та цель, применительно к Telegram-каналу лаборатории.",
+   "lang": "ru",
+   "date": "2026-08-29",
+   "slug": "DR26-08-29-MACANTON-08-0742-chto-realno-povyshaet-konversiyu-da-zabukannyy-zvonok-v-b2b-telegram-d",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-08-29-MACANTON-08-0742-chto-realno-povyshaet-konversiyu-da-zabukannyy-zvonok-v-b2b-telegram-d.md"
+  },
+  {
+   "dr_id": "DR26-08-29-MACANTON-09-0742",
+   "title": "Истории успеха некодеров и low-code contributors на GitHub — как строить репутацию без код",
+   "summary": "Отчёт ищет документированные примеры не-программистов и вайб-кодеров, которые за месяцы-год построили заметную репутацию на GitHub и получили карьерный оффер, и выводит из них воспроизводимый playbook.",
+   "lang": "ru",
+   "date": "2026-08-29",
+   "slug": "DR26-08-29-MACANTON-09-0742-istorii-uspeha-nekoderov-i-low-code-contributors-na-github-kak-stroit",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-08-29-MACANTON-09-0742-istorii-uspeha-nekoderov-i-low-code-contributors-na-github-kak-stroit.md"
+  },
+  {
+   "dr_id": "DR26-08-29-MACANTON-10-0742",
+   "title": "Сравнение новых ЛЛМ 2026: GLM, MiMo, Kimi K3 vs Claude Fable 5/Opus 5 и GPT-5.6 Sol",
+   "summary": "Отчёт разбирает и сравнивает новые для Антона LLM (GLM, MiMo, Fable) в контексте его разочарования в Anthropic после регрессии Opus 4.6, добавляя GPT-5.6 Sol и Kimi K3 по архитектуре, цене, лицензии и бенчмаркам.",
+   "lang": "ru",
+   "date": "2026-08-29",
+   "slug": "DR26-08-29-MACANTON-10-0742-sravnenie-novyh-llm-2026-glm-mimo-kimi-k3-vs-claude-fable-5-opus-5-i-g",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-08-29-MACANTON-10-0742-sravnenie-novyh-llm-2026-glm-mimo-kimi-k3-vs-claude-fable-5-opus-5-i-g.md"
+  },
+  {
+   "dr_id": "DR26-08-29-MACANTON-11-0742",
+   "title": "Лимиты Deep Research в ChatGPT Plus/Pro на август 2026 и поведение после исчерпания",
+   "summary": "Исследование выясняет точные месячные квоты запросов Deep Research для тарифов ChatGPT Plus и Pro по состоянию на август 2026 года и что происходит после исчерпания лимита.",
+   "lang": "ru",
+   "date": "2026-08-29",
+   "slug": "DR26-08-29-MACANTON-11-0742-limity-deep-research-v-chatgpt-plus-pro-na-avgust-2026-i-povedenie-pos",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-08-29-MACANTON-11-0742-limity-deep-research-v-chatgpt-plus-pro-na-avgust-2026-i-povedenie-pos.md"
+  },
+  {
+   "dr_id": "DR26-08-29-MACANTON-12-0743",
+   "title": "Универсальный фреймворк для Deep Research при неуказанной теме клиента",
+   "summary": "Отчёт отвечает не на предметный вопрос (тема клиента не была указана), а на вопрос «как построить воспроизводимый, аудируемый процесс Deep Research с нуля» — протокол, источники, синтез и governance.",
+   "lang": "en",
+   "date": "2026-08-29",
+   "slug": "DR26-08-29-MACANTON-12-0743-universalnyy-freymvork-dlya-deep-research-pri-neukazannoy-teme-klienta",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-08-29-MACANTON-12-0743-universalnyy-freymvork-dlya-deep-research-pri-neukazannoy-teme-klienta.md"
+  },
+  {
+   "dr_id": "DR26-08-29-MACANTON-13-0743",
+   "title": "Тизер как сжатая польза: как делать короткие посты (≤240 симв.) в Telegram-чате самодостат",
+   "summary": "DR исследовал, существует ли доказанная практика «тизер = законченная польза сама по себе» и как часто публиковать такие тизеры в Telegram-чате без раздражения аудитории.",
+   "lang": "mixed",
+   "date": "2026-08-29",
+   "slug": "DR26-08-29-MACANTON-13-0743-tizer-kak-szhataya-polza-kak-delat-korotkie-posty-240-simv-v-telegram",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-08-29-MACANTON-13-0743-tizer-kak-szhataya-polza-kak-delat-korotkie-posty-240-simv-v-telegram.md"
+  },
+  {
+   "dr_id": "DR26-08-29-MACANTON-14-0743",
+   "title": "Гранты и nonprofit-льготы США 2026: что реально доступно и стоит ли создавать 501(c)(3)",
+   "summary": "Отчёт проверяет 60+ грантов/льгот из приложенного PDF (Walmart, Costco, BofA, Google, Microsoft, AWS, Grants.gov) на актуальность на 09.08.2026 и отвечает, оправдано ли создавать американскую 501(c)(3) ради доступа к ним.",
+   "lang": "ru",
+   "date": "2026-08-29",
+   "slug": "DR26-08-29-MACANTON-14-0743-granty-i-nonprofit-lgoty-ssha-2026-chto-realno-dostupno-i-stoit-li-soz",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-08-29-MACANTON-14-0743-granty-i-nonprofit-lgoty-ssha-2026-chto-realno-dostupno-i-stoit-li-soz.md"
+  },
+  {
+   "dr_id": "DR26-08-29-MACANTON-15-0743",
+   "title": "Регистрация nonprofit 501(c)(3) в Калифорнии — сервисы под ключ и полная процедура",
+   "summary": "Исследование ищет сервис уровня Stripe Atlas для регистрации non-profit с демократичными ценами и параллельно выстраивает полную практическую процедуру регистрации 501(c)(3) в Калифорнии.",
+   "lang": "ru",
+   "date": "2026-08-29",
+   "slug": "DR26-08-29-MACANTON-15-0743-registratsiya-nonprofit-501-c-3-v-kalifornii-servisy-pod-klyuch-i-poln",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-08-29-MACANTON-15-0743-registratsiya-nonprofit-501-c-3-v-kalifornii-servisy-pod-klyuch-i-poln.md"
+  },
+  {
+   "dr_id": "DR26-08-29-MACANTON-16-0743",
+   "title": "Первые команды и минимальный онбординг новичков в Claude Code, Codex и Grok Build",
+   "summary": "Ресёрч отвечает, какие проблемы чаще всего возникают у новичков в Claude Code/Codex/Grok Build и какие первые несколько команд и упражнение дать студентам, никогда не пользовавшимся coding-агентами, чтобы «зацепить» их с первой сессии.",
+   "lang": "mixed",
+   "date": "2026-08-29",
+   "slug": "DR26-08-29-MACANTON-16-0743-pervye-komandy-i-minimalnyy-onbording-novichkov-v-claude-code-codex-i",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-08-29-MACANTON-16-0743-pervye-komandy-i-minimalnyy-onbording-novichkov-v-claude-code-codex-i.md"
+  },
+  {
+   "dr_id": "DR26-08-29-MACANTON-17-0743",
+   "title": "Google Antigravity 2.0: архитектура, интерфейсы (CLI/headless/desktop/managed API) и приго",
+   "summary": "DR исследовал, что такое Google Antigravity, как он доступен (CLI/headless/браузер) и какие топ-кейсы для second brain и искусственной личности он даёт.",
+   "lang": "ru",
+   "date": "2026-08-29",
+   "slug": "DR26-08-29-MACANTON-17-0743-google-antigravity-2-0-arhitektura-interfeysy-cli-headless-desktop-man",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-08-29-MACANTON-17-0743-google-antigravity-2-0-arhitektura-interfeysy-cli-headless-desktop-man.md"
+  },
+  {
+   "dr_id": "DR26-08-29-MACANTON-18-0743",
+   "title": "Venice.ai vs Fanvue: проверка фактов про unicorn-статус, финансирование и founders",
+   "summary": "Отчёт проверяет два утверждения Антона (\"Venice — единорог на крипто-деньгах\", \"Fanvue $22M — от exited-founders\") и даёт полное сравнение funding, токеномики, traction и рисков обеих компаний.",
+   "lang": "ru",
+   "date": "2026-08-29",
+   "slug": "DR26-08-29-MACANTON-18-0743-venice-ai-vs-fanvue-proverka-faktov-pro-unicorn-status-finansirovanie",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-08-29-MACANTON-18-0743-venice-ai-vs-fanvue-proverka-faktov-pro-unicorn-status-finansirovanie.md"
+  },
+  {
+   "dr_id": "DR26-08-29-MACANTON-19-0743",
+   "title": "Почему у древних статуй отбиты носы и лица: эрозия vs намеренное разрушение",
+   "summary": "Deep research разбирает, что объясняет массовое повреждение носов/лиц древних статуй по культурам — механическая хрупкость, ритуальная деактивация, политическое/религиозное уничтожение образа или мародёрство — и оценивает альтернативные версии вплоть до палеоконтакта.",
+   "lang": "mixed",
+   "date": "2026-08-29",
+   "slug": "DR26-08-29-MACANTON-19-0743-pochemu-u-drevnih-statuy-otbity-nosy-i-litsa-eroziya-vs-namerennoe-raz",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-08-29-MACANTON-19-0743-pochemu-u-drevnih-statuy-otbity-nosy-i-litsa-eroziya-vs-namerennoe-raz.md"
+  },
+  {
+   "dr_id": "DR26-08-29-MACANTON-20-0743",
+   "title": "Почему у древних статуй по всему миру часто отбит нос",
+   "summary": "Ресёрч отвечает, есть ли единая причина повсеместно отбитых носов у статуй и как отделить случайную хрупкость от намеренного повреждения по культурам и эпохам.",
+   "lang": "en",
+   "date": "2026-08-29",
+   "slug": "DR26-08-29-MACANTON-20-0743-pochemu-u-drevnih-statuy-po-vsemu-miru-chasto-otbit-nos",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-08-29-MACANTON-20-0743-pochemu-u-drevnih-statuy-po-vsemu-miru-chasto-otbit-nos.md"
+  },
+  {
+   "dr_id": "DR26-08-29-MACANTON-21-0747",
+   "title": "CatchClub/Connectli: рынок платных Telegram-клубов, конкуренты, платформенный риск Telegra",
+   "summary": "DR оценивал, фандрейзабелен ли CatchClub/Connectli в Silicon Valley как есть, и что нужно изменить, чтобы стать таковым.",
+   "lang": "ru",
+   "date": "2026-08-29",
+   "slug": "DR26-08-29-MACANTON-21-0747-catchclub-connectli-rynok-platnyh-telegram-klubov-konkurenty-platforme",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-08-29-MACANTON-21-0747-catchclub-connectli-rynok-platnyh-telegram-klubov-konkurenty-platforme.md"
+  },
+  {
+   "dr_id": "DR26-08-29-MACANTON-22-0759",
+   "title": "EU entity для non-dilutive funding (EIC/Horizon) — выбор юрисдикции под US-parent",
+   "summary": "Отчёт сравнивает Estonia, Ireland, Netherlands, Cyprus, Luxembourg, Lithuania и Malta как EU-дочку под Delaware C-Corp для соответствия EIC/Horizon Europe и минимизации трения (налоги, банкинг, PT CFC/PE риск), рекомендуя Estonia как топ-выбор.",
+   "lang": "en",
+   "date": "2026-08-29",
+   "slug": "DR26-08-29-MACANTON-22-0759-eu-entity-dlya-non-dilutive-funding-eic-horizon-vybor-yurisdiktsii-pod",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-08-29-MACANTON-22-0759-eu-entity-dlya-non-dilutive-funding-eic-horizon-vybor-yurisdiktsii-pod.md"
+  },
+  {
+   "dr_id": "DR26-08-30-MACANTON-01",
+   "title": "AAA GitBook — история Platinum Engineering и AI CRM C(H+A)RM (не по теме реестра)",
+   "summary": "Документ оказался не отчётом Deep Research по продвижению GitHub-профиля, а презентацией GitBook о истории Platinum Engineering (2015-2026) и их AI CRM/Agent Orchestration платформе.",
+   "lang": "en",
+   "date": "2026-08-30",
+   "slug": "DR26-08-30-MACANTON-01-aaa-gitbook-istoriya-platinum-engineering-i-ai-crm-c-h-a-rm-ne-po-teme",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-08-30-MACANTON-01-aaa-gitbook-istoriya-platinum-engineering-i-ai-crm-c-h-a-rm-ne-po-teme.md"
+  },
+  {
+   "dr_id": "DR26-08-30-MACANTON-02",
+   "title": "Несовпадение содержания: файл озаглавлен «Успех на GitHub без кода», но текст — история ко",
+   "summary": "Отчёт не отвечает на вопрос об «успехе на GitHub без кода» — вместо этого это выдержка из GitBook-презентации Platinum Engineering (2015-2026: инкубатор, VC, блокчейн-консалтинг, CRM C(H+A)RM, AI-агенты).",
+   "lang": "en",
+   "date": "2026-08-30",
+   "slug": "DR26-08-30-MACANTON-02-nesovpadenie-soderzhaniya-fayl-ozaglavlen-uspeh-na-github-bez-koda-no",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-08-30-MACANTON-02-nesovpadenie-soderzhaniya-fayl-ozaglavlen-uspeh-na-github-bez-koda-no.md"
+  },
+  {
+   "dr_id": "DR26-09-01-HUB-02-1604",
+   "title": "Приток розницы в TON, реальная доходность стейблкоин-стратегий и находимость smart-money-ф",
+   "summary": "ДР проверял гипотезу «розница массово идёт в TON за стейблкоин-доходностью, и её можно найти через smart-money-аналитику типа Nansen» — и не подтвердил её ончейн-данными на сентябрь 2026.",
+   "lang": "ru",
+   "date": "2026-09-01",
+   "slug": "DR26-09-01-HUB-02-1604-pritok-roznitsy-v-ton-realnaya-dohodnost-steyblkoin-strategiy-i-nahodi",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-09-01-HUB-02-1604-pritok-roznitsy-v-ton-realnaya-dohodnost-steyblkoin-strategiy-i-nahodi.md"
+  },
+  {
+   "dr_id": "DR26-09-01-ZB-01-1426",
+   "title": "Конкурентная разведка agent-assurance (Runta, NeuralTrust, Lemma, Nava) + NSF Phase I elig",
+   "summary": "Отчёт картирует рынок agent-assurance/financial-agent-verification (4 прямых конкурента + широкая категория) и проверяет, может ли фаундер на визе O-1 претендовать на NSF SBIR Phase I, чтобы решить go/no-go по запуску Flight Recorder перед 45-дневным customer discovery.",
+   "lang": "ru",
+   "date": "2026-09-01",
+   "slug": "DR26-09-01-ZB-01-1426-konkurentnaya-razvedka-agent-assurance-runta-neuraltrust-lemma-nava-ns",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-09-01-ZB-01-1426-konkurentnaya-razvedka-agent-assurance-runta-neuraltrust-lemma-nava-ns.md"
+  },
+  {
+   "dr_id": "DR26-09-02-HUB-01-1307",
+   "title": "Допингование — мировые каденсы re-ping, dunning и вердикт оригинальности delete-and-resend",
+   "summary": "Заказ проверял, изобрёл ли Антон delete-and-resend как способ взыскания обещаний, и насколько наша схема «7 дней подряд + 3 недели + стоп 31» жёстче мировой практики. Потребитель — дизайн `doping.py` v2 (приоритетная очередь) и решение, публиковать ли пост «Гори, ублюдок, в аду».",
+   "lang": "ru",
+   "date": "2026-09-02",
+   "slug": "DR26-09-02-HUB-01-1307-dopingovanie-mirovye-kadensy-re-ping-dunning-i-verdikt-originalnosti-d",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-09-02-HUB-01-1307-dopingovanie-mirovye-kadensy-re-ping-dunning-i-verdikt-originalnosti-d.md"
+  },
+  {
+   "dr_id": "DR26-09-02-MACANTON-02-0343",
+   "title": "Storytelling playbook — как упаковывать мысли в истории (синтез 3 рельс)",
+   "summary": "Потребитель: [[reglament-vsegda-rasskazyvay-istoriyu-storytelling]] (операционный чек-лист уехал туда — там ОДИН источник, здесь исследовательская фактура). Кворум 3/6 ⚠️: собраны ChatGPT (25 источников, гейт ✅), Gemini (313 доменов, гейт ⚠️ 0 голых URL), Grok (гейт ⚠️ 0 URL). Синтез написан 03.09 по прямому приказу Антона, не дожидаясь кворума 4. Оригиналы: `_machine-bus\\_dr\\queue\\DR26-09-02-MACANTON-02-0343\\results\\`.",
+   "lang": "ru",
+   "date": "2026-09-03",
+   "slug": "DR26-09-02-MACANTON-02-0343-storytelling-playbook-kak-upakovyvat-mysli-v-istorii-sintez-3-rels",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-09-02-MACANTON-02-0343-storytelling-playbook-kak-upakovyvat-mysli-v-istorii-sintez-3-rels.md"
+  },
+  {
+   "dr_id": "DR26-09-03-HUB-01-2037",
+   "title": "«Бульварное чтиво» как метод: перенос таблоидных/reality-приёмов на build-in-public сторит",
+   "summary": "Как честно (без выдумки фактов) применить механики таблоидов, romans-feuilleton, reality-шоу и rags-to-riches, чтобы посты соло-фаундера были про живого человека и эмоции, а не про инфраструктуру.",
+   "lang": "ru",
+   "date": "2026-09-03",
+   "slug": "DR26-09-03-HUB-01-2037-bulvarnoe-chtivo-kak-metod-perenos-tabloidnyh-reality-priemov-na-build",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-09-03-HUB-01-2037-bulvarnoe-chtivo-kak-metod-perenos-tabloidnyh-reality-priemov-na-build.md"
+  },
+  {
+   "dr_id": "DR26-09-06-MACANTON-01-0753",
+   "title": "CloakBrowser + Claude: интеграция, MCP/MCR-неоднозначность, альтернативы для LLM-управлени",
+   "summary": "Как соединить CloakBrowser (stealth-Chromium runtime) с Claude для browser automation, что означает «MCR» и какие альтернативы лучше подходят для LLM-контроля браузера.",
+   "lang": "ru",
+   "date": "2026-09-06",
+   "slug": "DR26-09-06-MACANTON-01-0753-cloakbrowser-claude-integratsiya-mcp-mcr-neodnoznachnost-alternativy-d",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-09-06-MACANTON-01-0753-cloakbrowser-claude-integratsiya-mcp-mcr-neodnoznachnost-alternativy-d.md"
+  },
+  {
+   "dr_id": "DR26-09-14-ZB-07-2007",
+   "title": "Картина мира фаундеров frontier-AI-лабораторий: тех-фаундеры vs идеологи, боли 2026, слепы",
+   "summary": "ДР сопоставляет технических и идеологических фаундеров OpenAI/Anthropic/DeepMind/Meta/xAI/Mistral/китайских лабов, чтобы найти рыночные ниши и слепые зоны для пивота продукта уровнем ниже.",
+   "lang": "ru",
+   "date": "2026-09-14",
+   "slug": "DR26-09-14-ZB-07-2007-kartina-mira-faunderov-frontier-ai-laboratoriy-teh-faundery-vs-ideolog",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-09-14-ZB-07-2007-kartina-mira-faunderov-frontier-ai-laboratoriy-teh-faundery-vs-ideolog.md"
+  },
+  {
+   "dr_id": "DR26-09-14-ZB-09-2008",
+   "title": "Форензика доходов frontier LLM-лабораторий: сходится ли подписочная и enterprise арифметик",
+   "summary": "Дипресёрч восстанавливает выручку OpenAI, Anthropic, xAI, Mistral, Perplexity и Cohere снизу вверх (подписки + enterprise) и проверяет, выдерживают ли headline-цифры проверку против аудированных якорей (Microsoft, Alphabet, Salesforce/Datadog/Snowflake).",
+   "lang": "mixed",
+   "date": "2026-09-14",
+   "slug": "DR26-09-14-ZB-09-2008-forenzika-dohodov-frontier-llm-laboratoriy-shoditsya-li-podpisochnaya",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-09-14-ZB-09-2008-forenzika-dohodov-frontier-llm-laboratoriy-shoditsya-li-podpisochnaya.md"
+  },
+  {
+   "dr_id": "DR26-09-15-MACANTON-01-0806",
+   "title": "Nango vs Composio/Paragon/Merge/Pipedream/Arcade/Klavis — unified auth layer for AI agents",
+   "summary": "Compares Nango against 12+ 'unified integration/auth layer for AI agents' competitors to decide whether the 5-machine Claude Code fleet should replace its hand-rolled Gmail/Calendar/Trello/Calendly connectors with one layer, plus prep material for a Nango CTO conversation.",
+   "lang": "en",
+   "date": "2026-09-15",
+   "slug": "DR26-09-15-MACANTON-01-0806-nango-vs-composio-paragon-merge-pipedream-arcade-klavis-unified-auth-l",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-09-15-MACANTON-01-0806-nango-vs-composio-paragon-merge-pipedream-arcade-klavis-unified-auth-l.md"
+  },
+  {
+   "dr_id": "DR26-09-16-HUB-01-1924",
+   "title": "Итеративные циклы дожима (Ralph Loop/MetaLoop) для агентного кодинга: критерии остановки,",
+   "summary": "Исследование ищет доказательную базу для контроль-слоя вокруг автономных циклов дожима кода (Ralph Loop, MetaLoop, self-repair, test-repair), чтобы довести код до VERIFIED-CORRECT без человека в середине цикла.",
+   "lang": "mixed",
+   "date": "2026-09-16",
+   "slug": "DR26-09-16-HUB-01-1924-iterativnye-tsikly-dozhima-ralph-loop-metaloop-dlya-agentnogo-kodinga",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-09-16-HUB-01-1924-iterativnye-tsikly-dozhima-ralph-loop-metaloop-dlya-agentnogo-kodinga.md"
+  },
+  {
+   "dr_id": "DR26-09-20-HUB-01-1819",
+   "title": "Компенсации senior-уровня: хедж-фонды/квант-трейдинг vs AI-лаборатории vs крипто (NY/Londo",
+   "summary": "Deep research сравнивает total comp, проходимость и риски на bridge-ролях (Chief of Staff, AI Strategy, TPM, FDE, BD) между хедж-фондами, AI-лабораториями и крипто/финтех для профиля Антона (senior COO/CTO, без buy-side трек-рекорда, виза O-1 + ЕС-паспорт).",
+   "lang": "ru",
+   "date": "2026-09-20",
+   "slug": "DR26-09-20-HUB-01-1819-kompensatsii-senior-urovnya-hedzh-fondy-kvant-treyding-vs-ai-laborator",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-09-20-HUB-01-1819-kompensatsii-senior-urovnya-hedzh-fondy-kvant-treyding-vs-ai-laborator.md"
+  },
+  {
+   "dr_id": "DR26-09-22-HUB-01-1118",
+   "title": "Grok Build CLI против Cursor как четвёртый агент в системе из трёх агентов в одной папке",
+   "summary": "[!warning] ⚠️ КОРРЕКТИРОВКА 2026-09-27 (dr-judge, Mac16) **Заметка говорила «отчёт собран одним вендором (GLM), остальные 4 секции отсутствуют, возможно не собраны». Это неправда.** В `results/` на момент проверки лежат и прошли `dr_leg_gate.py`: `chatgpt.md` ✅ 54 источника, `claudeai.md` ✅ 58 источников, `grok.md` ✅ 62 источника — три годные ноги, которых синтезатор не прочитал. Кворум по факту 4/6, а не 1. Выводы ниже опираются на одну ногу GLM и подлежат ПЕРЕСБОРКЕ по полному набору. Класс дефекта: `synthesis-read-only-the-garbage-rail`. Заказ `DR26-09-22-HUB-01-1118`. Копия до правки — рядом `.prebak`. Отчёт сравнил Grok Build CLI (xAI) и Cursor как инструменты для уже работающей системы из трёх агентов (Claude Code + Codex CLI + Grok Build CLI) в одной папке и дал вердикт, добавлять ли Cursor четвёртым.",
+   "lang": "ru",
+   "date": "2026-09-22",
+   "slug": "DR26-09-22-HUB-01-1118-grok-build-cli-protiv-cursor-kak-chetvertyy-agent-v-sisteme-iz-treh-ag",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-09-22-HUB-01-1118-grok-build-cli-protiv-cursor-kak-chetvertyy-agent-v-sisteme-iz-treh-ag.md"
+  },
+  {
+   "dr_id": "DR26-09-22-HUB-02-1159",
+   "title": "Мульти-агентная координация в одной папке: Claude×Codex локи/протоколы в мире vs наш прото",
+   "summary": "Три LLM-вендора (ChatGPT, Claude.ai, Grok; GLM упал на капче) сверили, кто в мире уже связал Claude Code и Codex локами/протоколом в общей рабочей папке, честно оценили 7 пунктов нашего координационного протокола (implementer/reviewer по артефакту, claim→lease→visibility, junction-скиллы, SQLite-authority, fail-closed send-гейт, file-lease-по-умолчанию) против найденного, и наметили, куда и кому выложить это как открытый артефакт.",
+   "lang": "ru",
+   "date": "2026-09-22",
+   "slug": "DR26-09-22-HUB-02-1159-multi-agentnaya-koordinatsiya-v-odnoy-papke-claude-codex-loki-protokol",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-09-22-HUB-02-1159-multi-agentnaya-koordinatsiya-v-odnoy-papke-claude-codex-loki-protokol.md"
+  },
+  {
+   "dr_id": "DR26-09-22-HUB-03-1433",
+   "title": "Интервью-лупы топ-лабораторий ИИ для Research Scientist/MTS (2025-2026)",
+   "summary": "Как устроены интервью-лупы (этапы, форматы, сроки, критерии) на Research Scientist/MTS/Research Engineer в OpenAI, Anthropic, DeepMind, xAI, Meta и др., и в каком порядке к ним готовиться.",
+   "lang": "ru",
+   "date": "2026-09-22",
+   "slug": "DR26-09-22-HUB-03-1433-intervyu-lupy-top-laboratoriy-ii-dlya-research-scientist-mts-2025-2026",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-09-22-HUB-03-1433-intervyu-lupy-top-laboratoriy-ii-dlya-research-scientist-mts-2025-2026.md"
+  },
+  {
+   "dr_id": "DR26-09-22-HUB-04-1433",
+   "title": "Ранжированный корпус материалов для подготовки к интервью RS/MTS (Research Scientist/MTS)",
+   "summary": "GLM-отчёт ранжирует учебные материалы по LLM и ML-математике под профиль Антона (COO/CTO, Python/C++, PhD, без классического ML-research трека) и даёт 6-недельный план подготовки к RS/MTS интервью с нарезкой на упражнения.",
+   "lang": "ru",
+   "date": "2026-09-22",
+   "slug": "DR26-09-22-HUB-04-1433-ranzhirovannyy-korpus-materialov-dlya-podgotovki-k-intervyu-rs-mts-res",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-09-22-HUB-04-1433-ranzhirovannyy-korpus-materialov-dlya-podgotovki-k-intervyu-rs-mts-res.md"
+  },
+  {
+   "dr_id": "DR26-09-22-HUB-05-1433",
+   "title": "Как нетипичные кандидаты без ML-публикаций заходят в топ-лаборатории ИИ (2024–2026)",
+   "summary": "Каталог реальных траекторий и типология ролей, через которые люди без классического ML-research-бэкграунда попадают в OpenAI, Anthropic, DeepMind, Mistral и другие топ-лаборатории ИИ.",
+   "lang": "ru",
+   "date": "2026-09-22",
+   "slug": "DR26-09-22-HUB-05-1433-kak-netipichnye-kandidaty-bez-ml-publikatsiy-zahodyat-v-top-laboratori",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-09-22-HUB-05-1433-kak-netipichnye-kandidaty-bez-ml-publikatsiy-zahodyat-v-top-laboratori.md"
+  },
+  {
+   "dr_id": "DR26-09-22-HUB-06-1433",
+   "title": "Платные сервисы подготовки к ML/AI-интервью: что внутри, цены, брать ли для research-трека",
+   "summary": "⚠️ Исправлено 2026-09-29 (dr-judge): первая версия была собрана по мусорной/слабой рельсе и расходилась с живыми отчётами. Переписано по chatgpt.md (56K) и grok.md (51K) из results DR26-09-22-HUB-06-1433. Класс дефекта: synthesis-read-only-the-garbage-rail. Отчёт разбирает по цене и содержанию платные сервисы подготовки к ML/AI-интервью и отвечает, какая доля их программ покрывает research-лупы лабораторий и что бесплатно воспроизводимо.",
+   "lang": "ru",
+   "date": "2026-09-22",
+   "slug": "DR26-09-22-HUB-06-1433-platnye-servisy-podgotovki-k-ml-ai-intervyu-chto-vnutri-tseny-brat-li",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-09-22-HUB-06-1433-platnye-servisy-podgotovki-k-ml-ai-intervyu-chto-vnutri-tseny-brat-li.md"
+  },
+  {
+   "dr_id": "DR26-09-22-HUB-07-1433",
+   "title": "Каталог публичных дневников трудоустройства в ИИ помимо Alisa Liu",
+   "summary": "⚠️ Исправлено 2026-09-29 (dr-judge): первая версия была собрана целиком по мусорной ноге glm и утверждала, что доехала 1 нога из 6. На диске 5 отчётов; переписано по chatgpt.md (58K) и grok.md (48K). Класс дефекта: synthesis-read-only-the-garbage-rail. Кто ещё в 2022-2026 публично и подробно описал свой путь трудоустройства в ИИ-исследования/инженерию, что именно выложил и какие закономерности видны при сравнении историй.",
+   "lang": "ru",
+   "date": "2026-09-22",
+   "slug": "DR26-09-22-HUB-07-1433-katalog-publichnyh-dnevnikov-trudoustroystva-v-ii-pomimo-alisa-liu",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-09-22-HUB-07-1433-katalog-publichnyh-dnevnikov-trudoustroystva-v-ii-pomimo-alisa-liu.md"
+  },
+  {
+   "dr_id": "DR26-09-24-ZB-01-1922",
+   "title": "Plaud (Note/Note Pro/NotePin): интеграция с Claude/Codex/Obsidian-волтом/CRM",
+   "summary": "⚠️ Исправлено 2026-09-29 (dr-judge): первая версия была собрана по мусорной/слабой рельсе и расходилась с живыми отчётами — утверждала, что в материале только текст промпта и ответов вендоров нет. Переписано по grok.md (53K) из results DR26-09-24-ZB-01-1922, где есть реальные таблицы CLI/MCP, риски и архитектура на 6 машин. Класс дефекта: synthesis-read-only-the-garbage-rail. Исследование отвечает, как подключить голосовые рекордеры Plaud (официальные @plaud-ai/cli, @plaud-ai/mcp, платформа platform.plaud.ai и сторонние обвязки) к Claude/Codex, Obsidian-волту и CRM на флоте из 6 машин.",
+   "lang": "ru",
+   "date": "2026-09-24",
+   "slug": "DR26-09-24-ZB-01-1922-plaud-note-note-pro-notepin-integratsiya-s-claude-codex-obsidian-volto",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-09-24-ZB-01-1922-plaud-note-note-pro-notepin-integratsiya-s-claude-codex-obsidian-volto.md"
+  },
+  {
+   "dr_id": "DR26-09-25-HUB-01-1226",
+   "title": "OpenCode Desktop vs Codex Desktop и Cursor: GUI-альтернативы для Windows с доступом к Deep",
+   "summary": "⚠️ Исправлено 2026-09-29 (dr-judge): первая версия была собрана практически из одного вендора (GLM) и рекомендовала OpenCode как основной вариант. Переписано по grok.md (36K) из results DR26-09-25-HUB-01-1226 — вердикт живого прогона обратный: OpenCode держим боковой рельсой, Cursor/Codex Desktop не заменяем. Расхождение с glm.md названо явно. Класс дефекта: synthesis-read-only-the-garbage-rail. Исследование сравнивает OpenCode Desktop с Cursor, Codex Desktop (ChatGPT desktop) и другими GUI-альтернативами по UX и доступу к дешёвым моделям (DeepSeek/GLM) для Windows-пользователя, не любящего CLI.",
+   "lang": "ru",
+   "date": "2026-09-25",
+   "slug": "DR26-09-25-HUB-01-1226-opencode-desktop-vs-codex-desktop-i-cursor-gui-alternativy-dlya-window",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-09-25-HUB-01-1226-opencode-desktop-vs-codex-desktop-i-cursor-gui-alternativy-dlya-window.md"
+  },
+  {
+   "dr_id": "DR26-09-26-HUB-01-2230",
+   "title": "Jev (TypeSafe AI System One) — переносить ли решающие точки флота на типизированную decisi",
+   "summary": "Deep-research оценивал, стоит ли переносить решающие точки агентного флота Антона (маршрутизация, триаж, слоп-гейт, гейт площадок и др.) на типизированную decision-модель Jev от TypeSafe AI вместо LLM-генерации или эвристик.",
+   "lang": "ru",
+   "date": "2026-09-26",
+   "slug": "DR26-09-26-HUB-01-2230-jev-typesafe-ai-system-one-perenosit-li-reshayuschie-tochki-flota-na-t",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-09-26-HUB-01-2230-jev-typesafe-ai-system-one-perenosit-li-reshayuschie-tochki-flota-na-t.md"
+  },
+  {
+   "dr_id": "DR26-09-29-HUB-01-0839",
+   "title": "bb (get-bb) как оркестратор мульти-агентного флота: паттерны использования и интерфейсы",
+   "summary": "Постановочный запрос deep-research (без вошедших в присланный текст ответов вендоров) о том, кто и как использует bb в проде как оркестратора агентов, как подключают несколько LLM-агентов и какие интерфейсы/альтернативы подходят для VPS-флота Антона.",
+   "lang": "ru",
+   "date": "2026-09-29",
+   "slug": "DR26-09-29-HUB-01-0839-bb-get-bb-kak-orkestrator-multi-agentnogo-flota-patterny-ispolzovaniya",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-09-29-HUB-01-0839-bb-get-bb-kak-orkestrator-multi-agentnogo-flota-patterny-ispolzovaniya.md"
+  },
+  {
+   "dr_id": "DR26-09-30-HUB-01-1422",
+   "title": "Unit economics of AI-native SMB automation agencies on retainers",
+   "summary": "Whether running an AI-automation retainer agency for SMBs (n8n/Make-style) is a viable 5-10 hr/week cash engine given realistic retainer pricing, churn, offshore delivery cost, OFAC/sanctions constraints, acquisition CAC, and exit multiples.",
+   "lang": "en",
+   "date": "2026-09-30",
+   "slug": "DR26-09-30-HUB-01-1422-unit-economics-of-ai-native-smb-automation-agencies-on-retainers",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-09-30-HUB-01-1422-unit-economics-of-ai-native-smb-automation-agencies-on-retainers.md"
   }
  ]
 }

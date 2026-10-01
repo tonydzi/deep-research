@@ -53,3 +53,4 @@ source: Palo Alto AI Research Lab — deep research programme
 - claude-system-prompts
 - context-rot
 - xml-prompt-structuring
+- 2026-08-31-dmitrii-zhdanov-1-on-1-with-tony-Y0tFRA — Dmitrii's exact claim that model reasoning degrades sharply above 100-200K context tokens matches this Anthropic-prompting insight

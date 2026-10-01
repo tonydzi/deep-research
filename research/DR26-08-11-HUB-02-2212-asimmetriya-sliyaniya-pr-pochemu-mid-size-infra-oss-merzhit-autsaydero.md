@@ -48,3 +48,4 @@ source: Palo Alto AI Research Lab — deep research programme
 - AI-disclosure policies in OSS
 - MCP ecosystem
 - repo classification (product vs marketing surface)
+- insight-2026-09-05-github-target-universe — that insight's recommendation (target by repo class, not vendor cookbooks) is exactly the strategy this orphan's kill-criteria/AI-policy fun

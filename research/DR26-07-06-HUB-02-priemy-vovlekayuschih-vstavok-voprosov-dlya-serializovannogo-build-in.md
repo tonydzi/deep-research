@@ -61,3 +61,4 @@ source: Palo Alto AI Research Lab — deep research programme
 - curiosity gap
 - reader-engagement
 - GitHub Discussions
+- insight-DR-DR26-09-03-HUB-01-2037-бульварное-чтиво-как-метод-перенос-таблоидных-real — same domain: narrative-engagement techniques for build-in-public serialized posts, direct precursor DR

@@ -51,3 +51,4 @@ source: Palo Alto AI Research Lab — deep research programme
 - model-context-protocol
 - browser-automation
 - prompt-injection
+- insight-DR-DR26-09-06-MACANTON-01-0753-cloakbrowser-claude-интеграция-mcp-mcr-неоднозначн — карта браузерных MCP-серверов — тот же ландшафт альтернатив, что разбирает сирота для CloakBrowser

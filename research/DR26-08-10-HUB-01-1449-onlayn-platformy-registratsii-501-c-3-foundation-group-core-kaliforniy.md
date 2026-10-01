@@ -83,3 +83,7 @@ source: Palo Alto AI Research Lab — deep research programme
 - Леджер веера: `_drafts\DR-FANOUT-DR26-08-10-HUB-01-1449-nonprofit-platforms.md`
 - Реестр: _DR-Registry, статус `synthesized`
 - Предшественник: decision-nonprofit-fiscal-sponsorship-2026-07-05 (DR26-07-05-ZB-01) — платформы там почти не разбирались, этот ДР их и закрывает
+
+## Связано
+- insight-DR-DR26-08-25-MACANTON-13-0740-регистрация-nonprofit-501-c-3-в-калифорнии-процесс — тот же тред по регистрации 501c3 в Калифорнии, более ранняя версия
+- insight-DR-DR26-08-29-MACANTON-15-0743-регистрация-nonprofit-501-c-3-в-калифорнии-сервисы — тот же список сервисов регистрации (Foundation Group, LegalZoom, Northwest, Bizee)
