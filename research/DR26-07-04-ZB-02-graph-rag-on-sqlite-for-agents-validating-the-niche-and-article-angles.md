@@ -59,3 +59,4 @@ source: Palo Alto AI Research Lab — deep research programme
 - query routing
 - insight-DR-DR26-07-26-ZB-05-obsidian-alternatives-i-mnogomernaya-perelinkovka — продолжение (2026-07-26): два внешних вендора независимо подтвердили замеренный здесь эффект «граф вредит entity-запросам» (имя механизма — семантическое разбавление) и предложили лечение помимо роутера: entity-enriched эмбеддинги и битемпоральные рёбра; плюс потолок масштаба GUI-приложений на 226k заметок
 - insight-DR-DR26-08-04-ZB-14-2214-graph-expansion-fan-penalty — прямая предыстория gate/fan-penalty решения в ZB-14 (entity-query regression, hub-note overreach)
+- insight-DR-DR26-09-28-HUB-01-0455-критика-михаила-савченко-о-битемпоральности-и-репу — тот же пилот sqlite-graph-memory / graph RAG, прямая предыстория темы битемпоральности и репутации источника

@@ -78,3 +78,4 @@ source: Palo Alto AI Research Lab — deep research programme
 - Graph RAG
 - Obsidian vault
 - decision-2026-07-26-obsidian-viewer-or-headless
+- insight-DR-DR26-09-28-HUB-01-0455-критика-михаила-савченко-о-битемпоральности-и-репу — обсуждает битемпоральные рёбра в SQLite для того же второго мозга
