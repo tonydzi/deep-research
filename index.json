@@ -1,6 +1,6 @@
 {
  "generated": "2026-10-05",
- "count": 346,
+ "count": 340,
  "repo": "https://github.com/tonydzi/deep-research",
  "research": [
   {
@@ -182,15 +182,6 @@
    "date": "",
    "slug": "DR26-08-05-ZB-01-0125-pochemu-statya-visit-na-arxiv-i-chto-realno-delat",
    "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-08-05-ZB-01-0125-pochemu-statya-visit-na-arxiv-i-chto-realno-delat.md"
-  },
-  {
-   "dr_id": "DR26-08-13-ZB-01-2110",
-   "title": "AI-автоматизация для прибыльных SMB США: синтез веера для идеи Артура",
-   "summary": "1. Запускать не горизонтальный «AI-консалтинг для всех», а 60-дневный тест одной вертикали и одного дорогого повторяемого процесса. 2. Первый тест провести в **home services: HVAC, plumbing, electrical**, потому что эту нишу поддерживают все 4 рельсы, а ClaudeAI и GLM ставят её первой. Однако лидерство этой ниши **не доказано**: ChatGPT ставит первой accounting, Grok ставит dental/insurance. 3. Продавать лестницу: короткий fit-call, платная диагностика, fixed-price пилот одного workflow, затем managed retainer. Не продавать стратегический отчёт без внедрения. 4. Рабочая стартовая гипотеза цены: диагностика **$2.5k-$5k**, пилот **$8k-$20k**, сопровождение **$2k-$5k/мес**. Это пересечение диапазонов рельс, а не доказанная медиана закрытых сделок. 5. Искать первые сделки через бухгалтеров, MSP, отраслевые ассоциации и локальные owner-сети. Cold email использовать только точечно по сигналу боли. 6. До масштабирования получить 3 платные диагностики, 2 production-пилота и один кейс с измеренным «до и после». Если этого нет за 60 дней, нишу остановить или сменить.",
-   "lang": "ru",
-   "date": "",
-   "slug": "DR26-08-13-ZB-01-2110-ai-avtomatizatsiya-dlya-pribylnyh-smb-ssha-sintez-veera-dlya-idei-artu",
-   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-08-13-ZB-01-2110-ai-avtomatizatsiya-dlya-pribylnyh-smb-ssha-sintez-veera-dlya-idei-artu.md"
   },
   {
    "dr_id": "DR26-08-14-NAT-01-0941",
@@ -616,24 +607,6 @@
    "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-06-25-HUB-01-security-and-design-best-practices-for-a-headless-syncthing-mailbox-ll.md"
   },
   {
-   "dr_id": "DR26-06-25-HUB-02",
-   "title": "Поиск NEW NVIDIA RTX A4000 16GB для доставки в Лиссабон в бюджете €500–1000",
-   "summary": "Отчёт проверяет, есть ли активная ссылка на новую RTX A4000 16GB в бюджете €500–1000 с доставкой в Лиссабон через Amazon ES/DE, португальских ритейлеров и eBay EU, и находит ли адекватную альтернативу.",
-   "lang": "ru",
-   "date": "2026-06-25",
-   "slug": "DR26-06-25-HUB-02-poisk-new-nvidia-rtx-a4000-16gb-dlya-dostavki-v-lissabon-v-byudzhete-5",
-   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-06-25-HUB-02-poisk-new-nvidia-rtx-a4000-16gb-dlya-dostavki-v-lissabon-v-byudzhete-5.md"
-  },
-  {
-   "dr_id": "DR26-06-25-HUB-03",
-   "title": "Активные лоты RTX 3090/4090 24GB на eBay: риск, цена и доставка в Лиссабон",
-   "summary": "Отчёт выявляет и ранжирует активные лоты RTX 3090 24GB и RTX 4090 24GB на eBay (US и EU-домены) по критериям безопасности сделки, цены и доставки в Португалию.",
-   "lang": "ru",
-   "date": "2026-06-25",
-   "slug": "DR26-06-25-HUB-03-aktivnye-loty-rtx-3090-4090-24gb-na-ebay-risk-tsena-i-dostavka-v-lissa",
-   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-06-25-HUB-03-aktivnye-loty-rtx-3090-4090-24gb-na-ebay-risk-tsena-i-dostavka-v-lissa.md"
-  },
-  {
    "dr_id": "DR26-06-25-HUB-04",
    "title": "Claude Code Agent Teams for an Individual Power-User",
    "summary": "Investigates whether a solo Windows power-user should use Claude Code Agent Teams (vs plain subagents, deterministic workflows, or an external message bus) for import pipelines, research/review, and multi-machine coordination, and quantifies the cost/risk tradeoffs.",
@@ -740,15 +713,6 @@
    "date": "2026-06-26",
    "slug": "DR26-06-26-HUB-08-inventarizatsiya-i-stress-testirovanie-b-u-gpu-rtx-3090-5060ti-pered-p",
    "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-06-26-HUB-08-inventarizatsiya-i-stress-testirovanie-b-u-gpu-rtx-3090-5060ti-pered-p.md"
-  },
-  {
-   "dr_id": "DR26-06-26-HUB-09",
-   "title": "Рейтинг бесшумности и надёжности видеокарт RTX 5060 Ti 16GB (рынок Португалии)",
-   "summary": "Отчёт сравнивает модели RTX 5060 Ti 16GB от ASUS, MSI, Zotac, Gigabyte, Palit, Gainward и Inno3D по уровню шума, наличию 0-dB режима, coil-whine и гарантии, чтобы определить самую тихую и надёжную для покупки в Португалии.",
-   "lang": "ru",
-   "date": "2026-06-26",
-   "slug": "DR26-06-26-HUB-09-reyting-besshumnosti-i-nadezhnosti-videokart-rtx-5060-ti-16gb-rynok-po",
-   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-06-26-HUB-09-reyting-besshumnosti-i-nadezhnosti-videokart-rtx-5060-ti-16gb-rynok-po.md"
   },
   {
    "dr_id": "DR26-06-27-HUB-01",
@@ -2479,15 +2443,6 @@
    "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-08-24-HUB-01-0830-nsfw-adult-ai-kak-moat-sintez-4-vendorov-moat-realen-no-operatsionnyy.md"
   },
   {
-   "dr_id": "DR26-08-24-HUB-02-1401",
-   "title": "Досье 11 игроков NSFW-AI — консенсус 4 вендоров: Infloww = партнёр №1, Supercreator/Substy = планка, датасет с исходами = moat",
-   "summary": "Продолжение [[insight-DR-DR26-08-24-HUB-01-0830-nsfw-ai-moat]]. Кворум 4/6: ChatGPT gpt-5-6-pro (73k, лучший из четырёх) · GLM-5.2 (54k) · Gemini DR (50k) · Grok (145 источников). claudeai добирается ночным сборщиком.",
-   "lang": "ru",
-   "date": "2026-08-24",
-   "slug": "DR26-08-24-HUB-02-1401-dose-11-igrokov-nsfw-ai-konsensus-4-vendorov-infloww-partner-1-supercr",
-   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-08-24-HUB-02-1401-dose-11-igrokov-nsfw-ai-konsensus-4-vendorov-infloww-partner-1-supercr.md"
-  },
-  {
    "dr_id": "DR26-08-24-MACANTON-01-0007",
    "title": "Заметность в топ-10 LLM: второе касание, а не объём — синтез DR-0007",
    "summary": "Полный синтез + Decision Memo: `_machine-bus/_dr/queue/DR26-08-24-MACANTON-01-0007/SYNTHESIS.md`. Сырьё verbatim: `_originals/DR26-08-24-MACANTON-01-0007/`.",
@@ -2657,15 +2612,6 @@
    "date": "2026-08-25",
    "slug": "DR26-08-25-MACANTON-18-0745-catchclub-connectli-rynok-konkurentsiya-i-fandrayzing-v-ssha-2026",
    "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-08-25-MACANTON-18-0745-catchclub-connectli-rynok-konkurentsiya-i-fandrayzing-v-ssha-2026.md"
-  },
-  {
-   "dr_id": "DR26-08-25-MACRUS-01-1406",
-   "title": "Роликовые коньки: выбор для детей 7-10 лет и взрослого в Португалии",
-   "summary": "Отчёт отвечает, какие роликовые коньки купить детям 7-10 лет (inline и quad) и взрослому (под плохой асфальт), с моделями, ценами и магазинами доставки в район Синтра/Лиссабон.",
-   "lang": "ru",
-   "date": "2026-08-25",
-   "slug": "DR26-08-25-MACRUS-01-1406-rolikovye-konki-vybor-dlya-detey-7-10-let-i-vzroslogo-v-portugalii",
-   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-08-25-MACRUS-01-1406-rolikovye-konki-vybor-dlya-detey-7-10-let-i-vzroslogo-v-portugalii.md"
   },
   {
    "dr_id": "DR26-08-25-HUB-03-2301",

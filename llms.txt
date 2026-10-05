@@ -1,6 +1,6 @@
 # Palo Alto AI Research Lab — deep research corpus
 
-346 distilled deep-research reports. Machine-readable index: index.json
+340 distilled deep-research reports. Machine-readable index: index.json
 Each file: frontmatter (dr_id, title, date, lang) + summary + key findings + recommendations.
 Multi-model methodology: every question fanned out to several frontier models, then reconciled.
 License: CC BY 4.0. Cite as: Palo Alto AI Research Lab, deep research <dr_id>.
@@ -72,10 +72,8 @@ License: CC BY 4.0. Cite as: Palo Alto AI Research Lab, deep research <dr_id>.
 - DR26-08-25-MACANTON-16-0740 (2026-08-25, ru): Google Antigravity 2.0: архитектура, интерфейсы (Desktop/CLI/headless/SDK/Managed API), пр
 - DR26-08-25-MACANTON-17-0742 (2026-08-25, en): HuggingFace/vendor cookbook contributions as a hiring lever into frontier LLM labs
 - DR26-08-25-MACANTON-18-0745 (2026-08-25, ru): CatchClub/Connectli: рынок, конкуренция и фандрайзинг в США 2026
-- DR26-08-25-MACRUS-01-1406 (2026-08-25, ru): Роликовые коньки: выбор для детей 7-10 лет и взрослого в Португалии
 - DR26-07-23-MACANTON-01-1118 (2026-08-24, ru): HuggingFace/вендорские cookbooks как рычаг найма в frontier-LLM — синтез + Decision Memo
 - DR26-08-24-HUB-01-0830 (2026-08-24, ru): NSFW/adult AI как moat — синтез 4 вендоров (moat реален, но операционный; победил угол OF-copilot)
-- DR26-08-24-HUB-02-1401 (2026-08-24, ru): Досье 11 игроков NSFW-AI — консенсус 4 вендоров: Infloww = партнёр №1, Supercreator/Substy = планка, датасет с исходами = moat
 - DR26-08-24-MACANTON-01-0007 (2026-08-24, ru): Заметность в топ-10 LLM: второе касание, а не объём — синтез DR-0007
 - DR26-08-24-MACANTON-02-1025 (2026-08-24, en): Выбор EU-юрисдикции (не Португалия) для второго юрлица под EIC-гранты при живом Delaware C
 - DR26-08-23-HUB-01-2221 (2026-08-23, ru): Аяуаска: агрессия, стыд, привыкание, риски, декриминализация + верификация Хэнкока и Бигли
@@ -276,10 +274,7 @@ License: CC BY 4.0. Cite as: Palo Alto AI Research Lab, deep research <dr_id>.
 - DR26-06-26-HUB-06 (2026-06-26, ru): Выбор локальной LLM (3–6 GB VRAM) на GTX 1660 Super как фоллбэк для Claude Code
 - DR26-06-26-HUB-07 (2026-06-26, ru): Сравнение мессенджер-каналов и моделей идентичности для мульти-агентных Claude-команд
 - DR26-06-26-HUB-08 (2026-06-26, ru): Инвентаризация и стресс-тестирование б/у GPU (RTX 3090, 5060Ti) перед покупкой
-- DR26-06-26-HUB-09 (2026-06-26, ru): Рейтинг бесшумности и надёжности видеокарт RTX 5060 Ti 16GB (рынок Португалии)
 - DR26-06-25-HUB-01 (2026-06-25, en): Security and design best practices for a headless Syncthing-mailbox LLM agent
-- DR26-06-25-HUB-02 (2026-06-25, ru): Поиск NEW NVIDIA RTX A4000 16GB для доставки в Лиссабон в бюджете €500–1000
-- DR26-06-25-HUB-03 (2026-06-25, ru): Активные лоты RTX 3090/4090 24GB на eBay: риск, цена и доставка в Лиссабон
 - DR26-06-25-HUB-04 (2026-06-25, en): Claude Code Agent Teams for an Individual Power-User
 - DR26-06-25-HUB-05 (2026-06-25, en): Designing Memory for a Coding Assistant Digital Twin (raw transcripts vs curated RAG)
 - DR26-06-25-HUB-06 (2026-06-25, en): Designing an Essence and Evidence Split for a Personal Knowledge Vault
@@ -315,7 +310,6 @@ License: CC BY 4.0. Cite as: Palo Alto AI Research Lab, deep research <dr_id>.
 - DR26-08-04-ZB-12-2205 (, ru): Синтез DR26-08-04-ZB-12 - голос в веса: CPT на BASE-чекпоинте, а не вендорский fine-tune
 - DR26-08-05-HUB-01-1858 (, ru): архитектура «фронта без модалок»
 - DR26-08-05-ZB-01-0125 (, ru): почему статья висит на arXiv и что реально делать
-- DR26-08-13-ZB-01-2110 (, ru): AI-автоматизация для прибыльных SMB США: синтез веера для идеи Артура
 - DR26-08-14-NAT-01-0941 (, ru): Синтез: как маленькой AI-лаборатории заходить на Хабр
 - DR26-08-14-NAT-03-1248 (, ru): SYNTHESIS: неанглоязычная дистрибуция Agent Skills
 - DR26-08-14-ZB-01-0159 (, ru): SYNTHESIS: AI-native премиум-сервисы для состоятельной русскоязычной диаспоры вне РФ

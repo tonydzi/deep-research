@@ -1,6 +1,6 @@
 # Deep Research — Palo Alto AI Research Lab
 
-346 deep-research reports, distilled. Every entry answers two questions: why we ran this research, and what we got out of it.
+340 deep-research reports, distilled. Every entry answers two questions: why we ran this research, and what we got out of it.
 
 Each report was run across several frontier models (ChatGPT, Gemini, Grok, Claude, GLM, Mistral), then reconciled into the distilled note you see here. Findings are the reconciled ones, not a single model's opinion.
 
@@ -227,10 +227,8 @@ Raw model transcripts stay in our vault. What is published here is the distilled
 | [DR26-08-25-MACANTON-15-0740](research/DR26-08-25-MACANTON-15-0740-venice-ai-vs-fanvue-sravnenie-finansirovaniya-otsenki-i-riskov-avg-202.md) | Venice.ai vs Fanvue: сравнение финансирования, оценки и рисков (авг. 2026) | 2026-08-25 |
 | [DR26-08-25-MACANTON-16-0740](research/DR26-08-25-MACANTON-16-0740-google-antigravity-2-0-arhitektura-interfeysy-desktop-cli-headless-sdk.md) | Google Antigravity 2.0: архитектура, интерфейсы (Desktop/CLI/headless/SDK/Managed API), пр | 2026-08-25 |
 | [DR26-08-25-MACANTON-18-0745](research/DR26-08-25-MACANTON-18-0745-catchclub-connectli-rynok-konkurentsiya-i-fandrayzing-v-ssha-2026.md) | CatchClub/Connectli: рынок, конкуренция и фандрайзинг в США 2026 | 2026-08-25 |
-| [DR26-08-25-MACRUS-01-1406](research/DR26-08-25-MACRUS-01-1406-rolikovye-konki-vybor-dlya-detey-7-10-let-i-vzroslogo-v-portugalii.md) | Роликовые коньки: выбор для детей 7-10 лет и взрослого в Португалии | 2026-08-25 |
 | [DR26-07-23-MACANTON-01-1118](research/DR26-07-23-MACANTON-01-1118-huggingface-vendorskie-cookbooks-kak-rychag-nayma-v-frontier-llm-sinte.md) | HuggingFace/вендорские cookbooks как рычаг найма в frontier-LLM — синтез + Decision Memo | 2026-08-24 |
 | [DR26-08-24-HUB-01-0830](research/DR26-08-24-HUB-01-0830-nsfw-adult-ai-kak-moat-sintez-4-vendorov-moat-realen-no-operatsionnyy.md) | NSFW/adult AI как moat — синтез 4 вендоров (moat реален, но операционный; победил угол OF-copilot) | 2026-08-24 |
-| [DR26-08-24-HUB-02-1401](research/DR26-08-24-HUB-02-1401-dose-11-igrokov-nsfw-ai-konsensus-4-vendorov-infloww-partner-1-supercr.md) | Досье 11 игроков NSFW-AI — консенсус 4 вендоров: Infloww = партнёр №1, Supercreator/Substy = планка, датасет с | 2026-08-24 |
 | [DR26-08-24-MACANTON-01-0007](research/DR26-08-24-MACANTON-01-0007-zametnost-v-top-10-llm-vtoroe-kasanie-a-ne-obem-sintez-dr-0007.md) | Заметность в топ-10 LLM: второе касание, а не объём — синтез DR-0007 | 2026-08-24 |
 | [DR26-08-23-HUB-01-2221](research/DR26-08-23-HUB-01-2221-ayauaska-agressiya-styd-privykanie-riski-dekriminalizatsiya-verifikats.md) | Аяуаска: агрессия, стыд, привыкание, риски, декриминализация + верификация Хэнкока и Бигли | 2026-08-23 |
 | [DR26-08-15-HUB-01](research/DR26-08-15-HUB-01-browser-rail-cdp-chrome-i-screen-automation-rail-po-os-dlya-bezlyudnyh.md) | Browser rail (CDP/Chrome) и screen automation rail по ОС для безлюдных агентов | 2026-08-15 |
@@ -309,9 +307,6 @@ Raw model transcripts stay in our vault. What is published here is the distilled
 | [DR26-06-26-HUB-06](research/DR26-06-26-HUB-06-vybor-lokalnoy-llm-3-6-gb-vram-na-gtx-1660-super-kak-follbek-dlya-clau.md) | Выбор локальной LLM (3–6 GB VRAM) на GTX 1660 Super как фоллбэк для Claude Code | 2026-06-26 |
 | [DR26-06-26-HUB-07](research/DR26-06-26-HUB-07-sravnenie-messendzher-kanalov-i-modeley-identichnosti-dlya-multi-agent.md) | Сравнение мессенджер-каналов и моделей идентичности для мульти-агентных Claude-команд | 2026-06-26 |
 | [DR26-06-26-HUB-08](research/DR26-06-26-HUB-08-inventarizatsiya-i-stress-testirovanie-b-u-gpu-rtx-3090-5060ti-pered-p.md) | Инвентаризация и стресс-тестирование б/у GPU (RTX 3090, 5060Ti) перед покупкой | 2026-06-26 |
-| [DR26-06-26-HUB-09](research/DR26-06-26-HUB-09-reyting-besshumnosti-i-nadezhnosti-videokart-rtx-5060-ti-16gb-rynok-po.md) | Рейтинг бесшумности и надёжности видеокарт RTX 5060 Ti 16GB (рынок Португалии) | 2026-06-26 |
-| [DR26-06-25-HUB-02](research/DR26-06-25-HUB-02-poisk-new-nvidia-rtx-a4000-16gb-dlya-dostavki-v-lissabon-v-byudzhete-5.md) | Поиск NEW NVIDIA RTX A4000 16GB для доставки в Лиссабон в бюджете €500–1000 | 2026-06-25 |
-| [DR26-06-25-HUB-03](research/DR26-06-25-HUB-03-aktivnye-loty-rtx-3090-4090-24gb-na-ebay-risk-tsena-i-dostavka-v-lissa.md) | Активные лоты RTX 3090/4090 24GB на eBay: риск, цена и доставка в Лиссабон | 2026-06-25 |
 | [DR26-06-16-LEG-01](research/DR26-06-16-LEG-01-arhitektura-notebooklm-poverh-obsidian-volta-i-claude-code-dlya-tsifro.md) | Архитектура NotebookLM поверх Obsidian-волта и Claude Code для цифрового двойника | 2026-06-16 |
 | [DR26-06-14-LEG-01](research/DR26-06-14-LEG-01-personalizatsiya-cloud-code-i-agentnyh-kodovyh-sred-kak-stroit-lichnos.md) | Персонализация Cloud Code и агентных кодовых сред: как строить 'личность' AI-агента безопа | 2026-06-14 |
 | [DR26-05-01-HUB-01](research/DR26-05-01-HUB-01-rynok-i-postavschiki-vokrug-openclaw-setapy-integratory-riski-i-altern.md) | Рынок и поставщики вокруг OpenClaw: сетапы, интеграторы, риски и альтернативы | 2026-05-01 |
@@ -335,7 +330,6 @@ Raw model transcripts stay in our vault. What is published here is the distilled
 | [DR26-08-04-ZB-12-2205](research/DR26-08-04-ZB-12-2205-sintez-dr26-08-04-zb-12-golos-v-vesa-cpt-na-base-chekpointe-a-ne-vendo.md) | Синтез DR26-08-04-ZB-12 - голос в веса: CPT на BASE-чекпоинте, а не вендорский fine-tune |  |
 | [DR26-08-05-HUB-01-1858](research/DR26-08-05-HUB-01-1858-arhitektura-fronta-bez-modalok.md) | архитектура «фронта без модалок» |  |
 | [DR26-08-05-ZB-01-0125](research/DR26-08-05-ZB-01-0125-pochemu-statya-visit-na-arxiv-i-chto-realno-delat.md) | почему статья висит на arXiv и что реально делать |  |
-| [DR26-08-13-ZB-01-2110](research/DR26-08-13-ZB-01-2110-ai-avtomatizatsiya-dlya-pribylnyh-smb-ssha-sintez-veera-dlya-idei-artu.md) | AI-автоматизация для прибыльных SMB США: синтез веера для идеи Артура |  |
 | [DR26-08-14-NAT-01-0941](research/DR26-08-14-NAT-01-0941-sintez-kak-malenkoy-ai-laboratorii-zahodit-na-habr.md) | Синтез: как маленькой AI-лаборатории заходить на Хабр |  |
 | [DR26-08-14-NAT-03-1248](research/DR26-08-14-NAT-03-1248-synthesis-neangloyazychnaya-distributsiya-agent-skills.md) | SYNTHESIS: неанглоязычная дистрибуция Agent Skills |  |
 | [DR26-08-14-ZB-01-0159](research/DR26-08-14-ZB-01-0159-synthesis-ai-native-premium-servisy-dlya-sostoyatelnoy-russkoyazychnoy.md) | SYNTHESIS: AI-native премиум-сервисы для состоятельной русскоязычной диаспоры вне РФ |  |
