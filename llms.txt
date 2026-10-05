@@ -1,10 +1,12 @@
 # Palo Alto AI Research Lab — deep research corpus
 
-328 distilled deep-research reports. Machine-readable index: index.json
+347 distilled deep-research reports. Machine-readable index: index.json
 Each file: frontmatter (dr_id, title, date, lang) + summary + key findings + recommendations.
 Multi-model methodology: every question fanned out to several frontier models, then reconciled.
 License: CC BY 4.0. Cite as: Palo Alto AI Research Lab, deep research <dr_id>.
 
+- DR26-10-02-ZB-01-0728 (2026-10-02, ru): Рынок управляемой памяти для флотов ИИ-агентов: размер, конкуренты, CAC, go-to-market до п
+- DR26-10-02-ZB-02-1136 (2026-10-02, en): Which LLM writes the best short punchy X posts (Grok vs GPT vs Claude vs Gemini)
 - DR26-09-30-HUB-01-1422 (2026-09-30, en): Unit economics of AI-native SMB automation agencies on retainers
 - DR26-09-29-HUB-01-0839 (2026-09-29, ru): bb (get-bb) как оркестратор мульти-агентного флота: паттерны использования и интерфейсы
 - DR26-09-26-HUB-01-2230 (2026-09-26, ru): Jev (TypeSafe AI System One) — переносить ли решающие точки флота на типизированную decisi
@@ -21,6 +23,7 @@ License: CC BY 4.0. Cite as: Palo Alto AI Research Lab, deep research <dr_id>.
 - DR26-09-16-HUB-01-1924 (2026-09-16, mixed): Итеративные циклы дожима (Ralph Loop/MetaLoop) для агентного кодинга: критерии остановки,
 - DR26-09-15-MACANTON-01-0806 (2026-09-15, en): Nango vs Composio/Paragon/Merge/Pipedream/Arcade/Klavis — unified auth layer for AI agents
 - DR26-09-14-ZB-07-2007 (2026-09-14, ru): Картина мира фаундеров frontier-AI-лабораторий: тех-фаундеры vs идеологи, боли 2026, слепы
+- DR26-09-14-ZB-08-2007 (2026-09-14, ru): Фандрейзинг глазами фаундеров AI-лабораторий: под какие продуктовые категории в 2026 дают деньги
 - DR26-09-14-ZB-09-2008 (2026-09-14, mixed): Форензика доходов frontier LLM-лабораторий: сходится ли подписочная и enterprise арифметик
 - DR26-09-06-MACANTON-01-0753 (2026-09-06, ru): CloakBrowser + Claude: интеграция, MCP/MCR-неоднозначность, альтернативы для LLM-управлени
 - DR26-09-02-MACANTON-02-0343 (2026-09-03, ru): Storytelling playbook — как упаковывать мысли в истории (синтез 3 рельс)
@@ -73,6 +76,7 @@ License: CC BY 4.0. Cite as: Palo Alto AI Research Lab, deep research <dr_id>.
 - DR26-07-23-MACANTON-01-1118 (2026-08-24, ru): HuggingFace/вендорские cookbooks как рычаг найма в frontier-LLM — синтез + Decision Memo
 - DR26-08-24-HUB-01-0830 (2026-08-24, ru): NSFW/adult AI как moat — синтез 4 вендоров (moat реален, но операционный; победил угол OF-copilot)
 - DR26-08-24-HUB-02-1401 (2026-08-24, ru): Досье 11 игроков NSFW-AI — консенсус 4 вендоров: Infloww = партнёр №1, Supercreator/Substy = планка, датасет с исходами = moat
+- DR26-08-24-MACANTON-01-0007 (2026-08-24, ru): Заметность в топ-10 LLM: второе касание, а не объём — синтез DR-0007
 - DR26-08-24-MACANTON-02-1025 (2026-08-24, en): Выбор EU-юрисдикции (не Португалия) для второго юрлица под EIC-гранты при живом Delaware C
 - DR26-08-23-HUB-01-2221 (2026-08-23, ru): Аяуаска: агрессия, стыд, привыкание, риски, декриминализация + верификация Хэнкока и Бигли
 - DR26-08-20-MACANTON-02-2259 (2026-08-20, mixed): n8n 2.x: недоиспользуемые фичи и антипаттерны под архитектуру событийных ушей для локальны
@@ -88,6 +92,7 @@ License: CC BY 4.0. Cite as: Palo Alto AI Research Lab, deep research <dr_id>.
 - DR26-08-05-ZB-03-1621 (2026-08-06, ru): DR26-08-05-ZB-03 Синтез: нейминг лаборатории — QQQ отбит, третий путь = неологизм
 - DR26-08-06-HUB-01-1055 (2026-08-06, ru): DR26-08-06-HUB-01-1055 — ТРИЗ: что брать, что отказать, и где она прямо противоречит АК-47
 - DR26-08-06-HUB-02-1055 (2026-08-06, ru): DR26-08-06-HUB-02-1055 — «5 почему» по серии: что подтвердилось в нашем ТЗ и две дыры, которых там не было
+- DR26-08-06-ZB-01-0934 (2026-08-06, ru): DR26-08-06-ZB-01-0934 — dev.to: голос, механика, граница самопиара и GEO-цитируемость
 - DR26-08-05-HUB-02-2156 (2026-08-05, ru): FB Graph API — свои посты с личного профиля читаются легально и без браузера, App Review не нужен
 - DR26-08-04-ZB-01-1437 (2026-08-04, ru): DR26-08-04-ZB-01-1437 — синтез: китайские LLM как 4-я пара глаз рядом с Grok и Gemini
 - DR26-08-04-ZB-13-2207 (2026-08-04, ru): Браузерные MCP-серверы сверх Firefox: карта агентских дверей (авг. 2026)
@@ -98,9 +103,11 @@ License: CC BY 4.0. Cite as: Palo Alto AI Research Lab, deep research <dr_id>.
 - DR26-08-01-MACANTON-01-558 (2026-08-01, ru): Как приходят первые контрибьюторы в неизвестный OSS-репо
 - DR26-07-10-MACANTON-03 (2026-07-30, ru): Insight (ИДР): Carlini / Claude находит zero-day — верификация первоисточниками + разговорный материал под миссию №2
 - DR26-07-30-MACANTON-01-1456 (2026-07-30, ru): Синтез DR: анти-AI-slop хуманизатор → скилл ai-slop
+- DR26-07-27-ZB-03-2306 (2026-07-29, ru): SEO+GEO карта площадок — синтез Grok Heavy: GitHub канонический дом, Habr/VC подтверждены частично, HackerNoon под нож
 - DR26-07-23-ZB-02 (2026-07-28, ru): DR26-07-23-ZB-02 — Синтез: цифровой двойник из личного корпуса + метрики фиделити
 - DR26-07-26-ZB-03 (2026-07-28, ru): Пантеон второго мозга — Карпаты vs Луман/Форте/Матушак/Мило/gwern/Вольфрам; что переносить в AI-first волт
 - DR26-07-27-HUB-01-2203 (2026-07-28, ru): Формат always-loaded файлов: спор «ТОП+§ против плоского списка» закрыт факторным замером — структура НЕ влияет на послушание, влияет длина сессии
+- DR26-07-27-ZB-04-2349 (2026-07-28, ru): HackerNoon как рабочая площадка — синтез 3 вендоров: развилка HN-first решена третьим ответом
 - DR26-07-28-HUB-04-2338 (2026-07-28, mixed): QA-процесс: ретро-тестирование vs выделенные bugfix-сессии + стратегия test/agent harness
 - DR26-07-28-HUB-05-2338 (2026-07-28, mixed): Claude Code Execution (50 бесплатных часов/день) как замена текстовому кодингу при пошагов
 - DR26-07-28-HUB-07-2338 (2026-07-28, ru): Влияние синей галочки верификации на engagement постов в Facebook/Instagram и X (Twitter)
@@ -137,6 +144,7 @@ License: CC BY 4.0. Cite as: Palo Alto AI Research Lab, deep research <dr_id>.
 - DR26-07-20-ZB-01-1016 (2026-07-20, ru): Синтез DR26-07-20-ZB-01: голос Reddit для AI-инженерных сабов
 - DR26-07-17-HUB-01 (2026-07-17, en): World-class public roadmaps for build-in-public projects
 - DR26-07-17-HUB-02 (2026-07-17, mixed): Prior-art: защита 4-узлового консенсуса от split-brain (fencing/epoch, partition detection
+- DR26-07-17-HUB-03 (2026-07-17, en): Reliable headless Firefox/Chromium automation with a persistent logged-in session on manag
 - DR26-07-17-HUB-04 (2026-07-17, en): Conditional Rule Activation in LLM Agents (lazy-loading rules/context vs always-on)
 - DR26-07-17-HUB-05 (2026-07-17, en): World-Class Public Roadmaps for Build in Public Projects
 - DR26-07-16-FLEE-01 (2026-07-16, en): Conditional rule activation: index+lazy-body dispatcher for always-loaded CLAUDE.md-style
@@ -164,6 +172,7 @@ License: CC BY 4.0. Cite as: Palo Alto AI Research Lab, deep research <dr_id>.
 - DR26-07-11-HUB-03 (2026-07-11, ru): Безопасность LLM-агентов: исходящие артефакты, промпт-инъекции, хуки, протокол A2A
 - DR26-07-11-HUB-04 (2026-07-11, ru): Безопасность публикации FOR-ROBOTS.md/AGENTS.md и защита флота Claude Code агентов от prom
 - DR26-07-11-MACANTON-01 (2026-07-11, ru): Публичный job-hunt как единое шоу фаундера фонда, метящего в оффер от LLM-компании
+- DR26-07-11-MAYAK-01 (2026-07-11, ru): DR26-07-11-MAYAK-01 — Telegram-рельсы для агент-флота: карта опций, бан-риск, вердикт
 - DR26-07-10-MACB-01 (2026-07-10, ru): Флот Syncthing: чинить тюнингом или дробить на 3 слоя (данные/конфиг/шина)
 - DR26-07-10-MACB-02 (2026-07-10, en): Agent-facing docs (AGENTS.md/llms.txt/FOR-ROBOTS.md) vs prompt injection: line & disclosur
 - DR26-07-08-HUB-01 (2026-07-08, en): Единый canon story-state вместо двух расходящихся спайнов (книга + live-лента)
@@ -263,8 +272,10 @@ License: CC BY 4.0. Cite as: Palo Alto AI Research Lab, deep research <dr_id>.
 - DR26-06-26-HUB-02 (2026-06-26, ru): Каталог AI-сервисов для монетизации домашних GPU (2x RTX 3090) в 2026
 - DR26-06-26-HUB-03 (2026-06-26, ru): Сравнение каналов связи и надёжность межагентной коммуникации между машинами Антона
 - DR26-06-26-HUB-04 (2026-06-26, ru): Отказоустойчивость LLM-инфраструктуры: failover между Claude Opus, Sonnet и локальной LLM
+- DR26-06-26-HUB-05 (2026-06-26, ru): Anthropic Claude Code: приостановленный headless-кредит и механика лимитов подписки Max/Pr
 - DR26-06-26-HUB-06 (2026-06-26, ru): Выбор локальной LLM (3–6 GB VRAM) на GTX 1660 Super как фоллбэк для Claude Code
 - DR26-06-26-HUB-07 (2026-06-26, ru): Сравнение мессенджер-каналов и моделей идентичности для мульти-агентных Claude-команд
+- DR26-06-26-HUB-08 (2026-06-26, ru): Инвентаризация и стресс-тестирование б/у GPU (RTX 3090, 5060Ti) перед покупкой
 - DR26-06-26-HUB-09 (2026-06-26, ru): Рейтинг бесшумности и надёжности видеокарт RTX 5060 Ti 16GB (рынок Португалии)
 - DR26-06-25-HUB-01 (2026-06-25, en): Security and design best practices for a headless Syncthing-mailbox LLM agent
 - DR26-06-25-HUB-02 (2026-06-25, ru): Поиск NEW NVIDIA RTX A4000 16GB для доставки в Лиссабон в бюджете €500–1000
@@ -286,20 +297,27 @@ License: CC BY 4.0. Cite as: Palo Alto AI Research Lab, deep research <dr_id>.
 - DR26-05-01-HUB-01 (2026-05-01, ru): Рынок и поставщики вокруг OpenClaw: сетапы, интеграторы, риски и альтернативы
 - DR26-07-14-FLEE-01 (, ru): Синтез-консенсус DR26-07-14-FLEE-01 — надёжная безлюдная оркестрация DR-fanout
 - DR26-07-16-HUB-03 (, ru): DR26-07-16-HUB-03 — Synthesis: safe fleet skill autonomy (supply-chain rails)
+- DR26-07-21-HUB-01-0755 (, ru): Codex CLI — маршрутизация скорости мышления (fast/deep lane) и механика квот Max-подписки
+- DR26-07-22-ZB-01-1948 (, ru): OpenRouter практический гид (июль 2026) — синтез-консенсус 3-вендорного DR
 - DR26-07-26-ZB-01 (, ru): Альфа из AI-фильмов: что из Ghost in the Shell / Blade Runner / Her реально строится в 2026 (DR26-07-26-ZB-01)
 - DR26-07-26-ZB-02 (, ru): Альфа из Юваля Харари: что забрать в систему, а что трёп (DR26-07-26-ZB-02)
+- DR26-07-26-ZB-04 (, ru): Синтез DR26-07-26-ZB-04 — нейронаука памяти: что копировать в цифровой мозг, а что категорически нет
 - DR26-07-29-MACANTON-02-1537 (, ru): Партизанский GitHub — синтез DR26-07-29-MACANTON-02-1537
 - DR26-07-31-MACANTON-03-2122 (, ru): OmniRoute — КОНСЕНСУС ТРЁХ РЕЛЬС + наши замеры (свод 04.08.2026)
 - DR26-08-01-MACANTON-01-0631 (, ru): Браузерная рельса агента: чему учат OpenClaw и Hermes — синтез DR26-08-01-MACANTON-01-0631
 - DR26-08-01-MACANTON-02-658 (, ru): Экономика удалённого офера от американской компании человеку в Лиссабоне — вердикт
 - DR26-08-01-MACANTON-02-659 (, ru): Steward-hire: как лаборатории нанимают мейнтейнера вместе с проектом — вердикт
 - DR26-08-01-MACANTON-02-701 (, ru): Публичные AI-кофаундеры и синтетические персоны — что реально работает (вердикт по Майкрофту)
+- DR26-08-01-MACANTON-02-726 (, ru): Диета MCP и сессий Claude Code: что реально есть у вендора, а чего нет
 - DR26-08-01-MACANTON-02-727 (, ru): Substack для лаборатории без email-базы: брать или нет, в каком формате, по каким цифрам
 - DR26-08-04-ZB-03-1552 (, ru): Синтез DR26-08-04-ZB-03 — ACK-протокол флота: чинить семантику, а не транспорт
 - DR26-08-04-ZB-08-1744 (, ru): Синтез DR26-08-04-ZB-08 — GEO-аналитика по origin-логам: зрелого OSS нет, дом инструмента = свой репо
+- DR26-08-04-ZB-12-2205 (, ru): Синтез DR26-08-04-ZB-12 - голос в веса: CPT на BASE-чекпоинте, а не вендорский fine-tune
+- DR26-08-05-HUB-01-1858 (, ru): архитектура «фронта без модалок»
 - DR26-08-05-ZB-01-0125 (, ru): почему статья висит на arXiv и что реально делать
 - DR26-08-13-ZB-01-2110 (, ru): AI-автоматизация для прибыльных SMB США: синтез веера для идеи Артура
 - DR26-08-14-NAT-01-0941 (, ru): Синтез: как маленькой AI-лаборатории заходить на Хабр
+- DR26-08-14-NAT-03-1248 (, ru): SYNTHESIS: неанглоязычная дистрибуция Agent Skills
 - DR26-08-14-ZB-01-0159 (, ru): SYNTHESIS: AI-native премиум-сервисы для состоятельной русскоязычной диаспоры вне РФ
 - DR26-08-16-MACANTON-01-0731 (, ru): DR26-08-16-MACANTON-01-0731 · Codex+Claude над одним волтом — синтез 4 рельс
 - DR26-08-21-HUB-02-1609 (, ru): Экономика синтетических сотрудников — что из тезиса «90% на токены» можно публиковать
@@ -333,3 +351,4 @@ License: CC BY 4.0. Cite as: Palo Alto AI Research Lab, deep research <dr_id>.
 - DR26-09-22-ZB-01-1143 (, ru): DR ZB-01-1143: AI-compute провайдеры (neocloud) как работодатели — синтез
 - DR26-09-23-ZB-01-0631 (, ru): Китайские LLM-лаборатории и Долина — нужен ли им местный ecosystem/DevRel-оператор, и где именно дверь
 - DR26-09-23-ZB-02-1231 (, ru): Иностранные AI/compute-компании в Долине — кому нужен местный landing lead с комьюнити, и где открытые двери
+- DR26-10-02-HUB-02-1811 (, ru): DR26-10-02-HUB-02: GitHub как вторая шина + разделение волта + событийное пробуждение — промежуточный синтез 2/6

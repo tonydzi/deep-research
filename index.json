@@ -1,6 +1,6 @@
 {
- "generated": "2026-10-02",
- "count": 328,
+ "generated": "2026-10-05",
+ "count": 347,
  "repo": "https://github.com/tonydzi/deep-research",
  "research": [
   {
@@ -22,6 +22,24 @@
    "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-07-16-HUB-03-dr26-07-16-hub-03-synthesis-safe-fleet-skill-autonomy-supply-chain-rai.md"
   },
   {
+   "dr_id": "DR26-07-21-HUB-01-0755",
+   "title": "Codex CLI — маршрутизация скорости мышления (fast/deep lane) и механика квот Max-подписки",
+   "summary": "🧒 Простыми словами: спросили трёх роботов, как правильно пользоваться платным помощником-программистом. Двое хорошо покопались и сошлись: у помощника есть кошелёк, который тратится тем быстрее, чем глубже он думает; думать «на максимум» почти никогда не выгодно — хватает «сильно»; и нельзя оставлять его работать совсем без человека — за это банят. Третий робот схалтурил (ничего не искал) — его ответ мы положили на полку с пометкой «не проверено».",
+   "lang": "ru",
+   "date": "",
+   "slug": "DR26-07-21-HUB-01-0755-codex-cli-marshrutizatsiya-skorosti-myshleniya-fast-deep-lane-i-mehani",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-07-21-HUB-01-0755-codex-cli-marshrutizatsiya-skorosti-myshleniya-fast-deep-lane-i-mehani.md"
+  },
+  {
+   "dr_id": "DR26-07-22-ZB-01-1948",
+   "title": "OpenRouter практический гид (июль 2026) — синтез-консенсус 3-вендорного DR",
+   "summary": "Гетеро-консенсус ChatGPT (Pro, 45m/112 ссылок) + Gemini (Deep Research) + Grok (Heavy, 2m5s/478 источников). Все три — настоящие прогоны с поиском (гейт «0 searches → dead» пройден у всех). Расхождения НЕ сглажены — показаны как развилки. Канон DR-протокола: [[alpha-protocol-recall-plus-dr]].",
+   "lang": "ru",
+   "date": "",
+   "slug": "DR26-07-22-ZB-01-1948-openrouter-prakticheskiy-gid-iyul-2026-sintez-konsensus-3-vendornogo-d",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-07-22-ZB-01-1948-openrouter-prakticheskiy-gid-iyul-2026-sintez-konsensus-3-vendornogo-d.md"
+  },
+  {
    "dr_id": "DR26-07-26-ZB-01",
    "title": "Альфа из AI-фильмов: что из Ghost in the Shell / Blade Runner / Her реально строится в 2026 (DR26-07-26-ZB-01)",
    "summary": "[!abstract] Зачем Синтез Deep Research `DR26-07-26-ZB-01`: разобрать корпус ключевого AI-кино (Ghost in the Shell 1995 / Innocence / SAC / 2017, Бегущий по лезвию 1982 / 2049 / Black Lotus, Ex Machina, Матрица, Her) не как культурный багаж, а как **список технических требований**: какой концепт уже собирается из компонентов 2026 года, какой соберётся за 2-3 года, а какой — красивая философия без инженерного дна. Цель прикладная: докинуть фич в [[concept-digital-immortality|AI-двойника]] и [[concept-second-brain|второй мозг]]. [!warning] База консенсуса — ДВА вендора, не три Gemini (3.1 Pro Extended + Deep Research, отчёт 33.8 KB, ~40 инлайн-URL) и Grok (SuperGrok Heavy, «Thought for 1m 44s», 378 источников) отработали. **ChatGPT Pro дважды подряд выдал «Research completed in 6m · 0 citations · 0 searches»** — красивая таблица целиком из памяти, без единого веб-поиска, второй раз даже после явного требования «минимум 20 поисков / 20 источников». По гейту доказательства работы канал закрыт как `dead` и в синтез не взят. Где ниже написано «сошлись оба» — это Gemini+Grok, а не тройной веер. То же самое случилось параллельно на [[insight-DR-DR26-07-26-ZB-02-harari-alpha|ZB-02]] — значит это не разовый сбой, а состояние вендора на 26.07.",
@@ -38,6 +56,15 @@
    "date": "",
    "slug": "DR26-07-26-ZB-02-alfa-iz-yuvalya-harari-chto-zabrat-v-sistemu-a-chto-trep-dr26-07-26-zb",
    "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-07-26-ZB-02-alfa-iz-yuvalya-harari-chto-zabrat-v-sistemu-a-chto-trep-dr26-07-26-zb.md"
+  },
+  {
+   "dr_id": "DR26-07-26-ZB-04",
+   "title": "Синтез DR26-07-26-ZB-04 — нейронаука памяти: что копировать в цифровой мозг, а что категорически нет",
+   "summary": "**База: 2 сильных вендора + 1 слабый.** Grok Heavy (471 источник, рецензируемая база: Cowan 2001, Stickgold & Walker 2013, Roediger & Karpicke 2006, Oberauer & Lewandowsky 2014) · ChatGPT Pro + Web search (Proof of work приложен, источники 2023–2026 из Nature/Annual Review/npj) · Gemini — ⚠️ **пониженный вес**: три попытки, первые две сорвались, третья прошла БЕЗ гейта Deep Research, то есть это ответ Pro с грounding (14 759 симв., 32 ссылки), а не полноценная разведка. **35 citations · 34 уникальных рабочих URL · тело 17 622 симв.** (frontiersin, researchgate, PMC и др.)",
+   "lang": "ru",
+   "date": "",
+   "slug": "DR26-07-26-ZB-04-sintez-dr26-07-26-zb-04-neyronauka-pamyati-chto-kopirovat-v-tsifrovoy",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-07-26-ZB-04-sintez-dr26-07-26-zb-04-neyronauka-pamyati-chto-kopirovat-v-tsifrovoy.md"
   },
   {
    "dr_id": "DR26-07-29-MACANTON-02-1537",
@@ -94,6 +121,15 @@
    "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-08-01-MACANTON-02-701-publichnye-ai-kofaundery-i-sinteticheskie-persony-chto-realno-rabotaet.md"
   },
   {
+   "dr_id": "DR26-08-01-MACANTON-02-726",
+   "title": "Диета MCP и сессий Claude Code: что реально есть у вендора, а чего нет",
+   "summary": "**Вердикт: `Deferred tool ≠ deferred MCP server`.** ToolSearch откладывает только схемы/контекст. Сервер всё равно подключается в фоне при старте, проходит `initialize` и отвечает на `tools/list` — иначе ToolSearch не знал бы, что искать. Чтобы упала RAM, нужно **отключить соединение**, вынести тяжёлое состояние в HTTP-демон либо остановить саму idle-сессию.",
+   "lang": "ru",
+   "date": "",
+   "slug": "DR26-08-01-MACANTON-02-726-dieta-mcp-i-sessiy-claude-code-chto-realno-est-u-vendora-a-chego-net",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-08-01-MACANTON-02-726-dieta-mcp-i-sessiy-claude-code-chto-realno-est-u-vendora-a-chego-net.md"
+  },
+  {
    "dr_id": "DR26-08-01-MACANTON-02-727",
    "title": "Substack для лаборатории без email-базы: брать или нет, в каком формате, по каким цифрам",
    "summary": "**Вердикт: брать — но только как ограниченный 8-недельный эксперимент по СБОРУ EMAIL-БАЗЫ.** Формат — гибрид, English-first: один содержательный еженедельный выпуск + регулярная работа в Notes. **Если не готовы отдавать 4–6 часов в неделю именно на Substack-дистрибуцию и общение — ответ меняется на «не нужен сейчас».** Еженедельная подборка уже опубликованных ссылок почти наверняка добавит редактору канал и не создаст актив. `[single-vendor: chatgpt]` **Потребитель отчёта создан 10.08.2026:** [[decision-2026-08-10-substack-format-i-voronka]] — формат/частота/воронка + чего НЕ делаем. Вторая разведка на дыры: `DR26-08-10-MACANTON-04-2247`.",
@@ -121,6 +157,24 @@
    "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-08-04-ZB-08-1744-sintez-dr26-08-04-zb-08-geo-analitika-po-origin-logam-zrelogo-oss-net.md"
   },
   {
+   "dr_id": "DR26-08-04-ZB-12-2205",
+   "title": "Синтез DR26-08-04-ZB-12 - голос в веса: CPT на BASE-чекпоинте, а не вендорский fine-tune",
+   "summary": "**Потребитель решения:** какую базовую модель и какой пайплайн брать в [[project-fine-tune-anton-fb-voice]]. **Тела:** `_originals/deep-research/DR26-08-04-ZB-12-2205-voice-finetune-{chatgpt,grok,gemini}.md`. **База синтеза: 3 рельсы из 5.** Кворум (4) НЕ добран - вывод честно стоит на трёх.",
+   "lang": "ru",
+   "date": "",
+   "slug": "DR26-08-04-ZB-12-2205-sintez-dr26-08-04-zb-12-golos-v-vesa-cpt-na-base-chekpointe-a-ne-vendo",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-08-04-ZB-12-2205-sintez-dr26-08-04-zb-12-golos-v-vesa-cpt-na-base-chekpointe-a-ne-vendo.md"
+  },
+  {
+   "dr_id": "DR26-08-05-HUB-01-1858",
+   "title": "архитектура «фронта без модалок»",
+   "summary": "Кормит решение: чинить ли класс «сессия встала на апруве» конфигом+лейном+гейтом, или строить кликер по окнам — и куда переносить unattended-работу. > База: **4 рельсы из 6** (chatgpt · gemini · grok · glm). Не собрано: `claudeai` (шёл дольше остальных, см. ниже), `mistral` (аккаунта нет). Оригиналы — `_originals\\deep-research\\DR26-08-05-HUB-01-1858-front-without-modals-*.md`. В JSONL-транскрипте (`~/.claude/projects/<project>/*.jsonl`) есть объект `type: assistant` с блоком `type: tool_use` и уникальным `id`, но **нет** последующего объекта `type: user` с `tool_result`, ссылающимся на тот же `id`.",
+   "lang": "ru",
+   "date": "",
+   "slug": "DR26-08-05-HUB-01-1858-arhitektura-fronta-bez-modalok",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-08-05-HUB-01-1858-arhitektura-fronta-bez-modalok.md"
+  },
+  {
    "dr_id": "DR26-08-05-ZB-01-0125",
    "title": "почему статья висит на arXiv и что реально делать",
    "summary": "Кормит решение: что предпринять по submit/7825136 («Le Chatelier Tokenomics», on hold с 23.07.2026, 14 дней, писем модератора нет) — и заводить ли второй аккаунт. > **База: 2 рельсы из 6 — кворум НЕ добран.** Но четыре несущих вывода я проверил НЕ по рельсам, а напрямую по живым страницам arXiv 06.08.2026. Это сильнее четвёртого мнения LLM. Причины недобора рельс — замерены, не угаданы (см. §«Состояние вееров»). The author used [tool/model] for language editing and drafting assistance. All scientific claims, analyses, equations, data, and references were independently reviewed and verified by the author, who takes full responsibility for the content.",
@@ -146,6 +200,15 @@
    "date": "",
    "slug": "DR26-08-14-NAT-01-0941-sintez-kak-malenkoy-ai-laboratorii-zahodit-na-habr",
    "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-08-14-NAT-01-0941-sintez-kak-malenkoy-ai-laboratorii-zahodit-na-habr.md"
+  },
+  {
+   "dr_id": "DR26-08-14-NAT-03-1248",
+   "title": "SYNTHESIS: неанглоязычная дистрибуция Agent Skills",
+   "summary": "Синтез веера ДР. Числа и площадки — из отчётов вендоров; помеченное как неподтверждённое стоит на ОДНОМ отчёте.",
+   "lang": "ru",
+   "date": "",
+   "slug": "DR26-08-14-NAT-03-1248-synthesis-neangloyazychnaya-distributsiya-agent-skills",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-08-14-NAT-03-1248-synthesis-neangloyazychnaya-distributsiya-agent-skills.md"
   },
   {
    "dr_id": "DR26-08-14-ZB-01-0159",
@@ -445,6 +508,15 @@
    "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-09-23-ZB-02-1231-inostrannye-ai-compute-kompanii-v-doline-komu-nuzhen-mestnyy-landing-l.md"
   },
   {
+   "dr_id": "DR26-10-02-HUB-02-1811",
+   "title": "DR26-10-02-HUB-02: GitHub как вторая шина + разделение волта + событийное пробуждение — промежуточный синтез 2/6",
+   "summary": "Заказ: голосовая Антона 02.10 (tg:-5275713242:7719). Прошлый prior art: DR26-07-10 (Syncthing 180k → разнести склад/конфиг/рацию), DR26-07-29 (доставка сообщения в идущую сессию). Rail #5 (git_bus.py + репо tonydzi/machine-bus) построен 28.06, одно сообщение, мёртв.",
+   "lang": "ru",
+   "date": "",
+   "slug": "DR26-10-02-HUB-02-1811-dr26-10-02-hub-02-github-kak-vtoraya-shina-razdelenie-volta-sobytiynoe",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-10-02-HUB-02-1811-dr26-10-02-hub-02-github-kak-vtoraya-shina-razdelenie-volta-sobytiynoe.md"
+  },
+  {
    "dr_id": "DR26-05-01-HUB-01",
    "title": "Рынок и поставщики вокруг OpenClaw: сетапы, интеграторы, риски и альтернативы",
    "summary": "Отчёт картирует модели развёртывания OpenClaw (self-host/интегратор/managed/обёртки), оценивает стоимость и сроки внедрения, проверяет due diligence по ключевым вендорам (Entropic, ClawUp и др.) и разбирает риски экосистемы skills/экспонированных инстансов.",
@@ -643,6 +715,15 @@
    "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-06-26-HUB-04-otkazoustoychivost-llm-infrastruktury-failover-mezhdu-claude-opus-sonn.md"
   },
   {
+   "dr_id": "DR26-06-26-HUB-05",
+   "title": "Anthropic Claude Code: приостановленный headless-кредит и механика лимитов подписки Max/Pr",
+   "summary": "Как с середины июня 2026-го должны были измениться (и почему приостановлены) лимиты фонового/headless использования Claude Code, и как реально устроены недельные/сессионные лимиты и расход бюджета по моделям.",
+   "lang": "ru",
+   "date": "2026-06-26",
+   "slug": "DR26-06-26-HUB-05-anthropic-claude-code-priostanovlennyy-headless-kredit-i-mehanika-limi",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-06-26-HUB-05-anthropic-claude-code-priostanovlennyy-headless-kredit-i-mehanika-limi.md"
+  },
+  {
    "dr_id": "DR26-06-26-HUB-06",
    "title": "Выбор локальной LLM (3–6 GB VRAM) на GTX 1660 Super как фоллбэк для Claude Code",
    "summary": "Исследование отвечает на вопрос, какую локальную 3–6GB модель поставить на GTX 1660 Super как фоллбэк для Claude Code при исчерпании лимитов, и как технически организовать переключение.",
@@ -659,6 +740,15 @@
    "date": "2026-06-26",
    "slug": "DR26-06-26-HUB-07-sravnenie-messendzher-kanalov-i-modeley-identichnosti-dlya-multi-agent",
    "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-06-26-HUB-07-sravnenie-messendzher-kanalov-i-modeley-identichnosti-dlya-multi-agent.md"
+  },
+  {
+   "dr_id": "DR26-06-26-HUB-08",
+   "title": "Инвентаризация и стресс-тестирование б/у GPU (RTX 3090, 5060Ti) перед покупкой",
+   "summary": "Отчёт описывает полный набор бесплатных утилит и командную последовательность для проверки характеристик, VRAM, стабильности и охлаждения видеокарт (в т.ч. multi-GPU с NVLink) перед принятием решения о покупке.",
+   "lang": "ru",
+   "date": "2026-06-26",
+   "slug": "DR26-06-26-HUB-08-inventarizatsiya-i-stress-testirovanie-b-u-gpu-rtx-3090-5060ti-pered-p",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-06-26-HUB-08-inventarizatsiya-i-stress-testirovanie-b-u-gpu-rtx-3090-5060ti-pered-p.md"
   },
   {
    "dr_id": "DR26-06-26-HUB-09",
@@ -1561,6 +1651,15 @@
    "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-07-11-MACANTON-01-publichnyy-job-hunt-kak-edinoe-shou-faundera-fonda-metyaschego-v-offer.md"
   },
   {
+   "dr_id": "DR26-07-11-MAYAK-01",
+   "title": "DR26-07-11-MAYAK-01 — Telegram-рельсы для агент-флота: карта опций, бан-риск, вердикт",
+   "summary": "Оригинал (verbatim, все цитаты и источники): `_originals/deep-research/DR26-07-11-MAYAK-01-telegram-connectivity-inhouse.md`",
+   "lang": "ru",
+   "date": "2026-07-11",
+   "slug": "DR26-07-11-MAYAK-01-dr26-07-11-mayak-01-telegram-relsy-dlya-agent-flota-karta-optsiy-ban-r",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-07-11-MAYAK-01-dr26-07-11-mayak-01-telegram-relsy-dlya-agent-flota-karta-optsiy-ban-r.md"
+  },
+  {
    "dr_id": "DR26-07-14-HUB-01",
    "title": "Троянская альфа — призма карантина для отравленного знания",
    "summary": "Вопрос: как автономный агент вычищает намайненные идеи из непроверенных источников, прежде чем их внедрить, чтобы «хорошая идея» не оказалась самонаведённым бэкдором.",
@@ -1768,6 +1867,15 @@
    "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-07-17-HUB-02-prior-art-zaschita-4-uzlovogo-konsensusa-ot-split-brain-fencing-epoch.md"
   },
   {
+   "dr_id": "DR26-07-17-HUB-03",
+   "title": "Reliable headless Firefox/Chromium automation with a persistent logged-in session on manag",
+   "summary": "Diagnoses why Playwright's bundled Firefox fails on a managed Windows 11 machine and recommends the lowest-maintenance stack for headless automation that reuses a real logged-in browser session.",
+   "lang": "en",
+   "date": "2026-07-17",
+   "slug": "DR26-07-17-HUB-03-reliable-headless-firefox-chromium-automation-with-a-persistent-logged",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-07-17-HUB-03-reliable-headless-firefox-chromium-automation-with-a-persistent-logged.md"
+  },
+  {
    "dr_id": "DR26-07-17-HUB-04",
    "title": "Conditional Rule Activation in LLM Agents (lazy-loading rules/context vs always-on)",
    "summary": "How should AI coding agents (Claude Code and peers) load rules/instructions conditionally instead of dumping everything into context at session start?",
@@ -1957,6 +2065,15 @@
    "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-07-27-HUB-01-2203-format-always-loaded-faylov-spor-top-protiv-ploskogo-spiska-zakryt-fak.md"
   },
   {
+   "dr_id": "DR26-07-27-ZB-04-2349",
+   "title": "HackerNoon как рабочая площадка — синтез 3 вендоров: развилка HN-first решена третьим ответом",
+   "summary": "⚠️ НЕ ПУТАТЬ: **HackerNoon** (hackernoon.com) — издательская платформа. **Hacker News** (news.ycombinator.com) — линк-агрегатор YC. Все три вендора дизамбигуацию приняли, подмены темы в отчётах нет.",
+   "lang": "ru",
+   "date": "2026-07-28",
+   "slug": "DR26-07-27-ZB-04-2349-hackernoon-kak-rabochaya-ploschadka-sintez-3-vendorov-razvilka-hn-firs",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-07-27-ZB-04-2349-hackernoon-kak-rabochaya-ploschadka-sintez-3-vendorov-razvilka-hn-firs.md"
+  },
+  {
    "dr_id": "DR26-07-28-HUB-04-2338",
    "title": "QA-процесс: ретро-тестирование vs выделенные bugfix-сессии + стратегия test/agent harness",
    "summary": "Как правильно организовать QA (когда чинить баги внутри ретро, а когда выносить в отдельную сессию с seed prompt) и нужен ли уже harness для растущей кодовой базы с Codex/Grok.",
@@ -2119,6 +2236,15 @@
    "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-07-28-HUB-25-2339-nua-rudel-kak-sloy-skill-intelligence-dlya-claude-code-i-codex-demo-st.md"
   },
   {
+   "dr_id": "DR26-07-27-ZB-03-2306",
+   "title": "SEO+GEO карта площадок — синтез Grok Heavy: GitHub канонический дом, Habr/VC подтверждены частично, HackerNoon под нож",
+   "summary": "⚠️ **Три ограничения, которые нельзя забыть при использовании.** 1. **Один вендор, не консенсус.** Веер 3/3 не состоялся: ChatGPT умер молча, Gemini упал трижды. Всё ниже — одна модель, пусть и Heavy. 2. **Библиографии нет.** 551 источник свёрнут на странице чата в счётчик и в тело ответа не развёрнут. Проверить отдельное утверждение по первоисточнику **невозможно** без ручного раскрытия на живой странице. Инлайн-атрибуции, которые отрендерились: Arvow, Resources.averi, Winbuzzer, Capston, Dataimpulse, Geoscout, Prnewswire — всё это агрегаторы и вендоры GEO-тулинга, у которых есть коммерческий интерес в теме. Академических якорей названо два: Chen et al. (2025), Zhang/He/Yao (2026). 3. **Это re-fetch, а не файл момента генерации.** Копия снята с живой страницы хабом 29.07 (ноутбучная не доехала, инцидент `_originals`). ~~Если ноут донесёт свою копию с другим sha256 — выводы ниже подлежат пересверке.~~ ✅ **Пересверено 09.09.2026 на HP17:** ноутбучная копия (`DR26-07-27-ZB-03-2306-seo-geo-grok.md`, 25 627 б, sha256 `5a015af0…7980`) несёт тот же отчёт; разница = обвязка страницы Grok + эхо промпта. Таблица F и опорные числа совпадают, библиография свёрнута и там. Вердикты ниже в силе; протокол в [[decision-2026-07-27-seo-geo-platform-map]] §8.6.",
+   "lang": "ru",
+   "date": "2026-07-29",
+   "slug": "DR26-07-27-ZB-03-2306-seo-geo-karta-ploschadok-sintez-grok-heavy-github-kanonicheskiy-dom-ha",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-07-27-ZB-03-2306-seo-geo-karta-ploschadok-sintez-grok-heavy-github-kanonicheskiy-dom-ha.md"
+  },
+  {
    "dr_id": "DR26-07-10-MACANTON-03",
    "title": "Insight (ИДР): Carlini / Claude находит zero-day — верификация первоисточниками + разговорный материал под миссию №2",
    "summary": "Задача: проверить пост-триггер первоисточниками и превратить в разговорный/контентный материал под миссию №2 (оффер от топ-LLM-компании). Статус исполнения: ИДР выполнен 30.07.2026 на Mac16. В реестре строка 222 стояла `dead` («переприменён dead, fold-баг master-как-view») — по факту исследование НЕ проводилось; после сдачи координатору строку надо перевести в `synthesized` → далее `applied`/`parked` по §9.1.",
@@ -2234,6 +2360,15 @@
    "date": "2026-08-06",
    "slug": "DR26-08-06-HUB-02-1055-dr26-08-06-hub-02-1055-5-pochemu-po-serii-chto-podtverdilos-v-nashem-t",
    "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-08-06-HUB-02-1055-dr26-08-06-hub-02-1055-5-pochemu-po-serii-chto-podtverdilos-v-nashem-t.md"
+  },
+  {
+   "dr_id": "DR26-08-06-ZB-01-0934",
+   "title": "DR26-08-06-ZB-01-0934 — dev.to: голос, механика, граница самопиара и GEO-цитируемость",
+   "summary": "Потребитель разведки назван при рождении: **переписать `_STYLE-devto.md`**. Он переписан в тот же день (v2), версия 1 сохранена рядом как `.bak-v1-20260806`. Каждое утверждение в v2 несёт метку ✅ / 🤔 / 🔴.",
+   "lang": "ru",
+   "date": "2026-08-06",
+   "slug": "DR26-08-06-ZB-01-0934-dr26-08-06-zb-01-0934-dev-to-golos-mehanika-granitsa-samopiara-i-geo-t",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-08-06-ZB-01-0934-dr26-08-06-zb-01-0934-dev-to-golos-mehanika-granitsa-samopiara-i-geo-t.md"
   },
   {
    "dr_id": "DR26-08-04-ZB-14-2214",
@@ -2360,6 +2495,15 @@
    "date": "2026-08-24",
    "slug": "DR26-08-24-HUB-02-1401-dose-11-igrokov-nsfw-ai-konsensus-4-vendorov-infloww-partner-1-supercr",
    "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-08-24-HUB-02-1401-dose-11-igrokov-nsfw-ai-konsensus-4-vendorov-infloww-partner-1-supercr.md"
+  },
+  {
+   "dr_id": "DR26-08-24-MACANTON-01-0007",
+   "title": "Заметность в топ-10 LLM: второе касание, а не объём — синтез DR-0007",
+   "summary": "Полный синтез + Decision Memo: `_machine-bus/_dr/queue/DR26-08-24-MACANTON-01-0007/SYNTHESIS.md`. Сырьё verbatim: `_originals/DR26-08-24-MACANTON-01-0007/`.",
+   "lang": "ru",
+   "date": "2026-08-24",
+   "slug": "DR26-08-24-MACANTON-01-0007-zametnost-v-top-10-llm-vtoroe-kasanie-a-ne-obem-sintez-dr-0007",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-08-24-MACANTON-01-0007-zametnost-v-top-10-llm-vtoroe-kasanie-a-ne-obem-sintez-dr-0007.md"
   },
   {
    "dr_id": "DR26-08-24-MACANTON-02-1025",
@@ -2812,6 +2956,15 @@
    "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-09-14-ZB-07-2007-kartina-mira-faunderov-frontier-ai-laboratoriy-teh-faundery-vs-ideolog.md"
   },
   {
+   "dr_id": "DR26-09-14-ZB-08-2007",
+   "title": "Фандрейзинг глазами фаундеров AI-лабораторий: под какие продуктовые категории в 2026 дают деньги",
+   "summary": "ДР спрашивал, под какие продуктовые категории фонды в 2026 дают чеки AI-командам и как это выглядит глазами самих фаундеров лабораторий. Живых рельс две — chatgpt и grok; они сходятся по карте категорий и расходятся по датам и масштабу отдельных раундов.",
+   "lang": "ru",
+   "date": "2026-09-14",
+   "slug": "DR26-09-14-ZB-08-2007-fandreyzing-glazami-faunderov-ai-laboratoriy-pod-kakie-produktovye-kat",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-09-14-ZB-08-2007-fandreyzing-glazami-faunderov-ai-laboratoriy-pod-kakie-produktovye-kat.md"
+  },
+  {
    "dr_id": "DR26-09-14-ZB-09-2008",
    "title": "Форензика доходов frontier LLM-лабораторий: сходится ли подписочная и enterprise арифметик",
    "summary": "Дипресёрч восстанавливает выручку OpenAI, Anthropic, xAI, Mistral, Perplexity и Cohere снизу вверх (подписки + enterprise) и проверяет, выдерживают ли headline-цифры проверку против аудированных якорей (Microsoft, Alphabet, Salesforce/Datadog/Snowflake).",
@@ -2954,6 +3107,24 @@
    "date": "2026-09-30",
    "slug": "DR26-09-30-HUB-01-1422-unit-economics-of-ai-native-smb-automation-agencies-on-retainers",
    "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-09-30-HUB-01-1422-unit-economics-of-ai-native-smb-automation-agencies-on-retainers.md"
+  },
+  {
+   "dr_id": "DR26-10-02-ZB-01-0728",
+   "title": "Рынок управляемой памяти для флотов ИИ-агентов: размер, конкуренты, CAC, go-to-market до п",
+   "summary": "Отчёт должен был оценить рынок organizational memory layer для AI-native компаний 10–200 человек снизу вверх, назвать конкурентов, цену лида по каналам и минимальный комплект до первой продажи, но на момент сверки (2026-10-04) готова только 1 из 6 заказанных ног, и фактического контента с ответами на вопросы в файле нет.",
+   "lang": "ru",
+   "date": "2026-10-02",
+   "slug": "DR26-10-02-ZB-01-0728-rynok-upravlyaemoy-pamyati-dlya-flotov-ii-agentov-razmer-konkurenty-ca",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-10-02-ZB-01-0728-rynok-upravlyaemoy-pamyati-dlya-flotov-ii-agentov-razmer-konkurenty-ca.md"
+  },
+  {
+   "dr_id": "DR26-10-02-ZB-02-1136",
+   "title": "Which LLM writes the best short punchy X posts (Grok vs GPT vs Claude vs Gemini)",
+   "summary": "This deep-research ticket asks which LLM best writes short 200-280 character 'pain of the day' X posts and how to fairly benchmark Grok, GPT, Claude and Gemini for that format, but the captured report contains only the original research prompt — no vendor findings or answers were actually recorded (reconcile note: 1/6 legs present on disk, registry status was corrected from 'running' to reflect this).",
+   "lang": "en",
+   "date": "2026-10-02",
+   "slug": "DR26-10-02-ZB-02-1136-which-llm-writes-the-best-short-punchy-x-posts-grok-vs-gpt-vs-claude-v",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-10-02-ZB-02-1136-which-llm-writes-the-best-short-punchy-x-posts-grok-vs-gpt-vs-claude-v.md"
   }
  ]
 }
