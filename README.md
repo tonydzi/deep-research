@@ -1,6 +1,6 @@
 # Deep Research — Palo Alto AI Research Lab
 
-340 deep-research reports, distilled. Every entry answers two questions: why we ran this research, and what we got out of it.
+341 deep-research reports, distilled. Every entry answers two questions: why we ran this research, and what we got out of it.
 
 Each report was run across several frontier models (ChatGPT, Gemini, Grok, Claude, GLM, Mistral), then reconciled into the distilled note you see here. Findings are the reconciled ones, not a single model's opinion.
 
@@ -307,6 +307,7 @@ Raw model transcripts stay in our vault. What is published here is the distilled
 | [DR26-06-26-HUB-06](research/DR26-06-26-HUB-06-vybor-lokalnoy-llm-3-6-gb-vram-na-gtx-1660-super-kak-follbek-dlya-clau.md) | Выбор локальной LLM (3–6 GB VRAM) на GTX 1660 Super как фоллбэк для Claude Code | 2026-06-26 |
 | [DR26-06-26-HUB-07](research/DR26-06-26-HUB-07-sravnenie-messendzher-kanalov-i-modeley-identichnosti-dlya-multi-agent.md) | Сравнение мессенджер-каналов и моделей идентичности для мульти-агентных Claude-команд | 2026-06-26 |
 | [DR26-06-26-HUB-08](research/DR26-06-26-HUB-08-inventarizatsiya-i-stress-testirovanie-b-u-gpu-rtx-3090-5060ti-pered-p.md) | Инвентаризация и стресс-тестирование б/у GPU (RTX 3090, 5060Ti) перед покупкой | 2026-06-26 |
+| [DR26-06-25-HUB-03](research/DR26-06-25-HUB-03-aktivnye-loty-rtx-3090-4090-24gb-na-ebay-risk-tsena-i-dostavka-v-lissa.md) | Активные лоты RTX 3090/4090 24GB на eBay: риск, цена и доставка в Лиссабон | 2026-06-25 |
 | [DR26-06-16-LEG-01](research/DR26-06-16-LEG-01-arhitektura-notebooklm-poverh-obsidian-volta-i-claude-code-dlya-tsifro.md) | Архитектура NotebookLM поверх Obsidian-волта и Claude Code для цифрового двойника | 2026-06-16 |
 | [DR26-06-14-LEG-01](research/DR26-06-14-LEG-01-personalizatsiya-cloud-code-i-agentnyh-kodovyh-sred-kak-stroit-lichnos.md) | Персонализация Cloud Code и агентных кодовых сред: как строить 'личность' AI-агента безопа | 2026-06-14 |
 | [DR26-05-01-HUB-01](research/DR26-05-01-HUB-01-rynok-i-postavschiki-vokrug-openclaw-setapy-integratory-riski-i-altern.md) | Рынок и поставщики вокруг OpenClaw: сетапы, интеграторы, риски и альтернативы | 2026-05-01 |

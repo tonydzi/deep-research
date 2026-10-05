@@ -1,6 +1,6 @@
 # Palo Alto AI Research Lab — deep research corpus
 
-340 distilled deep-research reports. Machine-readable index: index.json
+341 distilled deep-research reports. Machine-readable index: index.json
 Each file: frontmatter (dr_id, title, date, lang) + summary + key findings + recommendations.
 Multi-model methodology: every question fanned out to several frontier models, then reconciled.
 License: CC BY 4.0. Cite as: Palo Alto AI Research Lab, deep research <dr_id>.
@@ -275,6 +275,7 @@ License: CC BY 4.0. Cite as: Palo Alto AI Research Lab, deep research <dr_id>.
 - DR26-06-26-HUB-07 (2026-06-26, ru): Сравнение мессенджер-каналов и моделей идентичности для мульти-агентных Claude-команд
 - DR26-06-26-HUB-08 (2026-06-26, ru): Инвентаризация и стресс-тестирование б/у GPU (RTX 3090, 5060Ti) перед покупкой
 - DR26-06-25-HUB-01 (2026-06-25, en): Security and design best practices for a headless Syncthing-mailbox LLM agent
+- DR26-06-25-HUB-03 (2026-06-25, ru): Активные лоты RTX 3090/4090 24GB на eBay: риск, цена и доставка в Лиссабон
 - DR26-06-25-HUB-04 (2026-06-25, en): Claude Code Agent Teams for an Individual Power-User
 - DR26-06-25-HUB-05 (2026-06-25, en): Designing Memory for a Coding Assistant Digital Twin (raw transcripts vs curated RAG)
 - DR26-06-25-HUB-06 (2026-06-25, en): Designing an Essence and Evidence Split for a Personal Knowledge Vault

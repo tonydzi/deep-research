@@ -1,6 +1,6 @@
 {
  "generated": "2026-10-05",
- "count": 340,
+ "count": 341,
  "repo": "https://github.com/tonydzi/deep-research",
  "research": [
   {
@@ -605,6 +605,15 @@
    "date": "2026-06-25",
    "slug": "DR26-06-25-HUB-01-security-and-design-best-practices-for-a-headless-syncthing-mailbox-ll",
    "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-06-25-HUB-01-security-and-design-best-practices-for-a-headless-syncthing-mailbox-ll.md"
+  },
+  {
+   "dr_id": "DR26-06-25-HUB-03",
+   "title": "Активные лоты RTX 3090/4090 24GB на eBay: риск, цена и доставка в Лиссабон",
+   "summary": "Отчёт выявляет и ранжирует активные лоты RTX 3090 24GB и RTX 4090 24GB на eBay (US и EU-домены) по критериям безопасности сделки, цены и доставки в Португалию.",
+   "lang": "ru",
+   "date": "2026-06-25",
+   "slug": "DR26-06-25-HUB-03-aktivnye-loty-rtx-3090-4090-24gb-na-ebay-risk-tsena-i-dostavka-v-lissa",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-06-25-HUB-03-aktivnye-loty-rtx-3090-4090-24gb-na-ebay-risk-tsena-i-dostavka-v-lissa.md"
   },
   {
    "dr_id": "DR26-06-25-HUB-04",
