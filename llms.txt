@@ -1,6 +1,6 @@
 # Palo Alto AI Research Lab — deep research corpus
 
-347 distilled deep-research reports. Machine-readable index: index.json
+346 distilled deep-research reports. Machine-readable index: index.json
 Each file: frontmatter (dr_id, title, date, lang) + summary + key findings + recommendations.
 Multi-model methodology: every question fanned out to several frontier models, then reconciled.
 License: CC BY 4.0. Cite as: Palo Alto AI Research Lab, deep research <dr_id>.
@@ -323,7 +323,6 @@ License: CC BY 4.0. Cite as: Palo Alto AI Research Lab, deep research <dr_id>.
 - DR26-08-21-HUB-02-1609 (, ru): Экономика синтетических сотрудников — что из тезиса «90% на токены» можно публиковать
 - DR26-08-23-HUB-02-2226 (, ru): Touch base — ледокол для спящего тёплого контакта, якорь и no-delta спор
 - DR26-08-24-HUB-03-1747 (, ru): Механика найма во frontier-LLM-компаниях — доска, визы, OSS-двери и спека монитора
-- DR26-08-24-HUB-04-1830 (, ru): Gonka / GNK и братья Либерман: ревизия кейса на 24.08.2026
 - DR26-08-24-HUB-05-1830 (, ru): Аудит свежих раундов в крипте июнь-август 2026: реестр, кластеры, BD-адреса
 - DR26-08-24-HUB-06-2040 (, ru): Плейбук упаковки: как поднимают крупно при слабом adoption — и что из этого наше
 - DR26-08-25-HUB-02-0712 (, ru): Лёгкость фандрейза по трём витринам: аудит легче всего, Сиренка — красный океан, сила в комбо

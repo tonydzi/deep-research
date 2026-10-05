@@ -1,6 +1,6 @@
 # Deep Research — Palo Alto AI Research Lab
 
-347 deep-research reports, distilled. Every entry answers two questions: why we ran this research, and what we got out of it.
+346 deep-research reports, distilled. Every entry answers two questions: why we ran this research, and what we got out of it.
 
 Each report was run across several frontier models (ChatGPT, Gemini, Grok, Claude, GLM, Mistral), then reconciled into the distilled note you see here. Findings are the reconciled ones, not a single model's opinion.
 
@@ -343,7 +343,6 @@ Raw model transcripts stay in our vault. What is published here is the distilled
 | [DR26-08-21-HUB-02-1609](research/DR26-08-21-HUB-02-1609-ekonomika-sinteticheskih-sotrudnikov-chto-iz-tezisa-90-na-tokeny-mozhn.md) | Экономика синтетических сотрудников — что из тезиса «90% на токены» можно публиковать |  |
 | [DR26-08-23-HUB-02-2226](research/DR26-08-23-HUB-02-2226-touch-base-ledokol-dlya-spyaschego-teplogo-kontakta-yakor-i-no-delta-s.md) | Touch base — ледокол для спящего тёплого контакта, якорь и no-delta спор |  |
 | [DR26-08-24-HUB-03-1747](research/DR26-08-24-HUB-03-1747-mehanika-nayma-vo-frontier-llm-kompaniyah-doska-vizy-oss-dveri-i-speka.md) | Механика найма во frontier-LLM-компаниях — доска, визы, OSS-двери и спека монитора |  |
-| [DR26-08-24-HUB-04-1830](research/DR26-08-24-HUB-04-1830-gonka-gnk-i-bratya-liberman-reviziya-keysa-na-24-08-2026.md) | Gonka / GNK и братья Либерман: ревизия кейса на 24.08.2026 |  |
 | [DR26-08-24-HUB-05-1830](research/DR26-08-24-HUB-05-1830-audit-svezhih-raundov-v-kripte-iyun-avgust-2026-reestr-klastery-bd-adr.md) | Аудит свежих раундов в крипте июнь-август 2026: реестр, кластеры, BD-адреса |  |
 | [DR26-08-24-HUB-06-2040](research/DR26-08-24-HUB-06-2040-pleybuk-upakovki-kak-podnimayut-krupno-pri-slabom-adoption-i-chto-iz-e.md) | Плейбук упаковки: как поднимают крупно при слабом adoption — и что из этого наше |  |
 | [DR26-08-25-HUB-02-0712](research/DR26-08-25-HUB-02-0712-legkost-fandreyza-po-trem-vitrinam-audit-legche-vsego-sirenka-krasnyy.md) | Лёгкость фандрейза по трём витринам: аудит легче всего, Сиренка — красный океан, сила в комбо |  |
@@ -372,25 +371,3 @@ Raw model transcripts stay in our vault. What is published here is the distilled
 | [DR26-09-23-ZB-01-0631](research/DR26-09-23-ZB-01-0631-kitayskie-llm-laboratorii-i-dolina-nuzhen-li-im-mestnyy-ecosystem-devr.md) | Китайские LLM-лаборатории и Долина — нужен ли им местный ecosystem/DevRel-оператор, и где именно дверь |  |
 | [DR26-09-23-ZB-02-1231](research/DR26-09-23-ZB-02-1231-inostrannye-ai-compute-kompanii-v-doline-komu-nuzhen-mestnyy-landing-l.md) | Иностранные AI/compute-компании в Долине — кому нужен местный landing lead с комьюнити, и где открытые двери |  |
 | [DR26-10-02-HUB-02-1811](research/DR26-10-02-HUB-02-1811-dr26-10-02-hub-02-github-kak-vtoraya-shina-razdelenie-volta-sobytiynoe.md) | DR26-10-02-HUB-02: GitHub как вторая шина + разделение волта + событийное пробуждение — промежуточный синтез 2 |  |
-
----
-
-<!--ecosystem-map:start-->
-
-## 🧩 One piece of a working system
-
-This repository is one piece lifted out of a live operation: one non-technical founder, an AI
-cofounder, and a fleet of machines that reach consensus with each other and wake the human only
-for money or the irreversible. It was extracted after it survived production, not written as a
-demo — and it runs on its own: nothing here phones home to the rest.
-
-**See how the whole thing fits together → [SYSTEM.md](https://github.com/tonydzi/tonydzi/blob/main/SYSTEM.md)**
-
-<!--ecosystem-map:end-->
-
-## AI contributors
-
-This project is built by a human + AI team, and the git log says so: Claude writes most of
-the code, Codex and Grok review it, Gemini feeds the research. Each is credited on a commit
-**only if its output changed that commit's content** — no decorative credits. Lab-wide
-policy, one source for every repo: [AI-CONTRIBUTORS.md](https://github.com/tonydzi/.github/blob/main/AI-CONTRIBUTORS.md).
