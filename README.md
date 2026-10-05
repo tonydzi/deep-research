@@ -1,6 +1,6 @@
 # Deep Research — Palo Alto AI Research Lab
 
-341 deep-research reports, distilled. Every entry answers two questions: why we ran this research, and what we got out of it.
+344 deep-research reports, distilled. Every entry answers two questions: why we ran this research, and what we got out of it.
 
 Each report was run across several frontier models (ChatGPT, Gemini, Grok, Claude, GLM, Mistral), then reconciled into the distilled note you see here. Findings are the reconciled ones, not a single model's opinion.
 
@@ -248,6 +248,7 @@ Raw model transcripts stay in our vault. What is published here is the distilled
 | [DR26-07-31-MACANTON-04-2124](research/DR26-07-31-MACANTON-04-2124-sintez-dr-anthropic-ekvivalenta-promo-sidov-kone-vc-net-stroim-cpn-svo.md) | Синтез DR: Anthropic-эквивалента промо-сидов kone.vc НЕТ — строим CPN + свой лид-магнит | 2026-08-01 |
 | [DR26-07-31-MACANTON-05-2135](research/DR26-07-31-MACANTON-05-2135-sintez-dr-oss-dveri-vne-vendorov-antikythera-i-google-pi-zhivye-sfi-mi.md) | Синтез DR: OSS-двери вне вендоров — Antikythera и Google Pi живые, SFI/MIT/Mila зеркала | 2026-08-01 |
 | [DR26-08-01-MACANTON-01-558](research/DR26-08-01-MACANTON-01-558-kak-prihodyat-pervye-kontribyutory-v-neizvestnyy-oss-repo.md) | Как приходят первые контрибьюторы в неизвестный OSS-репо | 2026-08-01 |
+| [DR26-07-29-MACANTON-01-1302](research/DR26-07-29-MACANTON-01-1302-sintez-dr-kontent-zavody-na-llm-agentah-konveyer-tselikom-okna-apruva.md) | Синтез DR: контент-заводы на LLM-агентах — конвейер целиком (окна апрува, валидация детектора, хранилище, дист | 2026-07-31 |
 | [DR26-07-10-MACANTON-03](research/DR26-07-10-MACANTON-03-insight-idr-carlini-claude-nahodit-zero-day-verifikatsiya-pervoistochn.md) | Insight (ИДР): Carlini / Claude находит zero-day — верификация первоисточниками + разговорный материал под мис | 2026-07-30 |
 | [DR26-07-30-MACANTON-01-1456](research/DR26-07-30-MACANTON-01-1456-sintez-dr-anti-ai-slop-humanizator-skill-ai-slop.md) | Синтез DR: анти-AI-slop хуманизатор → скилл ai-slop | 2026-07-30 |
 | [DR26-07-27-ZB-03-2306](research/DR26-07-27-ZB-03-2306-seo-geo-karta-ploschadok-sintez-grok-heavy-github-kanonicheskiy-dom-ha.md) | SEO+GEO карта площадок — синтез Grok Heavy: GitHub канонический дом, Habr/VC подтверждены частично, HackerNoon | 2026-07-29 |
@@ -328,6 +329,7 @@ Raw model transcripts stay in our vault. What is published here is the distilled
 | [DR26-08-01-MACANTON-02-727](research/DR26-08-01-MACANTON-02-727-substack-dlya-laboratorii-bez-email-bazy-brat-ili-net-v-kakom-formate.md) | Substack для лаборатории без email-базы: брать или нет, в каком формате, по каким цифрам |  |
 | [DR26-08-04-ZB-03-1552](research/DR26-08-04-ZB-03-1552-sintez-dr26-08-04-zb-03-ack-protokol-flota-chinit-semantiku-a-ne-trans.md) | Синтез DR26-08-04-ZB-03 — ACK-протокол флота: чинить семантику, а не транспорт |  |
 | [DR26-08-04-ZB-08-1744](research/DR26-08-04-ZB-08-1744-sintez-dr26-08-04-zb-08-geo-analitika-po-origin-logam-zrelogo-oss-net.md) | Синтез DR26-08-04-ZB-08 — GEO-аналитика по origin-логам: зрелого OSS нет, дом инструмента = свой репо |  |
+| [DR26-08-04-ZB-09-1803](research/DR26-08-04-ZB-09-1803-sintez-dr26-08-04-zb-09-put-v-otvety-ai-uzkoe-mesto-indeks-i-vneshnie.md) | Синтез DR26-08-04-ZB-09 — путь в ответы AI: узкое место = ИНДЕКС и внешние ссылки, не краул |  |
 | [DR26-08-04-ZB-12-2205](research/DR26-08-04-ZB-12-2205-sintez-dr26-08-04-zb-12-golos-v-vesa-cpt-na-base-chekpointe-a-ne-vendo.md) | Синтез DR26-08-04-ZB-12 - голос в веса: CPT на BASE-чекпоинте, а не вендорский fine-tune |  |
 | [DR26-08-05-HUB-01-1858](research/DR26-08-05-HUB-01-1858-arhitektura-fronta-bez-modalok.md) | архитектура «фронта без модалок» |  |
 | [DR26-08-05-ZB-01-0125](research/DR26-08-05-ZB-01-0125-pochemu-statya-visit-na-arxiv-i-chto-realno-delat.md) | почему статья висит на arXiv и что реально делать |  |
@@ -366,3 +368,4 @@ Raw model transcripts stay in our vault. What is published here is the distilled
 | [DR26-09-23-ZB-01-0631](research/DR26-09-23-ZB-01-0631-kitayskie-llm-laboratorii-i-dolina-nuzhen-li-im-mestnyy-ecosystem-devr.md) | Китайские LLM-лаборатории и Долина — нужен ли им местный ecosystem/DevRel-оператор, и где именно дверь |  |
 | [DR26-09-23-ZB-02-1231](research/DR26-09-23-ZB-02-1231-inostrannye-ai-compute-kompanii-v-doline-komu-nuzhen-mestnyy-landing-l.md) | Иностранные AI/compute-компании в Долине — кому нужен местный landing lead с комьюнити, и где открытые двери |  |
 | [DR26-10-02-HUB-02-1811](research/DR26-10-02-HUB-02-1811-dr26-10-02-hub-02-github-kak-vtoraya-shina-razdelenie-volta-sobytiynoe.md) | DR26-10-02-HUB-02: GitHub как вторая шина + разделение волта + событийное пробуждение — промежуточный синтез 2 |  |
+| [DR26-10-05-HUB-06-2203](research/DR26-10-05-HUB-06-2203-spokoynoe-uverennoe-povedenie-na-konferentsiyah-mitapah-i-hakatonah-ch.md) | Спокойное уверенное поведение на конференциях, митапах и хакатонах — что подтверждено, что опровергнуто |  |

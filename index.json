@@ -1,6 +1,6 @@
 {
- "generated": "2026-10-05",
- "count": 341,
+ "generated": "2026-10-06",
+ "count": 344,
  "repo": "https://github.com/tonydzi/deep-research",
  "research": [
   {
@@ -155,6 +155,15 @@
    "date": "",
    "slug": "DR26-08-04-ZB-08-1744-sintez-dr26-08-04-zb-08-geo-analitika-po-origin-logam-zrelogo-oss-net",
    "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-08-04-ZB-08-1744-sintez-dr26-08-04-zb-08-geo-analitika-po-origin-logam-zrelogo-oss-net.md"
+  },
+  {
+   "dr_id": "DR26-08-04-ZB-09-1803",
+   "title": "Синтез DR26-08-04-ZB-09 — путь в ответы AI: узкое место = ИНДЕКС и внешние ссылки, не краул",
+   "summary": "**Потребитель решения:** во что вкладывать следующие 12 недель — артефакты и списки против собственного сайта; и нужен ли уникальный токен имени. **Тела:** `_originals/deep-research/DR26-08-04-ZB-09-1803-ai-answer-inclusion-protocol-{chatgpt,grok}.md`. ⚠️ В теле grok кликабельных URL ноль — грабля РЕНДЕРА, не пустая работа: источники перечислены прозой в конце.",
+   "lang": "ru",
+   "date": "",
+   "slug": "DR26-08-04-ZB-09-1803-sintez-dr26-08-04-zb-09-put-v-otvety-ai-uzkoe-mesto-indeks-i-vneshnie",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-08-04-ZB-09-1803-sintez-dr26-08-04-zb-09-put-v-otvety-ai-uzkoe-mesto-indeks-i-vneshnie.md"
   },
   {
    "dr_id": "DR26-08-04-ZB-12-2205",
@@ -497,6 +506,15 @@
    "date": "",
    "slug": "DR26-10-02-HUB-02-1811-dr26-10-02-hub-02-github-kak-vtoraya-shina-razdelenie-volta-sobytiynoe",
    "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-10-02-HUB-02-1811-dr26-10-02-hub-02-github-kak-vtoraya-shina-razdelenie-volta-sobytiynoe.md"
+  },
+  {
+   "dr_id": "DR26-10-05-HUB-06-2203",
+   "title": "Спокойное уверенное поведение на конференциях, митапах и хакатонах — что подтверждено, что опровергнуто",
+   "summary": "Оригиналы: `_originals/deep-research/DR26-10-05-HUB-06-2203-calm-room-{grok2,glm,orouter,mistral}.md` Промпт: тот же каталог, `-PROMPT.md`. Проверенные источники: `-sources-verified.txt`. Заказ: голосовая Антона 05.10.2026, рельса 001 — «коуч-сессия, обрести уверенность и спокойное уверенное поведение на конференциях, митапах, хакатонах; провести глубокое исследование; сделать подкасты».",
+   "lang": "ru",
+   "date": "",
+   "slug": "DR26-10-05-HUB-06-2203-spokoynoe-uverennoe-povedenie-na-konferentsiyah-mitapah-i-hakatonah-ch",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-10-05-HUB-06-2203-spokoynoe-uverennoe-povedenie-na-konferentsiyah-mitapah-i-hakatonah-ch.md"
   },
   {
    "dr_id": "DR26-05-01-HUB-01",
@@ -2225,6 +2243,15 @@
    "date": "2026-07-30",
    "slug": "DR26-07-30-MACANTON-01-1456-sintez-dr-anti-ai-slop-humanizator-skill-ai-slop",
    "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-07-30-MACANTON-01-1456-sintez-dr-anti-ai-slop-humanizator-skill-ai-slop.md"
+  },
+  {
+   "dr_id": "DR26-07-29-MACANTON-01-1302",
+   "title": "Синтез DR: контент-заводы на LLM-агентах — конвейер целиком (окна апрува, валидация детектора, хранилище, дистрибуция, AI-подпись)",
+   "summary": "⚠️ **Поправка того же дня (Антон вмешался лично).** Мой первый вывод звучал как «Gemini выпал, сессия мертва» — это было обобщение с ОДНОГО профиля на весь вендор, и оно неверно. В Chrome под аккаунтом `dzyatkovskiy.a` сессия живая, Deep Research стартовал с первой попытки. Верным остаётся только узкое утверждение: конкретный куки-джар профиля AutoFF Google не принимает. Плюс отдельная грабля: я клонировал профиль, который в тот момент держала живая GUI-Лиса, — на диск попал вчерашний слепок, свежие куки жили в памяти процесса. Разбор ниже сохранён как методика (он показывает, чем «сессия мертва» отличается от «нас палят как робота»), но как вердикт по Gemini он снят.",
+   "lang": "ru",
+   "date": "2026-07-31",
+   "slug": "DR26-07-29-MACANTON-01-1302-sintez-dr-kontent-zavody-na-llm-agentah-konveyer-tselikom-okna-apruva",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-07-29-MACANTON-01-1302-sintez-dr-kontent-zavody-na-llm-agentah-konveyer-tselikom-okna-apruva.md"
   },
   {
    "dr_id": "DR26-07-31-MACANTON-04-2124",

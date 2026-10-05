@@ -121,7 +121,7 @@ Grok: 5–15, «ТОП-20 borderline». Gemini: ≤20 — потолок. ⇒ Н
 ## Источник
 
 - ДР `DR26-07-27-HUB-01-2203` · промпт `_drafts/DR26-07-27-HUB-01-prompt-always-loaded-file-format.md` · леджер `_drafts/DR-FANOUT-DR26-07-27-HUB-01-2203-always-loaded-format.md`
-- Чаты: [Grok](https://grok.com/c/1d797275-9ecf-4ba5-a5c4-671ed5c59799) · [Gemini](https://gemini.google.com/app/5df850eb3a1a1e9b) · [ChatGPT](https://chatgpt.com/c/6a69069e-4e7c-83eb-a386-58f1fde07883)
+- Чаты: [Grok](https://grok.com/c/1d797275-9ecf-4ba5-a5c4-671ed5c59799) · [Gemini](https://приватный чат) · [ChatGPT](https://приватный чат)
 - **Проверено мной лично** (не со слов вендоров): [arXiv 2605.10039 факторный замер](https://arxiv.org/abs/2605.10039) ✅ · [Anthropic, context engineering 24.07.2026](https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models) ✅ («>80 % системного промпта, no measurable loss»; «Put it all upfront» → «Use progressive disclosure») · [ManyIH-Bench arXiv 2604.09443](https://arxiv.org/abs/2604.09443) ✅ (853 задачи, 42.7 %) · [эмпирика 253 CLAUDE.md, arXiv 2509.14744](https://arxiv.org/abs/2509.14744) ✅
 - Прочее: [code.claude.com/docs/en/memory.md](https://code.claude.com/docs/en/memory.md) · [Liu et al. TACL 2024](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00638/119630) · [HumanLayer](https://www.humanlayer.dev/blog/writing-a-good-claude-md)
 

@@ -40,7 +40,7 @@ nsfw-ai-dr-post-series-2026-08-24 (5 черновиков постов по эт
 - `_originals/deep-research/DR26-08-24-HUB-01-0830-nsfw-ai-moat-gemini.md`
 - `_originals/deep-research/DR26-08-24-HUB-01-0830-nsfw-ai-moat-glm.md`
 - `_originals/deep-research/DR26-08-24-HUB-01-0830-nsfw-ai-moat-chatgpt.md` (69 sources, gpt-5-6-pro)
-- claudeai: ран не завершён на момент синтеза, чат https://claude.ai/chat/4223a373-4ac0-4629-a0f6-e0cbe86f9b7a (добор ночной)
+- claudeai: ран не завершён на момент синтеза, чат https://приватный чат (добор ночной)
 
 ## 🆕 Пятый лег: claude.ai (добран 25.08 22:09, после починки dr_collect)
 Кворум был закрыт без него; лег добран вручную ремонтной сессией (bb-аккаунт был невидим ночному сборщику, см. Breakage-Journal 25.08). Что он МЕНЯЕТ, а не повторяет:

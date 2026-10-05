@@ -1,6 +1,6 @@
 # Palo Alto AI Research Lab — deep research corpus
 
-341 distilled deep-research reports. Machine-readable index: index.json
+344 distilled deep-research reports. Machine-readable index: index.json
 Each file: frontmatter (dr_id, title, date, lang) + summary + key findings + recommendations.
 Multi-model methodology: every question fanned out to several frontier models, then reconciled.
 License: CC BY 4.0. Cite as: Palo Alto AI Research Lab, deep research <dr_id>.
@@ -99,6 +99,7 @@ License: CC BY 4.0. Cite as: Palo Alto AI Research Lab, deep research <dr_id>.
 - DR26-07-31-MACANTON-04-2124 (2026-08-01, ru): Синтез DR: Anthropic-эквивалента промо-сидов kone.vc НЕТ — строим CPN + свой лид-магнит
 - DR26-07-31-MACANTON-05-2135 (2026-08-01, ru): Синтез DR: OSS-двери вне вендоров — Antikythera и Google Pi живые, SFI/MIT/Mila зеркала
 - DR26-08-01-MACANTON-01-558 (2026-08-01, ru): Как приходят первые контрибьюторы в неизвестный OSS-репо
+- DR26-07-29-MACANTON-01-1302 (2026-07-31, ru): Синтез DR: контент-заводы на LLM-агентах — конвейер целиком (окна апрува, валидация детектора, хранилище, дистрибуция, AI-подпись)
 - DR26-07-10-MACANTON-03 (2026-07-30, ru): Insight (ИДР): Carlini / Claude находит zero-day — верификация первоисточниками + разговорный материал под миссию №2
 - DR26-07-30-MACANTON-01-1456 (2026-07-30, ru): Синтез DR: анти-AI-slop хуманизатор → скилл ai-slop
 - DR26-07-27-ZB-03-2306 (2026-07-29, ru): SEO+GEO карта площадок — синтез Grok Heavy: GitHub канонический дом, Habr/VC подтверждены частично, HackerNoon под нож
@@ -308,6 +309,7 @@ License: CC BY 4.0. Cite as: Palo Alto AI Research Lab, deep research <dr_id>.
 - DR26-08-01-MACANTON-02-727 (, ru): Substack для лаборатории без email-базы: брать или нет, в каком формате, по каким цифрам
 - DR26-08-04-ZB-03-1552 (, ru): Синтез DR26-08-04-ZB-03 — ACK-протокол флота: чинить семантику, а не транспорт
 - DR26-08-04-ZB-08-1744 (, ru): Синтез DR26-08-04-ZB-08 — GEO-аналитика по origin-логам: зрелого OSS нет, дом инструмента = свой репо
+- DR26-08-04-ZB-09-1803 (, ru): Синтез DR26-08-04-ZB-09 — путь в ответы AI: узкое место = ИНДЕКС и внешние ссылки, не краул
 - DR26-08-04-ZB-12-2205 (, ru): Синтез DR26-08-04-ZB-12 - голос в веса: CPT на BASE-чекпоинте, а не вендорский fine-tune
 - DR26-08-05-HUB-01-1858 (, ru): архитектура «фронта без модалок»
 - DR26-08-05-ZB-01-0125 (, ru): почему статья висит на arXiv и что реально делать
@@ -346,3 +348,4 @@ License: CC BY 4.0. Cite as: Palo Alto AI Research Lab, deep research <dr_id>.
 - DR26-09-23-ZB-01-0631 (, ru): Китайские LLM-лаборатории и Долина — нужен ли им местный ecosystem/DevRel-оператор, и где именно дверь
 - DR26-09-23-ZB-02-1231 (, ru): Иностранные AI/compute-компании в Долине — кому нужен местный landing lead с комьюнити, и где открытые двери
 - DR26-10-02-HUB-02-1811 (, ru): DR26-10-02-HUB-02: GitHub как вторая шина + разделение волта + событийное пробуждение — промежуточный синтез 2/6
+- DR26-10-05-HUB-06-2203 (, ru): Спокойное уверенное поведение на конференциях, митапах и хакатонах — что подтверждено, что опровергнуто
