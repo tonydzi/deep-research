@@ -83,7 +83,7 @@ Habr и VC.ru **не дают** настоящего внешнего `rel=canon
 
 - DR-ID `DR26-07-27-ZB-03-2306` · реестр _DR-Registry · заказан 27.07 с ZBook, собран 27.07, **re-fetch на хаб 29.07** после инцидента с `_originals`.
 - Сырой отчёт: `_originals\deep-research\DR26-07-27-ZB-03-2306-seo-geo-platform-map-grok-REFETCH-HUB.md`, 17 066 б, sha256 `9dba79d0…46e7`.
-- Живая страница (там же раскрывается список 551 источника): https://grok.com/c/470a3fcc-6fe7-4792-be13-42e24b72ae80
+- Живая страница (там же раскрывается список 551 источника): https://приватный чат
 - Промпт: `_imports\dr-prompts\DR26-07-27-ZB-03-2306-seo-geo-platform-map.md`
 - Инцидент доставки: task-2026-07-28-originals-ne-doezzhayut-do-haba
 

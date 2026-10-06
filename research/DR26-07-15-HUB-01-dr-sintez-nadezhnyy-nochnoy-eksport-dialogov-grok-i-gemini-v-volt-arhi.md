@@ -55,7 +55,7 @@ Memo: `decision-2026-07-14-personal-data-importers-grok-gemini-takeout` (BUILD G
 ## Источник
 
 - Прогон 1 (CLI): «внутренний путь лаборатории» (Grok Build CLI 0.2.106, grok-4.5 --effort high)
-- Прогон 2 (web Heavy): «внутренний путь лаборатории» (581 источник, чат https://grok.com/c/2b53681e-d528-4b37-b217-99f4f076ac9b)
+- Прогон 2 (web Heavy): «внутренний путь лаборатории» (581 источник, чат https://приватный чат)
 - Fanout-леджер: `_drafts/DR-FANOUT-DR26-07-15-HUB-01-grok-gemini-export.md`
 - Реестр: _DR-Registry (статус collected)
 - Мета-наблюдение по рельсе DR: web-Heavy нашёл существенно больше (в т.ч. `/rest/app-chat`-endpoints и структуру экспорта), CLI дал более дисциплинированные confidence-тэги и таблицу разногласий — пара «Heavy + CLI» как два прогона одного вендора реально ловит слепые зоны друг друга.
