@@ -1,6 +1,6 @@
 # Palo Alto AI Research Lab — deep research corpus
 
-348 distilled deep-research reports. Machine-readable index: index.json
+346 distilled deep-research reports. Machine-readable index: index.json
 Each file: frontmatter (dr_id, title, date, lang) + summary + key findings + recommendations.
 Multi-model methodology: every question fanned out to several frontier models, then reconciled.
 License: CC BY 4.0. Cite as: Palo Alto AI Research Lab, deep research <dr_id>.
@@ -114,7 +114,6 @@ License: CC BY 4.0. Cite as: Palo Alto AI Research Lab, deep research <dr_id>.
 - DR26-07-28-HUB-04-2338 (2026-07-28, mixed): QA-процесс: ретро-тестирование vs выделенные bugfix-сессии + стратегия test/agent harness
 - DR26-07-28-HUB-05-2338 (2026-07-28, mixed): Claude Code Execution (50 бесплатных часов/день) как замена текстовому кодингу при пошагов
 - DR26-07-28-HUB-07-2338 (2026-07-28, ru): Влияние синей галочки верификации на engagement постов в Facebook/Instagram и X (Twitter)
-- DR26-07-28-HUB-08-2338 (2026-07-28, mixed): Andrej Karpathy: биография, публичные тезисы про AI/PKM, GitHub-активность и точки входа д
 - DR26-07-28-HUB-09-2338 (2026-07-28, mixed): Использование Obsidian как второй мозг: архитектура памяти мозга → цифровая система хранен
 - DR26-07-28-HUB-10-2339 (2026-07-28, ru): Grok Coding (Grok 4.5 / Grok Build) от SpaceXAI: возможности, слияние с Cursor, сравнение
 - DR26-07-28-HUB-11-2339 (2026-07-28, en): USM (used serviceable aircraft parts) market entry playbook for a small independent broker
@@ -129,7 +128,6 @@ License: CC BY 4.0. Cite as: Palo Alto AI Research Lab, deep research <dr_id>.
 - DR26-07-28-HUB-21-2339 (2026-07-28, en): Persistent structural code memory for coding agents (symbol/call graph, blast-radius analy
 - DR26-07-28-HUB-22-2339 (2026-07-28, en): Voice-to-content editorial systems achieving near-100% conversion without losing author vo
 - DR26-07-28-HUB-25-2339 (2026-07-28, ru): Nua/Rudel как слой skill-intelligence для Claude Code и Codex — демо-сценарий и риски
-- DR26-07-27-MACANTON-01-0018 (2026-07-27, en): Мультиканальный холодный аутрич к DevRel/исследователям топ-LLM-лабов: реальные reply-rate
 - DR26-07-26-ZB-05 (2026-07-26, ru): Аналоги Obsidian 2026 — нужен ли GUI, если главный читатель AI; многомерная перелинковка на 226k заметок
 - DR26-07-25-HUB-01-2126 (2026-07-25, ru): Доктрина размещения рутин в личном AI-флоте: VPS-якорь vs десктоп-хаб vs ноуты
 - DR26-07-07-MACB-02 (2026-07-21, ru): Онбординг-питч «второго мозга» для нетехничных + роль-идентичность Claude-ведомого

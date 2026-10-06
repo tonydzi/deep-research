@@ -1,6 +1,6 @@
 {
  "generated": "2026-10-06",
- "count": 348,
+ "count": 346,
  "repo": "https://github.com/tonydzi/deep-research",
  "research": [
   {
@@ -2011,15 +2011,6 @@
    "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-07-26-ZB-05-analogi-obsidian-2026-nuzhen-li-gui-esli-glavnyy-chitatel-ai-mnogomern.md"
   },
   {
-   "dr_id": "DR26-07-27-MACANTON-01-0018",
-   "title": "Мультиканальный холодный аутрич к DevRel/исследователям топ-LLM-лабов: реальные reply-rate",
-   "summary": "Какая последовательность каналов (X/email/LinkedIn/GitHub/Discord/формальные программы) и какие сообщения дают наибольший шанс, что DevRel/исследователь в топ-AI-лабе заметит и ответит соло-билдеру без диплома/связей.",
-   "lang": "en",
-   "date": "2026-07-27",
-   "slug": "DR26-07-27-MACANTON-01-0018-multikanalnyy-holodnyy-autrich-k-devrel-issledovatelyam-top-llm-labov",
-   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-07-27-MACANTON-01-0018-multikanalnyy-holodnyy-autrich-k-devrel-issledovatelyam-top-llm-labov.md"
-  },
-  {
    "dr_id": "DR26-07-23-ZB-02",
    "title": "DR26-07-23-ZB-02 — Синтез: цифровой двойник из личного корпуса + метрики фиделити",
    "summary": "Суженный DR (дедуп 28.07): только (1) двойник из личного корпуса и (2) метрики точности. Фреймворки PKM / Карпатый / нейронаука — см. ZB-03/ZB-04/ZB-05 (26.07).",
@@ -2081,15 +2072,6 @@
    "date": "2026-07-28",
    "slug": "DR26-07-28-HUB-07-2338-vliyanie-siney-galochki-verifikatsii-na-engagement-postov-v-facebook-i",
    "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-07-28-HUB-07-2338-vliyanie-siney-galochki-verifikatsii-na-engagement-postov-v-facebook-i.md"
-  },
-  {
-   "dr_id": "DR26-07-28-HUB-08-2338",
-   "title": "Andrej Karpathy: биография, публичные тезисы про AI/PKM, GitHub-активность и точки входа д",
-   "summary": "Кто такой Andrej Karpathy (изначальный запрос был про несуществующего 'Андрея Краватова' — переспрос выявил, что имелся в виду Karpathy), что он публично говорит про AI/agents/Obsidian-PKM, и через какие конкретные GitHub issues можно с ним законтачить.",
-   "lang": "mixed",
-   "date": "2026-07-28",
-   "slug": "DR26-07-28-HUB-08-2338-andrej-karpathy-biografiya-publichnye-tezisy-pro-ai-pkm-github-aktivno",
-   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-07-28-HUB-08-2338-andrej-karpathy-biografiya-publichnye-tezisy-pro-ai-pkm-github-aktivno.md"
   },
   {
    "dr_id": "DR26-07-28-HUB-09-2338",

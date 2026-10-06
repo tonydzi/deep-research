@@ -1,6 +1,6 @@
 # Deep Research — Palo Alto AI Research Lab
 
-348 deep-research reports, distilled. Every entry answers two questions: why we ran this research, and what we got out of it.
+346 deep-research reports, distilled. Every entry answers two questions: why we ran this research, and what we got out of it.
 
 Each report was run across several frontier models (ChatGPT, Gemini, Grok, Claude, GLM, Mistral), then reconciled into the distilled note you see here. Findings are the reconciled ones, not a single model's opinion.
 
@@ -50,7 +50,6 @@ Raw model transcripts stay in our vault. What is published here is the distilled
 | [DR26-08-02-ZB-05-2357](research/DR26-08-02-ZB-05-2357-cursor-anysphere-kak-implementer-3-v-multi-llm-konveyere-kodinga-svyaz.md) | Cursor (Anysphere) как имплементер №3 в мульти-LLM конвейере кодинга + связь с SpaceX/xAI/ | 2026-08-02 |
 | [DR26-07-28-HUB-04-2338](research/DR26-07-28-HUB-04-2338-qa-protsess-retro-testirovanie-vs-vydelennye-bugfix-sessii-strategiya.md) | QA-процесс: ретро-тестирование vs выделенные bugfix-сессии + стратегия test/agent harness | 2026-07-28 |
 | [DR26-07-28-HUB-05-2338](research/DR26-07-28-HUB-05-2338-claude-code-execution-50-besplatnyh-chasov-den-kak-zamena-tekstovomu-k.md) | Claude Code Execution (50 бесплатных часов/день) как замена текстовому кодингу при пошагов | 2026-07-28 |
-| [DR26-07-28-HUB-08-2338](research/DR26-07-28-HUB-08-2338-andrej-karpathy-biografiya-publichnye-tezisy-pro-ai-pkm-github-aktivno.md) | Andrej Karpathy: биография, публичные тезисы про AI/PKM, GitHub-активность и точки входа д | 2026-07-28 |
 | [DR26-07-28-HUB-09-2338](research/DR26-07-28-HUB-09-2338-ispolzovanie-obsidian-kak-vtoroy-mozg-arhitektura-pamyati-mozga-tsifro.md) | Использование Obsidian как второй мозг: архитектура памяти мозга → цифровая система хранен | 2026-07-28 |
 | [DR26-07-28-HUB-11-2339](research/DR26-07-28-HUB-11-2339-usm-used-serviceable-aircraft-parts-market-entry-playbook-for-a-small.md) | USM (used serviceable aircraft parts) market entry playbook for a small independent broker | 2026-07-28 |
 | [DR26-07-28-HUB-13-2339](research/DR26-07-28-HUB-13-2339-lokalnaya-multi-personalnaya-arhitektura-ai-volta-privatnost-vs-produk.md) | Локальная мульти-персональная архитектура AI-волта: приватность vs продуктивность контекст | 2026-07-28 |
@@ -61,7 +60,6 @@ Raw model transcripts stay in our vault. What is published here is the distilled
 | [DR26-07-28-HUB-20-2339](research/DR26-07-28-HUB-20-2339-fallback-architecture-for-a-subscription-only-always-on-claude-agent-h.md) | Fallback architecture for a subscription-only always-on Claude agent hitting rate limits | 2026-07-28 |
 | [DR26-07-28-HUB-21-2339](research/DR26-07-28-HUB-21-2339-persistent-structural-code-memory-for-coding-agents-symbol-call-graph.md) | Persistent structural code memory for coding agents (symbol/call graph, blast-radius analy | 2026-07-28 |
 | [DR26-07-28-HUB-22-2339](research/DR26-07-28-HUB-22-2339-voice-to-content-editorial-systems-achieving-near-100-conversion-witho.md) | Voice-to-content editorial systems achieving near-100% conversion without losing author vo | 2026-07-28 |
-| [DR26-07-27-MACANTON-01-0018](research/DR26-07-27-MACANTON-01-0018-multikanalnyy-holodnyy-autrich-k-devrel-issledovatelyam-top-llm-labov.md) | Мультиканальный холодный аутрич к DevRel/исследователям топ-LLM-лабов: реальные reply-rate | 2026-07-27 |
 | [DR26-07-21-HUB-02-2124](research/DR26-07-21-HUB-02-2124-grok-heavy-as-a-deep-research-engine-architecture-prompting-limits-ris.md) | Grok Heavy as a Deep Research engine: architecture, prompting, limits, risks | 2026-07-21 |
 | [DR26-07-20-HUB-01](research/DR26-07-20-HUB-01-reddit-voice-self-promotion-norms-across-r-localllama-r-claudeai-r-ai.md) | Reddit voice & self-promotion norms across r/LocalLLaMA, r/ClaudeAI, r/AI_Agents, r/Machin | 2026-07-20 |
 | [DR26-07-20-HUB-02](research/DR26-07-20-HUB-02-reddit-distribution-playbook-for-ai-engineering-subreddits-r-localllam.md) | Reddit distribution playbook for AI/engineering subreddits (r/LocalLLaMA, r/ClaudeAI, r/AI | 2026-07-20 |
