@@ -1,6 +1,6 @@
 {
  "generated": "2026-10-06",
- "count": 344,
+ "count": 348,
  "repo": "https://github.com/tonydzi/deep-research",
  "research": [
   {
@@ -3082,6 +3082,15 @@
    "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-09-30-HUB-01-1422-unit-economics-of-ai-native-smb-automation-agencies-on-retainers.md"
   },
   {
+   "dr_id": "DR26-10-01-MACANTON-01-0726",
+   "title": "Матчинг OSS-вклада с офферами в ИИ-лабораториях: восток-дверь vs запад-просьба",
+   "summary": "Исследование отвечает на вопрос, какой тип OSS-вклада реально конвертируется в оффер frontier-лаборатории и как разрешить противоречие между быстро открытыми восточными репозиториями и живыми западными просьбами под нашу экспертизу.",
+   "lang": "ru",
+   "date": "2026-10-01",
+   "slug": "DR26-10-01-MACANTON-01-0726-matching-oss-vklada-s-offerami-v-ii-laboratoriyah-vostok-dver-vs-zapad",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-10-01-MACANTON-01-0726-matching-oss-vklada-s-offerami-v-ii-laboratoriyah-vostok-dver-vs-zapad.md"
+  },
+  {
    "dr_id": "DR26-10-02-ZB-01-0728",
    "title": "Рынок управляемой памяти для флотов ИИ-агентов: размер, конкуренты, CAC, go-to-market до п",
    "summary": "Отчёт должен был оценить рынок organizational memory layer для AI-native компаний 10–200 человек снизу вверх, назвать конкурентов, цену лида по каналам и минимальный комплект до первой продажи, но на момент сверки (2026-10-04) готова только 1 из 6 заказанных ног, и фактического контента с ответами на вопросы в файле нет.",
@@ -3092,12 +3101,39 @@
   },
   {
    "dr_id": "DR26-10-02-ZB-02-1136",
-   "title": "Which LLM writes the best short punchy X posts (Grok vs GPT vs Claude vs Gemini)",
-   "summary": "This deep-research ticket asks which LLM best writes short 200-280 character 'pain of the day' X posts and how to fairly benchmark Grok, GPT, Claude and Gemini for that format, but the captured report contains only the original research prompt — no vendor findings or answers were actually recorded (reconcile note: 1/6 legs present on disk, registry status was corrected from 'running' to reflect this).",
-   "lang": "en",
+   "title": "Какая LLM лучше всего пишет короткие (200-280 зн) посты для X",
+   "summary": "Deep-research проверял гипотезу, что Grok пишет лучшие короткие X-посты из-за обучения на данных X, и искал протокол честного слепого теста моделей для генератора 'pain of the day'.",
+   "lang": "mixed",
    "date": "2026-10-02",
-   "slug": "DR26-10-02-ZB-02-1136-which-llm-writes-the-best-short-punchy-x-posts-grok-vs-gpt-vs-claude-v",
-   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-10-02-ZB-02-1136-which-llm-writes-the-best-short-punchy-x-posts-grok-vs-gpt-vs-claude-v.md"
+   "slug": "DR26-10-02-ZB-02-1136-kakaya-llm-luchshe-vsego-pishet-korotkie-200-280-zn-posty-dlya-x",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-10-02-ZB-02-1136-kakaya-llm-luchshe-vsego-pishet-korotkie-200-280-zn-posty-dlya-x.md"
+  },
+  {
+   "dr_id": "DR26-10-03-HUB-01-0323",
+   "title": "bb vs Hermes Agent vs OpenClaw — выбор ежедневного мультиагентного кокпита на Windows+WSL",
+   "summary": "Исследование отвечает, какой инструмент (bb, Hermes Agent или OpenClaw) ставить как ежедневный кокпит для общего рабочего пространства с несколькими агентами, общей библиотекой SKILL.md и уже оплаченными подписками без риска случайных удалений и дублирования памяти/конфигов.",
+   "lang": "ru",
+   "date": "2026-10-03",
+   "slug": "DR26-10-03-HUB-01-0323-bb-vs-hermes-agent-vs-openclaw-vybor-ezhednevnogo-multiagentnogo-kokpi",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-10-03-HUB-01-0323-bb-vs-hermes-agent-vs-openclaw-vybor-ezhednevnogo-multiagentnogo-kokpi.md"
+  },
+  {
+   "dr_id": "DR26-10-03-ZB-01-0157",
+   "title": "ATS 2026: как реально проходят фильтры найма в AI-лабораториях",
+   "summary": "Как в 2026 году на самом деле работают ATS-фильтры и рекрутёрский скрининг (Greenhouse/Ashby/Workday у Anthropic, OpenAI, xAI, DeepMind и др.), и какие законные приёмы повышают шанс дойти до собеседования при визе O-1, паспорте ЕС, 38 годах и нелинейной карьере.",
+   "lang": "ru",
+   "date": "2026-10-03",
+   "slug": "DR26-10-03-ZB-01-0157-ats-2026-kak-realno-prohodyat-filtry-nayma-v-ai-laboratoriyah",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-10-03-ZB-01-0157-ats-2026-kak-realno-prohodyat-filtry-nayma-v-ai-laboratoriyah.md"
+  },
+  {
+   "dr_id": "DR26-10-05-HUB-03-1620",
+   "title": "Перенос геймификации Duolingo (streak, лиги, XP, уведомления) на AI-напарницу, толкающую к",
+   "summary": "Какие механики геймификации Duolingo подтверждены доказательствами разного качества, и какие из них безопасно переносить на AI-напарницу, пинающую одинокого практика (коуча/фрилансера) к ежедневным целевым действиям.",
+   "lang": "mixed",
+   "date": "2026-10-05",
+   "slug": "DR26-10-05-HUB-03-1620-perenos-geymifikatsii-duolingo-streak-ligi-xp-uvedomleniya-na-ai-napar",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-10-05-HUB-03-1620-perenos-geymifikatsii-duolingo-streak-ligi-xp-uvedomleniya-na-ai-napar.md"
   }
  ]
 }

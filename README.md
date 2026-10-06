@@ -1,6 +1,6 @@
 # Deep Research — Palo Alto AI Research Lab
 
-344 deep-research reports, distilled. Every entry answers two questions: why we ran this research, and what we got out of it.
+348 deep-research reports, distilled. Every entry answers two questions: why we ran this research, and what we got out of it.
 
 Each report was run across several frontier models (ChatGPT, Gemini, Grok, Claude, GLM, Mistral), then reconciled into the distilled note you see here. Findings are the reconciled ones, not a single model's opinion.
 
@@ -20,7 +20,8 @@ Raw model transcripts stay in our vault. What is published here is the distilled
 
 | ID | Topic | Date |
 |---|---|---|
-| [DR26-10-02-ZB-02-1136](research/DR26-10-02-ZB-02-1136-which-llm-writes-the-best-short-punchy-x-posts-grok-vs-gpt-vs-claude-v.md) | Which LLM writes the best short punchy X posts (Grok vs GPT vs Claude vs Gemini) | 2026-10-02 |
+| [DR26-10-05-HUB-03-1620](research/DR26-10-05-HUB-03-1620-perenos-geymifikatsii-duolingo-streak-ligi-xp-uvedomleniya-na-ai-napar.md) | Перенос геймификации Duolingo (streak, лиги, XP, уведомления) на AI-напарницу, толкающую к | 2026-10-05 |
+| [DR26-10-02-ZB-02-1136](research/DR26-10-02-ZB-02-1136-kakaya-llm-luchshe-vsego-pishet-korotkie-200-280-zn-posty-dlya-x.md) | Какая LLM лучше всего пишет короткие (200-280 зн) посты для X | 2026-10-02 |
 | [DR26-09-30-HUB-01-1422](research/DR26-09-30-HUB-01-1422-unit-economics-of-ai-native-smb-automation-agencies-on-retainers.md) | Unit economics of AI-native SMB automation agencies on retainers | 2026-09-30 |
 | [DR26-09-16-HUB-01-1924](research/DR26-09-16-HUB-01-1924-iterativnye-tsikly-dozhima-ralph-loop-metaloop-dlya-agentnogo-kodinga.md) | Итеративные циклы дожима (Ralph Loop/MetaLoop) для агентного кодинга: критерии остановки, | 2026-09-16 |
 | [DR26-09-15-MACANTON-01-0806](research/DR26-09-15-MACANTON-01-0806-nango-vs-composio-paragon-merge-pipedream-arcade-klavis-unified-auth-l.md) | Nango vs Composio/Paragon/Merge/Pipedream/Arcade/Klavis — unified auth layer for AI agents | 2026-09-15 |
@@ -181,7 +182,10 @@ Raw model transcripts stay in our vault. What is published here is the distilled
 
 | ID | Тема | Дата |
 |---|---|---|
+| [DR26-10-03-HUB-01-0323](research/DR26-10-03-HUB-01-0323-bb-vs-hermes-agent-vs-openclaw-vybor-ezhednevnogo-multiagentnogo-kokpi.md) | bb vs Hermes Agent vs OpenClaw — выбор ежедневного мультиагентного кокпита на Windows+WSL | 2026-10-03 |
+| [DR26-10-03-ZB-01-0157](research/DR26-10-03-ZB-01-0157-ats-2026-kak-realno-prohodyat-filtry-nayma-v-ai-laboratoriyah.md) | ATS 2026: как реально проходят фильтры найма в AI-лабораториях | 2026-10-03 |
 | [DR26-10-02-ZB-01-0728](research/DR26-10-02-ZB-01-0728-rynok-upravlyaemoy-pamyati-dlya-flotov-ii-agentov-razmer-konkurenty-ca.md) | Рынок управляемой памяти для флотов ИИ-агентов: размер, конкуренты, CAC, go-to-market до п | 2026-10-02 |
+| [DR26-10-01-MACANTON-01-0726](research/DR26-10-01-MACANTON-01-0726-matching-oss-vklada-s-offerami-v-ii-laboratoriyah-vostok-dver-vs-zapad.md) | Матчинг OSS-вклада с офферами в ИИ-лабораториях: восток-дверь vs запад-просьба | 2026-10-01 |
 | [DR26-09-29-HUB-01-0839](research/DR26-09-29-HUB-01-0839-bb-get-bb-kak-orkestrator-multi-agentnogo-flota-patterny-ispolzovaniya.md) | bb (get-bb) как оркестратор мульти-агентного флота: паттерны использования и интерфейсы | 2026-09-29 |
 | [DR26-09-26-HUB-01-2230](research/DR26-09-26-HUB-01-2230-jev-typesafe-ai-system-one-perenosit-li-reshayuschie-tochki-flota-na-t.md) | Jev (TypeSafe AI System One) — переносить ли решающие точки флота на типизированную decisi | 2026-09-26 |
 | [DR26-09-25-HUB-01-1226](research/DR26-09-25-HUB-01-1226-opencode-desktop-vs-codex-desktop-i-cursor-gui-alternativy-dlya-window.md) | OpenCode Desktop vs Codex Desktop и Cursor: GUI-альтернативы для Windows с доступом к Deep | 2026-09-25 |

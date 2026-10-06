@@ -1,12 +1,16 @@
 # Palo Alto AI Research Lab — deep research corpus
 
-344 distilled deep-research reports. Machine-readable index: index.json
+348 distilled deep-research reports. Machine-readable index: index.json
 Each file: frontmatter (dr_id, title, date, lang) + summary + key findings + recommendations.
 Multi-model methodology: every question fanned out to several frontier models, then reconciled.
 License: CC BY 4.0. Cite as: Palo Alto AI Research Lab, deep research <dr_id>.
 
+- DR26-10-05-HUB-03-1620 (2026-10-05, mixed): Перенос геймификации Duolingo (streak, лиги, XP, уведомления) на AI-напарницу, толкающую к
+- DR26-10-03-HUB-01-0323 (2026-10-03, ru): bb vs Hermes Agent vs OpenClaw — выбор ежедневного мультиагентного кокпита на Windows+WSL
+- DR26-10-03-ZB-01-0157 (2026-10-03, ru): ATS 2026: как реально проходят фильтры найма в AI-лабораториях
 - DR26-10-02-ZB-01-0728 (2026-10-02, ru): Рынок управляемой памяти для флотов ИИ-агентов: размер, конкуренты, CAC, go-to-market до п
-- DR26-10-02-ZB-02-1136 (2026-10-02, en): Which LLM writes the best short punchy X posts (Grok vs GPT vs Claude vs Gemini)
+- DR26-10-02-ZB-02-1136 (2026-10-02, mixed): Какая LLM лучше всего пишет короткие (200-280 зн) посты для X
+- DR26-10-01-MACANTON-01-0726 (2026-10-01, ru): Матчинг OSS-вклада с офферами в ИИ-лабораториях: восток-дверь vs запад-просьба
 - DR26-09-30-HUB-01-1422 (2026-09-30, en): Unit economics of AI-native SMB automation agencies on retainers
 - DR26-09-29-HUB-01-0839 (2026-09-29, ru): bb (get-bb) как оркестратор мульти-агентного флота: паттерны использования и интерфейсы
 - DR26-09-26-HUB-01-2230 (2026-09-26, ru): Jev (TypeSafe AI System One) — переносить ли решающие точки флота на типизированную decisi
