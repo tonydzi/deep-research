@@ -54,3 +54,4 @@ source: Palo Alto AI Research Lab — deep research programme
 - offshore delivery under OFAC Russia sanctions
 - SMB retainer churn economics
 - forward-deployed engineers (FDE)
+- insight-DR-DR26-10-05-HUB-05-2152-ai-стартапы-для-smb-в-сша-типы-moat-риск-смыва-пла — тот же вопрос раньше: unit-экономика SMB AI-агентств на ретейнерах

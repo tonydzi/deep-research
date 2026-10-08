@@ -46,3 +46,5 @@ source: Palo Alto AI Research Lab — deep research programme
 - tailnet-vs-relay-security
 - automation-scheduler-conflict
 - cli-agent-web-ui-alternatives
+- insight-DR-DR26-10-03-HUB-01-0323-bb-vs-hermes-agent-vs-openclaw-выбор-ежедневного-м — предыдущий DR по bb как оркестратору, этот DR его продолжает
+- insight-DR-DR26-10-03-HUB-01-0323-bb-vs-hermes-agent-vs-openclaw-как-ежедневный-кокп — та же DR-линия про bb как оркестратор, отвечает на открытые вопросы
