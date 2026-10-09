@@ -1,10 +1,13 @@
 # Palo Alto AI Research Lab — deep research corpus
 
-346 distilled deep-research reports. Machine-readable index: index.json
+349 distilled deep-research reports. Machine-readable index: index.json
 Each file: frontmatter (dr_id, title, date, lang) + summary + key findings + recommendations.
 Multi-model methodology: every question fanned out to several frontier models, then reconciled.
 License: CC BY 4.0. Cite as: Palo Alto AI Research Lab, deep research <dr_id>.
 
+- DR26-10-07-HUB-04-1222 (2026-10-07, ru): n8n как оркестратор параллельного Deep Research: параллелизм, долгие вызовы, кворум
+- DR26-10-07-HUB-07-1720 (2026-10-07, ru): Что такое «red-test probe prompt body»: зонд, тело промпта и красный тест в LLM red-teamin
+- DR26-10-07-MACANTON-02-1738 (2026-10-07, ru): Каналы первых 100 пользователей малого OSS-примитива для LLM-агентов (2025–2026)
 - DR26-10-05-HUB-03-1620 (2026-10-05, mixed): Перенос геймификации Duolingo (streak, лиги, XP, уведомления) на AI-напарницу, толкающую к
 - DR26-10-03-HUB-01-0323 (2026-10-03, ru): bb vs Hermes Agent vs OpenClaw — выбор ежедневного мультиагентного кокпита на Windows+WSL
 - DR26-10-03-ZB-01-0157 (2026-10-03, ru): ATS 2026: как реально проходят фильтры найма в AI-лабораториях

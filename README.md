@@ -1,6 +1,6 @@
 # Deep Research — Palo Alto AI Research Lab
 
-346 deep-research reports, distilled. Every entry answers two questions: why we ran this research, and what we got out of it.
+349 deep-research reports, distilled. Every entry answers two questions: why we ran this research, and what we got out of it.
 
 Each report was run across several frontier models (ChatGPT, Gemini, Grok, Claude, GLM, Mistral), then reconciled into the distilled note you see here. Findings are the reconciled ones, not a single model's opinion.
 
@@ -180,6 +180,9 @@ Raw model transcripts stay in our vault. What is published here is the distilled
 
 | ID | Тема | Дата |
 |---|---|---|
+| [DR26-10-07-HUB-04-1222](research/DR26-10-07-HUB-04-1222-n8n-kak-orkestrator-parallelnogo-deep-research-parallelizm-dolgie-vyzo.md) | n8n как оркестратор параллельного Deep Research: параллелизм, долгие вызовы, кворум | 2026-10-07 |
+| [DR26-10-07-HUB-07-1720](research/DR26-10-07-HUB-07-1720-chto-takoe-red-test-probe-prompt-body-zond-telo-prompta-i-krasnyy-test.md) | Что такое «red-test probe prompt body»: зонд, тело промпта и красный тест в LLM red-teamin | 2026-10-07 |
+| [DR26-10-07-MACANTON-02-1738](research/DR26-10-07-MACANTON-02-1738-kanaly-pervyh-100-polzovateley-malogo-oss-primitiva-dlya-llm-agentov-2.md) | Каналы первых 100 пользователей малого OSS-примитива для LLM-агентов (2025–2026) | 2026-10-07 |
 | [DR26-10-03-HUB-01-0323](research/DR26-10-03-HUB-01-0323-bb-vs-hermes-agent-vs-openclaw-vybor-ezhednevnogo-multiagentnogo-kokpi.md) | bb vs Hermes Agent vs OpenClaw — выбор ежедневного мультиагентного кокпита на Windows+WSL | 2026-10-03 |
 | [DR26-10-03-ZB-01-0157](research/DR26-10-03-ZB-01-0157-ats-2026-kak-realno-prohodyat-filtry-nayma-v-ai-laboratoriyah.md) | ATS 2026: как реально проходят фильтры найма в AI-лабораториях | 2026-10-03 |
 | [DR26-10-02-ZB-01-0728](research/DR26-10-02-ZB-01-0728-rynok-upravlyaemoy-pamyati-dlya-flotov-ii-agentov-razmer-konkurenty-ca.md) | Рынок управляемой памяти для флотов ИИ-агентов: размер, конкуренты, CAC, go-to-market до п | 2026-10-02 |

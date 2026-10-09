@@ -1,6 +1,6 @@
 {
- "generated": "2026-10-08",
- "count": 346,
+ "generated": "2026-10-09",
+ "count": 349,
  "repo": "https://github.com/tonydzi/deep-research",
  "research": [
   {
@@ -3116,6 +3116,33 @@
    "date": "2026-10-05",
    "slug": "DR26-10-05-HUB-03-1620-perenos-geymifikatsii-duolingo-streak-ligi-xp-uvedomleniya-na-ai-napar",
    "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-10-05-HUB-03-1620-perenos-geymifikatsii-duolingo-streak-ligi-xp-uvedomleniya-na-ai-napar.md"
+  },
+  {
+   "dr_id": "DR26-10-07-HUB-04-1222",
+   "title": "n8n как оркестратор параллельного Deep Research: параллелизм, долгие вызовы, кворум",
+   "summary": "Годится ли self-hosted n8n как оркестратор суточного веера Deep Research по 5-6 LLM-вендорам: реальный параллелизм, долгие внешние вызовы, кворум и добор, сравнение с Temporal/Prefect/Windmill/Inngest/Trigger.dev.",
+   "lang": "ru",
+   "date": "2026-10-07",
+   "slug": "DR26-10-07-HUB-04-1222-n8n-kak-orkestrator-parallelnogo-deep-research-parallelizm-dolgie-vyzo",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-10-07-HUB-04-1222-n8n-kak-orkestrator-parallelnogo-deep-research-parallelizm-dolgie-vyzo.md"
+  },
+  {
+   "dr_id": "DR26-10-07-HUB-07-1720",
+   "title": "Что такое «red-test probe prompt body»: зонд, тело промпта и красный тест в LLM red-teamin",
+   "summary": "Исследование искало, существует ли «red-test probe prompt body» как термин, и как устроены зонд, тело промпта и красный (регрессионный) тест в практике red-teaming LLM.",
+   "lang": "ru",
+   "date": "2026-10-07",
+   "slug": "DR26-10-07-HUB-07-1720-chto-takoe-red-test-probe-prompt-body-zond-telo-prompta-i-krasnyy-test",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-10-07-HUB-07-1720-chto-takoe-red-test-probe-prompt-body-zond-telo-prompta-i-krasnyy-test.md"
+  },
+  {
+   "dr_id": "DR26-10-07-MACANTON-02-1738",
+   "title": "Каналы первых 100 пользователей малого OSS-примитива для LLM-агентов (2025–2026)",
+   "summary": "Какие каналы реально дали измеримый приток первым пользователям небольших OSS-инструментов для агентов (память, MCP), в каком порядке их использовать и что не сработало, применительно к sqlite-graph-memory с 8 звёздами после выхода на PyPI.",
+   "lang": "ru",
+   "date": "2026-10-07",
+   "slug": "DR26-10-07-MACANTON-02-1738-kanaly-pervyh-100-polzovateley-malogo-oss-primitiva-dlya-llm-agentov-2",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-10-07-MACANTON-02-1738-kanaly-pervyh-100-polzovateley-malogo-oss-primitiva-dlya-llm-agentov-2.md"
   }
  ]
 }
