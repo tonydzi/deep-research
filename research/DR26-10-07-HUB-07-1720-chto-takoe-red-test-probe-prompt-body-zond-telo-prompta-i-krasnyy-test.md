@@ -6,6 +6,9 @@ lang: ru
 source: Palo Alto AI Research Lab — deep research programme
 ---
 
+> ⚠️ dr-judge 10.10: это SELFTEST-заказ шима dr_queue («удалить»), а не разведка по просьбе. Курируемой ценности нет; оставлено только чтобы не терять след, в MOC не линкуется.
+
+
 # Insight (DR DR26-10-07-HUB-07-1720): Что такое «red-test probe prompt body»: зонд, тело промпта и красный тест в LLM red-teaming
 
 > Исследование искало, существует ли «red-test probe prompt body» как термин, и как устроены зонд, тело промпта и красный (регрессионный) тест в практике red-teaming LLM.

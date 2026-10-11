@@ -180,12 +180,13 @@ Raw model transcripts stay in our vault. What is published here is the distilled
 
 | ID | Тема | Дата |
 |---|---|---|
+| [DR26-10-11-HUB-01-0535](research/DR26-10-11-HUB-01-0535-desktop-multi-harness-ade-dlya-windows-haba-emdash-kanareykoy-orca-net.md) | desktop multi-harness ADE для Windows-хаба: Emdash канарейкой, Orca нет, bb не трогаем | 2026-10-11 |
+| [DR26-10-11-HUB-03-0732](research/DR26-10-11-HUB-03-0732-roi-agentov-na-odnom-pk-rynok-koordinatsii-agent-agent-vs-nash-stek-cl.md) | рои агентов на одном ПК. Рынок координации агент↔агент vs наш стек claw-consensus | 2026-10-11 |
 | [DR26-10-07-HUB-04-1222](research/DR26-10-07-HUB-04-1222-n8n-kak-orkestrator-parallelnogo-deep-research-parallelizm-dolgie-vyzo.md) | n8n как оркестратор параллельного Deep Research: параллелизм, долгие вызовы, кворум | 2026-10-07 |
 | [DR26-10-07-HUB-07-1720](research/DR26-10-07-HUB-07-1720-chto-takoe-red-test-probe-prompt-body-zond-telo-prompta-i-krasnyy-test.md) | Что такое «red-test probe prompt body»: зонд, тело промпта и красный тест в LLM red-teamin | 2026-10-07 |
 | [DR26-10-07-MACANTON-02-1738](research/DR26-10-07-MACANTON-02-1738-kanaly-pervyh-100-polzovateley-malogo-oss-primitiva-dlya-llm-agentov-2.md) | Каналы первых 100 пользователей малого OSS-примитива для LLM-агентов (2025–2026) | 2026-10-07 |
 | [DR26-10-03-HUB-01-0323](research/DR26-10-03-HUB-01-0323-bb-vs-hermes-agent-vs-openclaw-vybor-ezhednevnogo-multiagentnogo-kokpi.md) | bb vs Hermes Agent vs OpenClaw — выбор ежедневного мультиагентного кокпита на Windows+WSL | 2026-10-03 |
 | [DR26-10-03-ZB-01-0157](research/DR26-10-03-ZB-01-0157-ats-2026-kak-realno-prohodyat-filtry-nayma-v-ai-laboratoriyah.md) | ATS 2026: как реально проходят фильтры найма в AI-лабораториях | 2026-10-03 |
-| [DR26-10-02-ZB-01-0728](research/DR26-10-02-ZB-01-0728-rynok-upravlyaemoy-pamyati-dlya-flotov-ii-agentov-razmer-konkurenty-ca.md) | Рынок управляемой памяти для флотов ИИ-агентов: размер, конкуренты, CAC, go-to-market до п | 2026-10-02 |
 | [DR26-10-01-MACANTON-01-0726](research/DR26-10-01-MACANTON-01-0726-matching-oss-vklada-s-offerami-v-ii-laboratoriyah-vostok-dver-vs-zapad.md) | Матчинг OSS-вклада с офферами в ИИ-лабораториях: восток-дверь vs запад-просьба | 2026-10-01 |
 | [DR26-09-29-HUB-01-0839](research/DR26-09-29-HUB-01-0839-bb-get-bb-kak-orkestrator-multi-agentnogo-flota-patterny-ispolzovaniya.md) | bb (get-bb) как оркестратор мульти-агентного флота: паттерны использования и интерфейсы | 2026-09-29 |
 | [DR26-09-26-HUB-01-2230](research/DR26-09-26-HUB-01-2230-jev-typesafe-ai-system-one-perenosit-li-reshayuschie-tochki-flota-na-t.md) | Jev (TypeSafe AI System One) — переносить ли решающие точки флота на типизированную decisi | 2026-09-26 |
@@ -194,7 +195,6 @@ Raw model transcripts stay in our vault. What is published here is the distilled
 | [DR26-09-22-HUB-01-1118](research/DR26-09-22-HUB-01-1118-grok-build-cli-protiv-cursor-kak-chetvertyy-agent-v-sisteme-iz-treh-ag.md) | Grok Build CLI против Cursor как четвёртый агент в системе из трёх агентов в одной папке | 2026-09-22 |
 | [DR26-09-22-HUB-02-1159](research/DR26-09-22-HUB-02-1159-multi-agentnaya-koordinatsiya-v-odnoy-papke-claude-codex-loki-protokol.md) | Мульти-агентная координация в одной папке: Claude×Codex локи/протоколы в мире vs наш прото | 2026-09-22 |
 | [DR26-09-22-HUB-03-1433](research/DR26-09-22-HUB-03-1433-intervyu-lupy-top-laboratoriy-ii-dlya-research-scientist-mts-2025-2026.md) | Интервью-лупы топ-лабораторий ИИ для Research Scientist/MTS (2025-2026) | 2026-09-22 |
-| [DR26-09-22-HUB-04-1433](research/DR26-09-22-HUB-04-1433-ranzhirovannyy-korpus-materialov-dlya-podgotovki-k-intervyu-rs-mts-res.md) | Ранжированный корпус материалов для подготовки к интервью RS/MTS (Research Scientist/MTS) | 2026-09-22 |
 | [DR26-09-22-HUB-05-1433](research/DR26-09-22-HUB-05-1433-kak-netipichnye-kandidaty-bez-ml-publikatsiy-zahodyat-v-top-laboratori.md) | Как нетипичные кандидаты без ML-публикаций заходят в топ-лаборатории ИИ (2024–2026) | 2026-09-22 |
 | [DR26-09-22-HUB-06-1433](research/DR26-09-22-HUB-06-1433-platnye-servisy-podgotovki-k-ml-ai-intervyu-chto-vnutri-tseny-brat-li.md) | Платные сервисы подготовки к ML/AI-интервью: что внутри, цены, брать ли для research-трека | 2026-09-22 |
 | [DR26-09-22-HUB-07-1433](research/DR26-09-22-HUB-07-1433-katalog-publichnyh-dnevnikov-trudoustroystva-v-ii-pomimo-alisa-liu.md) | Каталог публичных дневников трудоустройства в ИИ помимо Alisa Liu | 2026-09-22 |

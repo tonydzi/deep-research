@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-09",
+ "generated": "2026-10-11",
  "count": 349,
  "repo": "https://github.com/tonydzi/deep-research",
  "research": [
@@ -2983,15 +2983,6 @@
    "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-09-22-HUB-03-1433-intervyu-lupy-top-laboratoriy-ii-dlya-research-scientist-mts-2025-2026.md"
   },
   {
-   "dr_id": "DR26-09-22-HUB-04-1433",
-   "title": "Ранжированный корпус материалов для подготовки к интервью RS/MTS (Research Scientist/MTS)",
-   "summary": "GLM-отчёт ранжирует учебные материалы по LLM и ML-математике под профиль Антона (COO/CTO, Python/C++, PhD, без классического ML-research трека) и даёт 6-недельный план подготовки к RS/MTS интервью с нарезкой на упражнения.",
-   "lang": "ru",
-   "date": "2026-09-22",
-   "slug": "DR26-09-22-HUB-04-1433-ranzhirovannyy-korpus-materialov-dlya-podgotovki-k-intervyu-rs-mts-res",
-   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-09-22-HUB-04-1433-ranzhirovannyy-korpus-materialov-dlya-podgotovki-k-intervyu-rs-mts-res.md"
-  },
-  {
    "dr_id": "DR26-09-22-HUB-05-1433",
    "title": "Как нетипичные кандидаты без ML-публикаций заходят в топ-лаборатории ИИ (2024–2026)",
    "summary": "Каталог реальных траекторий и типология ролей, через которые люди без классического ML-research-бэкграунда попадают в OpenAI, Anthropic, DeepMind, Mistral и другие топ-лаборатории ИИ.",
@@ -3073,15 +3064,6 @@
    "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-10-01-MACANTON-01-0726-matching-oss-vklada-s-offerami-v-ii-laboratoriyah-vostok-dver-vs-zapad.md"
   },
   {
-   "dr_id": "DR26-10-02-ZB-01-0728",
-   "title": "Рынок управляемой памяти для флотов ИИ-агентов: размер, конкуренты, CAC, go-to-market до п",
-   "summary": "Отчёт должен был оценить рынок organizational memory layer для AI-native компаний 10–200 человек снизу вверх, назвать конкурентов, цену лида по каналам и минимальный комплект до первой продажи, но на момент сверки (2026-10-04) готова только 1 из 6 заказанных ног, и фактического контента с ответами на вопросы в файле нет.",
-   "lang": "ru",
-   "date": "2026-10-02",
-   "slug": "DR26-10-02-ZB-01-0728-rynok-upravlyaemoy-pamyati-dlya-flotov-ii-agentov-razmer-konkurenty-ca",
-   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-10-02-ZB-01-0728-rynok-upravlyaemoy-pamyati-dlya-flotov-ii-agentov-razmer-konkurenty-ca.md"
-  },
-  {
    "dr_id": "DR26-10-02-ZB-02-1136",
    "title": "Какая LLM лучше всего пишет короткие (200-280 зн) посты для X",
    "summary": "Deep-research проверял гипотезу, что Grok пишет лучшие короткие X-посты из-за обучения на данных X, и искал протокол честного слепого теста моделей для генератора 'pain of the day'.",
@@ -3129,7 +3111,7 @@
   {
    "dr_id": "DR26-10-07-HUB-07-1720",
    "title": "Что такое «red-test probe prompt body»: зонд, тело промпта и красный тест в LLM red-teamin",
-   "summary": "Исследование искало, существует ли «red-test probe prompt body» как термин, и как устроены зонд, тело промпта и красный (регрессионный) тест в практике red-teaming LLM.",
+   "summary": "⚠️ dr-judge 10.10: это SELFTEST-заказ шима dr_queue («удалить»), а не разведка по просьбе. Курируемой ценности нет; оставлено только чтобы не терять след, в MOC не линкуется. Исследование искало, существует ли «red-test probe prompt body» как термин, и как устроены зонд, тело промпта и красный (регрессионный) тест в практике red-teaming LLM.",
    "lang": "ru",
    "date": "2026-10-07",
    "slug": "DR26-10-07-HUB-07-1720-chto-takoe-red-test-probe-prompt-body-zond-telo-prompta-i-krasnyy-test",
@@ -3143,6 +3125,24 @@
    "date": "2026-10-07",
    "slug": "DR26-10-07-MACANTON-02-1738-kanaly-pervyh-100-polzovateley-malogo-oss-primitiva-dlya-llm-agentov-2",
    "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-10-07-MACANTON-02-1738-kanaly-pervyh-100-polzovateley-malogo-oss-primitiva-dlya-llm-agentov-2.md"
+  },
+  {
+   "dr_id": "DR26-10-11-HUB-01-0535",
+   "title": "desktop multi-harness ADE для Windows-хаба: Emdash канарейкой, Orca нет, bb не трогаем",
+   "summary": "Заказ: голосовая Антона 10.10.2026 «Изучить. Провести ДР» по отчёту ChatGPT `deep-research-report (3).md` (рейтинг Orca → Superset → Emdash → ccgui → bb → OpenChamber → Proliferate, CC Switch компаньон). Решение, которое кормит отчёт: менять ли пульт bb (выбран 03.10, [[bb-scout-and-harness-recall-2026-10-03]]) на Orca или Emdash одной обратимой канарейкой, или no-go. Промпт написал Codex 10.10 (adversarial: все имена, звёзды, лицензии и Windows-фит считать непроверенными), сессия Codex оборвалась, веер довёл хаб 11.10. Поверх четырёх ног: проверка канонических репо по рельсе web (`queue/DR26-10-11-HUB-01-0535/verify-web-claude-2026-10-11.md`).",
+   "lang": "ru",
+   "date": "2026-10-11",
+   "slug": "DR26-10-11-HUB-01-0535-desktop-multi-harness-ade-dlya-windows-haba-emdash-kanareykoy-orca-net",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-10-11-HUB-01-0535-desktop-multi-harness-ade-dlya-windows-haba-emdash-kanareykoy-orca-net.md"
+  },
+  {
+   "dr_id": "DR26-10-11-HUB-03-0732",
+   "title": "рои агентов на одном ПК. Рынок координации агент↔агент vs наш стек claw-consensus",
+   "summary": "Machine: A-2022BAYAREA (Хаб) · Agent: Claude Code (Fable 5.1) · Operator: Anton · 2026-10-11 Полный отчёт с таблицами и 30 источниками: `E:\\!CLAUDE-PaloAltoPC-June26\\docs\\dr-agent-swarms-on-one-pc-2026-10-11.md`. Заказ: голосовая Антона 10.10 («какие тулзы для роёв агентов на компьютере, как другие организуют, насколько наше отличается»). Рельса web>gemini мертва (429), веб снят встроенным поиском + WebFetch + `gh api`.",
+   "lang": "ru",
+   "date": "2026-10-11",
+   "slug": "DR26-10-11-HUB-03-0732-roi-agentov-na-odnom-pk-rynok-koordinatsii-agent-agent-vs-nash-stek-cl",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-10-11-HUB-03-0732-roi-agentov-na-odnom-pk-rynok-koordinatsii-agent-agent-vs-nash-stek-cl.md"
   }
  ]
 }
