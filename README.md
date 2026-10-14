@@ -8,7 +8,7 @@ Raw model transcripts stay in our vault. What is published here is the distilled
 
 **License:** CC BY 4.0 — use it, cite the lab.
 
-**Talk to us:** the biological and the synthetic partner, [calendly.com/paloaltolab](https://calendly.com/paloaltolab) · WhatsApp +1 341 222 9178
+**Talk to us:** the biological and the synthetic co-founder, [calendly.com/paloaltolab](https://calendly.com/paloaltolab) · WhatsApp +1 341 222 9178
 
 **All channels:** https://linktr.ee/PaloAltoAI
 
@@ -83,13 +83,13 @@ Raw model transcripts stay in our vault. What is published here is the distilled
 | [DR26-07-14-HUB-07](research/DR26-07-14-HUB-07-declarative-canon-distribution-architecture-for-a-heterogeneous-multi.md) | Declarative canon distribution architecture for a heterogeneous multi-machine agent fleet | 2026-07-14 |
 | [DR26-07-14-HUB-08](research/DR26-07-14-HUB-08-engineering-communities-as-a-hiring-asset-in-the-ai-era.md) | Engineering Communities as a Hiring Asset in the AI Era | 2026-07-14 |
 | [DR26-07-14-HUB-09](research/DR26-07-14-HUB-09-fleet-wide-memory-architecture-for-a-multi-machine-ai-agent-system-ove.md) | Fleet-Wide Memory Architecture for a Multi-Machine AI Agent System over Syncthing | 2026-07-14 |
-| [DR26-07-14-HUB-10](research/DR26-07-14-HUB-10-how-a-founder-builder-can-position-for-a-frontier-llm-role.md) | How an Operator-Builder Can Position for a Frontier LLM Role | 2026-07-14 |
+| [DR26-07-14-HUB-10](research/DR26-07-14-HUB-10-how-a-founder-builder-can-position-for-a-frontier-llm-role.md) | How a Founder-Builder Can Position for a Frontier LLM Role | 2026-07-14 |
 | [DR26-07-14-HUB-11](research/DR26-07-14-HUB-11-improving-the-second-brain-onboarding-pitch-for-non-technical-users.md) | Improving the Second Brain onboarding pitch for non-technical users | 2026-07-14 |
 | [DR26-07-14-HUB-13](research/DR26-07-14-HUB-13-personal-site-strategy-for-an-ai-builder-targeting-frontier-labs.md) | Personal Site Strategy for an AI Builder Targeting Frontier Labs | 2026-07-14 |
 | [DR26-07-14-HUB-14](research/DR26-07-14-HUB-14-personal-site-strategy-for-an-ai-builder-targeting-frontier-labs.md) | Personal Site Strategy for an AI Builder Targeting Frontier Labs | 2026-07-14 |
 | [DR26-07-14-HUB-15](research/DR26-07-14-HUB-15-codex-cli-as-a-live-telegram-consensus-participant-alongside-claude-co.md) | Codex CLI as a live Telegram consensus participant alongside Claude Code | 2026-07-14 |
 | [DR26-07-14-ZB-01](research/DR26-07-14-ZB-01-agent-bus-arhitektura-telegram-syncthing-vs-vydelennyy-transport-nats.md) | Agent-bus архитектура: Telegram+Syncthing vs выделенный транспорт (NATS/JetStream) при рос | 2026-07-14 |
-| [DR26-07-11-HUB-02](research/DR26-07-11-HUB-02-reciprocal-engineer-community-design-for-a-founder-s-frontier-lab-devr.md) | Reciprocal engineer-community design for an operator's frontier-lab DevRel hire | 2026-07-11 |
+| [DR26-07-11-HUB-02](research/DR26-07-11-HUB-02-reciprocal-engineer-community-design-for-a-founder-s-frontier-lab-devr.md) | Reciprocal engineer-community design for a founder's frontier-lab DevRel hire | 2026-07-11 |
 | [DR26-07-10-MACB-02](research/DR26-07-10-MACB-02-agent-facing-docs-agents-md-llms-txt-for-robots-md-vs-prompt-injection.md) | Agent-facing docs (AGENTS.md/llms.txt/FOR-ROBOTS.md) vs prompt injection: line & disclosur | 2026-07-10 |
 | [DR26-07-08-HUB-01](research/DR26-07-08-HUB-01-edinyy-canon-story-state-vmesto-dvuh-rashodyaschihsya-spaynov-kniga-li.md) | Единый canon story-state вместо двух расходящихся спайнов (книга + live-лента) | 2026-07-08 |
 | [DR26-07-08-MACB-01](research/DR26-07-08-MACB-01-approval-fatigue-and-task-drift-in-agentic-ai-coding-diagnosis-and-fix.md) | Approval fatigue and task drift in agentic AI coding — diagnosis and fixes | 2026-07-08 |
@@ -100,7 +100,7 @@ Raw model transcripts stay in our vault. What is published here is the distilled
 | [DR26-07-07-HUB-06](research/DR26-07-07-HUB-06-declarative-canon-distribution-architecture-for-a-heterogeneous-person.md) | Declarative Canon Distribution Architecture for a Heterogeneous Personal Agent Fleet | 2026-07-07 |
 | [DR26-07-07-HUB-08](research/DR26-07-07-HUB-08-brain-as-a-service-exposing-the-hub-s-rag-vault-search-pipeline-to-a-p.md) | Brain as a Service: exposing the hub's RAG/vault-search pipeline to a personal agent fleet | 2026-07-07 |
 | [DR26-07-07-MACB-01](research/DR26-07-07-MACB-01-gigiena-dedup-i-perelinkovka-znanievogo-grafa-175k-zametok-obsidian-ra.md) | Гигиена, дедуп и перелинковка знаниевого графа 175k заметок (Obsidian+RAG) для AI-двойника | 2026-07-07 |
-| [DR26-07-07-MACB-05](research/DR26-07-07-MACB-05-positioning-a-founder-builder-for-a-developer-experience-applied-ai-ro.md) | Positioning an operator-builder for a Developer Experience/Applied AI role at a frontier LLM | 2026-07-07 |
+| [DR26-07-07-MACB-05](research/DR26-07-07-MACB-05-positioning-a-founder-builder-for-a-developer-experience-applied-ai-ro.md) | Positioning a founder-builder for a Developer Experience/Applied AI role at a frontier LLM | 2026-07-07 |
 | [DR26-07-06-HUB-01](research/DR26-07-06-HUB-01-ssh-access-to-hetzner-ubuntu-vps-from-claude-desktop-vs-code-cli-and-p.md) | SSH access to Hetzner Ubuntu VPS from Claude Desktop, VS Code, CLI, and phone | 2026-07-06 |
 | [DR26-07-06-HUB-03](research/DR26-07-06-HUB-03-telegram-as-transport-rail-for-a-multi-machine-autonomous-agent-fleet.md) | Telegram as transport rail for a multi-machine autonomous agent fleet: risks, limits, alte | 2026-07-06 |
 | [DR26-07-06-HUB-05](research/DR26-07-06-HUB-05-building-a-deterministic-daily-activity-ledger-from-ai-agent-logs-comm.md) | Building a deterministic daily activity ledger from AI-agent logs, commits, and vault arti | 2026-07-06 |
