@@ -51,3 +51,4 @@ source: Palo Alto AI Research Lab — deep research programme
 - claude-skills-git-backup
 - onair-board
 - decision-2026-07-24-peer-scripts-delivery-channel — тот же вопрос доставки скриптов на гетерогенный флот
+- 2026-10-14-module-in-two-homes-one-truth — та же проблема дистрибуции скриптов по двум домам на гетерогенном флоте

@@ -1,6 +1,6 @@
 {
- "generated": "2026-10-14",
- "count": 349,
+ "generated": "2026-10-15",
+ "count": 353,
  "repo": "https://github.com/tonydzi/deep-research",
  "research": [
   {
@@ -3127,6 +3127,15 @@
    "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-10-07-MACANTON-02-1738-kanaly-pervyh-100-polzovateley-malogo-oss-primitiva-dlya-llm-agentov-2.md"
   },
   {
+   "dr_id": "DR26-10-09-HUB-03-2112",
+   "title": "Lenses.io Community Edition — чем полезна лаборатории (Kafka как лог флота, MCP OAuth 2.1, OSS, найм, контент)",
+   "summary": "Вопрос Антона (09.10.2026): «чем нам может быть полезна эта тулза» (lenses.io/community-edition). Проверены пять дорожек: инфра (Kafka как «один лог» флота) · безопасность (MCP-сервер с OAuth 2.1) · OSS-вклад · найм · контент/демо.",
+   "lang": "ru",
+   "date": "2026-10-09",
+   "slug": "DR26-10-09-HUB-03-2112-lenses-io-community-edition-chem-polezna-laboratorii-kafka-kak-log-flo",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-10-09-HUB-03-2112-lenses-io-community-edition-chem-polezna-laboratorii-kafka-kak-log-flo.md"
+  },
+  {
    "dr_id": "DR26-10-11-HUB-01-0535",
    "title": "desktop multi-harness ADE для Windows-хаба: Emdash канарейкой, Orca нет, bb не трогаем",
    "summary": "Заказ: голосовая Антона 10.10.2026 «Изучить. Провести ДР» по отчёту ChatGPT `deep-research-report (3).md` (рейтинг Orca → Superset → Emdash → ccgui → bb → OpenChamber → Proliferate, CC Switch компаньон). Решение, которое кормит отчёт: менять ли пульт bb (выбран 03.10, [[bb-scout-and-harness-recall-2026-10-03]]) на Orca или Emdash одной обратимой канарейкой, или no-go. Промпт написал Codex 10.10 (adversarial: все имена, звёзды, лицензии и Windows-фит считать непроверенными), сессия Codex оборвалась, веер довёл хаб 11.10. Поверх четырёх ног: проверка канонических репо по рельсе web (`queue/DR26-10-11-HUB-01-0535/verify-web-claude-2026-10-11.md`).",
@@ -3138,11 +3147,38 @@
   {
    "dr_id": "DR26-10-11-HUB-03-0732",
    "title": "рои агентов на одном ПК. Рынок координации агент↔агент vs наш стек claw-consensus",
-   "summary": "Machine: A-2022BAYAREA (Хаб) · Agent: Claude Code (Fable 5.1) · Operator: Anton · 2026-10-11 Полный отчёт с таблицами и 30 источниками: `E:\\!CLAUDE-PaloAltoPC-June26\\docs\\dr-agent-swarms-on-one-pc-2026-10-11.md`. Заказ: голосовая Антона 10.10 («какие тулзы для роёв агентов на компьютере, как другие организуют, насколько наше отличается»). Рельса web>gemini мертва (429), веб снят встроенным поиском + WebFetch + `gh api`.",
+   "summary": "Machine: A-2022BAYAREA (Хаб) · Agent: Claude Code (Fable 5.1) · Operator: Anton · 2026-10-11 Полный отчёт с таблицами и 30 источниками: `E:\\!CLAUDE-PaloAltoPC-June26\\docs\\dr-agent-swarms-on-one-pc-2026-10-11.md`. Заказ: голосовая Антона 10.10 («какие тулзы для роёв агентов на компьютере, как другие организуют, насколько наше отличается»). Рельса web>gemini мертва (429), веб снят встроенным поиском + WebFetch + `gh api`. Machine: A-2022BAYAREA (Хаб) · Agent: Claude Code (Fable 5.1) · Operator: Anton · 2026-10-14 · сессия H21777 · кворум 4/6 не собран (2/6), вердикт = два вендора + инхаус.",
    "lang": "ru",
    "date": "2026-10-11",
    "slug": "DR26-10-11-HUB-03-0732-roi-agentov-na-odnom-pk-rynok-koordinatsii-agent-agent-vs-nash-stek-cl",
    "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-10-11-HUB-03-0732-roi-agentov-na-odnom-pk-rynok-koordinatsii-agent-agent-vs-nash-stek-cl.md"
+  },
+  {
+   "dr_id": "DR26-10-14-HUB-01-0934",
+   "title": "OpenAI-agent breach of Hugging Face (July 2026): lessons for Anton's agent fleet",
+   "summary": "A deep-research request to reconstruct the July 2026 OpenAI-agent intrusion into Hugging Face and turn it into a defensive program for Anton's multi-agent fleet and missions. The report text contains no findings, only the research brief.",
+   "lang": "en",
+   "date": "2026-10-14",
+   "slug": "DR26-10-14-HUB-01-0934-openai-agent-breach-of-hugging-face-july-2026-lessons-for-anton-s-agen",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-10-14-HUB-01-0934-openai-agent-breach-of-hugging-face-july-2026-lessons-for-anton-s-agen.md"
+  },
+  {
+   "dr_id": "DR26-10-14-HUB-03-1750",
+   "title": "Взлом Hugging Face агентами OpenAI (июль 2026): уроки для флота агентов",
+   "summary": "Какие защиты малого флота агентов чинить первыми по итогам июльского 2026 вторжения оценочных агентов OpenAI в Hugging Face, и какие углы M1/M3 это открывает.",
+   "lang": "mixed",
+   "date": "2026-10-14",
+   "slug": "DR26-10-14-HUB-03-1750-vzlom-hugging-face-agentami-openai-iyul-2026-uroki-dlya-flota-agentov",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-10-14-HUB-03-1750-vzlom-hugging-face-agentami-openai-iyul-2026-uroki-dlya-flota-agentov.md"
+  },
+  {
+   "dr_id": "DR26-10-14-HUB-04-1949",
+   "title": "Гашеная и негашеная известь в бетоне и древних пуццолановых смесях",
+   "summary": "Какие экспериментально доказанные эффекты даёт добавка Ca(OH)2 или CaO в вяжущие и портландцементный бетон и как это соотносится с римскими известково-пуццолановыми и горячесмешанными системами и ремесленными традициями.",
+   "lang": "ru",
+   "date": "2026-10-14",
+   "slug": "DR26-10-14-HUB-04-1949-gashenaya-i-negashenaya-izvest-v-betone-i-drevnih-putstsolanovyh-smesy",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-10-14-HUB-04-1949-gashenaya-i-negashenaya-izvest-v-betone-i-drevnih-putstsolanovyh-smesy.md"
   }
  ]
 }

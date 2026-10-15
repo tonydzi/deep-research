@@ -1,6 +1,6 @@
 # Deep Research — Palo Alto AI Research Lab
 
-349 deep-research reports, distilled. Every entry answers two questions: why we ran this research, and what we got out of it.
+353 deep-research reports, distilled. Every entry answers two questions: why we ran this research, and what we got out of it.
 
 Each report was run across several frontier models (ChatGPT, Gemini, Grok, Claude, GLM, Mistral), then reconciled into the distilled note you see here. Findings are the reconciled ones, not a single model's opinion.
 
@@ -20,6 +20,8 @@ Raw model transcripts stay in our vault. What is published here is the distilled
 
 | ID | Topic | Date |
 |---|---|---|
+| [DR26-10-14-HUB-01-0934](research/DR26-10-14-HUB-01-0934-openai-agent-breach-of-hugging-face-july-2026-lessons-for-anton-s-agen.md) | OpenAI-agent breach of Hugging Face (July 2026): lessons for Anton's agent fleet | 2026-10-14 |
+| [DR26-10-14-HUB-03-1750](research/DR26-10-14-HUB-03-1750-vzlom-hugging-face-agentami-openai-iyul-2026-uroki-dlya-flota-agentov.md) | Взлом Hugging Face агентами OpenAI (июль 2026): уроки для флота агентов | 2026-10-14 |
 | [DR26-10-05-HUB-03-1620](research/DR26-10-05-HUB-03-1620-perenos-geymifikatsii-duolingo-streak-ligi-xp-uvedomleniya-na-ai-napar.md) | Перенос геймификации Duolingo (streak, лиги, XP, уведомления) на AI-напарницу, толкающую к | 2026-10-05 |
 | [DR26-10-02-ZB-02-1136](research/DR26-10-02-ZB-02-1136-kakaya-llm-luchshe-vsego-pishet-korotkie-200-280-zn-posty-dlya-x.md) | Какая LLM лучше всего пишет короткие (200-280 зн) посты для X | 2026-10-02 |
 | [DR26-09-30-HUB-01-1422](research/DR26-09-30-HUB-01-1422-unit-economics-of-ai-native-smb-automation-agencies-on-retainers.md) | Unit economics of AI-native SMB automation agencies on retainers | 2026-09-30 |
@@ -180,8 +182,10 @@ Raw model transcripts stay in our vault. What is published here is the distilled
 
 | ID | Тема | Дата |
 |---|---|---|
+| [DR26-10-14-HUB-04-1949](research/DR26-10-14-HUB-04-1949-gashenaya-i-negashenaya-izvest-v-betone-i-drevnih-putstsolanovyh-smesy.md) | Гашеная и негашеная известь в бетоне и древних пуццолановых смесях | 2026-10-14 |
 | [DR26-10-11-HUB-01-0535](research/DR26-10-11-HUB-01-0535-desktop-multi-harness-ade-dlya-windows-haba-emdash-kanareykoy-orca-net.md) | desktop multi-harness ADE для Windows-хаба: Emdash канарейкой, Orca нет, bb не трогаем | 2026-10-11 |
 | [DR26-10-11-HUB-03-0732](research/DR26-10-11-HUB-03-0732-roi-agentov-na-odnom-pk-rynok-koordinatsii-agent-agent-vs-nash-stek-cl.md) | рои агентов на одном ПК. Рынок координации агент↔агент vs наш стек claw-consensus | 2026-10-11 |
+| [DR26-10-09-HUB-03-2112](research/DR26-10-09-HUB-03-2112-lenses-io-community-edition-chem-polezna-laboratorii-kafka-kak-log-flo.md) | Lenses.io Community Edition — чем полезна лаборатории (Kafka как лог флота, MCP OAuth 2.1, OSS, найм, контент) | 2026-10-09 |
 | [DR26-10-07-HUB-04-1222](research/DR26-10-07-HUB-04-1222-n8n-kak-orkestrator-parallelnogo-deep-research-parallelizm-dolgie-vyzo.md) | n8n как оркестратор параллельного Deep Research: параллелизм, долгие вызовы, кворум | 2026-10-07 |
 | [DR26-10-07-HUB-07-1720](research/DR26-10-07-HUB-07-1720-chto-takoe-red-test-probe-prompt-body-zond-telo-prompta-i-krasnyy-test.md) | Что такое «red-test probe prompt body»: зонд, тело промпта и красный тест в LLM red-teamin | 2026-10-07 |
 | [DR26-10-07-MACANTON-02-1738](research/DR26-10-07-MACANTON-02-1738-kanaly-pervyh-100-polzovateley-malogo-oss-primitiva-dlya-llm-agentov-2.md) | Каналы первых 100 пользователей малого OSS-примитива для LLM-агентов (2025–2026) | 2026-10-07 |

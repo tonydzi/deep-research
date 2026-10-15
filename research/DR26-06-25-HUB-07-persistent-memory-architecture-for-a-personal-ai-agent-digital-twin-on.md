@@ -58,3 +58,4 @@ source: Palo Alto AI Research Lab — deep research programme
 - one-system-propagate
 - insight-DR-DR26-06-27-HUB-04-memory-architecture-patterns-for-long-running-ai-a — тот же домен персистентной памяти AI-агента поверх Obsidian, прямое пересечение архитектурных паттернов
 - insight-DR-DR26-07-28-HUB-09-2338-использование-obsidian-как-второй-мозг-архитектура — тот же вопрос архитектуры памяти поверх Obsidian для персонального AI-агента
+- insight-2026-10-14-openllm-sh-teardown-context-memory — архитектура постоянной памяти, с которой сверяется разбор OpenLLM

@@ -30,3 +30,9 @@ source: Palo Alto AI Research Lab — deep research programme
 ## Связано
 - 2026-09-22--agenty-v-odnoy-papke-loki-mira-i-gde-my-vperedi · 2026-09-15--patterny-mezhagentnoy-koordinacii-v-prode-chto-rabotaet-i-lomaetsya · 2026-09-10--realnye-keysy-orkestracii-desyatkov-scheduled-claude-code-sessiy-i-ant · insight-coddy-1-3-swarm-fleet-verdict-2026-10-11
 - Канон: reglament-multi-machine-claude-i-peredacha-mezhdu-mashinami · reglament-trigger-03-avtonomnyy-konsensus-mashin · reglament-vozhak-vedomyy-canon-governance
+
+## Поправка 14.10.2026: две внешние ноги (ChatGPT Deep research + claude.ai Research Fable 5.1 Max)
+> Machine: хаб (Хаб) · Agent: Claude Code (Fable 5.1) · Operator: Anton · 2026-10-14 · сессия H21777 · кворум 4/6 не собран (2/6), вердикт = два вендора + инхаус.
+- Сошлось: пустая клетка «пять свойств вместе» держится, но ТОНКАЯ; рельсы не новы, нова надстройка (ACK-долг, dual-rail, тиры с tripwire, канон, верификация второй машиной); первым брать MCP-обёртку над шиной, intent+scope, verify-gate; Gas Town не копируем.
+- Разошлось: claim между машинами через Syncthing НЕ атомарен (арбитр-single-writer или fencing token); cross-session messaging не первый, а последний; пропущены agent-sync, system-gap-master, GNAP, ClawTeam-OpenClaw, Acgs-Swarm; 4 High в reference/consensus.py; витрина (roadmap, число машин, threat model Telegram, pinned-режим join-the-fleet); позиционирование = reference implementation governance-слоя по arXiv 2606.31498, не «пустая клетка».
+- Полная сверка: `E:\!CLAUDE-PaloAltoPC-June26\docs\dr-prompts\DR26-10-11-HUB-03-0732-synthesis-2legs.md`; оригиналы ног в `_originals/deep-research/DR26-10-11-HUB-03-0732-{chatgpt,claudeai}.md`; дашборд Sheets `1RPrXHh4Be9cUmlKjDeEyObG0mNP408-iWdxk6pV_Ev4`.
