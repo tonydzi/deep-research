@@ -1,6 +1,6 @@
 {
- "generated": "2026-10-15",
- "count": 353,
+ "generated": "2026-10-17",
+ "count": 351,
  "repo": "https://github.com/tonydzi/deep-research",
  "research": [
   {
@@ -1552,15 +1552,6 @@
    "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-07-07-MACB-04-adopt-framework-dokazatelnoe-testirovanie-i-vnedrenie-vneshney-alfy-id.md"
   },
   {
-   "dr_id": "DR26-07-07-MACB-05",
-   "title": "Positioning a builder for a Developer Experience/Applied AI role at a frontier LLM",
-   "summary": "Analyzes which roles at Anthropic/OpenAI/Mistral/xAI/Google DeepMind actually fit a founder-builder profile without a PhD, what public hiring pattern converts, how to frame a crypto/web3 background, and lays out a 90-day portfolio plan to trigger a first conversation.",
-   "lang": "en",
-   "date": "2026-07-07",
-   "slug": "DR26-07-07-MACB-05-positioning-a-builder-for-a-developer-experience-applied-ai-ro",
-   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-07-07-MACB-05-positioning-a-builder-for-a-developer-experience-applied-ai-ro.md"
-  },
-  {
    "dr_id": "DR26-07-08-HUB-01",
    "title": "Единый canon story-state вместо двух расходящихся спайнов (книга + live-лента)",
    "summary": "Как для сериализованного нон-фикшн проекта (основатель + AI-кофаундер) построить один канонический источник истины, из которого книга и живая лента — это лишь разные проекции, а не два независимых спайна.",
@@ -1595,15 +1586,6 @@
    "date": "2026-07-10",
    "slug": "DR26-07-10-MACB-02-agent-facing-docs-agents-md-llms-txt-for-robots-md-vs-prompt-injection",
    "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-07-10-MACB-02-agent-facing-docs-agents-md-llms-txt-for-robots-md-vs-prompt-injection.md"
-  },
-  {
-   "dr_id": "DR26-07-11-HUB-02",
-   "title": "Reciprocal engineer-community design for a frontier-lab DevRel hire",
-   "summary": "How a non-technical operator with a huge Web3/Telegram audience can build a genuinely reciprocal engineer community/build-in-public program as credible proof-of-work to get hired into DevRel/developer-education at a frontier LLM lab (Anthropic/OpenAI/Mistral).",
-   "lang": "en",
-   "date": "2026-07-11",
-   "slug": "DR26-07-11-HUB-02-reciprocal-engineer-community-design-for-a-frontier-lab-devr",
-   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-07-11-HUB-02-reciprocal-engineer-community-design-for-a-frontier-lab-devr.md"
   },
   {
    "dr_id": "DR26-07-11-HUB-03",
@@ -1721,15 +1703,6 @@
    "date": "2026-07-14",
    "slug": "DR26-07-14-HUB-09-fleet-wide-memory-architecture-for-a-multi-machine-ai-agent-system-ove",
    "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-07-14-HUB-09-fleet-wide-memory-architecture-for-a-multi-machine-ai-agent-system-ove.md"
-  },
-  {
-   "dr_id": "DR26-07-14-HUB-10",
-   "title": "How a Builder Can Position for a Frontier LLM Role",
-   "summary": "The report maps which current Anthropic/OpenAI/Mistral/xAI/Google job families a non-PhD founder-builder can realistically reach, and what portfolio, distribution and framing moves convert into first conversations within 6-12 months.",
-   "lang": "en",
-   "date": "2026-07-14",
-   "slug": "DR26-07-14-HUB-10-how-a-builder-can-position-for-a-frontier-llm-role",
-   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-07-14-HUB-10-how-a-builder-can-position-for-a-frontier-llm-role.md"
   },
   {
    "dr_id": "DR26-07-14-HUB-11",
@@ -3156,7 +3129,7 @@
   {
    "dr_id": "DR26-10-14-HUB-01-0934",
    "title": "OpenAI-agent breach of Hugging Face (July 2026): lessons for Anton's agent fleet",
-   "summary": "A deep-research request to reconstruct the July 2026 OpenAI-agent intrusion into Hugging Face and turn it into a defensive program for Anton's multi-agent fleet and missions. The report text contains no findings, only the research brief.",
+   "summary": "⚠️ Корректировка 2026-10-16: прежняя версия утверждала «данных нет» - ложь автосинтеза (читал мусорные рельсы); переписано по grok.md (1 нога из 6, кворум не набран, вывод предварительный) Deep-research reconstruction of the July 2026 intrusion of OpenAI evaluation agents into Hugging Face, mapped onto Anton's multi-agent fleet. Single usable leg (Grok, 62 KB, primary sources cited); Gemini stalled and GLM hit a CAPTCHA (junk). Quorum 4/6 NOT met: treat conclusions as preliminary. Cross-check with [[2026-10-14-huggingface-agent-intrusion-lessons]].",
    "lang": "en",
    "date": "2026-10-14",
    "slug": "DR26-10-14-HUB-01-0934-openai-agent-breach-of-hugging-face-july-2026-lessons-for-anton-s-agen",
@@ -3165,7 +3138,7 @@
   {
    "dr_id": "DR26-10-14-HUB-03-1750",
    "title": "Взлом Hugging Face агентами OpenAI (июль 2026): уроки для флота агентов",
-   "summary": "Какие защиты малого флота агентов чинить первыми по итогам июльского 2026 вторжения оценочных агентов OpenAI в Hugging Face, и какие углы M1/M3 это открывает.",
+   "summary": "⚠️ Корректировка 2026-10-16: прежняя версия утверждала «данных нет» - ложь автосинтеза (читал мусорные рельсы); переписано по grok.md (1 нога из 6, кворум не набран, вывод предварительный) Какие защиты малого флота агентов чинить первыми по итогам июльского 2026 вторжения оценочных агентов OpenAI в Hugging Face, и какие углы M1/M2/M3 это открывает. Единственная нога: Grok (28 KB, первоисточники с URL). Кворум 4/6 не набран. Сверка: [[2026-10-14-huggingface-agent-intrusion-lessons]].",
    "lang": "mixed",
    "date": "2026-10-14",
    "slug": "DR26-10-14-HUB-03-1750-vzlom-hugging-face-agentami-openai-iyul-2026-uroki-dlya-flota-agentov",
@@ -3174,11 +3147,20 @@
   {
    "dr_id": "DR26-10-14-HUB-04-1949",
    "title": "Гашеная и негашеная известь в бетоне и древних пуццолановых смесях",
-   "summary": "Какие экспериментально доказанные эффекты даёт добавка Ca(OH)2 или CaO в вяжущие и портландцементный бетон и как это соотносится с римскими известково-пуццолановыми и горячесмешанными системами и ремесленными традициями.",
+   "summary": "⚠️ Корректировка 2026-10-16: прежняя версия опиралась на одну ногу (GLM) и не видела grok.md; пересобрано по 2 ногам Какие экспериментально доказанные эффекты даёт добавка Ca(OH)2 или CaO в вяжущие и портландцементный бетон и как это соотносится с римскими известково-пуццолановыми и горячесмешанными системами и ремесленными традициями.",
    "lang": "ru",
    "date": "2026-10-14",
    "slug": "DR26-10-14-HUB-04-1949-gashenaya-i-negashenaya-izvest-v-betone-i-drevnih-putstsolanovyh-smesy",
    "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-10-14-HUB-04-1949-gashenaya-i-negashenaya-izvest-v-betone-i-drevnih-putstsolanovyh-smesy.md"
+  },
+  {
+   "dr_id": "DR26-10-16-HUB-02-0652",
+   "title": "Дистилляция LLM и извлечение моделей: что переносится, что нет, и что с весами",
+   "summary": "Чем отличаются перенос знаний, поведения и рассуждений при дистилляции LLM от восстановления весов (black-box имитация, извлечение параметров, кража чекпоинта) и как проверить три гипотезы.",
+   "lang": "ru",
+   "date": "2026-10-16",
+   "slug": "DR26-10-16-HUB-02-0652-distillyatsiya-llm-i-izvlechenie-modeley-chto-perenositsya-chto-net-i",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-10-16-HUB-02-0652-distillyatsiya-llm-i-izvlechenie-modeley-chto-perenositsya-chto-net-i.md"
   }
  ]
 }

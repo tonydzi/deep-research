@@ -1,10 +1,11 @@
 # Palo Alto AI Research Lab — deep research corpus
 
-353 distilled deep-research reports. Machine-readable index: index.json
+351 distilled deep-research reports. Machine-readable index: index.json
 Each file: frontmatter (dr_id, title, date, lang) + summary + key findings + recommendations.
 Multi-model methodology: every question fanned out to several frontier models, then reconciled.
 License: CC BY 4.0. Cite as: Palo Alto AI Research Lab, deep research <dr_id>.
 
+- DR26-10-16-HUB-02-0652 (2026-10-16, ru): Дистилляция LLM и извлечение моделей: что переносится, что нет, и что с весами
 - DR26-10-14-HUB-01-0934 (2026-10-14, en): OpenAI-agent breach of Hugging Face (July 2026): lessons for Anton's agent fleet
 - DR26-10-14-HUB-03-1750 (2026-10-14, mixed): Взлом Hugging Face агентами OpenAI (июль 2026): уроки для флота агентов
 - DR26-10-14-HUB-04-1949 (2026-10-14, ru): Гашеная и негашеная известь в бетоне и древних пуццолановых смесях
@@ -169,14 +170,12 @@ License: CC BY 4.0. Cite as: Palo Alto AI Research Lab, deep research <dr_id>.
 - DR26-07-14-HUB-07 (2026-07-14, en): Declarative canon distribution architecture for a heterogeneous multi-machine agent fleet
 - DR26-07-14-HUB-08 (2026-07-14, en): Engineering Communities as a Hiring Asset in the AI Era
 - DR26-07-14-HUB-09 (2026-07-14, en): Fleet-Wide Memory Architecture for a Multi-Machine AI Agent System over Syncthing
-- DR26-07-14-HUB-10 (2026-07-14, en): How a Founder-Builder Can Position for a Frontier LLM Role
 - DR26-07-14-HUB-11 (2026-07-14, en): Improving the Second Brain onboarding pitch for non-technical users
 - DR26-07-14-HUB-12 (2026-07-14, ru): Рынок и поставщики вокруг OpenClaw: сетапы, интеграторы, риски и альтернативы
 - DR26-07-14-HUB-13 (2026-07-14, en): Personal Site Strategy for an AI Builder Targeting Frontier Labs
 - DR26-07-14-HUB-14 (2026-07-14, en): Personal Site Strategy for an AI Builder Targeting Frontier Labs
 - DR26-07-14-HUB-15 (2026-07-14, en): Codex CLI as a live Telegram consensus participant alongside Claude Code
 - DR26-07-14-ZB-01 (2026-07-14, en): Agent-bus архитектура: Telegram+Syncthing vs выделенный транспорт (NATS/JetStream) при рос
-- DR26-07-11-HUB-02 (2026-07-11, en): Reciprocal engineer-community design for a founder's frontier-lab DevRel hire
 - DR26-07-11-HUB-03 (2026-07-11, ru): Безопасность LLM-агентов: исходящие артефакты, промпт-инъекции, хуки, протокол A2A
 - DR26-07-11-HUB-04 (2026-07-11, ru): Безопасность публикации FOR-ROBOTS.md/AGENTS.md и защита флота Claude Code агентов от prom
 - DR26-07-11-MACANTON-01 (2026-07-11, ru): Публичный job-hunt как единое шоу фаундера фонда, метящего в оффер от LLM-компании
@@ -198,7 +197,6 @@ License: CC BY 4.0. Cite as: Palo Alto AI Research Lab, deep research <dr_id>.
 - DR26-07-07-MACB-01 (2026-07-07, mixed): Гигиена, дедуп и перелинковка знаниевого графа 175k заметок (Obsidian+RAG) для AI-двойника
 - DR26-07-07-MACB-03 (2026-07-07, ru): Альтернативы Syncthing для мульти-машинной AI-флотилии: чинить или менять файловую рельсу
 - DR26-07-07-MACB-04 (2026-07-07, ru): ADOPT framework — доказательное тестирование и внедрение внешней альфы (idea→test→trial→im
-- DR26-07-07-MACB-05 (2026-07-07, en): Positioning a founder-builder for a Developer Experience/Applied AI role at a frontier LLM
 - DR26-07-06-HUB-01 (2026-07-06, en): SSH access to Hetzner Ubuntu VPS from Claude Desktop, VS Code, CLI, and phone
 - DR26-07-06-HUB-02 (2026-07-06, ru): Приёмы вовлекающих вставок-вопросов для сериализованного build-in-public дневника (The Jou
 - DR26-07-06-HUB-03 (2026-07-06, en): Telegram as transport rail for a multi-machine autonomous agent fleet: risks, limits, alte
