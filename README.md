@@ -1,6 +1,6 @@
 # Deep Research — Palo Alto AI Research Lab
 
-351 deep-research reports, distilled. Every entry answers two questions: why we ran this research, and what we got out of it.
+353 deep-research reports, distilled. Every entry answers two questions: why we ran this research, and what we got out of it.
 
 Each report was run across several frontier models (ChatGPT, Gemini, Grok, Claude, GLM, Mistral), then reconciled into the distilled note you see here. Findings are the reconciled ones, not a single model's opinion.
 
@@ -20,6 +20,7 @@ Raw model transcripts stay in our vault. What is published here is the distilled
 
 | ID | Topic | Date |
 |---|---|---|
+| [DR26-10-16-HUB-08-2027](research/DR26-10-16-HUB-08-2027-audio-only-always-on-capture-and-transcription-pipeline-on-windows-vs.md) | Audio-only always-on capture and transcription pipeline on Windows (vs Screenpipe) | 2026-10-16 |
 | [DR26-10-14-HUB-01-0934](research/DR26-10-14-HUB-01-0934-openai-agent-breach-of-hugging-face-july-2026-lessons-for-anton-s-agen.md) | OpenAI-agent breach of Hugging Face (July 2026): lessons for Anton's agent fleet | 2026-10-14 |
 | [DR26-10-14-HUB-03-1750](research/DR26-10-14-HUB-03-1750-vzlom-hugging-face-agentami-openai-iyul-2026-uroki-dlya-flota-agentov.md) | Взлом Hugging Face агентами OpenAI (июль 2026): уроки для флота агентов | 2026-10-14 |
 | [DR26-10-05-HUB-03-1620](research/DR26-10-05-HUB-03-1620-perenos-geymifikatsii-duolingo-streak-ligi-xp-uvedomleniya-na-ai-napar.md) | Перенос геймификации Duolingo (streak, лиги, XP, уведомления) на AI-напарницу, толкающую к | 2026-10-05 |
@@ -376,6 +377,7 @@ Raw model transcripts stay in our vault. What is published here is the distilled
 | [DR26-09-23-ZB-02-1231](research/DR26-09-23-ZB-02-1231-inostrannye-ai-compute-kompanii-v-doline-komu-nuzhen-mestnyy-landing-l.md) | Иностранные AI/compute-компании в Долине — кому нужен местный landing lead с комьюнити, и где открытые двери |  |
 | [DR26-10-02-HUB-02-1811](research/DR26-10-02-HUB-02-1811-dr26-10-02-hub-02-github-kak-vtoraya-shina-razdelenie-volta-sobytiynoe.md) | DR26-10-02-HUB-02: GitHub как вторая шина + разделение волта + событийное пробуждение — синтез 4/6 (кворум) |  |
 | [DR26-10-05-HUB-06-2203](research/DR26-10-05-HUB-06-2203-spokoynoe-uverennoe-povedenie-na-konferentsiyah-mitapah-i-hakatonah-ch.md) | Спокойное уверенное поведение на конференциях, митапах и хакатонах — что подтверждено, что опровергнуто |  |
+| [DR26-10-18-HUB-02-0542](research/DR26-10-18-HUB-02-0542-fabrika-podkastov-notebooklm-na-vse-platformy-sintez-dr-18-10-2026.md) | Фабрика подкастов NotebookLM на все платформы (синтез ДР, 18.10.2026) |  |
 
 ---
 

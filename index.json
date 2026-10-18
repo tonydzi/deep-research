@@ -1,6 +1,6 @@
 {
- "generated": "2026-10-17",
- "count": 351,
+ "generated": "2026-10-18",
+ "count": 353,
  "repo": "https://github.com/tonydzi/deep-research",
  "research": [
   {
@@ -515,6 +515,15 @@
    "date": "",
    "slug": "DR26-10-05-HUB-06-2203-spokoynoe-uverennoe-povedenie-na-konferentsiyah-mitapah-i-hakatonah-ch",
    "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-10-05-HUB-06-2203-spokoynoe-uverennoe-povedenie-na-konferentsiyah-mitapah-i-hakatonah-ch.md"
+  },
+  {
+   "dr_id": "DR26-10-18-HUB-02-0542",
+   "title": "Фабрика подкастов NotebookLM на все платформы (синтез ДР, 18.10.2026)",
+   "summary": "Связи: развивает → [[insight-DR-DR26-10-16-HUB-01-0650-stickman-пайплайн-claude-higgsfield-elevenlabs-про]] (визуальный ряд, Higgsfield); смежные ДР: DR26-07-11-ZB-05 (YouTube autopilot), DR26-10-15-HUB-02-1322 (YouTube live). Копия в репо: `docs/dr-reports/DR26-10-18-HUB-02-0542-synthesis.md`.",
+   "lang": "ru",
+   "date": "",
+   "slug": "DR26-10-18-HUB-02-0542-fabrika-podkastov-notebooklm-na-vse-platformy-sintez-dr-18-10-2026",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-10-18-HUB-02-0542-fabrika-podkastov-notebooklm-na-vse-platformy-sintez-dr-18-10-2026.md"
   },
   {
    "dr_id": "DR26-05-01-HUB-01",
@@ -3156,11 +3165,20 @@
   {
    "dr_id": "DR26-10-16-HUB-02-0652",
    "title": "Дистилляция LLM и извлечение моделей: что переносится, что нет, и что с весами",
-   "summary": "Чем отличаются перенос знаний, поведения и рассуждений при дистилляции LLM от восстановления весов (black-box имитация, извлечение параметров, кража чекпоинта) и как проверить три гипотезы.",
+   "summary": "⚠️ Поправка dr-judge 2026-10-17: выводы совпадают с grok и gemini, но заметка пропустила ногу grok (75KB): открытые вопросы закрыты там (Gudibande, Anthropic distillation attacks 16M обменов, CISA AA26-251A). См. [[_DR-Registry]]. Чем отличаются перенос знаний, поведения и рассуждений при дистилляции LLM от восстановления весов (black-box имитация, извлечение параметров, кража чекпоинта) и как проверить три гипотезы.",
    "lang": "ru",
    "date": "2026-10-16",
    "slug": "DR26-10-16-HUB-02-0652-distillyatsiya-llm-i-izvlechenie-modeley-chto-perenositsya-chto-net-i",
    "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-10-16-HUB-02-0652-distillyatsiya-llm-i-izvlechenie-modeley-chto-perenositsya-chto-net-i.md"
+  },
+  {
+   "dr_id": "DR26-10-16-HUB-08-2027",
+   "title": "Audio-only always-on capture and transcription pipeline on Windows (vs Screenpipe)",
+   "summary": "The report is a research brief, not findings. It asks whether always-on audio-only capture, ASR and diarization on Windows is best done with Screenpipe set to audio-only, a mature standalone open-source product, or a minimal modular recorder with a durable queue.",
+   "lang": "en",
+   "date": "2026-10-16",
+   "slug": "DR26-10-16-HUB-08-2027-audio-only-always-on-capture-and-transcription-pipeline-on-windows-vs",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-10-16-HUB-08-2027-audio-only-always-on-capture-and-transcription-pipeline-on-windows-vs.md"
   }
  ]
 }

@@ -1,11 +1,12 @@
 # Palo Alto AI Research Lab — deep research corpus
 
-351 distilled deep-research reports. Machine-readable index: index.json
+353 distilled deep-research reports. Machine-readable index: index.json
 Each file: frontmatter (dr_id, title, date, lang) + summary + key findings + recommendations.
 Multi-model methodology: every question fanned out to several frontier models, then reconciled.
 License: CC BY 4.0. Cite as: Palo Alto AI Research Lab, deep research <dr_id>.
 
 - DR26-10-16-HUB-02-0652 (2026-10-16, ru): Дистилляция LLM и извлечение моделей: что переносится, что нет, и что с весами
+- DR26-10-16-HUB-08-2027 (2026-10-16, en): Audio-only always-on capture and transcription pipeline on Windows (vs Screenpipe)
 - DR26-10-14-HUB-01-0934 (2026-10-14, en): OpenAI-agent breach of Hugging Face (July 2026): lessons for Anton's agent fleet
 - DR26-10-14-HUB-03-1750 (2026-10-14, mixed): Взлом Hugging Face агентами OpenAI (июль 2026): уроки для флота агентов
 - DR26-10-14-HUB-04-1949 (2026-10-14, ru): Гашеная и негашеная известь в бетоне и древних пуццолановых смесях
@@ -356,3 +357,4 @@ License: CC BY 4.0. Cite as: Palo Alto AI Research Lab, deep research <dr_id>.
 - DR26-09-23-ZB-02-1231 (, ru): Иностранные AI/compute-компании в Долине — кому нужен местный landing lead с комьюнити, и где открытые двери
 - DR26-10-02-HUB-02-1811 (, ru): DR26-10-02-HUB-02: GitHub как вторая шина + разделение волта + событийное пробуждение — синтез 4/6 (кворум)
 - DR26-10-05-HUB-06-2203 (, ru): Спокойное уверенное поведение на конференциях, митапах и хакатонах — что подтверждено, что опровергнуто
+- DR26-10-18-HUB-02-0542 (, ru): Фабрика подкастов NotebookLM на все платформы (синтез ДР, 18.10.2026)
