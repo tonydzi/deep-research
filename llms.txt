@@ -1,10 +1,11 @@
 # Palo Alto AI Research Lab — deep research corpus
 
-353 distilled deep-research reports. Machine-readable index: index.json
+354 distilled deep-research reports. Machine-readable index: index.json
 Each file: frontmatter (dr_id, title, date, lang) + summary + key findings + recommendations.
 Multi-model methodology: every question fanned out to several frontier models, then reconciled.
 License: CC BY 4.0. Cite as: Palo Alto AI Research Lab, deep research <dr_id>.
 
+- DR26-10-18-HUB-12-1034 (2026-10-18, ru): Публичные CLAUDE.md/AGENTS.md: площадки, паттерны и безопасная публикация
 - DR26-10-16-HUB-02-0652 (2026-10-16, ru): Дистилляция LLM и извлечение моделей: что переносится, что нет, и что с весами
 - DR26-10-16-HUB-08-2027 (2026-10-16, en): Audio-only always-on capture and transcription pipeline on Windows (vs Screenpipe)
 - DR26-10-14-HUB-01-0934 (2026-10-14, en): OpenAI-agent breach of Hugging Face (July 2026): lessons for Anton's agent fleet

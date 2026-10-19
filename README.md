@@ -1,6 +1,6 @@
 # Deep Research — Palo Alto AI Research Lab
 
-353 deep-research reports, distilled. Every entry answers two questions: why we ran this research, and what we got out of it.
+354 deep-research reports, distilled. Every entry answers two questions: why we ran this research, and what we got out of it.
 
 Each report was run across several frontier models (ChatGPT, Gemini, Grok, Claude, GLM, Mistral), then reconciled into the distilled note you see here. Findings are the reconciled ones, not a single model's opinion.
 
@@ -180,6 +180,7 @@ Raw model transcripts stay in our vault. What is published here is the distilled
 
 | ID | Тема | Дата |
 |---|---|---|
+| [DR26-10-18-HUB-12-1034](research/DR26-10-18-HUB-12-1034-publichnye-claude-md-agents-md-ploschadki-patterny-i-bezopasnaya-publi.md) | Публичные CLAUDE.md/AGENTS.md: площадки, паттерны и безопасная публикация | 2026-10-18 |
 | [DR26-10-16-HUB-02-0652](research/DR26-10-16-HUB-02-0652-distillyatsiya-llm-i-izvlechenie-modeley-chto-perenositsya-chto-net-i.md) | Дистилляция LLM и извлечение моделей: что переносится, что нет, и что с весами | 2026-10-16 |
 | [DR26-10-14-HUB-04-1949](research/DR26-10-14-HUB-04-1949-gashenaya-i-negashenaya-izvest-v-betone-i-drevnih-putstsolanovyh-smesy.md) | Гашеная и негашеная известь в бетоне и древних пуццолановых смесях | 2026-10-14 |
 | [DR26-10-11-HUB-01-0535](research/DR26-10-11-HUB-01-0535-desktop-multi-harness-ade-dlya-windows-haba-emdash-kanareykoy-orca-net.md) | desktop multi-harness ADE для Windows-хаба: Emdash канарейкой, Orca нет, bb не трогаем | 2026-10-11 |

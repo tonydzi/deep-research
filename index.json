@@ -1,6 +1,6 @@
 {
- "generated": "2026-10-18",
- "count": 353,
+ "generated": "2026-10-19",
+ "count": 354,
  "repo": "https://github.com/tonydzi/deep-research",
  "research": [
   {
@@ -3179,6 +3179,15 @@
    "date": "2026-10-16",
    "slug": "DR26-10-16-HUB-08-2027-audio-only-always-on-capture-and-transcription-pipeline-on-windows-vs",
    "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-10-16-HUB-08-2027-audio-only-always-on-capture-and-transcription-pipeline-on-windows-vs.md"
+  },
+  {
+   "dr_id": "DR26-10-18-HUB-12-1034",
+   "title": "Публичные CLAUDE.md/AGENTS.md: площадки, паттерны и безопасная публикация",
+   "summary": "Где владельцы публикуют файлы инструкций для агентов, какие паттерны в них работают и как безопасно опубликовать очищенную версию наших правил с проверяемой канарейкой.",
+   "lang": "ru",
+   "date": "2026-10-18",
+   "slug": "DR26-10-18-HUB-12-1034-publichnye-claude-md-agents-md-ploschadki-patterny-i-bezopasnaya-publi",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-10-18-HUB-12-1034-publichnye-claude-md-agents-md-ploschadki-patterny-i-bezopasnaya-publi.md"
   }
  ]
 }
