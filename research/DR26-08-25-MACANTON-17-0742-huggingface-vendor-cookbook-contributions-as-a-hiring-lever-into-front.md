@@ -58,3 +58,10 @@ source: Palo Alto AI Research Lab — deep research programme
 - fixed-it-share-it-with-the-world
 - engineer-acquisition-enrichment-not-scraping
 - zametnost-v-top-10-llm-issue-matching
+
+## 🤔 Факт-линт (dr_fact_lint)
+<!-- авто-секция dr_fact_lint.py: перезаписывается при каждом прогоне, при разборе вырезается -->
+Проверено 2026-10-19 через gh: 3 ссылок · ✅ 0 · ⚠️ 1 · ❓ 0 · ⚪ 0 · 🤷 2.
+- ⚠️ MISMATCH `huggingface/smolagents#2656` — реально: «[BUG] AgentImage inverts pixel values when built from a tensor (255 - array * 255)» (open issue, 2026-08-18; overlap 0.00); в тексте: «- smolagents issue #2656 (opened 2026-08-18, governance/policy hooks around execution) is » → 🤔 не подтверждено, в рекомендации не идёт.
+- 🤷 cited-only `huggingface/cookbook#303` — реально: «Contribution to Hugging Face 🤗 cookbook: Add a search agent cookbook»; в тексте только ссылка без описания сути («- P0: Get HF Cookbook PR #303 merged with excellent execution (no scop») → не судим (ни ✅, ни ⚠️).
+- 🤷 cited-only `QwenLM/Qwen-Agent#927` — реально: «feat(examples): RAG with verifiable citations for the Assistant»; в тексте только ссылка без описания сути («- **Продукты/инструменты:** huggingface/cookbook, smolagents, lighteva») → не судим (ни ✅, ни ⚠️).

@@ -10,7 +10,7 @@ source: Palo Alto AI Research Lab — deep research programme
 
 > ⛔ SUPERSEDED 2026-09-04 → канон insight-DR-DR26-08-25-MACANTON-17-0742-huggingface-vendor-cookbook-contributions-as-a-hir (тот же ChatGPT-чат, полное тело). Decision Memo ниже остаётся как компаньон. ⚠️ В 0742 цель «smolagents #2656 = governance hooks» — фабрикация DR (реальный #2656 = баг AgentImage inverts pixels); в работу НЕ брать.
 
-Источник: ChatGPT Pro Deep Research (14 мин, 31 источник, 239 поисков), оригинал → DR26-07-23-MACANTON-01-1118-hf-hiring-lever-chatgpt. Вендорный веер (Grok/Gemini/codex) не сработал — база пока 1 вендор.
+Источник: ChatGPT Pro Deep Research (14 мин, 31 источник, 239 поисков), оригинал `_originals/deep-research/DR26-07-23-MACANTON-01-1118-hf-hiring-lever-chatgpt.md` — по канону 24.08 перенесён в архив ХАБА (хаб), на пире его нет штатно: `_originals/_RECONCILE-LEDGER.md` строки 6170–6171, тип `A`, sha `11abb78ad1fe`. Вендорный веер (Grok/Gemini/codex) не сработал — база пока 1 вендор.
 
 ## TL;DR
 Не «россыпь публичных артефактов», а **компактная само-усиливающаяся цепочка вокруг ОДНОЙ технической идеи, легибельная сразу на нескольких поверхностях внутри единого identity-графа HF**: merged-код у мейнтейнера → воспроизводимый бенчмарк/датасет → интерактивное демо (Space) → техническое объяснение (blog/Post) → повторное касание ТЕХ ЖЕ мейнтейнеров → таргетированная заявка на роль. Cookbook-мерж знакомит с нужными 2-3 людьми; library-PR заставляет отнестись к инженерии всерьёз; принятый бенчмарк даёт другим лабам повод. Найм рождается из СВЯЗЫВАНИЯ этих трёх + низкофрикционного «routing ask», а не из ожидания, что рекрутёр найдёт звёзды.

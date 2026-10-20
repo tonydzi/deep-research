@@ -1,6 +1,6 @@
 {
- "generated": "2026-10-19",
- "count": 354,
+ "generated": "2026-10-20",
+ "count": 355,
  "repo": "https://github.com/tonydzi/deep-research",
  "research": [
   {
@@ -3188,6 +3188,15 @@
    "date": "2026-10-18",
    "slug": "DR26-10-18-HUB-12-1034-publichnye-claude-md-agents-md-ploschadki-patterny-i-bezopasnaya-publi",
    "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-10-18-HUB-12-1034-publichnye-claude-md-agents-md-ploschadki-patterny-i-bezopasnaya-publi.md"
+  },
+  {
+   "dr_id": "DR26-10-19-MACANTON-01-0501",
+   "title": "sqlite-graph-memory, путь от 100 к 10 000 установок в неделю",
+   "summary": "Три из четырёх ног независимо говорят одно: **верифицированного случая «меньше 100 звёзд и меньше 500 в неделю, потом 10 000+» нет ни одного**. Пакеты, которые дошли до 10k, ехали на чужой дистрибуции (документация других продуктов, официальный SDK, плагин-поток Claude Code, компания за спиной). Для нас реалистичная веха на 30 дней: **1 000 «настоящих» (без зеркал, без CI) в неделю, а не 10 000**.",
+   "lang": "ru",
+   "date": "2026-10-19",
+   "slug": "DR26-10-19-MACANTON-01-0501-sqlite-graph-memory-put-ot-100-k-10-000-ustanovok-v-nedelyu",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-10-19-MACANTON-01-0501-sqlite-graph-memory-put-ot-100-k-10-000-ustanovok-v-nedelyu.md"
   }
  ]
 }
