@@ -1,6 +1,6 @@
 # Deep Research — Palo Alto AI Research Lab
 
-355 deep-research reports, distilled. Every entry answers two questions: why we ran this research, and what we got out of it.
+358 deep-research reports, distilled. Every entry answers two questions: why we ran this research, and what we got out of it.
 
 Each report was run across several frontier models (ChatGPT, Gemini, Grok, Claude, GLM, Mistral), then reconciled into the distilled note you see here. Findings are the reconciled ones, not a single model's opinion.
 
@@ -20,6 +20,7 @@ Raw model transcripts stay in our vault. What is published here is the distilled
 
 | ID | Topic | Date |
 |---|---|---|
+| [DR26-10-20-HUB-03-2232](research/DR26-10-20-HUB-03-2232-remontoprigodnaya-sloistaya-pamyat-sessiy-inkrementalnaya-indeksatsiya.md) | Ремонтопригодная слоистая память сессий: инкрементальная индексация, релинкинг, оценка | 2026-10-20 |
 | [DR26-10-16-HUB-08-2027](research/DR26-10-16-HUB-08-2027-audio-only-always-on-capture-and-transcription-pipeline-on-windows-vs.md) | Audio-only always-on capture and transcription pipeline on Windows (vs Screenpipe) | 2026-10-16 |
 | [DR26-10-14-HUB-01-0934](research/DR26-10-14-HUB-01-0934-openai-agent-breach-of-hugging-face-july-2026-lessons-for-anton-s-agen.md) | OpenAI-agent breach of Hugging Face (July 2026): lessons for Anton's agent fleet | 2026-10-14 |
 | [DR26-10-14-HUB-03-1750](research/DR26-10-14-HUB-03-1750-vzlom-hugging-face-agentami-openai-iyul-2026-uroki-dlya-flota-agentov.md) | Взлом Hugging Face агентами OpenAI (июль 2026): уроки для флота агентов | 2026-10-14 |
@@ -180,6 +181,8 @@ Raw model transcripts stay in our vault. What is published here is the distilled
 
 | ID | Тема | Дата |
 |---|---|---|
+| [DR26-10-19-MACPRO192-03-1044](research/DR26-10-19-MACPRO192-03-1044-dr-odna-sessiya-agenta-na-neskolko-kompyuterov-i-lyudey-sintez-4-nog.md) | ДР: одна сессия агента на несколько компьютеров и людей (синтез 4 ног) | 2026-10-20 |
+| [DR26-10-19-HUB-05-2154](research/DR26-10-19-HUB-05-2154-kak-llm-servis-obsluzhivaet-mnogo-polzovateley-filtruet-vrednye-zapros.md) | Как LLM-сервис обслуживает много пользователей, фильтрует вредные запросы и хранит контекс | 2026-10-19 |
 | [DR26-10-19-MACANTON-01-0501](research/DR26-10-19-MACANTON-01-0501-sqlite-graph-memory-put-ot-100-k-10-000-ustanovok-v-nedelyu.md) | sqlite-graph-memory, путь от 100 к 10 000 установок в неделю | 2026-10-19 |
 | [DR26-10-18-HUB-12-1034](research/DR26-10-18-HUB-12-1034-publichnye-claude-md-agents-md-ploschadki-patterny-i-bezopasnaya-publi.md) | Публичные CLAUDE.md/AGENTS.md: площадки, паттерны и безопасная публикация | 2026-10-18 |
 | [DR26-10-16-HUB-02-0652](research/DR26-10-16-HUB-02-0652-distillyatsiya-llm-i-izvlechenie-modeley-chto-perenositsya-chto-net-i.md) | Дистилляция LLM и извлечение моделей: что переносится, что нет, и что с весами | 2026-10-16 |

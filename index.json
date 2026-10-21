@@ -1,6 +1,6 @@
 {
- "generated": "2026-10-20",
- "count": 355,
+ "generated": "2026-10-21",
+ "count": 358,
  "repo": "https://github.com/tonydzi/deep-research",
  "research": [
   {
@@ -3190,6 +3190,15 @@
    "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-10-18-HUB-12-1034-publichnye-claude-md-agents-md-ploschadki-patterny-i-bezopasnaya-publi.md"
   },
   {
+   "dr_id": "DR26-10-19-HUB-05-2154",
+   "title": "Как LLM-сервис обслуживает много пользователей, фильтрует вредные запросы и хранит контекс",
+   "summary": "Исследование должно было ответить, как продакшн-LLM-сервис обслуживает тысячи пользователей на одних весах, защищается от вредных запросов и устроен ли контекст и память чата. В файле лежит только постановка задачи, ответов вендоров в нём нет.",
+   "lang": "ru",
+   "date": "2026-10-19",
+   "slug": "DR26-10-19-HUB-05-2154-kak-llm-servis-obsluzhivaet-mnogo-polzovateley-filtruet-vrednye-zapros",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-10-19-HUB-05-2154-kak-llm-servis-obsluzhivaet-mnogo-polzovateley-filtruet-vrednye-zapros.md"
+  },
+  {
    "dr_id": "DR26-10-19-MACANTON-01-0501",
    "title": "sqlite-graph-memory, путь от 100 к 10 000 установок в неделю",
    "summary": "Три из четырёх ног независимо говорят одно: **верифицированного случая «меньше 100 звёзд и меньше 500 в неделю, потом 10 000+» нет ни одного**. Пакеты, которые дошли до 10k, ехали на чужой дистрибуции (документация других продуктов, официальный SDK, плагин-поток Claude Code, компания за спиной). Для нас реалистичная веха на 30 дней: **1 000 «настоящих» (без зеркал, без CI) в неделю, а не 10 000**.",
@@ -3197,6 +3206,24 @@
    "date": "2026-10-19",
    "slug": "DR26-10-19-MACANTON-01-0501-sqlite-graph-memory-put-ot-100-k-10-000-ustanovok-v-nedelyu",
    "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-10-19-MACANTON-01-0501-sqlite-graph-memory-put-ot-100-k-10-000-ustanovok-v-nedelyu.md"
+  },
+  {
+   "dr_id": "DR26-10-19-MACPRO192-03-1044",
+   "title": "ДР: одна сессия агента на несколько компьютеров и людей (синтез 4 ног)",
+   "summary": "Machine: MacPro192 · Agent: Claude Code (claude-opus-5-5) · Operator: Anton · 2026-10-20",
+   "lang": "ru",
+   "date": "2026-10-20",
+   "slug": "DR26-10-19-MACPRO192-03-1044-dr-odna-sessiya-agenta-na-neskolko-kompyuterov-i-lyudey-sintez-4-nog",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-10-19-MACPRO192-03-1044-dr-odna-sessiya-agenta-na-neskolko-kompyuterov-i-lyudey-sintez-4-nog.md"
+  },
+  {
+   "dr_id": "DR26-10-20-HUB-03-2232",
+   "title": "Ремонтопригодная слоистая память сессий: инкрементальная индексация, релинкинг, оценка",
+   "summary": "Какую минимальную ремонтопригодную архитектуру слоистой памяти сессий (захват, дистилляция, релинкинг, инкрементальный индекс, поиск, оценка) выбрать для личного второго мозга, чтобы не пересчитывать всё в фоне.",
+   "lang": "mixed",
+   "date": "2026-10-20",
+   "slug": "DR26-10-20-HUB-03-2232-remontoprigodnaya-sloistaya-pamyat-sessiy-inkrementalnaya-indeksatsiya",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-10-20-HUB-03-2232-remontoprigodnaya-sloistaya-pamyat-sessiy-inkrementalnaya-indeksatsiya.md"
   }
  ]
 }
