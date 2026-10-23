@@ -1,6 +1,6 @@
 # Deep Research — Palo Alto AI Research Lab
 
-358 deep-research reports, distilled. Every entry answers two questions: why we ran this research, and what we got out of it.
+359 deep-research reports, distilled. Every entry answers two questions: why we ran this research, and what we got out of it.
 
 Each report was run across several frontier models (ChatGPT, Gemini, Grok, Claude, GLM, Mistral), then reconciled into the distilled note you see here. Findings are the reconciled ones, not a single model's opinion.
 
@@ -20,6 +20,7 @@ Raw model transcripts stay in our vault. What is published here is the distilled
 
 | ID | Topic | Date |
 |---|---|---|
+| [DR26-10-22-ZB-01-2030](research/DR26-10-22-ZB-01-2030-handwriting-mechanics-of-successful-ai-builder-x-accounts-for-short-pa.md) | Handwriting mechanics of successful AI-builder X accounts for short pain posts | 2026-10-22 |
 | [DR26-10-20-HUB-03-2232](research/DR26-10-20-HUB-03-2232-remontoprigodnaya-sloistaya-pamyat-sessiy-inkrementalnaya-indeksatsiya.md) | Ремонтопригодная слоистая память сессий: инкрементальная индексация, релинкинг, оценка | 2026-10-20 |
 | [DR26-10-16-HUB-08-2027](research/DR26-10-16-HUB-08-2027-audio-only-always-on-capture-and-transcription-pipeline-on-windows-vs.md) | Audio-only always-on capture and transcription pipeline on Windows (vs Screenpipe) | 2026-10-16 |
 | [DR26-10-14-HUB-01-0934](research/DR26-10-14-HUB-01-0934-openai-agent-breach-of-hugging-face-july-2026-lessons-for-anton-s-agen.md) | OpenAI-agent breach of Hugging Face (July 2026): lessons for Anton's agent fleet | 2026-10-14 |

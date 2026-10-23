@@ -1,10 +1,11 @@
 # Palo Alto AI Research Lab — deep research corpus
 
-358 distilled deep-research reports. Machine-readable index: index.json
+359 distilled deep-research reports. Machine-readable index: index.json
 Each file: frontmatter (dr_id, title, date, lang) + summary + key findings + recommendations.
 Multi-model methodology: every question fanned out to several frontier models, then reconciled.
 License: CC BY 4.0. Cite as: Palo Alto AI Research Lab, deep research <dr_id>.
 
+- DR26-10-22-ZB-01-2030 (2026-10-22, en): Handwriting mechanics of successful AI-builder X accounts for short pain posts
 - DR26-10-19-MACPRO192-03-1044 (2026-10-20, ru): ДР: одна сессия агента на несколько компьютеров и людей (синтез 4 ног)
 - DR26-10-20-HUB-03-2232 (2026-10-20, mixed): Ремонтопригодная слоистая память сессий: инкрементальная индексация, релинкинг, оценка
 - DR26-10-19-HUB-05-2154 (2026-10-19, ru): Как LLM-сервис обслуживает много пользователей, фильтрует вредные запросы и хранит контекс

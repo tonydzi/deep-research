@@ -1,6 +1,6 @@
 {
- "generated": "2026-10-22",
- "count": 358,
+ "generated": "2026-10-23",
+ "count": 359,
  "repo": "https://github.com/tonydzi/deep-research",
  "research": [
   {
@@ -3224,6 +3224,15 @@
    "date": "2026-10-20",
    "slug": "DR26-10-20-HUB-03-2232-remontoprigodnaya-sloistaya-pamyat-sessiy-inkrementalnaya-indeksatsiya",
    "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-10-20-HUB-03-2232-remontoprigodnaya-sloistaya-pamyat-sessiy-inkrementalnaya-indeksatsiya.md"
+  },
+  {
+   "dr_id": "DR26-10-22-ZB-01-2030",
+   "title": "Handwriting mechanics of successful AI-builder X accounts for short pain posts",
+   "summary": "What writing mechanics and which accounts make short failure/pain posts perform on X in the AI-builder niche (2025-2026), with a few-shot corpus and a system-prompt recipe for daily lab posts.",
+   "lang": "en",
+   "date": "2026-10-22",
+   "slug": "DR26-10-22-ZB-01-2030-handwriting-mechanics-of-successful-ai-builder-x-accounts-for-short-pa",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-10-22-ZB-01-2030-handwriting-mechanics-of-successful-ai-builder-x-accounts-for-short-pa.md"
   }
  ]
 }
