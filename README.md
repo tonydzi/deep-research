@@ -1,6 +1,6 @@
 # Deep Research — Palo Alto AI Research Lab
 
-347 deep-research reports, distilled. Every entry answers two questions: why we ran this research, and what we got out of it.
+358 deep-research reports, distilled. Every entry answers two questions: why we ran this research, and what we got out of it.
 
 Each report was run across several frontier models (ChatGPT, Gemini, Grok, Claude, GLM, Mistral), then reconciled into the distilled note you see here. Findings are the reconciled ones, not a single model's opinion.
 
@@ -61,6 +61,7 @@ Raw model transcripts stay in our vault. What is published here is the distilled
 | [DR26-07-28-HUB-17-2339](research/DR26-07-28-HUB-17-2339-safety-action-gate-architecture-for-a-solo-operator-multi-agent-stack.md) | Safety action-gate architecture for a solo-operator multi-agent stack (MCP + non-MCP) | 2026-07-28 |
 | [DR26-07-28-HUB-18-2339](research/DR26-07-28-HUB-18-2339-sota-architecture-for-shared-local-first-agent-memory-across-claude-co.md) | SOTA architecture for shared, local-first agent memory across Claude Code, Codex, Gemini C | 2026-07-28 |
 | [DR26-07-28-HUB-19-2339](research/DR26-07-28-HUB-19-2339-durable-structured-failure-negative-knowledge-memory-architecture-for.md) | Durable structured failure/negative-knowledge memory architecture for coding agents | 2026-07-28 |
+| [DR26-07-28-HUB-20-2339](research/DR26-07-28-HUB-20-2339-fallback-architecture-for-a-subscription-only-always-on-claude-agent-h.md) | Fallback architecture for a subscription-only always-on Claude agent hitting rate limits | 2026-07-28 |
 | [DR26-07-28-HUB-21-2339](research/DR26-07-28-HUB-21-2339-persistent-structural-code-memory-for-coding-agents-symbol-call-graph.md) | Persistent structural code memory for coding agents (symbol/call graph, blast-radius analy | 2026-07-28 |
 | [DR26-07-28-HUB-22-2339](research/DR26-07-28-HUB-22-2339-voice-to-content-editorial-systems-achieving-near-100-conversion-witho.md) | Voice-to-content editorial systems achieving near-100% conversion without losing author vo | 2026-07-28 |
 | [DR26-07-21-HUB-02-2124](research/DR26-07-21-HUB-02-2124-grok-heavy-as-a-deep-research-engine-architecture-prompting-limits-ris.md) | Grok Heavy as a Deep Research engine: architecture, prompting, limits, risks | 2026-07-21 |
@@ -148,6 +149,7 @@ Raw model transcripts stay in our vault. What is published here is the distilled
 | [DR26-07-01-ZB-01](research/DR26-07-01-ZB-01-sota-architecture-for-a-unified-local-first-second-brain-memory-shared.md) | SOTA architecture for a unified local-first second-brain memory shared across Claude Code, | 2026-07-01 |
 | [DR26-07-01-ZB-02](research/DR26-07-01-ZB-02-persistent-structural-code-memory-symbol-call-graph-blast-radius-for-c.md) | Persistent structural code memory (symbol/call-graph, blast-radius) for coding agents like | 2026-07-01 |
 | [DR26-07-01-ZB-03](research/DR26-07-01-ZB-03-architecture-for-a-safety-action-gate-layer-over-a-personal-multi-agen.md) | Architecture for a safety/action-gate layer over a personal multi-agent setup (MCP gateway | 2026-07-01 |
+| [DR26-07-01-ZB-05](research/DR26-07-01-ZB-05-arhitektura-folbeka-modeley-dlya-always-on-agenta-na-podpiske-claude-m.md) | Архитектура фолбэка моделей для always-on агента на подписке (Claude Max/Weekly) без случа | 2026-07-01 |
 | [DR26-06-30-HUB-01](research/DR26-06-30-HUB-01-generative-engine-optimization-geo-platform-citability-llms-txt-conten.md) | Generative Engine Optimization (GEO) — platform citability, llms.txt, content structure, G | 2026-06-30 |
 | [DR26-06-29-LEG-01](research/DR26-06-29-LEG-01-cross-vendor-llm-agent-collaboration-on-a-shared-markdown-vault-rules.md) | Cross-vendor LLM agent collaboration on a shared markdown vault (rules, consensus, concurr | 2026-06-29 |
 | [DR26-06-29-LEG-02](research/DR26-06-29-LEG-02-architecting-multi-vendor-llm-collaboration-claude-code-codex-antigrav.md) | Architecting multi-vendor LLM collaboration (Claude Code, Codex, Antigravity, Grok) over a | 2026-06-29 |
@@ -191,6 +193,7 @@ Raw model transcripts stay in our vault. What is published here is the distilled
 | [DR26-10-07-HUB-04-1222](research/DR26-10-07-HUB-04-1222-n8n-kak-orkestrator-parallelnogo-deep-research-parallelizm-dolgie-vyzo.md) | n8n как оркестратор параллельного Deep Research: параллелизм, долгие вызовы, кворум | 2026-10-07 |
 | [DR26-10-07-HUB-07-1720](research/DR26-10-07-HUB-07-1720-chto-takoe-red-test-probe-prompt-body-zond-telo-prompta-i-krasnyy-test.md) | Что такое «red-test probe prompt body»: зонд, тело промпта и красный тест в LLM red-teamin | 2026-10-07 |
 | [DR26-10-07-MACANTON-02-1738](research/DR26-10-07-MACANTON-02-1738-kanaly-pervyh-100-polzovateley-malogo-oss-primitiva-dlya-llm-agentov-2.md) | Каналы первых 100 пользователей малого OSS-примитива для LLM-агентов (2025–2026) | 2026-10-07 |
+| [DR26-10-03-HUB-01-0323](research/DR26-10-03-HUB-01-0323-bb-vs-hermes-agent-vs-openclaw-vybor-ezhednevnogo-multiagentnogo-kokpi.md) | bb vs Hermes Agent vs OpenClaw — выбор ежедневного мультиагентного кокпита на Windows+WSL | 2026-10-03 |
 | [DR26-10-03-ZB-01-0157](research/DR26-10-03-ZB-01-0157-ats-2026-kak-realno-prohodyat-filtry-nayma-v-ai-laboratoriyah.md) | ATS 2026: как реально проходят фильтры найма в AI-лабораториях | 2026-10-03 |
 | [DR26-10-01-MACANTON-01-0726](research/DR26-10-01-MACANTON-01-0726-matching-oss-vklada-s-offerami-v-ii-laboratoriyah-vostok-dver-vs-zapad.md) | Матчинг OSS-вклада с офферами в ИИ-лабораториях: восток-дверь vs запад-просьба | 2026-10-01 |
 | [DR26-09-29-HUB-01-0839](research/DR26-09-29-HUB-01-0839-bb-get-bb-kak-orkestrator-multi-agentnogo-flota-patterny-ispolzovaniya.md) | bb (get-bb) как оркестратор мульти-агентного флота: паттерны использования и интерфейсы | 2026-09-29 |
@@ -246,10 +249,12 @@ Raw model transcripts stay in our vault. What is published here is the distilled
 | [DR26-08-14-MACANTON-01-2117](research/DR26-08-14-MACANTON-01-2117-brauzernaya-i-ekrannaya-relsa-dlya-mac16-i-flota-grabli-agentnyh-brauz.md) | браузерная и экранная рельса для Mac16 и флота — грабли агентных браузеров и экранного контроля | 2026-08-14 |
 | [DR26-08-10-MACANTON-01-1154](research/DR26-08-10-MACANTON-01-1154-perplexity-kak-sedmaya-dr-relsa-rabotaet-tolko-pryamoy-api-i-on-platny.md) | Perplexity как седьмая DR-рельса — работает только прямой API, и он платный отдельно от подписки | 2026-08-12 |
 | [DR26-08-04-ZB-14-2214](research/DR26-08-04-ZB-14-2214-geyt-po-intent-s-ogranichennym-fan-control.md) | гейт по intent с ограниченным fan-control | 2026-08-10 |
+| [DR26-08-06-HUB-03-1725](research/DR26-08-06-HUB-03-1725-cli-reuse-luchshaya-iz-seryh-zon-ne-zelenaya-ostatok-baka-mashinno-chi.md) | CLI-reuse — лучшая из СЕРЫХ зон, не зелёная; остаток бака машинно читается только у Codex | 2026-08-10 |
 | [DR26-08-10-HUB-01-1449](research/DR26-08-10-HUB-01-1449-onlayn-platformy-registratsii-501-c-3-foundation-group-core-kaliforniy.md) | онлайн-платформы регистрации 501(c)(3) — Foundation Group Core, Калифорния остаётся, HCB закрылся для взрослых | 2026-08-10 |
 | [DR26-08-05-ZB-03-1621](research/DR26-08-05-ZB-03-1621-dr26-08-05-zb-03-sintez-neyming-laboratorii-qqq-otbit-tretiy-put-neolo.md) | DR26-08-05-ZB-03 Синтез: нейминг лаборатории — QQQ отбит, третий путь = неологизм | 2026-08-06 |
 | [DR26-08-06-HUB-01-1055](research/DR26-08-06-HUB-01-1055-dr26-08-06-hub-01-1055-triz-chto-brat-chto-otkazat-i-gde-ona-pryamo-pr.md) | DR26-08-06-HUB-01-1055 — ТРИЗ: что брать, что отказать, и где она прямо противоречит АК-47 | 2026-08-06 |
 | [DR26-08-06-HUB-02-1055](research/DR26-08-06-HUB-02-1055-dr26-08-06-hub-02-1055-5-pochemu-po-serii-chto-podtverdilos-v-nashem-t.md) | DR26-08-06-HUB-02-1055 — «5 почему» по серии: что подтвердилось в нашем ТЗ и две дыры, которых там не было | 2026-08-06 |
+| [DR26-08-06-ZB-01-0934](research/DR26-08-06-ZB-01-0934-dr26-08-06-zb-01-0934-dev-to-golos-mehanika-granitsa-samopiara-i-geo-t.md) | DR26-08-06-ZB-01-0934 — dev.to: голос, механика, граница самопиара и GEO-цитируемость | 2026-08-06 |
 | [DR26-08-05-HUB-02-2156](research/DR26-08-05-HUB-02-2156-fb-graph-api-svoi-posty-s-lichnogo-profilya-chitayutsya-legalno-i-bez.md) | FB Graph API — свои посты с личного профиля читаются легально и без браузера, App Review не нужен | 2026-08-05 |
 | [DR26-08-04-ZB-01-1437](research/DR26-08-04-ZB-01-1437-dr26-08-04-zb-01-1437-sintez-kitayskie-llm-kak-4-ya-para-glaz-ryadom-s.md) | DR26-08-04-ZB-01-1437 — синтез: китайские LLM как 4-я пара глаз рядом с Grok и Gemini | 2026-08-04 |
 | [DR26-08-04-ZB-13-2207](research/DR26-08-04-ZB-13-2207-brauzernye-mcp-servery-sverh-firefox-karta-agentskih-dverey-avg-2026.md) | Браузерные MCP-серверы сверх Firefox: карта агентских дверей (авг. 2026) | 2026-08-04 |
@@ -311,6 +316,8 @@ Raw model transcripts stay in our vault. What is published here is the distilled
 | [DR26-06-26-HUB-02](research/DR26-06-26-HUB-02-katalog-ai-servisov-dlya-monetizatsii-domashnih-gpu-2x-rtx-3090-v-2026.md) | Каталог AI-сервисов для монетизации домашних GPU (2x RTX 3090) в 2026 | 2026-06-26 |
 | [DR26-06-26-HUB-03](research/DR26-06-26-HUB-03-sravnenie-kanalov-svyazi-i-nadezhnost-mezhagentnoy-kommunikatsii-mezhd.md) | Сравнение каналов связи и надёжность межагентной коммуникации между машинами Антона | 2026-06-26 |
 | [DR26-06-26-HUB-04](research/DR26-06-26-HUB-04-otkazoustoychivost-llm-infrastruktury-failover-mezhdu-claude-opus-sonn.md) | Отказоустойчивость LLM-инфраструктуры: failover между Claude Opus, Sonnet и локальной LLM | 2026-06-26 |
+| [DR26-06-26-HUB-05](research/DR26-06-26-HUB-05-anthropic-claude-code-priostanovlennyy-headless-kredit-i-mehanika-limi.md) | Anthropic Claude Code: приостановленный headless-кредит и механика лимитов подписки Max/Pr | 2026-06-26 |
+| [DR26-06-26-HUB-06](research/DR26-06-26-HUB-06-vybor-lokalnoy-llm-3-6-gb-vram-na-gtx-1660-super-kak-follbek-dlya-clau.md) | Выбор локальной LLM (3–6 GB VRAM) на GTX 1660 Super как фоллбэк для Claude Code | 2026-06-26 |
 | [DR26-06-26-HUB-07](research/DR26-06-26-HUB-07-sravnenie-messendzher-kanalov-i-modeley-identichnosti-dlya-multi-agent.md) | Сравнение мессенджер-каналов и моделей идентичности для мульти-агентных Claude-команд | 2026-06-26 |
 | [DR26-06-26-HUB-08](research/DR26-06-26-HUB-08-inventarizatsiya-i-stress-testirovanie-b-u-gpu-rtx-3090-5060ti-pered-p.md) | Инвентаризация и стресс-тестирование б/у GPU (RTX 3090, 5060Ti) перед покупкой | 2026-06-26 |
 | [DR26-06-25-HUB-03](research/DR26-06-25-HUB-03-aktivnye-loty-rtx-3090-4090-24gb-na-ebay-risk-tsena-i-dostavka-v-lissa.md) | Активные лоты RTX 3090/4090 24GB на eBay: риск, цена и доставка в Лиссабон | 2026-06-25 |
@@ -336,6 +343,7 @@ Raw model transcripts stay in our vault. What is published here is the distilled
 | [DR26-08-04-ZB-08-1744](research/DR26-08-04-ZB-08-1744-sintez-dr26-08-04-zb-08-geo-analitika-po-origin-logam-zrelogo-oss-net.md) | Синтез DR26-08-04-ZB-08 — GEO-аналитика по origin-логам: зрелого OSS нет, дом инструмента = свой репо |  |
 | [DR26-08-04-ZB-09-1803](research/DR26-08-04-ZB-09-1803-sintez-dr26-08-04-zb-09-put-v-otvety-ai-uzkoe-mesto-indeks-i-vneshnie.md) | Синтез DR26-08-04-ZB-09 — путь в ответы AI: узкое место = ИНДЕКС и внешние ссылки, не краул |  |
 | [DR26-08-04-ZB-12-2205](research/DR26-08-04-ZB-12-2205-sintez-dr26-08-04-zb-12-golos-v-vesa-cpt-na-base-chekpointe-a-ne-vendo.md) | Синтез DR26-08-04-ZB-12 - голос в веса: CPT на BASE-чекпоинте, а не вендорский fine-tune |  |
+| [DR26-08-05-HUB-01-1858](research/DR26-08-05-HUB-01-1858-arhitektura-fronta-bez-modalok.md) | архитектура «фронта без модалок» |  |
 | [DR26-08-05-ZB-01-0125](research/DR26-08-05-ZB-01-0125-pochemu-statya-visit-na-arxiv-i-chto-realno-delat.md) | почему статья висит на arXiv и что реально делать |  |
 | [DR26-08-14-NAT-01-0941](research/DR26-08-14-NAT-01-0941-sintez-kak-malenkoy-ai-laboratorii-zahodit-na-habr.md) | Синтез: как маленькой AI-лаборатории заходить на Хабр |  |
 | [DR26-08-14-NAT-03-1248](research/DR26-08-14-NAT-03-1248-synthesis-neangloyazychnaya-distributsiya-agent-skills.md) | SYNTHESIS: неанглоязычная дистрибуция Agent Skills |  |
@@ -354,6 +362,7 @@ Raw model transcripts stay in our vault. What is published here is the distilled
 | [DR26-08-31-MACANTON-02-0655](research/DR26-08-31-MACANTON-02-0655-dr-dr26-08-31-macanton-02-0655-hyperliquid-karta-raundov-nayma-i-dvere.md) | DR DR26-08-31-MACANTON-02-0655 · Hyperliquid: карта раундов, найма и дверей (август 2026) |  |
 | [DR26-08-31-ZB-01-2223](research/DR26-08-31-ZB-01-2223-naym-protiv-novogo-proekta-sintez-treh-rels.md) | Найм против нового проекта: синтез трёх рельс |  |
 | [DR26-09-04-HUB-02-2326](research/DR26-09-04-HUB-02-2326-bb-dva-proekta-s-odnim-imenem-chto-iz-harnesa-browserbase-brat-a-chto.md) | bb: два проекта с одним именем — что из харнеса Browserbase брать, а что у нас уже стоит |  |
+| [DR26-09-14-MACANTON-01-1204](research/DR26-09-14-MACANTON-01-1204-portrety-teh-kogo-berut-hedzh-fondy-coo-ir-cos-v-ai-startape-pd-coo-ei.md) | Портреты тех, кого берут: хедж-фонды · COO/IR/CoS в AI-стартапе · PD/COO/EIR в инкубаторах (DR26-09-14-MACANTO |  |
 | [DR26-09-14-ZB-10-2009](research/DR26-09-14-ZB-10-2009-devrel-developer-education-v-ai-laboratorii-sobiratelnyy-portret.md) | DevRel / Developer Education в AI-лаборатории: собирательный портрет |  |
 | [DR26-09-14-ZB-11-2009](research/DR26-09-14-ZB-11-2009-bd-partnerships-forward-deployed-eir-kak-chitaetsya-byvshiy-faunder.md) | BD / Partnerships / Forward-Deployed / EIR: как читается бывший фаундер |  |
 | [DR26-09-14-ZB-12-2009](research/DR26-09-14-ZB-12-2009-coo-chief-of-staff-ir-capital-formation-zapolnyayutsya-li-eti-roli-pub.md) | COO / Chief of Staff / IR / Capital Formation: заполняются ли эти роли публично |  |
@@ -361,8 +370,10 @@ Raw model transcripts stay in our vault. What is published here is the distilled
 | [DR26-09-14-ZB-14-2009](research/DR26-09-14-ZB-14-2009-inkubatory-akseleratory-i-issledovatelskie-roli-v-laboratorii-bez-ml-p.md) | Инкубаторы/акселераторы и исследовательские роли в лаборатории без ML-PhD |  |
 | [DR26-09-14-ZB-20-2206](research/DR26-09-14-ZB-20-2206-fde-kakoy-realnyy-uroven-kodinga-sprashivayut-na-intervyu.md) | FDE: какой реальный уровень кодинга спрашивают на интервью |  |
 | [DR26-09-15-HUB-01-1111](research/DR26-09-15-HUB-01-1111-stoit-li-nepreryvnaya-zapis-ekrana-svoey-tseny-esli-zvuk-i-tekst-uzhe.md) | Стоит ли непрерывная запись экрана своей цены, если звук и текст уже есть |  |
+| [DR26-09-15-HUB-04-1610](research/DR26-09-15-HUB-04-1610-kak-prohodyat-intervyu-v-ai-laboratoriyah-i-faang-i-chto-eto-znachit-d.md) | Как проходят интервью в AI-лабораториях и FAANG — и что это значит для Антона |  |
 | [DR26-09-15-HUB-05-1826](research/DR26-09-15-HUB-05-1826-kak-vesti-sebya-v-semi-komnatah-intervyu-povedencheskaya-mehanika-dr26.md) | Как ВЕСТИ СЕБЯ в семи комнатах интервью: поведенческая механика (DR26-09-15-HUB-05-1826) |  |
 | [DR26-09-15-MACANTON-02-1229](research/DR26-09-15-MACANTON-02-1229-sintez-dr26-09-15-macanton-02-1229-ai-vizionery-slova-protiv-stavok-pr.md) | Синтез DR26-09-15-MACANTON-02-1229 — AI-визионеры: слова против ставок, прогноз 2026-2030, двери для внешнего  |  |
+| [DR26-09-15-ZB-04-0758](research/DR26-09-15-ZB-04-0758-planirovschiki-sotssetey-s-mcp-kto-derzhit-platnyy-dostup-k-x-za-nas.md) | Планировщики соцсетей с MCP: кто держит платный доступ к X за нас |  |
 | [DR26-09-16-MACANTON-01-0446](research/DR26-09-16-MACANTON-01-0446-konferentsii-bay-area-kak-dvigatel-nayma-i-nabora-inzhenerov-polzovate.md) | Конференции Bay Area как двигатель найма и набора инженеров-пользователей — плейбук |  |
 | [DR26-09-16-MACANTON-02-0453](research/DR26-09-16-MACANTON-02-0453-sintez-dr26-09-16-macanton-02-0453-vtoraya-pamyat-kakie-repo-vzyat-v-g.md) | Синтез DR26-09-16-MACANTON-02-0453 — вторая память: какие репо взять в Graph RAG над волтом, какие тесты стави |  |
 | [DR26-09-22-ZB-01-1143](research/DR26-09-22-ZB-01-1143-dr-zb-01-1143-ai-compute-provaydery-neocloud-kak-rabotodateli-sintez.md) | DR ZB-01-1143: AI-compute провайдеры (neocloud) как работодатели — синтез |  |
