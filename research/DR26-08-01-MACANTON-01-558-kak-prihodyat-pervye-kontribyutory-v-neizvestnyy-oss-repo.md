@@ -57,3 +57,8 @@ source: Palo Alto AI Research Lab — deep research programme
 - open-door-contributors-keep-copyright — очередь `accepted` и права авторов
 - github-guerrilla-presence-over-merge · mission-get-noticed-hired-by-llm-company — миссия, под которую это делается
 - Оригинал: `_originals/deep-research/DR26-08-01-MACANTON-01-558-oss-first-contributors-chatgpt.md`
+
+
+## Raw model reports
+
+2 reports delivered, synthesis used not recorded: [DR26-08-01-MACANTON-01-558-kak-prihodyat-pervye-kontribyutory-v-neizvestnyy-oss-repo/](DR26-08-01-MACANTON-01-558-kak-prihodyat-pervye-kontribyutory-v-neizvestnyy-oss-repo/README.md)

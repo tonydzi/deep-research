@@ -43,3 +43,8 @@ source: Palo Alto AI Research Lab — deep research programme
 - ak47-simplicity
 - everything-becomes-content
 - content-factory
+
+
+## Raw model reports
+
+1 reports delivered, synthesis used not recorded: [DR26-06-30-HUB-02-shablon-prompta-dlya-generatsii-tseplyayuschih-tvit-tizerov-hukov/](DR26-06-30-HUB-02-shablon-prompta-dlya-generatsii-tseplyayuschih-tvit-tizerov-hukov/README.md)

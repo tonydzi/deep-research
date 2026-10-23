@@ -55,3 +55,8 @@ source: Palo Alto AI Research Lab — deep research programme
 - everything-becomes-content
 - insight-DR-DR26-07-14-HUB-08-engineering-communities-as-a-hiring-asset-in-the-a — тот же DR-вопрос (engineering communities as hiring asset), другой фанаут-вендор, почти дословно тот же контент
 - insight-DR-DR26-07-17-FLEE-12-engineer-following — same topic (engineer acquisition/hiring communities), complementary DR consensus
+
+
+## Raw model reports
+
+1 reports delivered, synthesis used not recorded: [DR26-07-07-HUB-01-engineering-communities-as-a-hiring-asset-in-the-ai-era/](DR26-07-07-HUB-01-engineering-communities-as-a-hiring-asset-in-the-ai-era/README.md)

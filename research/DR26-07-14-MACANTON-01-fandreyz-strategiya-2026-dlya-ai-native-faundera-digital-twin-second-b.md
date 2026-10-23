@@ -72,3 +72,8 @@ source: Palo Alto AI Research Lab — deep research programme
 - Оба сказали: деньги дают не за кучу данных, а за то, что штука реально работает каждый день и её больно бросить.
 - Надо показать цифры: сколько задач роботы делают за Антона, и рассказывать об этом публично — это же привлечёт и Anthropic.
 - Один робот говорит «проси деньги прямо сейчас», другой «сначала пару месяцев собери доказательства». Мы возьмём среднее: собираем доказательства быстро и громко.
+
+
+## Raw model reports
+
+5 reports delivered, synthesis used not recorded: [DR26-07-14-MACANTON-01-fandreyz-strategiya-2026-dlya-ai-native-faundera-digital-twin-second-b/](DR26-07-14-MACANTON-01-fandreyz-strategiya-2026-dlya-ai-native-faundera-digital-twin-second-b/README.md)

@@ -59,3 +59,8 @@ source: Palo Alto AI Research Lab — deep research programme
 - cybernetic-memoir
 - insight-DR-DR26-07-02-HUB-06-authentic-narrative-engineering-for-solo-build-in- — сиблинг-DR о том же нарративном мастерстве серии The Journey
 - insight-DR-DR26-07-04-HUB-12-turning-anton-s-daily-technical-build-diary-the-jo — тот же DR-ID, параллельный синтез другим вендором
+
+
+## Raw model reports
+
+3 reports delivered, synthesis used not recorded: [DR26-07-04-HUB-12-writing-the-journey-as-a-truthful-blockbuster-style-daily-diary-with-h/](DR26-07-04-HUB-12-writing-the-journey-as-a-truthful-blockbuster-style-daily-diary-with-h/README.md)

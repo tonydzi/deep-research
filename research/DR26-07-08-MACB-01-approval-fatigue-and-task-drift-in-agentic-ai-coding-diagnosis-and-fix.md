@@ -56,3 +56,8 @@ source: Palo Alto AI Research Lab — deep research programme
 - alert-fatigue
 - insight-DR-DR26-07-14-HUB-02-approval-fatigue-and-task-drift-in-agentic-ai-codi — почти дословный дубль-тема (тот же DR-вопрос approval fatigue/task drift), другая дата синтеза
 - insight-DR-DR26-07-28-HUB-14-2339-approval-fatigue-и-task-drift-в-агентном-ai-кодинг — тот же топик DR — approval fatigue и task drift, самый ранний отчёт серии
+
+
+## Raw model reports
+
+1 reports delivered, synthesis used not recorded: [DR26-07-08-MACB-01-approval-fatigue-and-task-drift-in-agentic-ai-coding-diagnosis-and-fix/](DR26-07-08-MACB-01-approval-fatigue-and-task-drift-in-agentic-ai-coding-diagnosis-and-fix/README.md)

@@ -47,3 +47,8 @@ source: Palo Alto AI Research Lab — deep research programme
 - ELF/VLF поля
 - ICNIRP нормативы
 - конспирология и наука
+
+
+## Raw model reports
+
+1 reports delivered, synthesis used not recorded: [DR26-08-29-MACANTON-03-0742-rezonansy-shumana-i-magnitosfera-zemli-fizika-izmerenie-vliyanie-na-te/](DR26-08-29-MACANTON-03-0742-rezonansy-shumana-i-magnitosfera-zemli-fizika-izmerenie-vliyanie-na-te/README.md)

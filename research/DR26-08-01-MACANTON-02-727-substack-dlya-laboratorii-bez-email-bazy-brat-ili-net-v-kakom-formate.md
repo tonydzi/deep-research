@@ -108,3 +108,8 @@ Apple MPP автоматически загружает пиксели; Mailchim
 Связано: platform-matrix-gate · content-factory-architecture · shadow-first-mvp-pattern · content-approval-24h-timeout
 
 > **Потребитель отчёта создан 10.08.2026:** decision-2026-08-10-substack-format-i-voronka — формат/частота/воронка + чего НЕ делаем. Вторая разведка на дыры: `DR26-08-10-MACANTON-04-2247`.
+
+
+## Raw model reports
+
+1 reports delivered, synthesis used 1 of 2: [DR26-08-01-MACANTON-02-727-substack-dlya-laboratorii-bez-email-bazy-brat-ili-net-v-kakom-formate/](DR26-08-01-MACANTON-02-727-substack-dlya-laboratorii-bez-email-bazy-brat-ili-net-v-kakom-formate/README.md)

@@ -750,3 +750,8 @@ DeepMind как DevRel-дверь (замер: 10 вакансий, всё resea
   рельса противоречат друг другу — разбор в карточке задачи).
 - Ни одна заявка никуда не подана и ничего не опубликовано: подача = решение Антона.
   Заказ закрыт в потребителей: mission2-top10-matrix и `10-Tasks\task-2026-07-17-anthropic-job-track.md`.
+
+
+## Raw model reports
+
+2 reports delivered, synthesis used 2 of 6: [DR26-08-24-HUB-03-1747-mehanika-nayma-vo-frontier-llm-kompaniyah-doska-vizy-oss-dveri-i-speka/](DR26-08-24-HUB-03-1747-mehanika-nayma-vo-frontier-llm-kompaniyah-doska-vizy-oss-dveri-i-speka/README.md)

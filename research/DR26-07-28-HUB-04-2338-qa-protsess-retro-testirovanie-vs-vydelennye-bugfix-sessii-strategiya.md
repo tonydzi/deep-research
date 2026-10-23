@@ -51,3 +51,8 @@ source: Palo Alto AI Research Lab — deep research programme
 - seed-prompt-handoff-template
 - split-rule-debug-session
 - coverage-and-docs-every-part
+
+
+## Raw model reports
+
+1 reports delivered, synthesis used not recorded: [DR26-07-28-HUB-04-2338-qa-protsess-retro-testirovanie-vs-vydelennye-bugfix-sessii-strategiya/](DR26-07-28-HUB-04-2338-qa-protsess-retro-testirovanie-vs-vydelennye-bugfix-sessii-strategiya/README.md)

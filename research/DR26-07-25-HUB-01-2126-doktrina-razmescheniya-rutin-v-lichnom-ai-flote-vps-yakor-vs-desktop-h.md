@@ -56,3 +56,8 @@ source: Palo Alto AI Research Lab — deep research programme
 - machine-bus-telegram-rail
 - ak47-simplicity
 - decision-2026-07-31-sintez-9-dr-lokalnogo-veera — источник пункта №1 синтеза
+
+
+## Raw model reports
+
+2 reports delivered, synthesis used not recorded: [DR26-07-25-HUB-01-2126-doktrina-razmescheniya-rutin-v-lichnom-ai-flote-vps-yakor-vs-desktop-h/](DR26-07-25-HUB-01-2126-doktrina-razmescheniya-rutin-v-lichnom-ai-flote-vps-yakor-vs-desktop-h/README.md)

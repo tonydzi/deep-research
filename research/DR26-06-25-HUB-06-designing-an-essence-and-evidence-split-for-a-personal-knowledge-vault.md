@@ -53,3 +53,8 @@ source: Palo Alto AI Research Lab — deep research programme
 - capture-rules-into-bible
 - relink-mechanism
 - provenance-attribute-real-author
+
+
+## Raw model reports
+
+1 reports delivered, synthesis used not recorded: [DR26-06-25-HUB-06-designing-an-essence-and-evidence-split-for-a-personal-knowledge-vault/](DR26-06-25-HUB-06-designing-an-essence-and-evidence-split-for-a-personal-knowledge-vault/README.md)

@@ -62,3 +62,8 @@ source: Palo Alto AI Research Lab — deep research programme
 - GTD
 - memory-consolidation
 - knowledge-graph
+
+
+## Raw model reports
+
+1 reports delivered, synthesis used not recorded: [DR26-07-28-HUB-09-2338-ispolzovanie-obsidian-kak-vtoroy-mozg-arhitektura-pamyati-mozga-tsifro/](DR26-07-28-HUB-09-2338-ispolzovanie-obsidian-kak-vtoroy-mozg-arhitektura-pamyati-mozga-tsifro/README.md)

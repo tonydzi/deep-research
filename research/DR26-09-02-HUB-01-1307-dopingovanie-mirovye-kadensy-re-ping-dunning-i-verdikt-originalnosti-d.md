@@ -117,3 +117,8 @@ Gong на 304 174 письмах: пустые «поднимаю наверх»
 - Потребитель: дизайн `doping.py` v2 (`_imports/crm-engine/doping.py`) плюс решение по посту
 - Канон правила: Библия `reglament-dopinyvanie-kollekt-dogovorennostey`, память doping-collect-promises
 - Соседние правила: self-serving-conclusion-needs-stronger-proof, prichina-kak-claim, fake-it-courage-not-fake-numbers
+
+
+## Raw model reports
+
+3 reports delivered, synthesis used 3 of 6: [DR26-09-02-HUB-01-1307-dopingovanie-mirovye-kadensy-re-ping-dunning-i-verdikt-originalnosti-d/](DR26-09-02-HUB-01-1307-dopingovanie-mirovye-kadensy-re-ping-dunning-i-verdikt-originalnosti-d/README.md)

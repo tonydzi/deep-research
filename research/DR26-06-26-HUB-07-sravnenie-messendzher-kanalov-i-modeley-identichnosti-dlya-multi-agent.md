@@ -49,3 +49,8 @@ source: Palo Alto AI Research Lab — deep research programme
 - machine-bus-telegram-rail
 - multi-agent-offer-reflex
 - multi-agent-role-discipline
+
+
+## Raw model reports
+
+1 reports delivered, synthesis used not recorded: [DR26-06-26-HUB-07-sravnenie-messendzher-kanalov-i-modeley-identichnosti-dlya-multi-agent/](DR26-06-26-HUB-07-sravnenie-messendzher-kanalov-i-modeley-identichnosti-dlya-multi-agent/README.md)

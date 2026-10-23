@@ -54,3 +54,8 @@ source: Palo Alto AI Research Lab — deep research programme
 - GitHub-as-primary-docs-channel
 - AI-citation-fresness
 - insight-DR-DR26-08-04-ZB-08-1744-geo-origin-logs-oss — тот же топик GEO / origin-логи цитирования LLM-краулеров
+
+
+## Raw model reports
+
+1 reports delivered, synthesis used not recorded: [DR26-06-30-HUB-01-generative-engine-optimization-geo-platform-citability-llms-txt-conten/](DR26-06-30-HUB-01-generative-engine-optimization-geo-platform-citability-llms-txt-conten/README.md)

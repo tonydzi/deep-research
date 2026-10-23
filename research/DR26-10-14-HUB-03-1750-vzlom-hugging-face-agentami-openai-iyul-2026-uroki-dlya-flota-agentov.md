@@ -59,3 +59,8 @@ source: Palo Alto AI Research Lab — deep research programme
 - permission-bypass risk
 - approval gate for agent actions
 - MCP process diet
+
+
+## Raw model reports
+
+1 reports delivered, synthesis used 1 of 6: [DR26-10-14-HUB-03-1750-vzlom-hugging-face-agentami-openai-iyul-2026-uroki-dlya-flota-agentov/](DR26-10-14-HUB-03-1750-vzlom-hugging-face-agentami-openai-iyul-2026-uroki-dlya-flota-agentov/README.md)

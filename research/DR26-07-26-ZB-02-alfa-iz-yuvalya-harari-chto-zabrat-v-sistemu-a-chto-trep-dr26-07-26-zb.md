@@ -158,3 +158,8 @@ Grok и Gemini: ✅ «реализуемо [established]». **ChatGPT: ❌ «т�
 
 ## Связано
 - decision-2026-07-27-scm-circuit-breaker-v-rag — insight ставит саму развилку про SCM/circuit breaker и формулирует требования, которые decision разбирает и проверяет по коду
+
+
+## Raw model reports
+
+1 reports delivered, synthesis used not recorded: [DR26-07-26-ZB-02-alfa-iz-yuvalya-harari-chto-zabrat-v-sistemu-a-chto-trep-dr26-07-26-zb/](DR26-07-26-ZB-02-alfa-iz-yuvalya-harari-chto-zabrat-v-sistemu-a-chto-trep-dr26-07-26-zb/README.md)

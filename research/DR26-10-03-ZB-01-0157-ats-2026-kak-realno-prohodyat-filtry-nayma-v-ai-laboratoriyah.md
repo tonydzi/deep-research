@@ -64,3 +64,8 @@ source: Palo Alto AI Research Lab — deep research programme
 - github-артефакт как сигнал для сорсера
 - cross-role-visibility-бан
 - apply-strategy-100-interviews
+
+
+## Raw model reports
+
+2 reports delivered, synthesis used 2 of 6: [DR26-10-03-ZB-01-0157-ats-2026-kak-realno-prohodyat-filtry-nayma-v-ai-laboratoriyah/](DR26-10-03-ZB-01-0157-ats-2026-kak-realno-prohodyat-filtry-nayma-v-ai-laboratoriyah/README.md)

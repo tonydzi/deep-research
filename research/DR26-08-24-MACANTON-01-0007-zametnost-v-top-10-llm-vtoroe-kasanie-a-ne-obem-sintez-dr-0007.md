@@ -54,3 +54,8 @@ source: Palo Alto AI Research Lab — deep research programme
 - **codex-дубль** — FAIL, 0 байт за 988 с; два нулевых артефакта в `results-failed/` — оборванные прогоны моста, payload доставался из tool-results.
 
 🧒 Простыми словами: мы научились так, что нам ОТВЕЧАЮТ почти все — это здорово, но это как «привет» в дверях. Дружбы это ещё не значит. Дружба — когда тот же человек написал нам ВТОРОЙ раз сам. Поэтому теперь мы не рассылаем больше писем, а возвращаемся к тем сорока, кто уже ответил, и приносим каждому по одной полезной вещи. И перестаём стучаться в двери без приглашения — за это в этом году бьют по рукам.
+
+
+## Raw model reports
+
+4 reports delivered, synthesis used 4 of 6: [DR26-08-24-MACANTON-01-0007-zametnost-v-top-10-llm-vtoroe-kasanie-a-ne-obem-sintez-dr-0007/](DR26-08-24-MACANTON-01-0007-zametnost-v-top-10-llm-vtoroe-kasanie-a-ne-obem-sintez-dr-0007/README.md)

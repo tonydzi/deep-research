@@ -61,3 +61,8 @@ source: Palo Alto AI Research Lab — deep research programme
 
 ---
 *Провенанс: синтез 3 лег (chatgpt 104 ист. · grok 72 · claudeai 54, все ✅ dr_leg_gate --strict), сессия HP17 02.09.2026. Кворум 3/6: gemini/glm/mistral — мёртвые двери (dropped-файлы с уликами 30.08). НЕ «единогласно 6/6». Оригиналы: «внутренний архив лаборатории».*
+
+
+## Raw model reports
+
+3 reports delivered, synthesis used 3 of 6: [DR26-08-29-ZB-01-0856-korporativnyy-vtoroy-mozg-vozrazhenie-oprovergnuto-po-suti-verno-tolko/](DR26-08-29-ZB-01-0856-korporativnyy-vtoroy-mozg-vozrazhenie-oprovergnuto-po-suti-verno-tolko/README.md)

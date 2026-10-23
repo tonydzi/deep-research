@@ -51,3 +51,8 @@ source: Palo Alto AI Research Lab — deep research programme
 - write-service-files-tight-no-recompress
 - skill-authoring-portable-paths
 - test-after-build-skill
+
+
+## Raw model reports
+
+1 reports delivered, synthesis used not recorded: [DR26-07-17-HUB-04-conditional-rule-activation-in-llm-agents-lazy-loading-rules-context-v/](DR26-07-17-HUB-04-conditional-rule-activation-in-llm-agents-lazy-loading-rules-context-v/README.md)

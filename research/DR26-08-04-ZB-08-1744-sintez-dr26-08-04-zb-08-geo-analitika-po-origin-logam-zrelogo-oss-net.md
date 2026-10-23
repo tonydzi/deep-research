@@ -80,3 +80,8 @@ source: Palo Alto AI Research Lab — deep research programme
 - [ ] Проверить и починить классификатор `Google-Extended` в `geo_measure.py` — на узле-владельце (не Mac16).
 - [ ] Prior-art чтение трёх аналогов до первой строки кода.
 - [ ] Добрать рельсы gemini/claude.ai/GLM по этой теме, если решение окажется дорогим (сейчас 2 из 5).
+
+
+## Raw model reports
+
+2 reports delivered, synthesis used 2 of 2: [DR26-08-04-ZB-08-1744-sintez-dr26-08-04-zb-08-geo-analitika-po-origin-logam-zrelogo-oss-net/](DR26-08-04-ZB-08-1744-sintez-dr26-08-04-zb-08-geo-analitika-po-origin-logam-zrelogo-oss-net/README.md)

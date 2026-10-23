@@ -607,3 +607,8 @@ Think-aloud = список НЕИЗВЕСТНЫХ, а не поток проду
 - interview-playbook-by-round-type — плейбук, который этот синтез уточняет
 - never-call-anton-a-founder — подтверждено цифрой 13.6% против 24.0%
 - mission-llm-hire-weekly-plan
+
+
+## Raw model reports
+
+4 reports delivered, synthesis used 4 of 6: [DR26-09-15-HUB-05-1826-kak-vesti-sebya-v-semi-komnatah-intervyu-povedencheskaya-mehanika-dr26/](DR26-09-15-HUB-05-1826-kak-vesti-sebya-v-semi-komnatah-intervyu-povedencheskaya-mehanika-dr26/README.md)

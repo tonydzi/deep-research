@@ -54,3 +54,8 @@ source: Palo Alto AI Research Lab — deep research programme
 - clawrus-posting-fully-stopped
 - daily-ask-and-fail-lanes
 - insight-DR-DR26-08-29-MACANTON-13-0743-тизер-как-сжатая-польза-как-делать-короткие-посты- — более ранний DR той же темы, прямое продолжение исследования
+
+
+## Raw model reports
+
+1 reports delivered, synthesis used not recorded: [DR26-08-25-MACANTON-11-0740-tizer-kak-samodostatochnaya-polza-dlya-telegram-chata-a-ne-primanka-kr/](DR26-08-25-MACANTON-11-0740-tizer-kak-samodostatochnaya-polza-dlya-telegram-chata-a-ne-primanka-kr/README.md)

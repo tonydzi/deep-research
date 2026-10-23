@@ -60,3 +60,8 @@ source: Palo Alto AI Research Lab — deep research programme
 - open-core-business-model
 - cofounder-identity
 - everything-becomes-content
+
+
+## Raw model reports
+
+1 reports delivered, synthesis used not recorded: [DR26-07-02-HUB-01-go-to-market-assessment-for-productizing-anton-s-second-brain-ai-agent/](DR26-07-02-HUB-01-go-to-market-assessment-for-productizing-anton-s-second-brain-ai-agent/README.md)

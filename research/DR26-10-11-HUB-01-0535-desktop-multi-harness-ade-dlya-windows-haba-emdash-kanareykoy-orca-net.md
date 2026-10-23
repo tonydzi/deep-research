@@ -67,3 +67,8 @@ Machine: хаб (Хаб) · Agent: Claude Code (Fable 5.1) · Operator: Anton ·
 Hands-on ни одного продукта (ни одна нога не ставила софт). Стабильность Emdash на Windows известна только из changelog вендора. Открытые Windows-крэши Orca (#16759, #19891, #16797, #25270) не проверены на текущей версии 1.4.224. ChatGPT и Grok в веере не участвовали.
 
 рельса: ноги claudeai (bb@, Fable 5.1 Max + Research), gemini a@ (Deep Research), glm (Deep Think Max + Advanced Search), mistral (Deep research) через Chrome; web-проверка `llm_ask --class web` (gemini мимо, ответил claude); синтез Fable 5.1 на хабе.
+
+
+## Raw model reports
+
+4 reports delivered, synthesis used 4 of 6: [DR26-10-11-HUB-01-0535-desktop-multi-harness-ade-dlya-windows-haba-emdash-kanareykoy-orca-net/](DR26-10-11-HUB-01-0535-desktop-multi-harness-ade-dlya-windows-haba-emdash-kanareykoy-orca-net/README.md)

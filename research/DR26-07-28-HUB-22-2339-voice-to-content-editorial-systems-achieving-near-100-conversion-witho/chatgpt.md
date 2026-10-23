@@ -1,0 +1,270 @@
+# DR26-07-28-HUB-22-2339 — raw report from chatgpt
+
+> Unedited output of one model. Our reconciled synthesis is the page one level up.
+
+---
+title: "Voice-to-content editorial systems"
+type: deep-research-original
+source: chatgpt
+
+dr_id: DR26-07-28-HUB-22-2339
+conversation_id: 6a495177-88dc-83eb-92f9-4d345c3ce68b
+url: "https://приватный чат"
+research_started_at: 2026-07-04T18:32:36.352561Z
+research_stopped_at: 2026-07-04T18:41:56.171166Z
+dr_status_in_tool: completed
+harvested_by: dr_harvest_chatgpt.py
+harvested_at: 2026-07-28T23:39:12
+vault_chat_note: "2026-07-04-voice-to-content-editorial-systems-6a495177.md"
+---
+
+> Отчёт Deep Research забран из ChatGPT verbatim (widget_state.report_message).
+> Заметка диалога в волте обрывается на строке запуска — тела отчёта там нет.
+
+## Запрос
+
+```text
+Conduct a deep research investigation on the following topic.
+
+
+
+CONTEXT (what we already know and have built — do not re-derive this, dig deeper):
+
+- A voice-first founder records 5-30 raw voice notes per day (Russian, stream-of-consciousness: business takes, tasks, insights, rants). They are auto-transcribed into a Telegram hub chat.
+
+- An LLM pipeline already triages them 3x/day into buckets (task / insight / post) and drafts posts only from the "post" bucket. A human approval gate (one tap = publish) and a 20-principle taste-check gate exist before anything goes public. Nothing auto-publishes.
+
+- NEW MANDATE: 100% of voice notes (floor: 80%) must become publishable content for Facebook, Telegram and similar channels — the editor must UPGRADE weak transcripts into posts rather than reject them. Rejection allowed only for truly impossible material (private/secret/operational commands), with a logged reason.
+
+- Known risks we already see: author-voice dilution when an LLM over-edits, audience fatigue from over-posting, quality collapse when quantity is forced, transcription artifacts in Russian.
+
+
+
+TOPIC:
+
+Voice-to-content editorial systems at ~100% conversion: how creators, ghostwriting agencies, and media companies reliably turn raw voice notes / dictation / stream-of-consciousness into high-quality multi-platform published content at scale, without losing the author's voice.
+
+
+
+OBJECTIVE:
+
+Find the best current practices, state-of-the-art approaches, failures, trade-offs, emerging trends, and implementation frameworks — specifically for: (a) editorial pipelines that transform EVERY raw input into a post (default-publish, not default-filter); (b) preserving a strong personal author voice under heavy LLM editing; (c) multi-platform adaptation (long-form FB post vs short TG post vs thread); (d) quality gates and metrics that keep a forced-100%-conversion pipeline from degrading into slop; (e) optimal posting cadence vs raw-input volume (what to do when 20 voice notes/day exceed sane posting frequency — queueing, merging several notes into one post, evergreen banking).
+
+
+
+RESEARCH REQUIREMENTS:
+
+
+
+1. Academic research
+
+- papers, meta-analyses, benchmarks on LLM style transfer / author-voice preservation, speech-to-text post-editing, human-in-the-loop editorial quality
+
+
+
+2. Industry practice
+
+- ghostwriting agencies and "founder content engines" (e.g. personal-brand agencies for CEOs), voice-first tools (AudioPen, Oasis, Cleve, Castmagic, Typefully-style workflows), newsletter/media ops, open-source pipelines
+
+
+
+3. Competitive landscape
+
+- direct competitors (voice→post SaaS), indirect (dictation+editor workflows), substitutes (hiring a human ghostwriter; posting raw transcripts)
+
+
+
+4. Failure analysis
+
+- failed attempts and abandoned projects in AI content factories; documented cases of audience loss from AI-generated slop; where 100%-conversion mandates broke quality or trust
+
+
+
+5. Emerging trends
+
+- developments from the last 12 months: fine-tuning/style-vectors on an author corpus, agentic editorial chains (drafter→critic→style-checker), platform algorithm shifts penalizing AI-looking content
+
+
+
+6. Implementation recommendations
+
+- actionable framework for a 2-person team (one AI operator + one human publisher): pipeline stages, roles, per-platform adapters, queue/cadence policy, metrics (conversion %, approval-rate at the human gate, engagement per post), and a weekly review loop
+
+
+
+OUTPUT FORMAT:
+
+
+
+A. Executive Summary
+
+B. Key Findings
+
+C. Contradictions & Debates
+
+D. Best Practices
+
+E. Failure Modes
+
+F. Strategic Recommendations
+
+G. Action Plan
+
+H. Sources@Deep research
+```
+
+## Отчёт
+# Voice-to-Content Editorial Systems at Near Total Conversion
+
+## Executive Summary
+
+The strongest current evidence does **not** support a naive “transcribe everything, polish everything, post everything” factory. It supports a **two-layer system**: first, convert every voice note into a durable editorial asset; second, convert those assets into a **managed publishing queue** that optimizes cadence, platform fit, and author-voice fidelity. In other words, near-100% conversion is realistic **at the asset level**, but it should not mean one raw note equals one public post. The best systems treat each note as raw source material that can become a standalone post, a merged post, a thread, a future banked draft, a quote, or an internal seed for later synthesis. That framing is much more consistent with how modern voice-first tools market themselves, how ghostwriters actually work, and what current research says about style preservation and spoken-to-written transformation. citeturn31view0turn31view1turn31view2turn31view3turn31view6turn26view1turn26view3
+
+The largest technical constraint is **voice preservation under heavy editing**. Recent research is blunt: current LLMs still struggle to imitate the nuanced, informal writing styles of everyday people, especially in blog- and forum-like domains; few-shot prompting alone often drifts toward generic “average AI” tone. Human post-editing helps, but even then LLM traces often remain detectable. At the same time, newer methods based on **authorship embeddings, interpretable style prompts, plug-and-play user embeddings, and structured personalization** are outperforming plain prompting baselines. The operational implication is simple: if you want very high conversion **without** voice dilution, you need a dedicated style stack, not just a better drafting prompt. citeturn27view2turn27view0turn27view3turn27view4turn35view0turn35view2
+
+The largest business constraint is **platform trust and audience fatigue**. In the last 12 months, major platforms have moved more explicitly against low-value, repetitive, and obviously mass-produced content. Facebook says it is prioritizing original content and reducing the reach of unoriginal material; LinkedIn says it is dialing back generic “AI slop”; YouTube reframed “repetitious content” as “inauthentic content,” defined partly as mass-produced, template-like content. Public attitudes move in the same direction: Reuters Institute research shows a large comfort gap between human-led and fully AI-generated news, while marketing studies report lower trust, authenticity, and emotional connection when content is perceived as AI-made. A forced-conversion system therefore needs **more aggressive quality controls as volume rises**, not less. citeturn15view0turn15view3turn15view4turn37view1turn17search0turn17search4
+
+For a two-person team, the best-fit operating model is a **voice-preserving editorial assembly line**: capture and store all notes; clean transcripts into readable spoken-to-written text; classify each note into one of several publishable output types; draft with author-memory and style constraints; run critic passes for voice, novelty, platform fit, and privacy risk; then let a human publisher approve, merge, defer, or bank. The right goal is not “publish every note.” The right goal is “**lose no note, waste no note, and publish only at the pace the audience can absorb**.” That is the highest-confidence path to near-total conversion without collapsing into slop. citeturn32view0turn32view1turn32view2turn31view7turn31view8turn36view0turn36view2
+
+## Key Findings
+
+### Near total conversion is mainly an editorial packaging problem
+
+Academic work on spoken-to-written conversion makes clear that raw ASR output is not publication-ready by default. Verbatim transcripts preserve filler words, false starts, repetitions, fragments, and recognition errors, which harms readability. Recent work on the CoS2W task explicitly frames the problem as converting “echoing to ears” into “recording for eyes,” combining ASR error correction, grammar correction, and style transfer while preserving meaning. FormalASR pushes the same direction end-to-end, arguing that downstream consumers often want formal, well-formed text instead of faithful surface-form transcripts. citeturn26view1turn26view3
+
+Industry tools are already built around that assumption. AudioPen says it rewrites rambling voice notes into clear, structured text in a chosen style and language, and lets users combine notes later. Castmagic positions a single recording as a source for many downstream assets. Descript explicitly treats transcript-derived outputs as platform-specific publish assets created **after** editing. Eve markets the same workflow to executives: one voice memo becomes a LinkedIn post, a blog, or a newsletter, with channel adaptation rather than simple shortening. This is the clearest industry signal that the practical unit of conversion is not “transcript” but “source material that can be editorially upgraded and repurposed.” citeturn31view0turn31view1turn31view2turn31view3turn31view6
+
+That matters for your mandate. A hard requirement that 80–100% of notes become public-facing content is achievable **if** conversion includes merged essays, serialized threads, evergreen bank pieces, quote cards, and stitched multi-note posts. It becomes much riskier if conversion means every single note must independently survive as a standalone post. That conclusion is an inference from the gap between current STT research, current tool design, and current platform authenticity signals. citeturn26view1turn26view3turn15view0turn15view4
+
+### Preserving a personal voice is still the hardest part
+
+The most relevant academic result here is negative: LLMs still struggle to imitate the implicit writing styles of everyday authors, especially in nuanced, informal domains such as blogs and forums. The EMNLP 2025 study found that generations often default to an average, generic tone and remain detectable as AI-written, with limited gains from simply adding more demonstrations. That is directly relevant to Russian stream-of-consciousness voice notes, which are closer to informal blog/forum expression than to structured corporate email. citeturn27view2
+
+Human post-editing is helpful but not magic. A 2026 ACL study found that post-edited text was often **perceived** by users as representative of their style, yet still retained detectable LLM stylistic traces. That is a warning against overconfidence in “human in the loop” as a vague slogan. If the human is only lightly approving polished drafts, voice drift can still accumulate invisibly. citeturn27view0turn27view1
+
+The more promising direction is structured personalization. TinyStyler showed that authorship embeddings can outperform or match strong prompting baselines with a much smaller model. Newer work on interpretable style representations uses recovered natural-language style prompts as a controllable interface for stylistic steering and beats direct prompting baselines on style imitation. Personalized generation research is also moving toward plug-and-play user embeddings and explicit modeling of inter-user differences, with measurable gains over standard retrieval-only approaches. The signal across these papers is consistent: **voice preservation works better when style is modeled explicitly as data, embeddings, or constraints**, not when it is left inside a generic prompt. citeturn27view3turn27view4turn35view0turn35view2
+
+### The best current industry systems build around source capture, not blank-page writing
+
+Professional ghostwriters repeatedly describe the same workflow: interviews or recorded conversations, transcription, line-by-line review for phrases and metaphors, and iterative refinement against past writing. Gotham Ghostwriters says voice alignment comes from interviews, existing samples, recorded conversations, and iteration. Lewis Commercial Writing says starting from transcripts preserves the client’s natural speaking voice better than starting from AI summaries. Tatarek’s B2B SaaS ghostwriting process likewise centers on discovery calls, SME interviews, voice matching, and collaborative revision rather than autonomous drafting. citeturn32view0turn32view1turn32view2
+
+Modern “founder content engine” software is converging on the same pattern in product form. Cleve imports social and email context to model voice; Eve builds a “voice model” quickly and adapts drafts to the channel; open-source projects such as Ghostwriter Agents and Ghostwriter split the workflow into specialized roles such as interviewer, writer, reviewer, and voice analyzer. The practical pattern is not one giant model but a **chain**: source capture, context loading, drafting, critique, and voice enforcement. citeturn31view4turn31view5turn31view6turn31view7turn31view8
+
+### Platform adaptation is no longer optional
+
+Current platform guidance punishes lazy repackaging. Facebook says it is prioritizing original content in Feed and Reels and will likely deprioritize content that merely stitches or narrates what is already on screen without meaningful added value. LinkedIn says generic AI-generated content that lacks perspective or substance is less likely to be distributed beyond one’s immediate network. YouTube says mass-produced or easily replicable template content can make an entire channel ineligible for monetization. This is not just a quality issue; it is now a distribution issue. citeturn15view0turn15view4turn15view3
+
+The operational consequence is straightforward: a long-form Facebook post, a compact Telegram post, and a thread-like sequence should be treated as **different editorial products**, not as minor length variants. Descript’s tooling reflects that by letting users draft a post for a specific platform. Eve explicitly says channel drafts are adapted for the channel rather than “copy-pasted shorter.” That is currently the sane baseline for multi-platform adaptation. citeturn31view3turn31view6
+
+### Over-volume is usually worse than under-conversion
+
+Public benchmark data for cadence are imperfect, but they point in the same direction. Hootsuite’s current recommendation is 1–2 Facebook posts per day, with quality carrying more weight than sheer frequency. Socialinsider’s 2026 benchmark work suggests Facebook Reels and richer visual formats outperform the higher-volume formats brands use most often. For Telegram, the available public analyses are less rigorous, but one view-based study of channel reach suggests non-news channels do best around 1–2 posts per day, with 3 as a tolerable ceiling and 4+ leading to marked decline in later-post reach. Those are not universal laws, but they are credible starting guardrails. citeturn36view0turn36view1turn36view2
+
+This makes the queueing problem central. If the raw-input rate is 20 notes per day, the right move is not to post 20 times. It is to **merge, serialize, bank, and schedule**. A mature system should separate **capture cadence** from **publishing cadence**. If it does not, the system will eventually optimize for throughput rather than signal, and the audience will feel that before the dashboard does. That inference is strongly supported by the platform authenticity push and by the broader research on AI-assisted creative homogenization. citeturn15view0turn15view4turn15view3turn29search0
+
+## Contradictions and Debates
+
+The first live debate is **retrieval versus fine-tuning versus embeddings** for voice. Retrieval-based systems are easy to ship and auditable, but they may focus too narrowly on locally relevant history and miss the author’s broader preferences. Per-user fine-tuning is often too operationally heavy. Plug-and-play user embeddings and related hybrid methods try to capture “holistic” user patterns without full per-user model training, and recent results on LaMP-style benchmarks show meaningful improvements over older baselines. For a small team, the practical answer is not to pick one camp ideologically, but to combine a lightweight author profile, a phrase-level retrieval bank, and example-based prompting before considering bespoke fine-tuning. citeturn35view0turn35view1turn35view2turn35view3
+
+The second debate is **two-stage ASR plus LLM rewriting versus end-to-end spoken-to-formal models**. Two-stage systems are flexible and easier to improve incrementally; end-to-end spoken-to-formal models promise lower latency, smaller memory footprint, and less error propagation. In 2026, the end-to-end approach is clearly emerging, but the evidence is still narrow and language-specific, while two-stage pipelines remain much easier to customize for brand voice, risk filters, and platform adaptation. For a founder-content workflow, the two-stage approach is still the safer implementation choice today. citeturn26view1turn26view3
+
+The third debate is **how visible AI involvement should be**. Journalism research finds a strong comfort gap in favor of human-led production, and branded-content studies suggest perceived AI usage lowers trust, authenticity, and emotional connection. At the same time, fully hiding AI assistance is brittle if the output starts to feel synthetic. The practical compromise for creator/founder publishing is not necessarily per-post “AI used” labeling, but a clearly human-led editorial standard: AI can assist with cleanup, structure, and adaptation; humans remain responsible for meaning, judgment, and approval. That is the position closest to both audience attitudes and newsroom best practice. citeturn37view1turn19view0turn17search0turn17search4turn30search1
+
+The fourth debate is **quantity versus diversity**. A 2024 Science Advances paper found that generative AI can raise average individual output quality while reducing collective diversity. That is exactly the trap in a forced-conversion system: every note may become clearer, cleaner, and more “professional,” while the corpus as a whole becomes narrower, more repetitive, and less surprising. If you care about the founder’s edge, you must monitor not only post-level quality but also **corpus-level novelty** across weeks and months. citeturn29search0turn29search4
+
+## Best Practices
+
+The most robust design principle is to preserve **three parallel representations** of every note: the raw audio, a faithful transcript, and a readable spoken-to-written rewrite. The raw audio protects against semantic drift and lets humans recover tone or intent. The faithful transcript preserves what was actually said. The readable rewrite handles filler removal, grammar, punctuation, and transcription repair. CoS2W and FormalASR both support this separation in spirit: spoken material and readable written material are different artifacts with different purposes. citeturn26view1turn26view3
+
+A strong author-voice system should maintain a **voice memory layer** with at least five elements: phrase bank, rhetorical habits, taboo phrases, argument patterns, and exemplar posts. Research on personalization and style control suggests that explicit style signals outperform vague prompting; ghostwriters say the same thing in less academic language when they talk about recorded conversations, repeated metaphors, and prior samples. In practice, this means the model should retrieve not just “relevant content,” but also the founder’s habitual transitions, favorite framings, recurring provocations, and signature moves. citeturn27view4turn35view0turn32view0turn32view1
+
+The editorial chain should be **multi-pass and role-specific**. Current open-source and emerging commercial systems both point this way: interviewer or source-loader, drafter, reviewer, and voice analyzer. For your use case, the minimum viable chain is: transcript cleaner, content extractor, draft composer, style critic, platform adapter, privacy/risk checker, and human publisher. The key rule is that each pass has a **narrow mandate**. One model trying to do everything at once is how meaning gets blurred and voice gets homogenized. citeturn31view7turn31view8turn31view6
+
+For cross-platform work, the right adaptation logic is editorial, not cosmetic. A Facebook version can sustain a stronger narrative arc, explicit context, and denser framing. A Telegram version usually needs faster scene-setting, a harder first line, and lower cognitive overhead per screen. A thread-like version should split the same idea into sequential claims, each with standalone tension. Tools like Descript and Eve reflect this in product design; platform signals from Facebook and LinkedIn make it a requirement rather than a nice-to-have. citeturn31view3turn31view6turn15view0turn15view4
+
+The quality gate should move away from “approve or reject” and toward **“upgrade, merge, defer, or suppress with logged reason.”** That is the only way a near-total-conversion mandate remains sane. Suppression should be reserved for privacy exposure, regulated/confidential material, direct operational commands, or meaning too damaged to safely reconstruct. Everything else should be upgraded into one of several output classes: direct post, merged post, serialized post, evergreen bank, or private internal note. This is an inference from ghostwriting practice, spoken-to-written research, and current tool capabilities. citeturn32view0turn32view1turn31view1turn26view1
+
+A useful operating scorecard for this kind of system is:
+
+| Metric | Why it matters | Practical target |
+|---|---|---|
+| Asset conversion rate | Measures whether notes are being rescued rather than discarded | 95%+ into some editorial asset |
+| Publishable conversion rate | Measures how much source material can become public-facing content | Start 60–75%, push toward 80%+ |
+| Human approval rate | Detects whether draft quality is actually usable | Aim for steady rise over time |
+| Voice fidelity score | Measures drift from author phrasing and rhetoric | Use exemplar-based rubric weekly |
+| Merge ratio | Protects against overposting when note volume spikes | Increase when intake exceeds cadence |
+| Engagement per post vs rolling median | Detects slop before it becomes obvious | Kill formats that underperform for 2–3 weeks |
+| Mute/unsub/negative feedback rate | Best fatigue signal available | Treat as hard stop signal |
+| Suppression-with-reason rate | Ensures “rejection” remains exceptional and auditable | Ideally low and explainable |
+
+This scorecard is an operational recommendation, but it is grounded in the platform penalties for low-value repetition, public skepticism toward fully AI-authored content, and the need to separate capture volume from distribution volume. citeturn15view0turn15view3turn15view4turn37view1
+
+## Failure Modes
+
+The first failure mode is **voice laundering**: the post remains directionally correct but loses the founder’s actual verbal grain. This happens when cleanup expands into over-composition, when models smooth out idiosyncrasies, or when editors reward “beautiful” phrasing over recognizability. The academic literature is consistent that genericization is still a live failure mode for personalized generation, especially in informal registers. citeturn27view2turn27view0turn7view3
+
+The second failure mode is **semantic drift disguised as polish**. Research shows that LLMs can alter meaning even when prompted to make only surface-level or grammar edits. Spoken-to-written work also warns that correcting ASR, grammar, and style are interdependent subtasks: errors in one layer can distort meaning in the next. A voice-first publishing system therefore needs traceability from final post back to transcript and, when needed, back to audio. citeturn7view0turn26view1
+
+The third failure mode is **collective sameness**. Doshi and Hauser’s result is the cleanest statement of the problem: AI assistance can improve average output while narrowing diversity. For a founder brand, that means the system may make weak notes look functional while flattening the corpus into a narrow band of tidy, over-explained, basically interchangeable content. citeturn29search0turn29search4
+
+The fourth failure mode is **public trust damage from AI slop or hidden shortcuts**. Reuters Institute research shows low comfort with fully AI-generated news and higher comfort with human-led use of AI for back-end tasks like grammar editing. Industry trust studies on content and advertising point the same way: once people suspect AI authorship, trust and authenticity can drop sharply. Public failures at CNET, Gannett, Sports Illustrated, and the Chicago Sun-Times/Inquirer supplement show what happens when institutions let automation outrun verification: embarrassing factual mistakes, visible style artifacts, and reputational cost. citeturn37view1turn17search0turn17search4turn19view3turn20search7turn19view2
+
+The fifth failure mode is **distribution collapse from template repetition**. This is now partly a platform risk. Facebook is reducing the reach of unoriginal content, LinkedIn says generic AI-like posts are less likely to spread beyond the immediate network, and YouTube can remove monetization at channel level for inauthentic mass-produced content. A pipeline designed around maximum throughput without novelty control is increasingly misaligned with platform incentives. citeturn15view0turn15view4turn15view3
+
+The sixth failure mode is **posting faster than the audience can metabolize**. Facebook benchmarks suggest moderation, while Telegram analyses for non-news channels suggest steep reach decay at higher daily frequency. If input volume is high and editorial standards are rigidly forced into daily publishing, content will start competing with itself. The cure is queue discipline and merge logic, not better prompting. citeturn36view0turn36view2
+
+## Strategic Recommendations
+
+The first recommendation is to redefine “conversion” in your internal policy. Do **not** measure success by one-note-one-post. Measure it by “every note becomes a durable editorial object unless suppressed for logged risk reasons.” That single change preserves the spirit of the mandate while avoiding the dumbest output inflation behavior. It is also much closer to how current voice-first tools and ghostwriters already work in practice. citeturn31view1turn31view2turn32view0turn32view1
+
+The second recommendation is to build a **voice fidelity layer as its own system**. Minimum components: a founder corpus; a phrase bank of preferred openers, transitions, metaphors, and hard stops; a negative lexicon of “AI tells” and words the founder never uses; an argument-shape library; and a small set of gold-standard exemplars per platform. Use these as both retrieval context and evaluation targets. Recent research suggests explicit style representations and structured personalization outperform simplistic exemplar prompting alone. citeturn27view4turn35view0turn35view2
+
+The third recommendation is to enforce a **delta budget** on edits. The first drafting pass should be allowed to repair transcription, punctuation, order, and clarity. It should **not** be allowed to improve the author into someone else. In practice, that means defining what must not change: core claim, emotional stance, signature phrasing, concrete examples, taboo intensity, and opinion sharpness. This recommendation follows directly from the evidence on LLM semantic drift and lingering stylistic traces after post-editing. citeturn7view0turn27view0
+
+The fourth recommendation is to install a **merge-and-bank policy** before you scale output. A healthy voice-first founder probably produces more raw thought than any single channel should absorb. For Facebook, start with roughly one flagship post per day or below; for non-news Telegram, 1–2 posts/day is a sensible ceiling unless channel analytics clearly support more. Everything above that should flow into merged posts, serialized themes, quote fragments, and evergreen inventory. Use the queue as a reservoir, not a landfill. citeturn36view0turn36view2
+
+The fifth recommendation is to define **public quality as platform-native originality**, not grammatical smoothness. On Facebook and LinkedIn especially, the winning test is whether the post adds a clear point of view, context, or expertise. A system that simply cleans and shortens will increasingly underperform a system that sharpens disagreements, examples, and lived judgment. That conclusion is directly aligned with the latest platform guidance. citeturn15view0turn15view4
+
+The sixth recommendation is to keep the human gate, but change what the human does. The human publisher should not be a proofreader of AI prose. The human should act as **editorial trader**: approve, merge, delay, re-angle, or bank based on portfolio effects across the week. This role becomes more important, not less, when capture volume is high. Reuters Institute’s findings on audience comfort and AP’s conservative editorial standard both support keeping humans in the driving seat. citeturn37view1turn30search1
+
+## Action Plan
+
+For the first week, build the **editorial schema**. Every voice note should exit triage into one of six states: direct post, merge candidate, thread candidate, evergreen bank, private/internal only, or suppress with reason. Also create the first version of the author voice kit: 50 favorite phrases, 50 banned/generic phrases, 10 exemplar posts per platform, 10 canonical argument shapes, and 10 examples of “what this founder would never say.” This is the fastest way to make the system less dependent on fragile prompting. citeturn32view0turn32view1turn27view4
+
+For the second week, change the chain architecture. The minimum production graph for a two-person team should be: **ASR cleanup → spoken-to-written rewrite → note typing → asset selection → draft generation → style critique → privacy/risk scan → platform adaptation → human publish decision**. If a note is weak, the default move is not rejection; it is either merge, re-angle, or convert into an evergreen seed. Only private/secret/operational material should be routinely withheld. citeturn26view1turn26view3turn31view7
+
+For the third week, impose cadence discipline. Start with a conservative public schedule, such as one primary Facebook post daily and one to two Telegram posts daily for non-news thought-leadership content. If intake exceeds that, raise the merge ratio rather than the publishing ratio. Create three banks: “publish this week,” “evergreen later,” and “needs more source material.” This prevents the common failure where conversion pressure turns into spam pressure. citeturn36view0turn36view2
+
+For the fourth week, stand up the weekly review loop. Review the prior week on four axes: voice, novelty, platform fit, and fatigue. Ask: Which posts sounded most like the founder? Which ones were too polished? Which phrases are becoming repetitive? Which topics should be merged next time? Which formats got weak engagement relative to the rolling median? Which drafts were approved fastest? This loop should update the phrase bank, banned lexicon, merge heuristics, and platform templates every week. That recommendation is an inference from the personalization literature, the ghostwriting process literature, and platform authenticity trends. citeturn27view2turn27view4turn32view0turn15view4
+
+For ongoing operations, use a simple weekly dashboard:
+
+| Weekly review item | Decision rule |
+|---|---|
+| Publishable conversion rate | If rising but engagement falls, quality is slipping |
+| Approval rate at human gate | If low, fix draft quality before increasing volume |
+| Median engagement vs 8-week median | If down materially for 2–3 weeks, reduce cadence or change format |
+| Merge ratio | If low while intake is high, you are overproducing public posts |
+| Suppress-with-reason count | Audit for privacy leakage and whether the system is misclassifying |
+| Phrase repetition audit | Remove repeated openings, endings, and generic rhetorical flourishes |
+| Top-performing note class | Double down on the asset classes that retain founder sharpness |
+
+The core rule is brutal but useful: **if conversion rises while approval quality, engagement quality, or voice recognizability falls, the system is cheating.** citeturn15view0turn15view4turn37view1
+
+## Sources
+
+The academic base for this report rests on recent work in spoken-to-written transformation, personalization, and style control: CoS2W/SWAB on contextualized spoken-to-written conversion of ASR transcripts; FormalASR on direct spoken-to-formal transcription; TinyStyler on few-shot authorship embeddings; EMNLP 2025 evidence that LLMs still struggle with implicit everyday style imitation; ACL 2026 evidence that post-editing can still leave detectable LLM traces; style-prompt recovery for interpretable stylistic control; and recent plug-and-play and inter-user-difference approaches to LLM personalization. citeturn26view1turn26view3turn27view3turn27view2turn27view0turn27view4turn35view0turn35view2
+
+The industry-practice base comes from official product and workflow materials from AudioPen, Castmagic, Descript, Cleve, Eve, and open-source ghostwriting projects, plus practitioner descriptions from ghostwriters and founder-content operators. These sources are useful not because their claims are neutral, but because they clearly show the workflow patterns that are actually being shipped and sold: source capture, transcript cleanup, style conditioning, repurposing, and multi-pass review. citeturn31view0turn31view2turn31view3turn31view4turn31view6turn31view7turn31view8turn32view0turn32view1turn32view2
+
+The trust, quality, and platform-risk sections rely on Reuters Institute research on public comfort with AI in news and broader platformized media consumption; AP’s published standards on generative AI; Meta’s 2026 originality update; LinkedIn’s 2026 anti-slop announcement; Google Search’s scaled-content-abuse policy; and YouTube’s clarification that mass-produced or template-like inauthentic content can affect monetization. citeturn37view1turn37view0turn30search1turn15view0turn15view4turn15view5turn15view3
+
+The failure-case section uses well-documented public incidents: CNET’s correction wave for AI-written stories, Gannett’s halt to flawed AI sports recaps, and the 2025 Chicago Sun-Times/Philadelphia Inquirer summer supplement that recommended nonexistent books after AI-assisted research went unchecked. These are not edge curiosities; they are what happens when output automation outruns editorial verification. citeturn19view3turn20search7turn19view2
+
+The cadence section uses the best currently available practical benchmarks rather than strong academic evidence. Public Facebook guidance from Hootsuite suggests 1–2 posts per day as a starting point; Socialinsider’s 2026 analysis shows that richer Facebook formats can outperform the formats brands post most often; and Postmypost’s Telegram analysis suggests 1–2 posts per day for non-news channels, with visible degradation beyond that. These sources are weaker than the academic and platform-policy sources above, so they should be treated as operational starting points to validate against your own analytics. citeturn36view0turn36view1turn36view2
+
+### Open questions and limitations
+
+There is still no strong public benchmark specifically for **Russian founder voice notes transformed into social posts at forced near-total conversion**. Most academic work studies general personalization, authorship transfer, or spoken-to-written normalization, not this exact workflow. Telegram cadence guidance is also much less robust than Facebook or LinkedIn guidance. Finally, public SaaS marketing pages overstate capability by design, so they are best used to identify workflow patterns, not to accept performance claims at face value. citeturn27view2turn26view1turn36view2turn31view6
+
+navlistRecent developments on AI slop and platform authenticityturn34news36,turn34news37,turn30news26,turn16news36,turn18news27

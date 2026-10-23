@@ -62,3 +62,8 @@ source: Palo Alto AI Research Lab — deep research programme
 - reader-engagement
 - GitHub Discussions
 - insight-DR-DR26-09-03-HUB-01-2037-бульварное-чтиво-как-метод-перенос-таблоидных-real — same domain: narrative-engagement techniques for build-in-public serialized posts, direct precursor DR
+
+
+## Raw model reports
+
+1 reports delivered, synthesis used not recorded: [DR26-07-06-HUB-02-priemy-vovlekayuschih-vstavok-voprosov-dlya-serializovannogo-build-in/](DR26-07-06-HUB-02-priemy-vovlekayuschih-vstavok-voprosov-dlya-serializovannogo-build-in/README.md)

@@ -58,3 +58,8 @@ source: Palo Alto AI Research Lab — deep research programme
 - stablecoin-yield-strategies
 - ton-ecosystem-metrics
 - beyond-canton-stablecoin-rails
+
+
+## Raw model reports
+
+3 reports delivered, synthesis used 4 of 6: [DR26-09-01-HUB-02-1604-pritok-roznitsy-v-ton-realnaya-dohodnost-steyblkoin-strategiy-i-nahodi/](DR26-09-01-HUB-02-1604-pritok-roznitsy-v-ton-realnaya-dohodnost-steyblkoin-strategiy-i-nahodi/README.md)

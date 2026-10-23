@@ -58,3 +58,8 @@ source: Palo Alto AI Research Lab — deep research programme
 - ghostwriting-workflow
 - queue-and-cadence-management
 - everything-becomes-content
+
+
+## Raw model reports
+
+1 reports delivered, synthesis used not recorded: [DR26-07-28-HUB-22-2339-voice-to-content-editorial-systems-achieving-near-100-conversion-witho/](DR26-07-28-HUB-22-2339-voice-to-content-editorial-systems-achieving-near-100-conversion-witho/README.md)

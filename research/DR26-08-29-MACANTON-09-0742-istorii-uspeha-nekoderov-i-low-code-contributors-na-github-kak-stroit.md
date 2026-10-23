@@ -58,3 +58,8 @@ source: Palo Alto AI Research Lab — deep research programme
 - fixed-it-share-it-with-the-world
 - content-miner-reflex
 - cofounder-growth-log
+
+
+## Raw model reports
+
+1 reports delivered, synthesis used not recorded: [DR26-08-29-MACANTON-09-0742-istorii-uspeha-nekoderov-i-low-code-contributors-na-github-kak-stroit/](DR26-08-29-MACANTON-09-0742-istorii-uspeha-nekoderov-i-low-code-contributors-na-github-kak-stroit/README.md)

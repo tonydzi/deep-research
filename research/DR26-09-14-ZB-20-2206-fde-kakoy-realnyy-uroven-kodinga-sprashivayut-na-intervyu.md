@@ -33,3 +33,8 @@ source: Palo Alto AI Research Lab — deep research programme
 
 ## Связано
 - insight-DR-DR26-09-20-HUB-01-1819-компенсации-senior-уровня-хедж-фонды-квант-трейдин — та же цепочка DR про FDE — coding-bar там, TC-цифры здесь
+
+
+## Raw model reports
+
+4 reports delivered, synthesis used 4 of 6: [DR26-09-14-ZB-20-2206-fde-kakoy-realnyy-uroven-kodinga-sprashivayut-na-intervyu/](DR26-09-14-ZB-20-2206-fde-kakoy-realnyy-uroven-kodinga-sprashivayut-na-intervyu/README.md)

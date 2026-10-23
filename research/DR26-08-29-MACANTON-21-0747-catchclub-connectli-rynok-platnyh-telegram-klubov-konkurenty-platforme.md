@@ -54,3 +54,8 @@ source: Palo Alto AI Research Lab — deep research programme
 - delaware-flip
 - ai-matching-monetization-failures
 - take-rate-vs-saas-model
+
+
+## Raw model reports
+
+1 reports delivered, synthesis used not recorded: [DR26-08-29-MACANTON-21-0747-catchclub-connectli-rynok-platnyh-telegram-klubov-konkurenty-platforme/](DR26-08-29-MACANTON-21-0747-catchclub-connectli-rynok-platnyh-telegram-klubov-konkurenty-platforme/README.md)

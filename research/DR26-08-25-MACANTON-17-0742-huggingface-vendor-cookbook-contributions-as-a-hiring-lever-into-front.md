@@ -65,3 +65,8 @@ source: Palo Alto AI Research Lab — deep research programme
 - ⚠️ MISMATCH `huggingface/smolagents#2656` — реально: «[BUG] AgentImage inverts pixel values when built from a tensor (255 - array * 255)» (open issue, 2026-08-18; overlap 0.00); в тексте: «- smolagents issue #2656 (opened 2026-08-18, governance/policy hooks around execution) is » → 🤔 не подтверждено, в рекомендации не идёт.
 - 🤷 cited-only `huggingface/cookbook#303` — реально: «Contribution to Hugging Face 🤗 cookbook: Add a search agent cookbook»; в тексте только ссылка без описания сути («- P0: Get HF Cookbook PR #303 merged with excellent execution (no scop») → не судим (ни ✅, ни ⚠️).
 - 🤷 cited-only `QwenLM/Qwen-Agent#927` — реально: «feat(examples): RAG with verifiable citations for the Assistant»; в тексте только ссылка без описания сути («- **Продукты/инструменты:** huggingface/cookbook, smolagents, lighteva») → не судим (ни ✅, ни ⚠️).
+
+
+## Raw model reports
+
+1 reports delivered, synthesis used not recorded: [DR26-08-25-MACANTON-17-0742-huggingface-vendor-cookbook-contributions-as-a-hiring-lever-into-front/](DR26-08-25-MACANTON-17-0742-huggingface-vendor-cookbook-contributions-as-a-hiring-lever-into-front/README.md)

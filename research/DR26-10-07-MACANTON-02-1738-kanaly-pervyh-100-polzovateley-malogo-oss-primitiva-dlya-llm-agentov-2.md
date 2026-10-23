@@ -58,3 +58,8 @@ source: Palo Alto AI Research Lab — deep research programme
 - антипаттерн веера однотипных PR
 - AI-слоп PR и закрытие внешних PR мейнтейнерами
 - llms.txt и открываемость агентами
+
+
+## Raw model reports
+
+1 reports delivered, synthesis used 1 of 6: [DR26-10-07-MACANTON-02-1738-kanaly-pervyh-100-polzovateley-malogo-oss-primitiva-dlya-llm-agentov-2/](DR26-10-07-MACANTON-02-1738-kanaly-pervyh-100-polzovateley-malogo-oss-primitiva-dlya-llm-agentov-2/README.md)

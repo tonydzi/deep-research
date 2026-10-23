@@ -51,3 +51,8 @@ mission-get-noticed-hired-by-llm-company · github-guerrilla-presence-over-merge
 ## 🧒 Простыми словами
 
 Мы думали: у умных институтов (Santa Fe, MIT, Mila, Antikythera, Google Pi) есть двери, куда можно войти со своим кодом. Проверили. Оказалось: у Antikythera дверь **открыта** — они прямо сейчас принимают заявки, и им не нужен ни университет, ни поездка. У Google есть **кнопка** — репозиторий, куда пускают, если принести рабочую мелочь. А Santa Fe, MIT и Mila — красивые витрины: внутрь по приглашению, просто так не зайти. Самое важное: обе разведки предупредили — не бросай то, что уже работает (наши вклады к вендорам), ради красивых имён. План: месяц пинаем открытую дверь и кнопку, старую дорогу не бросаем, и через 30 дней смотрим по ответам — дверь живая или нарисованная.
+
+
+## Raw model reports
+
+2 reports delivered, synthesis used not recorded: [DR26-07-31-MACANTON-05-2135-sintez-dr-oss-dveri-vne-vendorov-antikythera-i-google-pi-zhivye-sfi-mi/](DR26-07-31-MACANTON-05-2135-sintez-dr-oss-dveri-vne-vendorov-antikythera-i-google-pi-zhivye-sfi-mi/README.md)

@@ -36,3 +36,8 @@ source: Palo Alto AI Research Lab — deep research programme
 - Сошлось: пустая клетка «пять свойств вместе» держится, но ТОНКАЯ; рельсы не новы, нова надстройка (ACK-долг, dual-rail, тиры с tripwire, канон, верификация второй машиной); первым брать MCP-обёртку над шиной, intent+scope, verify-gate; Gas Town не копируем.
 - Разошлось: claim между машинами через Syncthing НЕ атомарен (арбитр-single-writer или fencing token); cross-session messaging не первый, а последний; пропущены agent-sync, system-gap-master, GNAP, ClawTeam-OpenClaw, Acgs-Swarm; 4 High в reference/consensus.py; витрина (roadmap, число машин, threat model Telegram, pinned-режим join-the-fleet); позиционирование = reference implementation governance-слоя по arXiv 2606.31498, не «пустая клетка».
 - Полная сверка: `E:\!CLAUDE-PaloAltoPC-June26\docs\dr-prompts\DR26-10-11-HUB-03-0732-synthesis-2legs.md`; оригиналы ног в `_originals/deep-research/DR26-10-11-HUB-03-0732-{chatgpt,claudeai}.md`; дашборд Sheets `1RPrXHh4Be9cUmlKjDeEyObG0mNP408-iWdxk6pV_Ev4`.
+
+
+## Raw model reports
+
+2 reports delivered, synthesis used 4 of 6: [DR26-10-11-HUB-03-0732-roi-agentov-na-odnom-pk-rynok-koordinatsii-agent-agent-vs-nash-stek-cl/](DR26-10-11-HUB-03-0732-roi-agentov-na-odnom-pk-rynok-koordinatsii-agent-agent-vs-nash-stek-cl/README.md)

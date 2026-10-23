@@ -54,3 +54,8 @@ source: Palo Alto AI Research Lab — deep research programme
 - machine-bus-telegram-rail
 - git-worktree-isolation
 - PACT-PARITY-20260922
+
+
+## Raw model reports
+
+4 reports delivered, synthesis used 4 of 6: [DR26-09-22-HUB-02-1159-multi-agentnaya-koordinatsiya-v-odnoy-papke-claude-codex-loki-protokol/](DR26-09-22-HUB-02-1159-multi-agentnaya-koordinatsiya-v-odnoy-papke-claude-codex-loki-protokol/README.md)
