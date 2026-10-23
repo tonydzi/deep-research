@@ -6,8 +6,8 @@
 
 | model | report arrived |
 |---|---|
-| chatgpt | unknown |
+
 
 Reports below are published as delivered, after an automatic privacy scrub.
 
-- [chatgpt](./chatgpt.md)
+

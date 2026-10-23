@@ -7,13 +7,11 @@
 | model | report arrived |
 |---|---|
 | chatgpt | 2026-09-16 20:35 |
-| claudeai | 2026-09-16 20:57 |
 | gemini | 2026-09-16 21:32 |
 | grok | 2026-09-16 20:00 |
 
 Reports below are published as delivered, after an automatic privacy scrub.
 
 - [chatgpt](./chatgpt.md)
-- [claudeai](./claudeai.md)
 - [gemini](./gemini.md)
 - [grok](./grok.md)

@@ -56,8 +56,3 @@ source: Palo Alto AI Research Lab — deep research programme
 - custom-agents-persona
 - digital-immortality
 - insight-DR-DR26-08-29-MACANTON-17-0743-google-antigravity-2-0-архитектура-интерфейсы-cli- — реестр отмечает DR-0743 как явный дубль DR-0740, та же тема Antigravity 2.0
-
-
-## Raw model reports
-
-1 reports delivered, synthesis used not recorded: [DR26-08-25-MACANTON-16-0740-google-antigravity-2-0-arhitektura-interfeysy-desktop-cli-headless-sdk/](DR26-08-25-MACANTON-16-0740-google-antigravity-2-0-arhitektura-interfeysy-desktop-cli-headless-sdk/README.md)

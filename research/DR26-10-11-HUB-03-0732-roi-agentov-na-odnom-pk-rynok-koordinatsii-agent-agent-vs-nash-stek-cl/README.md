@@ -8,10 +8,8 @@
 |---|---|
 | chatgpt | 2026-10-14 21:32 |
 | claudeai | 2026-10-14 21:32 |
-| grok | 2026-10-15 14:38 |
 
 Reports below are published as delivered, after an automatic privacy scrub.
 
 - [chatgpt](./chatgpt.md)
 - [claudeai](./claudeai.md)
-- [grok](./grok.md)

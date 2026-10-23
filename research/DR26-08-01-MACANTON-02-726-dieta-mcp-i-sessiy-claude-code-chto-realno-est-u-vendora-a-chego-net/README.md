@@ -7,9 +7,7 @@
 | model | report arrived |
 |---|---|
 | chatgpt | 2026-08-01 15:34 |
-| grok | 2026-08-01 15:34 |
 
 Reports below are published as delivered, after an automatic privacy scrub.
 
 - [chatgpt](./chatgpt.md)
-- [grok](./grok.md)

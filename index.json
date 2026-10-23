@@ -1,6 +1,6 @@
 {
  "generated": "2026-10-23",
- "count": 358,
+ "count": 347,
  "repo": "https://github.com/tonydzi/deep-research",
  "research": [
   {
@@ -175,15 +175,6 @@
    "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-08-04-ZB-12-2205-sintez-dr26-08-04-zb-12-golos-v-vesa-cpt-na-base-chekpointe-a-ne-vendo.md"
   },
   {
-   "dr_id": "DR26-08-05-HUB-01-1858",
-   "title": "архитектура «фронта без модалок»",
-   "summary": "Кормит решение: чинить ли класс «сессия встала на апруве» конфигом+лейном+гейтом, или строить кликер по окнам — и куда переносить unattended-работу. > База: **4 рельсы из 6** (chatgpt · gemini · grok · glm). Не собрано: `claudeai` (шёл дольше остальных, см. ниже), `mistral` (аккаунта нет). Оригиналы — `_originals\\deep-research\\DR26-08-05-HUB-01-1858-front-without-modals-*.md`. В JSONL-транскрипте (`~/.claude/projects/<project>/*.jsonl`) есть объект `type: assistant` с блоком `type: tool_use` и уникальным `id`, но **нет** последующего объекта `type: user` с `tool_result`, ссылающимся на тот же `id`.",
-   "lang": "ru",
-   "date": "",
-   "slug": "DR26-08-05-HUB-01-1858-arhitektura-fronta-bez-modalok",
-   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-08-05-HUB-01-1858-arhitektura-fronta-bez-modalok.md"
-  },
-  {
    "dr_id": "DR26-08-05-ZB-01-0125",
    "title": "почему статья висит на arXiv и что реально делать",
    "summary": "Кормит решение: что предпринять по submit/7825136 («Le Chatelier Tokenomics», on hold с 23.07.2026, 14 дней, писем модератора нет) — и заводить ли второй аккаунт. > **База: 2 рельсы из 6 — кворум НЕ добран.** Но четыре несущих вывода я проверил НЕ по рельсам, а напрямую по живым страницам arXiv 06.08.2026. Это сильнее четвёртого мнения LLM. Причины недобора рельс — замерены, не угаданы (см. §«Состояние вееров»). The author used [tool/model] for language editing and drafting assistance. All scientific claims, analyses, equations, data, and references were independently reviewed and verified by the author, who takes full responsibility for the content.",
@@ -346,15 +337,6 @@
    "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-09-04-HUB-02-2326-bb-dva-proekta-s-odnim-imenem-chto-iz-harnesa-browserbase-brat-a-chto.md"
   },
   {
-   "dr_id": "DR26-09-14-MACANTON-01-1204",
-   "title": "Портреты тех, кого берут: хедж-фонды · COO/IR/CoS в AI-стартапе · PD/COO/EIR в инкубаторах (DR26-09-14-MACANTON-01-1204)",
-   "summary": "Заказ: [[voice-20260913080550-msg6598|голосовая Антона #6598 от 13.09]] → закрыть три семьи ролей, которых не было в предыдущих ДР по найму. Сверка с фактами: [[Anton-Canonical-Identity-CV]]. Соседи: [[insight-DR-DR26-08-24-HUB-03-1747-llm-hiring-mechanics]] (механика найма в LLM-лабах), [[portrait-devrel-and-developer-education]] (четвёртая семья ролей: DevRel и Developer Education, DR26-09-14-ZB-10-2009). Хаб сводит DevRel / биржи / стейблкоины / BD — его заметка `insight-2026-09-14-ideal-candidate-portraits-hub` на момент синтеза на Mac16 не доехала, общий мемо ждёт её. Код не правлю. Это план для сессии `/cv`. ⛔ Цифр, которых нет в мастере, не выдумывать — строки с 🤔 требуют фактов от Антона.",
-   "lang": "ru",
-   "date": "",
-   "slug": "DR26-09-14-MACANTON-01-1204-portrety-teh-kogo-berut-hedzh-fondy-coo-ir-cos-v-ai-startape-pd-coo-ei",
-   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-09-14-MACANTON-01-1204-portrety-teh-kogo-berut-hedzh-fondy-coo-ir-cos-v-ai-startape-pd-coo-ei.md"
-  },
-  {
    "dr_id": "DR26-09-14-ZB-10-2009",
    "title": "DevRel / Developer Education в AI-лаборатории: собирательный портрет",
    "summary": "Ровно по центральному вопросу ТЗ («какая дверь шире без FAANG-инженерного прошлого») ноги разошлись:",
@@ -418,15 +400,6 @@
    "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-09-15-HUB-01-1111-stoit-li-nepreryvnaya-zapis-ekrana-svoey-tseny-esli-zvuk-i-tekst-uzhe.md"
   },
   {
-   "dr_id": "DR26-09-15-HUB-04-1610",
-   "title": "Как проходят интервью в AI-лабораториях и FAANG — и что это значит для Антона",
-   "summary": "**Заказ:** DR26-09-15-HUB-04-1610 · **Потребитель:** коучинг Антона перед звонками (Пайп A) + обновление [[interview-prep]] и `/coach`. **Родители:** [[insight-DR-DR26-09-14-ZB-11-2009-bd-partnerships-fde-eir]] (кого берут), [[insight-DR-DR26-08-24-HUB-03-1747-llm-hiring-mechanics]] (механика найма), [[insight-2026-08-31-recall-anton-candidate-positioning-full-map]] (позиционирование). Предыдущие ДР закрывали отбор **до** интервью. Этот — первый про **сам процесс**.",
-   "lang": "ru",
-   "date": "",
-   "slug": "DR26-09-15-HUB-04-1610-kak-prohodyat-intervyu-v-ai-laboratoriyah-i-faang-i-chto-eto-znachit-d",
-   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-09-15-HUB-04-1610-kak-prohodyat-intervyu-v-ai-laboratoriyah-i-faang-i-chto-eto-znachit-d.md"
-  },
-  {
    "dr_id": "DR26-09-15-HUB-05-1826",
    "title": "Как ВЕСТИ СЕБЯ в семи комнатах интервью: поведенческая механика (DR26-09-15-HUB-05-1826)",
    "summary": "«I see two approaches. The hash-map version is linear but uses O(n) memory; sorting costs O(n log n) but bounds memory differently. Given this constraint, I'll use the map and first test duplicate inputs.» «Give me ten seconds to compare the two failure modes.» «I'm glad to discuss compensation when there's mutual fit; right now I want to understand the role.» «The problem was X. I personally owned Y. The measured result was Z. The hardest trade-off was A versus B. I can start with architecture, the failure that changed the design, or rollout — where would you like depth?»",
@@ -443,15 +416,6 @@
    "date": "",
    "slug": "DR26-09-15-MACANTON-02-1229-sintez-dr26-09-15-macanton-02-1229-ai-vizionery-slova-protiv-stavok-pr",
    "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-09-15-MACANTON-02-1229-sintez-dr26-09-15-macanton-02-1229-ai-vizionery-slova-protiv-stavok-pr.md"
-  },
-  {
-   "dr_id": "DR26-09-15-ZB-04-0758",
-   "title": "Планировщики соцсетей с MCP: кто держит платный доступ к X за нас",
-   "summary": "У Антона есть своё developer-приложение X, но оно **не enrolled в pay-per-use**, поэтому X API v2 отдаёт `403 client-not-enrolled`. Пока это так, любая рельса «принеси свой ключ» упирается ровно в эту стену. Вопрос был: кто из планировщиков держит платный доступ к X **на своей стороне**, чтобы агент публиковал через OAuth и без биллинга X.",
-   "lang": "ru",
-   "date": "",
-   "slug": "DR26-09-15-ZB-04-0758-planirovschiki-sotssetey-s-mcp-kto-derzhit-platnyy-dostup-k-x-za-nas",
-   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-09-15-ZB-04-0758-planirovschiki-sotssetey-s-mcp-kto-derzhit-platnyy-dostup-k-x-za-nas.md"
   },
   {
    "dr_id": "DR26-09-16-MACANTON-01-0446",
@@ -724,24 +688,6 @@
    "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-06-26-HUB-04-otkazoustoychivost-llm-infrastruktury-failover-mezhdu-claude-opus-sonn.md"
   },
   {
-   "dr_id": "DR26-06-26-HUB-05",
-   "title": "Anthropic Claude Code: приостановленный headless-кредит и механика лимитов подписки Max/Pr",
-   "summary": "Как с середины июня 2026-го должны были измениться (и почему приостановлены) лимиты фонового/headless использования Claude Code, и как реально устроены недельные/сессионные лимиты и расход бюджета по моделям.",
-   "lang": "ru",
-   "date": "2026-06-26",
-   "slug": "DR26-06-26-HUB-05-anthropic-claude-code-priostanovlennyy-headless-kredit-i-mehanika-limi",
-   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-06-26-HUB-05-anthropic-claude-code-priostanovlennyy-headless-kredit-i-mehanika-limi.md"
-  },
-  {
-   "dr_id": "DR26-06-26-HUB-06",
-   "title": "Выбор локальной LLM (3–6 GB VRAM) на GTX 1660 Super как фоллбэк для Claude Code",
-   "summary": "Исследование отвечает на вопрос, какую локальную 3–6GB модель поставить на GTX 1660 Super как фоллбэк для Claude Code при исчерпании лимитов, и как технически организовать переключение.",
-   "lang": "ru",
-   "date": "2026-06-26",
-   "slug": "DR26-06-26-HUB-06-vybor-lokalnoy-llm-3-6-gb-vram-na-gtx-1660-super-kak-follbek-dlya-clau",
-   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-06-26-HUB-06-vybor-lokalnoy-llm-3-6-gb-vram-na-gtx-1660-super-kak-follbek-dlya-clau.md"
-  },
-  {
    "dr_id": "DR26-06-26-HUB-07",
    "title": "Сравнение мессенджер-каналов и моделей идентичности для мульти-агентных Claude-команд",
    "summary": "Какой мессенджер-канал и какая модель идентичности агентов (Telegram/Discord/Matrix, отдельные боты vs один userbot) лучше подходит для 4-10 агентов с human-in-the-loop.",
@@ -974,15 +920,6 @@
    "date": "2026-07-01",
    "slug": "DR26-07-01-ZB-04-deshevaya-arhitektura-negativnogo-znaniya-pamyati-provalov-dlya-koding",
    "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-07-01-ZB-04-deshevaya-arhitektura-negativnogo-znaniya-pamyati-provalov-dlya-koding.md"
-  },
-  {
-   "dr_id": "DR26-07-01-ZB-05",
-   "title": "Архитектура фолбэка моделей для always-on агента на подписке (Claude Max/Weekly) без случа",
-   "summary": "⚠️ **UPDATE 2026-07-14:** эта заметка была сгенерена по ПРОМПТУ (тела отчёта тогда не было — ChatGPT не отдаёт DR через экспорт). Полный отчёт СОБРАН 14.07 (Export→Markdown), лежит в `_originals\\deep-research\\` (путь в «Источник»). Актуальный синтез: [[decision-agent-stack-dr-bundle-synthesis-2026-07-14]]. Запрос глубокого ресёрча (ChatGPT Deep Research) на тему: как построить лестницу фолбэка моделей и wrapper вокруг claude -p, чтобы агент деградировал грациозно при упоре в лимит подписки, не переходя на платный API — отчёт содержит только постановку задачи/контекст, самого синтеза-ответа в тексте нет.",
-   "lang": "mixed",
-   "date": "2026-07-01",
-   "slug": "DR26-07-01-ZB-05-arhitektura-folbeka-modeley-dlya-always-on-agenta-na-podpiske-claude-m",
-   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-07-01-ZB-05-arhitektura-folbeka-modeley-dlya-always-on-agenta-na-podpiske-claude-m.md"
   },
   {
    "dr_id": "DR26-07-02-HUB-01",
@@ -2137,15 +2074,6 @@
    "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-07-28-HUB-19-2339-durable-structured-failure-negative-knowledge-memory-architecture-for.md"
   },
   {
-   "dr_id": "DR26-07-28-HUB-20-2339",
-   "title": "Fallback architecture for a subscription-only always-on Claude agent hitting rate limits",
-   "summary": "Deep research on how to design a model-fallback ladder (subscription → local → optional cheap paid API) so an always-on personal agent degrades gracefully when Claude Max hits its weekly limit without ever silently failing or accidentally spending on paid API.",
-   "lang": "en",
-   "date": "2026-07-28",
-   "slug": "DR26-07-28-HUB-20-2339-fallback-architecture-for-a-subscription-only-always-on-claude-agent-h",
-   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-07-28-HUB-20-2339-fallback-architecture-for-a-subscription-only-always-on-claude-agent-h.md"
-  },
-  {
    "dr_id": "DR26-07-28-HUB-21-2339",
    "title": "Persistent structural code memory for coding agents (symbol/call graph, blast-radius analy",
    "summary": "Deep-research answer on how to give Claude Code / Codex a persistent, auto-updated structural memory of a codebase (symbol graph, call graph, change-impact) to cut tokens and prevent breaking shared code, and whether to adopt an existing tool or build one.",
@@ -2308,15 +2236,6 @@
    "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-08-06-HUB-02-1055-dr26-08-06-hub-02-1055-5-pochemu-po-serii-chto-podtverdilos-v-nashem-t.md"
   },
   {
-   "dr_id": "DR26-08-06-ZB-01-0934",
-   "title": "DR26-08-06-ZB-01-0934 — dev.to: голос, механика, граница самопиара и GEO-цитируемость",
-   "summary": "Потребитель разведки назван при рождении: **переписать `_STYLE-devto.md`**. Он переписан в тот же день (v2), версия 1 сохранена рядом как `.bak-v1-20260806`. Каждое утверждение в v2 несёт метку ✅ / 🤔 / 🔴.",
-   "lang": "ru",
-   "date": "2026-08-06",
-   "slug": "DR26-08-06-ZB-01-0934-dr26-08-06-zb-01-0934-dev-to-golos-mehanika-granitsa-samopiara-i-geo-t",
-   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-08-06-ZB-01-0934-dr26-08-06-zb-01-0934-dev-to-golos-mehanika-granitsa-samopiara-i-geo-t.md"
-  },
-  {
    "dr_id": "DR26-08-04-ZB-14-2214",
    "title": "гейт по intent с ограниченным fan-control",
    "summary": "выбрать гибрид: оставить query-type gate как основной рубильник, не добавлять ACT-R time-decay, а degree-normalized fan-control тестировать только внутри разрешённого graph-режима. для точного факта или атрибута сущности граф по умолчанию выключен; для темы, связей, истории и multi-hop включён с лимитом соседей и штрафом степени. ответ переворачивается в always-on graph только если слепой локальный тест покажет, что fan-penalty не уступает vector-only на entity-запросах, сохраняет выигрыш на тематических запросах и убирает тяжёлые ошибки. если fan-control не улучшает raw graph, оставить текущий гейт без усложнения.",
@@ -2324,15 +2243,6 @@
    "date": "2026-08-10",
    "slug": "DR26-08-04-ZB-14-2214-geyt-po-intent-s-ogranichennym-fan-control",
    "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-08-04-ZB-14-2214-geyt-po-intent-s-ogranichennym-fan-control.md"
-  },
-  {
-   "dr_id": "DR26-08-06-HUB-03-1725",
-   "title": "CLI-reuse — лучшая из СЕРЫХ зон, не зелёная; остаток бака машинно читается только у Codex",
-   "summary": "**⚠️ База — ТРИ рельсы из шести.** Ответили `grok-4.5` (CLI, 33 КБ), `codex`/gpt-5.4 (CLI, 71 КБ, со ссылками) и `gemini` (вендорский Deep Research в браузере, 118 КБ, 65 уникальных доменов). Не открылись `claude.ai` (бак Max был выбран), `GLM` (стартовал и встал без отчёта) и `mistral` (аккаунта нет: Sign up + ToS = руки Антона). **Кворум 4/6 НЕ добран — словом «консенсус» это называть нельзя.** Оригиналы: `_machine-bus/_dr/queue/DR26-08-06-HUB-03-1725/results/{grok,chatgpt,gemini}.md`. «CLI-reuse — **лучшая из серых зон**, не зелёная.»",
-   "lang": "ru",
-   "date": "2026-08-10",
-   "slug": "DR26-08-06-HUB-03-1725-cli-reuse-luchshaya-iz-seryh-zon-ne-zelenaya-ostatok-baka-mashinno-chi",
-   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-08-06-HUB-03-1725-cli-reuse-luchshaya-iz-seryh-zon-ne-zelenaya-ostatok-baka-mashinno-chi.md"
   },
   {
    "dr_id": "DR26-08-10-HUB-01-1449",
@@ -3044,15 +2954,6 @@
    "date": "2026-10-02",
    "slug": "DR26-10-02-ZB-02-1136-kakaya-llm-luchshe-vsego-pishet-korotkie-200-280-zn-posty-dlya-x",
    "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-10-02-ZB-02-1136-kakaya-llm-luchshe-vsego-pishet-korotkie-200-280-zn-posty-dlya-x.md"
-  },
-  {
-   "dr_id": "DR26-10-03-HUB-01-0323",
-   "title": "bb vs Hermes Agent vs OpenClaw — выбор ежедневного мультиагентного кокпита на Windows+WSL",
-   "summary": "Исследование отвечает, какой инструмент (bb, Hermes Agent или OpenClaw) ставить как ежедневный кокпит для общего рабочего пространства с несколькими агентами, общей библиотекой SKILL.md и уже оплаченными подписками без риска случайных удалений и дублирования памяти/конфигов.",
-   "lang": "ru",
-   "date": "2026-10-03",
-   "slug": "DR26-10-03-HUB-01-0323-bb-vs-hermes-agent-vs-openclaw-vybor-ezhednevnogo-multiagentnogo-kokpi",
-   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-10-03-HUB-01-0323-bb-vs-hermes-agent-vs-openclaw-vybor-ezhednevnogo-multiagentnogo-kokpi.md"
   },
   {
    "dr_id": "DR26-10-03-ZB-01-0157",

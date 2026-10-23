@@ -57,8 +57,3 @@ source: Palo Alto AI Research Lab — deep research programme
 - MCP-integration
 - AI-agent-orchestration
 - custom-agents-personas
-
-
-## Raw model reports
-
-1 reports delivered, synthesis used not recorded: [DR26-08-29-MACANTON-17-0743-google-antigravity-2-0-arhitektura-interfeysy-cli-headless-desktop-man/](DR26-08-29-MACANTON-17-0743-google-antigravity-2-0-arhitektura-interfeysy-cli-headless-desktop-man/README.md)
