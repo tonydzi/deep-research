@@ -58,4 +58,4 @@ source: Palo Alto AI Research Lab — deep research programme
 
 ## Raw model reports
 
-1 reports delivered, synthesis used not recorded: [DR26-07-06-ZB-01-vybor-signalnogo-istochnika-intent-to-buy-dlya-ai-crm-radar-vozmozhnos/](DR26-07-06-ZB-01-vybor-signalnogo-istochnika-intent-to-buy-dlya-ai-crm-radar-vozmozhnos/README.md)
+1 reports delivered, synthesis used not recorded. [DR26-07-06-ZB-01-vybor-signalnogo-istochnika-intent-to-buy-dlya-ai-crm-radar-vozmozhnos/](DR26-07-06-ZB-01-vybor-signalnogo-istochnika-intent-to-buy-dlya-ai-crm-radar-vozmozhnos/README.md)

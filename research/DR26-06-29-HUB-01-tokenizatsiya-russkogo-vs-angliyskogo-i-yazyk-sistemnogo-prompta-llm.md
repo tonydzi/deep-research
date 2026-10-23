@@ -52,4 +52,4 @@ source: Palo Alto AI Research Lab — deep research programme
 
 ## Raw model reports
 
-1 reports delivered, synthesis used not recorded: [DR26-06-29-HUB-01-tokenizatsiya-russkogo-vs-angliyskogo-i-yazyk-sistemnogo-prompta-llm/](DR26-06-29-HUB-01-tokenizatsiya-russkogo-vs-angliyskogo-i-yazyk-sistemnogo-prompta-llm/README.md)
+1 reports delivered, synthesis used not recorded. [DR26-06-29-HUB-01-tokenizatsiya-russkogo-vs-angliyskogo-i-yazyk-sistemnogo-prompta-llm/](DR26-06-29-HUB-01-tokenizatsiya-russkogo-vs-angliyskogo-i-yazyk-sistemnogo-prompta-llm/README.md)

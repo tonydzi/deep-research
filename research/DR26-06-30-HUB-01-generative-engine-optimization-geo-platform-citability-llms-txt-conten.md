@@ -58,4 +58,4 @@ source: Palo Alto AI Research Lab — deep research programme
 
 ## Raw model reports
 
-1 reports delivered, synthesis used not recorded: [DR26-06-30-HUB-01-generative-engine-optimization-geo-platform-citability-llms-txt-conten/](DR26-06-30-HUB-01-generative-engine-optimization-geo-platform-citability-llms-txt-conten/README.md)
+1 reports delivered, synthesis used not recorded. [DR26-06-30-HUB-01-generative-engine-optimization-geo-platform-citability-llms-txt-conten/](DR26-06-30-HUB-01-generative-engine-optimization-geo-platform-citability-llms-txt-conten/README.md)

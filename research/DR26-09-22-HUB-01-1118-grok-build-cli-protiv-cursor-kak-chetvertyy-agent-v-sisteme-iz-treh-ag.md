@@ -59,4 +59,4 @@ source: Palo Alto AI Research Lab — deep research programme
 
 ## Raw model reports
 
-4 reports delivered, synthesis used 4 of 5: [DR26-09-22-HUB-01-1118-grok-build-cli-protiv-cursor-kak-chetvertyy-agent-v-sisteme-iz-treh-ag/](DR26-09-22-HUB-01-1118-grok-build-cli-protiv-cursor-kak-chetvertyy-agent-v-sisteme-iz-treh-ag/README.md)
+4 reports delivered, synthesis used 4 of 5. [DR26-09-22-HUB-01-1118-grok-build-cli-protiv-cursor-kak-chetvertyy-agent-v-sisteme-iz-treh-ag/](DR26-09-22-HUB-01-1118-grok-build-cli-protiv-cursor-kak-chetvertyy-agent-v-sisteme-iz-treh-ag/README.md)

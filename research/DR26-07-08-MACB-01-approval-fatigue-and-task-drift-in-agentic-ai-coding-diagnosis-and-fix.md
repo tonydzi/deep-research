@@ -60,4 +60,4 @@ source: Palo Alto AI Research Lab — deep research programme
 
 ## Raw model reports
 
-1 reports delivered, synthesis used not recorded: [DR26-07-08-MACB-01-approval-fatigue-and-task-drift-in-agentic-ai-coding-diagnosis-and-fix/](DR26-07-08-MACB-01-approval-fatigue-and-task-drift-in-agentic-ai-coding-diagnosis-and-fix/README.md)
+1 reports delivered, synthesis used not recorded. [DR26-07-08-MACB-01-approval-fatigue-and-task-drift-in-agentic-ai-coding-diagnosis-and-fix/](DR26-07-08-MACB-01-approval-fatigue-and-task-drift-in-agentic-ai-coding-diagnosis-and-fix/README.md)

@@ -57,4 +57,4 @@ source: Palo Alto AI Research Lab — deep research programme
 
 ## Raw model reports
 
-1 reports delivered, synthesis used not recorded: [DR26-08-25-MACANTON-09-0740-sravnenie-novyh-llm-2026-glm-mimo-kimi-k3-claude-fable-5-opus-5-gpt-5/](DR26-08-25-MACANTON-09-0740-sravnenie-novyh-llm-2026-glm-mimo-kimi-k3-claude-fable-5-opus-5-gpt-5/README.md)
+1 reports delivered, synthesis used not recorded. [DR26-08-25-MACANTON-09-0740-sravnenie-novyh-llm-2026-glm-mimo-kimi-k3-claude-fable-5-opus-5-gpt-5/](DR26-08-25-MACANTON-09-0740-sravnenie-novyh-llm-2026-glm-mimo-kimi-k3-claude-fable-5-opus-5-gpt-5/README.md)

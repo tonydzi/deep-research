@@ -64,4 +64,4 @@ source: Palo Alto AI Research Lab — deep research programme
 
 ## Raw model reports
 
-1 reports delivered, synthesis used not recorded: [DR26-07-04-ZB-02-graph-rag-on-sqlite-for-agents-validating-the-niche-and-article-angles/](DR26-07-04-ZB-02-graph-rag-on-sqlite-for-agents-validating-the-niche-and-article-angles/README.md)
+1 reports delivered, synthesis used not recorded. [DR26-07-04-ZB-02-graph-rag-on-sqlite-for-agents-validating-the-niche-and-article-angles/](DR26-07-04-ZB-02-graph-rag-on-sqlite-for-agents-validating-the-niche-and-article-angles/README.md)

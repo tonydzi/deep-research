@@ -51,4 +51,4 @@ source: Palo Alto AI Research Lab — deep research programme
 
 ## Raw model reports
 
-1 reports delivered, synthesis used not recorded: [DR26-06-26-HUB-08-inventarizatsiya-i-stress-testirovanie-b-u-gpu-rtx-3090-5060ti-pered-p/](DR26-06-26-HUB-08-inventarizatsiya-i-stress-testirovanie-b-u-gpu-rtx-3090-5060ti-pered-p/README.md)
+1 reports delivered, synthesis used not recorded. [DR26-06-26-HUB-08-inventarizatsiya-i-stress-testirovanie-b-u-gpu-rtx-3090-5060ti-pered-p/](DR26-06-26-HUB-08-inventarizatsiya-i-stress-testirovanie-b-u-gpu-rtx-3090-5060ti-pered-p/README.md)

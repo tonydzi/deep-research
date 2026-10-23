@@ -62,4 +62,4 @@ source: Palo Alto AI Research Lab — deep research programme
 
 ## Raw model reports
 
-3 reports delivered, synthesis used not recorded: [DR26-07-16-HUB-04-firefox-vs-chrome-chromium-browsers-for-cookie-session-automation-work/](DR26-07-16-HUB-04-firefox-vs-chrome-chromium-browsers-for-cookie-session-automation-work/README.md)
+3 reports delivered, synthesis used not recorded. [DR26-07-16-HUB-04-firefox-vs-chrome-chromium-browsers-for-cookie-session-automation-work/](DR26-07-16-HUB-04-firefox-vs-chrome-chromium-browsers-for-cookie-session-automation-work/README.md)

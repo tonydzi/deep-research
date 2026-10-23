@@ -115,4 +115,4 @@ Grok — «да, как дополнение». GLM — payload содержит
 
 ## Raw model reports
 
-4 reports delivered, synthesis used 4 of 6: [DR26-08-05-HUB-02-2156-fb-graph-api-svoi-posty-s-lichnogo-profilya-chitayutsya-legalno-i-bez/](DR26-08-05-HUB-02-2156-fb-graph-api-svoi-posty-s-lichnogo-profilya-chitayutsya-legalno-i-bez/README.md)
+4 reports delivered, synthesis used 4 of 6. [DR26-08-05-HUB-02-2156-fb-graph-api-svoi-posty-s-lichnogo-profilya-chitayutsya-legalno-i-bez/](DR26-08-05-HUB-02-2156-fb-graph-api-svoi-posty-s-lichnogo-profilya-chitayutsya-legalno-i-bez/README.md)

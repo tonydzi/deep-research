@@ -46,4 +46,4 @@ _нет_
 
 ## Raw model reports
 
-1 reports delivered, synthesis used not recorded: [DR26-07-01-ZB-03-architecture-for-a-safety-action-gate-layer-over-a-personal-multi-agen/](DR26-07-01-ZB-03-architecture-for-a-safety-action-gate-layer-over-a-personal-multi-agen/README.md)
+1 reports delivered, synthesis used not recorded. [DR26-07-01-ZB-03-architecture-for-a-safety-action-gate-layer-over-a-personal-multi-agen/](DR26-07-01-ZB-03-architecture-for-a-safety-action-gate-layer-over-a-personal-multi-agen/README.md)

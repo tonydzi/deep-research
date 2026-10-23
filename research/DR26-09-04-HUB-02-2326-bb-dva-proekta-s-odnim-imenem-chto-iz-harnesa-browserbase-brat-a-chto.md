@@ -223,3 +223,8 @@ codex→chatgpt: **поправил премиссу самого заказа**
 
 ## Связано
 - insight-DR-DR26-09-29-HUB-01-0839-bb-get-bb-как-оркестратор-мульти-агентного-флота-п — предыдущий ДР по тому же bb/get-bb харнесу для того же флота
+
+
+## Raw model reports
+
+3 reports delivered, synthesis used 3 of 6. Note: 1 report(s) arrived after the synthesis was written; they are attached raw and were not reconciled. [DR26-09-04-HUB-02-2326-bb-dva-proekta-s-odnim-imenem-chto-iz-harnesa-browserbase-brat-a-chto/](DR26-09-04-HUB-02-2326-bb-dva-proekta-s-odnim-imenem-chto-iz-harnesa-browserbase-brat-a-chto/README.md)

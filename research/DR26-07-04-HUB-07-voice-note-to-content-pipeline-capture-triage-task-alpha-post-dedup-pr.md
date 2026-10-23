@@ -61,4 +61,4 @@ source: Palo Alto AI Research Lab — deep research programme
 
 ## Raw model reports
 
-1 reports delivered, synthesis used not recorded: [DR26-07-04-HUB-07-voice-note-to-content-pipeline-capture-triage-task-alpha-post-dedup-pr/](DR26-07-04-HUB-07-voice-note-to-content-pipeline-capture-triage-task-alpha-post-dedup-pr/README.md)
+1 reports delivered, synthesis used not recorded. [DR26-07-04-HUB-07-voice-note-to-content-pipeline-capture-triage-task-alpha-post-dedup-pr/](DR26-07-04-HUB-07-voice-note-to-content-pipeline-capture-triage-task-alpha-post-dedup-pr/README.md)

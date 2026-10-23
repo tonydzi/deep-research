@@ -57,4 +57,4 @@ source: Palo Alto AI Research Lab — deep research programme
 
 ## Raw model reports
 
-1 reports delivered, synthesis used not recorded: [DR26-06-28-HUB-03-razbor-kommentariya-pro-obsidian-claudian-mempalace-hermes-kak-trehslo/](DR26-06-28-HUB-03-razbor-kommentariya-pro-obsidian-claudian-mempalace-hermes-kak-trehslo/README.md)
+1 reports delivered, synthesis used not recorded. [DR26-06-28-HUB-03-razbor-kommentariya-pro-obsidian-claudian-mempalace-hermes-kak-trehslo/](DR26-06-28-HUB-03-razbor-kommentariya-pro-obsidian-claudian-mempalace-hermes-kak-trehslo/README.md)

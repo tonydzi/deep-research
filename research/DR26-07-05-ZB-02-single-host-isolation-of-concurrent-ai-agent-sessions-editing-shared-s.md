@@ -50,4 +50,4 @@ source: Palo Alto AI Research Lab — deep research programme
 
 ## Raw model reports
 
-1 reports delivered, synthesis used not recorded: [DR26-07-05-ZB-02-single-host-isolation-of-concurrent-ai-agent-sessions-editing-shared-s/](DR26-07-05-ZB-02-single-host-isolation-of-concurrent-ai-agent-sessions-editing-shared-s/README.md)
+1 reports delivered, synthesis used not recorded. [DR26-07-05-ZB-02-single-host-isolation-of-concurrent-ai-agent-sessions-editing-shared-s/](DR26-07-05-ZB-02-single-host-isolation-of-concurrent-ai-agent-sessions-editing-shared-s/README.md)

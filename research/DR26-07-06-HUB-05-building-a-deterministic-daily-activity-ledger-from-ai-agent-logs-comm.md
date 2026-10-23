@@ -59,4 +59,4 @@ source: Palo Alto AI Research Lab — deep research programme
 
 ## Raw model reports
 
-2 reports delivered, synthesis used not recorded: [DR26-07-06-HUB-05-building-a-deterministic-daily-activity-ledger-from-ai-agent-logs-comm/](DR26-07-06-HUB-05-building-a-deterministic-daily-activity-ledger-from-ai-agent-logs-comm/README.md)
+2 reports delivered, synthesis used not recorded. [DR26-07-06-HUB-05-building-a-deterministic-daily-activity-ledger-from-ai-agent-logs-comm/](DR26-07-06-HUB-05-building-a-deterministic-daily-activity-ledger-from-ai-agent-logs-comm/README.md)

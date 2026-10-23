@@ -57,4 +57,4 @@ source: Palo Alto AI Research Lab — deep research programme
 
 ## Raw model reports
 
-1 reports delivered, synthesis used not recorded: [DR26-07-01-ZB-04-deshevaya-arhitektura-negativnogo-znaniya-pamyati-provalov-dlya-koding/](DR26-07-01-ZB-04-deshevaya-arhitektura-negativnogo-znaniya-pamyati-provalov-dlya-koding/README.md)
+1 reports delivered, synthesis used not recorded. [DR26-07-01-ZB-04-deshevaya-arhitektura-negativnogo-znaniya-pamyati-provalov-dlya-koding/](DR26-07-01-ZB-04-deshevaya-arhitektura-negativnogo-znaniya-pamyati-provalov-dlya-koding/README.md)

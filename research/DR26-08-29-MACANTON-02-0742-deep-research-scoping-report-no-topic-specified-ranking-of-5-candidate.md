@@ -59,4 +59,4 @@ source: Palo Alto AI Research Lab — deep research programme
 
 ## Raw model reports
 
-1 reports delivered, synthesis used not recorded: [DR26-08-29-MACANTON-02-0742-deep-research-scoping-report-no-topic-specified-ranking-of-5-candidate/](DR26-08-29-MACANTON-02-0742-deep-research-scoping-report-no-topic-specified-ranking-of-5-candidate/README.md)
+1 reports delivered, synthesis used not recorded. [DR26-08-29-MACANTON-02-0742-deep-research-scoping-report-no-topic-specified-ranking-of-5-candidate/](DR26-08-29-MACANTON-02-0742-deep-research-scoping-report-no-topic-specified-ranking-of-5-candidate/README.md)

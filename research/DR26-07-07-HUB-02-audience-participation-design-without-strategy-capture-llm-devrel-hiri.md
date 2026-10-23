@@ -60,4 +60,4 @@ source: Palo Alto AI Research Lab — deep research programme
 
 ## Raw model reports
 
-1 reports delivered, synthesis used not recorded: [DR26-07-07-HUB-02-audience-participation-design-without-strategy-capture-llm-devrel-hiri/](DR26-07-07-HUB-02-audience-participation-design-without-strategy-capture-llm-devrel-hiri/README.md)
+1 reports delivered, synthesis used not recorded. [DR26-07-07-HUB-02-audience-participation-design-without-strategy-capture-llm-devrel-hiri/](DR26-07-07-HUB-02-audience-participation-design-without-strategy-capture-llm-devrel-hiri/README.md)

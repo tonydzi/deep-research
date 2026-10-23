@@ -77,4 +77,4 @@ Codex читает свои правила стопкой: сначала общ
 
 ## Raw model reports
 
-4 reports delivered, synthesis used 4 of 6: [DR26-08-16-MACANTON-01-0731-dr26-08-16-macanton-01-0731-codex-claude-nad-odnim-voltom-sintez-4-rel/](DR26-08-16-MACANTON-01-0731-dr26-08-16-macanton-01-0731-codex-claude-nad-odnim-voltom-sintez-4-rel/README.md)
+4 reports delivered, synthesis used 4 of 6. [DR26-08-16-MACANTON-01-0731-dr26-08-16-macanton-01-0731-codex-claude-nad-odnim-voltom-sintez-4-rel/](DR26-08-16-MACANTON-01-0731-dr26-08-16-macanton-01-0731-codex-claude-nad-odnim-voltom-sintez-4-rel/README.md)

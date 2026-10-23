@@ -113,4 +113,4 @@ false-corroboration-two-sources-agreeing, check-all-places-not-one.
 
 ## Raw model reports
 
-2 reports delivered, synthesis used not recorded: [DR26-08-24-HUB-05-1830-audit-svezhih-raundov-v-kripte-iyun-avgust-2026-reestr-klastery-bd-adr/](DR26-08-24-HUB-05-1830-audit-svezhih-raundov-v-kripte-iyun-avgust-2026-reestr-klastery-bd-adr/README.md)
+2 reports delivered, synthesis used not recorded. [DR26-08-24-HUB-05-1830-audit-svezhih-raundov-v-kripte-iyun-avgust-2026-reestr-klastery-bd-adr/](DR26-08-24-HUB-05-1830-audit-svezhih-raundov-v-kripte-iyun-avgust-2026-reestr-klastery-bd-adr/README.md)

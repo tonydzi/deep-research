@@ -58,4 +58,4 @@ source: Palo Alto AI Research Lab — deep research programme
 
 ## Raw model reports
 
-1 reports delivered, synthesis used not recorded: [DR26-08-25-MACANTON-11-0740-tizer-kak-samodostatochnaya-polza-dlya-telegram-chata-a-ne-primanka-kr/](DR26-08-25-MACANTON-11-0740-tizer-kak-samodostatochnaya-polza-dlya-telegram-chata-a-ne-primanka-kr/README.md)
+1 reports delivered, synthesis used not recorded. [DR26-08-25-MACANTON-11-0740-tizer-kak-samodostatochnaya-polza-dlya-telegram-chata-a-ne-primanka-kr/](DR26-08-25-MACANTON-11-0740-tizer-kak-samodostatochnaya-polza-dlya-telegram-chata-a-ne-primanka-kr/README.md)

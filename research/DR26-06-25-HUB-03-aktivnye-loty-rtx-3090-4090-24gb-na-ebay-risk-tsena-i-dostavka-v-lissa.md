@@ -55,4 +55,4 @@ source: Palo Alto AI Research Lab — deep research programme
 
 ## Raw model reports
 
-1 reports delivered, synthesis used not recorded: [DR26-06-25-HUB-03-aktivnye-loty-rtx-3090-4090-24gb-na-ebay-risk-tsena-i-dostavka-v-lissa/](DR26-06-25-HUB-03-aktivnye-loty-rtx-3090-4090-24gb-na-ebay-risk-tsena-i-dostavka-v-lissa/README.md)
+1 reports delivered, synthesis used not recorded. [DR26-06-25-HUB-03-aktivnye-loty-rtx-3090-4090-24gb-na-ebay-risk-tsena-i-dostavka-v-lissa/](DR26-06-25-HUB-03-aktivnye-loty-rtx-3090-4090-24gb-na-ebay-risk-tsena-i-dostavka-v-lissa/README.md)

@@ -60,4 +60,4 @@ source: Palo Alto AI Research Lab — deep research programme
 
 ## Raw model reports
 
-1 reports delivered, synthesis used not recorded: [DR26-07-17-HUB-01-world-class-public-roadmaps-for-build-in-public-projects/](DR26-07-17-HUB-01-world-class-public-roadmaps-for-build-in-public-projects/README.md)
+1 reports delivered, synthesis used not recorded. [DR26-07-17-HUB-01-world-class-public-roadmaps-for-build-in-public-projects/](DR26-07-17-HUB-01-world-class-public-roadmaps-for-build-in-public-projects/README.md)

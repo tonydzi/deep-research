@@ -133,4 +133,4 @@ P.S. Да, нас можно нанять. Anthropic, OpenAI, ваш ход: cal
 
 ## Raw model reports
 
-4 reports delivered, synthesis used 4 of 5: [DR26-09-15-MACANTON-02-1229-sintez-dr26-09-15-macanton-02-1229-ai-vizionery-slova-protiv-stavok-pr/](DR26-09-15-MACANTON-02-1229-sintez-dr26-09-15-macanton-02-1229-ai-vizionery-slova-protiv-stavok-pr/README.md)
+4 reports delivered, synthesis used 4 of 5. [DR26-09-15-MACANTON-02-1229-sintez-dr26-09-15-macanton-02-1229-ai-vizionery-slova-protiv-stavok-pr/](DR26-09-15-MACANTON-02-1229-sintez-dr26-09-15-macanton-02-1229-ai-vizionery-slova-protiv-stavok-pr/README.md)

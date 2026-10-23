@@ -57,4 +57,4 @@ source: Palo Alto AI Research Lab — deep research programme
 
 ## Raw model reports
 
-1 reports delivered, synthesis used not recorded: [DR26-07-28-HUB-11-2339-usm-used-serviceable-aircraft-parts-market-entry-playbook-for-a-small/](DR26-07-28-HUB-11-2339-usm-used-serviceable-aircraft-parts-market-entry-playbook-for-a-small/README.md)
+1 reports delivered, synthesis used not recorded. [DR26-07-28-HUB-11-2339-usm-used-serviceable-aircraft-parts-market-entry-playbook-for-a-small/](DR26-07-28-HUB-11-2339-usm-used-serviceable-aircraft-parts-market-entry-playbook-for-a-small/README.md)

@@ -100,4 +100,4 @@ insight-DR-DR26-09-16-MACANTON-01-0446-conference-playbook (стратегия �
 
 ## Raw model reports
 
-2 reports delivered, synthesis used not recorded: [DR26-10-05-HUB-06-2203-spokoynoe-uverennoe-povedenie-na-konferentsiyah-mitapah-i-hakatonah-ch/](DR26-10-05-HUB-06-2203-spokoynoe-uverennoe-povedenie-na-konferentsiyah-mitapah-i-hakatonah-ch/README.md)
+2 reports delivered, synthesis used not recorded. [DR26-10-05-HUB-06-2203-spokoynoe-uverennoe-povedenie-na-konferentsiyah-mitapah-i-hakatonah-ch/](DR26-10-05-HUB-06-2203-spokoynoe-uverennoe-povedenie-na-konferentsiyah-mitapah-i-hakatonah-ch/README.md)

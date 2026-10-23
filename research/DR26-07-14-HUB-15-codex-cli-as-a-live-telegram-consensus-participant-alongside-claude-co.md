@@ -61,4 +61,4 @@ source: Palo Alto AI Research Lab — deep research programme
 
 ## Raw model reports
 
-4 reports delivered, synthesis used not recorded: [DR26-07-14-HUB-15-codex-cli-as-a-live-telegram-consensus-participant-alongside-claude-co/](DR26-07-14-HUB-15-codex-cli-as-a-live-telegram-consensus-participant-alongside-claude-co/README.md)
+4 reports delivered, synthesis used not recorded. [DR26-07-14-HUB-15-codex-cli-as-a-live-telegram-consensus-participant-alongside-claude-co/](DR26-07-14-HUB-15-codex-cli-as-a-live-telegram-consensus-participant-alongside-claude-co/README.md)

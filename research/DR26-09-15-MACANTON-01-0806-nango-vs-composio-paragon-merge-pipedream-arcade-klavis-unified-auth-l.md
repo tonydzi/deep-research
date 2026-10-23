@@ -60,4 +60,4 @@ source: Palo Alto AI Research Lab — deep research programme
 
 ## Raw model reports
 
-4 reports delivered, synthesis used not recorded: [DR26-09-15-MACANTON-01-0806-nango-vs-composio-paragon-merge-pipedream-arcade-klavis-unified-auth-l/](DR26-09-15-MACANTON-01-0806-nango-vs-composio-paragon-merge-pipedream-arcade-klavis-unified-auth-l/README.md)
+4 reports delivered, synthesis used not recorded. [DR26-09-15-MACANTON-01-0806-nango-vs-composio-paragon-merge-pipedream-arcade-klavis-unified-auth-l/](DR26-09-15-MACANTON-01-0806-nango-vs-composio-paragon-merge-pipedream-arcade-klavis-unified-auth-l/README.md)

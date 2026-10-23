@@ -55,4 +55,4 @@ source: Palo Alto AI Research Lab — deep research programme
 
 ## Raw model reports
 
-4 reports delivered, synthesis used 4 of 6: [DR26-09-14-ZB-08-2007-fandreyzing-glazami-faunderov-ai-laboratoriy-pod-kakie-produktovye-kat/](DR26-09-14-ZB-08-2007-fandreyzing-glazami-faunderov-ai-laboratoriy-pod-kakie-produktovye-kat/README.md)
+4 reports delivered, synthesis used 4 of 6. [DR26-09-14-ZB-08-2007-fandreyzing-glazami-faunderov-ai-laboratoriy-pod-kakie-produktovye-kat/](DR26-09-14-ZB-08-2007-fandreyzing-glazami-faunderov-ai-laboratoriy-pod-kakie-produktovye-kat/README.md)

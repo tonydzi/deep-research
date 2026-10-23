@@ -46,4 +46,4 @@ HUB-06 говорил «медианный US seed 2024 = $2.5M». grok уточ
 
 ## Raw model reports
 
-2 reports delivered, synthesis used 2 of 6: [DR26-08-25-HUB-02-0712-legkost-fandreyza-po-trem-vitrinam-audit-legche-vsego-sirenka-krasnyy/](DR26-08-25-HUB-02-0712-legkost-fandreyza-po-trem-vitrinam-audit-legche-vsego-sirenka-krasnyy/README.md)
+2 reports delivered, synthesis used 2 of 6. [DR26-08-25-HUB-02-0712-legkost-fandreyza-po-trem-vitrinam-audit-legche-vsego-sirenka-krasnyy/](DR26-08-25-HUB-02-0712-legkost-fandreyza-po-trem-vitrinam-audit-legche-vsego-sirenka-krasnyy/README.md)

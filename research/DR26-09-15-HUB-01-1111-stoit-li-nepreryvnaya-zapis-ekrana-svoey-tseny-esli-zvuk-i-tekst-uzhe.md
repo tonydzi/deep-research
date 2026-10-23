@@ -131,3 +131,8 @@ Signal и подобные приложения ставят `WDA_EXCLUDEFROMCAP
 - **«Решение по retention»** — синтез даёт таблицу §7 как отправную точку для разговора с Антоном (удаление необратимо, решает он): `elements`/a11y/`text_json` на неделю или ноль, `full_text` на 90 дней, сырые кадры на 3–7 дней.
 
 🧒 Простыми словами: три независимых умных помощника посмотрели на нашу камеру, которая круглые сутки снимает четыре монитора, и все трое сказали одно и то же — камера в основном снимает то, что мы и так записали словами (переписку, разговор с Клодом), а диктофон работает по-настоящему. Оставить диктофон, камеру сильно урезать: писать только то, чего больше нигде нет, и не хранить это долго.
+
+
+## Raw model reports
+
+4 reports delivered, synthesis used 3 of 6. Note: 1 report(s) arrived after the synthesis was written; they are attached raw and were not reconciled. [DR26-09-15-HUB-01-1111-stoit-li-nepreryvnaya-zapis-ekrana-svoey-tseny-esli-zvuk-i-tekst-uzhe/](DR26-09-15-HUB-01-1111-stoit-li-nepreryvnaya-zapis-ekrana-svoey-tseny-esli-zvuk-i-tekst-uzhe/README.md)

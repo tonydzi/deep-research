@@ -162,4 +162,4 @@ Grok и Gemini: ✅ «реализуемо [established]». **ChatGPT: ❌ «т�
 
 ## Raw model reports
 
-1 reports delivered, synthesis used not recorded: [DR26-07-26-ZB-02-alfa-iz-yuvalya-harari-chto-zabrat-v-sistemu-a-chto-trep-dr26-07-26-zb/](DR26-07-26-ZB-02-alfa-iz-yuvalya-harari-chto-zabrat-v-sistemu-a-chto-trep-dr26-07-26-zb/README.md)
+1 reports delivered, synthesis used not recorded. [DR26-07-26-ZB-02-alfa-iz-yuvalya-harari-chto-zabrat-v-sistemu-a-chto-trep-dr26-07-26-zb/](DR26-07-26-ZB-02-alfa-iz-yuvalya-harari-chto-zabrat-v-sistemu-a-chto-trep-dr26-07-26-zb/README.md)

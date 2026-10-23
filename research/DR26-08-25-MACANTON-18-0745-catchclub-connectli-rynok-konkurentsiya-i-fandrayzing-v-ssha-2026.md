@@ -59,4 +59,4 @@ source: Palo Alto AI Research Lab — deep research programme
 
 ## Raw model reports
 
-1 reports delivered, synthesis used not recorded: [DR26-08-25-MACANTON-18-0745-catchclub-connectli-rynok-konkurentsiya-i-fandrayzing-v-ssha-2026/](DR26-08-25-MACANTON-18-0745-catchclub-connectli-rynok-konkurentsiya-i-fandrayzing-v-ssha-2026/README.md)
+1 reports delivered, synthesis used not recorded. [DR26-08-25-MACANTON-18-0745-catchclub-connectli-rynok-konkurentsiya-i-fandrayzing-v-ssha-2026/](DR26-08-25-MACANTON-18-0745-catchclub-connectli-rynok-konkurentsiya-i-fandrayzing-v-ssha-2026/README.md)

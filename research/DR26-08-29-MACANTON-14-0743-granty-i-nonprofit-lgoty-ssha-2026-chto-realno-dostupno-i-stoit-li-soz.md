@@ -55,4 +55,4 @@ source: Palo Alto AI Research Lab — deep research programme
 
 ## Raw model reports
 
-1 reports delivered, synthesis used not recorded: [DR26-08-29-MACANTON-14-0743-granty-i-nonprofit-lgoty-ssha-2026-chto-realno-dostupno-i-stoit-li-soz/](DR26-08-29-MACANTON-14-0743-granty-i-nonprofit-lgoty-ssha-2026-chto-realno-dostupno-i-stoit-li-soz/README.md)
+1 reports delivered, synthesis used not recorded. [DR26-08-29-MACANTON-14-0743-granty-i-nonprofit-lgoty-ssha-2026-chto-realno-dostupno-i-stoit-li-soz/](DR26-08-29-MACANTON-14-0743-granty-i-nonprofit-lgoty-ssha-2026-chto-realno-dostupno-i-stoit-li-soz/README.md)

@@ -59,4 +59,4 @@ source: Palo Alto AI Research Lab — deep research programme
 
 ## Raw model reports
 
-4 reports delivered, synthesis used not recorded: [DR26-07-05-ZB-01-non-profit-feasibility-oformlenie-vs-realnye-donaty-god-1-dlya-ai-educ/](DR26-07-05-ZB-01-non-profit-feasibility-oformlenie-vs-realnye-donaty-god-1-dlya-ai-educ/README.md)
+4 reports delivered, synthesis used not recorded. [DR26-07-05-ZB-01-non-profit-feasibility-oformlenie-vs-realnye-donaty-god-1-dlya-ai-educ/](DR26-07-05-ZB-01-non-profit-feasibility-oformlenie-vs-realnye-donaty-god-1-dlya-ai-educ/README.md)

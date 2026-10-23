@@ -69,4 +69,4 @@ source: Palo Alto AI Research Lab — deep research programme
 
 ## Raw model reports
 
-4 reports delivered, synthesis used 4 of 6: [DR26-08-24-MACANTON-02-1025-vybor-eu-yurisdiktsii-ne-portugaliya-dlya-vtorogo-yurlitsa-pod-eic-gra/](DR26-08-24-MACANTON-02-1025-vybor-eu-yurisdiktsii-ne-portugaliya-dlya-vtorogo-yurlitsa-pod-eic-gra/README.md)
+4 reports delivered, synthesis used 4 of 6. [DR26-08-24-MACANTON-02-1025-vybor-eu-yurisdiktsii-ne-portugaliya-dlya-vtorogo-yurlitsa-pod-eic-gra/](DR26-08-24-MACANTON-02-1025-vybor-eu-yurisdiktsii-ne-portugaliya-dlya-vtorogo-yurlitsa-pod-eic-gra/README.md)

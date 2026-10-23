@@ -57,4 +57,4 @@ source: Palo Alto AI Research Lab — deep research programme
 
 ## Raw model reports
 
-1 reports delivered, synthesis used not recorded: [DR26-07-04-ZB-04-monetizatsiya-ai-native-agentstva-odnogo-cheloveka-vybor-pervogo-vekto/](DR26-07-04-ZB-04-monetizatsiya-ai-native-agentstva-odnogo-cheloveka-vybor-pervogo-vekto/README.md)
+1 reports delivered, synthesis used not recorded. [DR26-07-04-ZB-04-monetizatsiya-ai-native-agentstva-odnogo-cheloveka-vybor-pervogo-vekto/](DR26-07-04-ZB-04-monetizatsiya-ai-native-agentstva-odnogo-cheloveka-vybor-pervogo-vekto/README.md)

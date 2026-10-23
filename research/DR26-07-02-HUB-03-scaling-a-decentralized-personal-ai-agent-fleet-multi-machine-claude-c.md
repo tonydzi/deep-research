@@ -64,4 +64,4 @@ source: Palo Alto AI Research Lab — deep research programme
 
 ## Raw model reports
 
-1 reports delivered, synthesis used not recorded: [DR26-07-02-HUB-03-scaling-a-decentralized-personal-ai-agent-fleet-multi-machine-claude-c/](DR26-07-02-HUB-03-scaling-a-decentralized-personal-ai-agent-fleet-multi-machine-claude-c/README.md)
+1 reports delivered, synthesis used not recorded. [DR26-07-02-HUB-03-scaling-a-decentralized-personal-ai-agent-fleet-multi-machine-claude-c/](DR26-07-02-HUB-03-scaling-a-decentralized-personal-ai-agent-fleet-multi-machine-claude-c/README.md)

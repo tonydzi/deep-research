@@ -57,4 +57,4 @@ source: Palo Alto AI Research Lab — deep research programme
 
 ## Raw model reports
 
-1 reports delivered, synthesis used not recorded: [DR26-06-24-HUB-02-claude-desktop-code-tab-recents-list-storage-architecture-on-windows/](DR26-06-24-HUB-02-claude-desktop-code-tab-recents-list-storage-architecture-on-windows/README.md)
+1 reports delivered, synthesis used not recorded. [DR26-06-24-HUB-02-claude-desktop-code-tab-recents-list-storage-architecture-on-windows/](DR26-06-24-HUB-02-claude-desktop-code-tab-recents-list-storage-architecture-on-windows/README.md)

@@ -84,4 +84,4 @@ source: Palo Alto AI Research Lab — deep research programme
 
 ## Raw model reports
 
-3 reports delivered, synthesis used not recorded: [DR26-07-22-ZB-01-1948-openrouter-prakticheskiy-gid-iyul-2026-sintez-konsensus-3-vendornogo-d/](DR26-07-22-ZB-01-1948-openrouter-prakticheskiy-gid-iyul-2026-sintez-konsensus-3-vendornogo-d/README.md)
+3 reports delivered, synthesis used not recorded. [DR26-07-22-ZB-01-1948-openrouter-prakticheskiy-gid-iyul-2026-sintez-konsensus-3-vendornogo-d/](DR26-07-22-ZB-01-1948-openrouter-prakticheskiy-gid-iyul-2026-sintez-konsensus-3-vendornogo-d/README.md)

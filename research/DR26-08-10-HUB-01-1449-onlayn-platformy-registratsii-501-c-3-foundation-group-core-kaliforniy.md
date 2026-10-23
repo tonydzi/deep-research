@@ -91,4 +91,4 @@ source: Palo Alto AI Research Lab — deep research programme
 
 ## Raw model reports
 
-4 reports delivered, synthesis used 4 of 6: [DR26-08-10-HUB-01-1449-onlayn-platformy-registratsii-501-c-3-foundation-group-core-kaliforniy/](DR26-08-10-HUB-01-1449-onlayn-platformy-registratsii-501-c-3-foundation-group-core-kaliforniy/README.md)
+4 reports delivered, synthesis used 4 of 6. [DR26-08-10-HUB-01-1449-onlayn-platformy-registratsii-501-c-3-foundation-group-core-kaliforniy/](DR26-08-10-HUB-01-1449-onlayn-platformy-registratsii-501-c-3-foundation-group-core-kaliforniy/README.md)

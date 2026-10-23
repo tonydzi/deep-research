@@ -66,4 +66,4 @@ source: Palo Alto AI Research Lab — deep research programme
 
 ## Raw model reports
 
-1 reports delivered, synthesis used not recorded: [DR26-07-06-HUB-02-priemy-vovlekayuschih-vstavok-voprosov-dlya-serializovannogo-build-in/](DR26-07-06-HUB-02-priemy-vovlekayuschih-vstavok-voprosov-dlya-serializovannogo-build-in/README.md)
+1 reports delivered, synthesis used not recorded. [DR26-07-06-HUB-02-priemy-vovlekayuschih-vstavok-voprosov-dlya-serializovannogo-build-in/](DR26-07-06-HUB-02-priemy-vovlekayuschih-vstavok-voprosov-dlya-serializovannogo-build-in/README.md)

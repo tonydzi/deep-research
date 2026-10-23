@@ -60,4 +60,4 @@ source: Palo Alto AI Research Lab — deep research programme
 
 ## Raw model reports
 
-1 reports delivered, synthesis used not recorded: [DR26-07-06-HUB-06-ssh-access-to-hetzner-ubuntu-vps-from-claude-desktop-vs-code-cli-and-p/](DR26-07-06-HUB-06-ssh-access-to-hetzner-ubuntu-vps-from-claude-desktop-vs-code-cli-and-p/README.md)
+1 reports delivered, synthesis used not recorded. [DR26-07-06-HUB-06-ssh-access-to-hetzner-ubuntu-vps-from-claude-desktop-vs-code-cli-and-p/](DR26-07-06-HUB-06-ssh-access-to-hetzner-ubuntu-vps-from-claude-desktop-vs-code-cli-and-p/README.md)

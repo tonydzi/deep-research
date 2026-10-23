@@ -84,4 +84,4 @@ source: Palo Alto AI Research Lab — deep research programme
 
 ## Raw model reports
 
-2 reports delivered, synthesis used 2 of 2: [DR26-08-04-ZB-08-1744-sintez-dr26-08-04-zb-08-geo-analitika-po-origin-logam-zrelogo-oss-net/](DR26-08-04-ZB-08-1744-sintez-dr26-08-04-zb-08-geo-analitika-po-origin-logam-zrelogo-oss-net/README.md)
+2 reports delivered, synthesis used 2 of 2. [DR26-08-04-ZB-08-1744-sintez-dr26-08-04-zb-08-geo-analitika-po-origin-logam-zrelogo-oss-net/](DR26-08-04-ZB-08-1744-sintez-dr26-08-04-zb-08-geo-analitika-po-origin-logam-zrelogo-oss-net/README.md)

@@ -69,4 +69,4 @@ source: Palo Alto AI Research Lab — deep research programme
 
 ## Raw model reports
 
-1 reports delivered, synthesis used not recorded: [DR26-08-25-MACANTON-17-0742-huggingface-vendor-cookbook-contributions-as-a-hiring-lever-into-front/](DR26-08-25-MACANTON-17-0742-huggingface-vendor-cookbook-contributions-as-a-hiring-lever-into-front/README.md)
+1 reports delivered, synthesis used not recorded. [DR26-08-25-MACANTON-17-0742-huggingface-vendor-cookbook-contributions-as-a-hiring-lever-into-front/](DR26-08-25-MACANTON-17-0742-huggingface-vendor-cookbook-contributions-as-a-hiring-lever-into-front/README.md)

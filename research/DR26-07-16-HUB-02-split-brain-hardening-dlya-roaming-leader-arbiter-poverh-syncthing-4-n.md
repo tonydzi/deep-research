@@ -62,4 +62,4 @@ source: Palo Alto AI Research Lab — deep research programme
 
 ## Raw model reports
 
-4 reports delivered, synthesis used 3 of 3: [DR26-07-16-HUB-02-split-brain-hardening-dlya-roaming-leader-arbiter-poverh-syncthing-4-n/](DR26-07-16-HUB-02-split-brain-hardening-dlya-roaming-leader-arbiter-poverh-syncthing-4-n/README.md)
+4 reports delivered, synthesis used 3 of 3. [DR26-07-16-HUB-02-split-brain-hardening-dlya-roaming-leader-arbiter-poverh-syncthing-4-n/](DR26-07-16-HUB-02-split-brain-hardening-dlya-roaming-leader-arbiter-poverh-syncthing-4-n/README.md)

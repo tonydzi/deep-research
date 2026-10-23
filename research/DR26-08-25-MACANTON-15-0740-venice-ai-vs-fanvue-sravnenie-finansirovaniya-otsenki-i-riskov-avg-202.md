@@ -58,4 +58,4 @@ source: Palo Alto AI Research Lab — deep research programme
 
 ## Raw model reports
 
-1 reports delivered, synthesis used not recorded: [DR26-08-25-MACANTON-15-0740-venice-ai-vs-fanvue-sravnenie-finansirovaniya-otsenki-i-riskov-avg-202/](DR26-08-25-MACANTON-15-0740-venice-ai-vs-fanvue-sravnenie-finansirovaniya-otsenki-i-riskov-avg-202/README.md)
+1 reports delivered, synthesis used not recorded. [DR26-08-25-MACANTON-15-0740-venice-ai-vs-fanvue-sravnenie-finansirovaniya-otsenki-i-riskov-avg-202/](DR26-08-25-MACANTON-15-0740-venice-ai-vs-fanvue-sravnenie-finansirovaniya-otsenki-i-riskov-avg-202/README.md)

@@ -57,4 +57,4 @@ source: Palo Alto AI Research Lab — deep research programme
 
 ## Raw model reports
 
-1 reports delivered, synthesis used not recorded: [DR26-06-26-HUB-04-otkazoustoychivost-llm-infrastruktury-failover-mezhdu-claude-opus-sonn/](DR26-06-26-HUB-04-otkazoustoychivost-llm-infrastruktury-failover-mezhdu-claude-opus-sonn/README.md)
+1 reports delivered, synthesis used not recorded. [DR26-06-26-HUB-04-otkazoustoychivost-llm-infrastruktury-failover-mezhdu-claude-opus-sonn/](DR26-06-26-HUB-04-otkazoustoychivost-llm-infrastruktury-failover-mezhdu-claude-opus-sonn/README.md)

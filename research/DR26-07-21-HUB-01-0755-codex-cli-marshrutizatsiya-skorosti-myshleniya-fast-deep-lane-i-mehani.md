@@ -43,4 +43,4 @@ Deep Research формально завершился (7 мин), но **0 citat
 
 ## Raw model reports
 
-4 reports delivered, synthesis used not recorded: [DR26-07-21-HUB-01-0755-codex-cli-marshrutizatsiya-skorosti-myshleniya-fast-deep-lane-i-mehani/](DR26-07-21-HUB-01-0755-codex-cli-marshrutizatsiya-skorosti-myshleniya-fast-deep-lane-i-mehani/README.md)
+4 reports delivered, synthesis used not recorded. [DR26-07-21-HUB-01-0755-codex-cli-marshrutizatsiya-skorosti-myshleniya-fast-deep-lane-i-mehani/](DR26-07-21-HUB-01-0755-codex-cli-marshrutizatsiya-skorosti-myshleniya-fast-deep-lane-i-mehani/README.md)

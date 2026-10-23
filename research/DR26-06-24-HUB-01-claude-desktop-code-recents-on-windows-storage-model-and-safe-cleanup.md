@@ -54,4 +54,4 @@ source: Palo Alto AI Research Lab — deep research programme
 
 ## Raw model reports
 
-1 reports delivered, synthesis used not recorded: [DR26-06-24-HUB-01-claude-desktop-code-recents-on-windows-storage-model-and-safe-cleanup/](DR26-06-24-HUB-01-claude-desktop-code-recents-on-windows-storage-model-and-safe-cleanup/README.md)
+1 reports delivered, synthesis used not recorded. [DR26-06-24-HUB-01-claude-desktop-code-recents-on-windows-storage-model-and-safe-cleanup/](DR26-06-24-HUB-01-claude-desktop-code-recents-on-windows-storage-model-and-safe-cleanup/README.md)

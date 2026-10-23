@@ -168,4 +168,4 @@ Anton Dziatkovskii
 
 ## Raw model reports
 
-4 reports delivered, synthesis used 4 of 4: [DR26-08-05-ZB-01-0125-pochemu-statya-visit-na-arxiv-i-chto-realno-delat/](DR26-08-05-ZB-01-0125-pochemu-statya-visit-na-arxiv-i-chto-realno-delat/README.md)
+4 reports delivered, synthesis used 4 of 4. [DR26-08-05-ZB-01-0125-pochemu-statya-visit-na-arxiv-i-chto-realno-delat/](DR26-08-05-ZB-01-0125-pochemu-statya-visit-na-arxiv-i-chto-realno-delat/README.md)

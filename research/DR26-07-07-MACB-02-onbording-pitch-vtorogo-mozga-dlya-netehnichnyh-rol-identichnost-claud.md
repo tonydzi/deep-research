@@ -65,4 +65,4 @@ source: Palo Alto AI Research Lab — deep research programme
 
 ## Raw model reports
 
-1 reports delivered, synthesis used not recorded: [DR26-07-07-MACB-02-onbording-pitch-vtorogo-mozga-dlya-netehnichnyh-rol-identichnost-claud/](DR26-07-07-MACB-02-onbording-pitch-vtorogo-mozga-dlya-netehnichnyh-rol-identichnost-claud/README.md)
+1 reports delivered, synthesis used not recorded. [DR26-07-07-MACB-02-onbording-pitch-vtorogo-mozga-dlya-netehnichnyh-rol-identichnost-claud/](DR26-07-07-MACB-02-onbording-pitch-vtorogo-mozga-dlya-netehnichnyh-rol-identichnost-claud/README.md)

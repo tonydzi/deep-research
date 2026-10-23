@@ -129,4 +129,4 @@ source: Palo Alto AI Research Lab — deep research programme
 
 ## Raw model reports
 
-1 reports delivered, synthesis used not recorded: [DR26-07-26-ZB-01-alfa-iz-ai-filmov-chto-iz-ghost-in-the-shell-blade-runner-her-realno-s/](DR26-07-26-ZB-01-alfa-iz-ai-filmov-chto-iz-ghost-in-the-shell-blade-runner-her-realno-s/README.md)
+1 reports delivered, synthesis used not recorded. [DR26-07-26-ZB-01-alfa-iz-ai-filmov-chto-iz-ghost-in-the-shell-blade-runner-her-realno-s/](DR26-07-26-ZB-01-alfa-iz-ai-filmov-chto-iz-ghost-in-the-shell-blade-runner-her-realno-s/README.md)

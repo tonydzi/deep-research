@@ -67,4 +67,4 @@ Memo: `decision-2026-07-14-personal-data-importers-grok-gemini-takeout` (BUILD G
 
 ## Raw model reports
 
-2 reports delivered, synthesis used not recorded: [DR26-07-15-HUB-01-dr-sintez-nadezhnyy-nochnoy-eksport-dialogov-grok-i-gemini-v-volt-arhi/](DR26-07-15-HUB-01-dr-sintez-nadezhnyy-nochnoy-eksport-dialogov-grok-i-gemini-v-volt-arhi/README.md)
+2 reports delivered, synthesis used not recorded. [DR26-07-15-HUB-01-dr-sintez-nadezhnyy-nochnoy-eksport-dialogov-grok-i-gemini-v-volt-arhi/](DR26-07-15-HUB-01-dr-sintez-nadezhnyy-nochnoy-eksport-dialogov-grok-i-gemini-v-volt-arhi/README.md)

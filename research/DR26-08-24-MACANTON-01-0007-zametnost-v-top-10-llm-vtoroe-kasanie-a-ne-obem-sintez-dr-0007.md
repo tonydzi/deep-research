@@ -58,4 +58,4 @@ source: Palo Alto AI Research Lab — deep research programme
 
 ## Raw model reports
 
-4 reports delivered, synthesis used 4 of 6: [DR26-08-24-MACANTON-01-0007-zametnost-v-top-10-llm-vtoroe-kasanie-a-ne-obem-sintez-dr-0007/](DR26-08-24-MACANTON-01-0007-zametnost-v-top-10-llm-vtoroe-kasanie-a-ne-obem-sintez-dr-0007/README.md)
+4 reports delivered, synthesis used 4 of 6. [DR26-08-24-MACANTON-01-0007-zametnost-v-top-10-llm-vtoroe-kasanie-a-ne-obem-sintez-dr-0007/](DR26-08-24-MACANTON-01-0007-zametnost-v-top-10-llm-vtoroe-kasanie-a-ne-obem-sintez-dr-0007/README.md)

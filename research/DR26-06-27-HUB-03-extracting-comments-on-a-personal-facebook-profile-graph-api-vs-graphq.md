@@ -54,4 +54,4 @@ source: Palo Alto AI Research Lab — deep research programme
 
 ## Raw model reports
 
-1 reports delivered, synthesis used not recorded: [DR26-06-27-HUB-03-extracting-comments-on-a-personal-facebook-profile-graph-api-vs-graphq/](DR26-06-27-HUB-03-extracting-comments-on-a-personal-facebook-profile-graph-api-vs-graphq/README.md)
+1 reports delivered, synthesis used not recorded. [DR26-06-27-HUB-03-extracting-comments-on-a-personal-facebook-profile-graph-api-vs-graphq/](DR26-06-27-HUB-03-extracting-comments-on-a-personal-facebook-profile-graph-api-vs-graphq/README.md)

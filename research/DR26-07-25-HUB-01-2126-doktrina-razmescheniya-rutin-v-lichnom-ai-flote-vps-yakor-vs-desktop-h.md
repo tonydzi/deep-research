@@ -60,4 +60,4 @@ source: Palo Alto AI Research Lab — deep research programme
 
 ## Raw model reports
 
-2 reports delivered, synthesis used not recorded: [DR26-07-25-HUB-01-2126-doktrina-razmescheniya-rutin-v-lichnom-ai-flote-vps-yakor-vs-desktop-h/](DR26-07-25-HUB-01-2126-doktrina-razmescheniya-rutin-v-lichnom-ai-flote-vps-yakor-vs-desktop-h/README.md)
+2 reports delivered, synthesis used not recorded. [DR26-07-25-HUB-01-2126-doktrina-razmescheniya-rutin-v-lichnom-ai-flote-vps-yakor-vs-desktop-h/](DR26-07-25-HUB-01-2126-doktrina-razmescheniya-rutin-v-lichnom-ai-flote-vps-yakor-vs-desktop-h/README.md)

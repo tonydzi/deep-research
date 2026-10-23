@@ -121,4 +121,4 @@ Gong на 304 174 письмах: пустые «поднимаю наверх»
 
 ## Raw model reports
 
-3 reports delivered, synthesis used 3 of 6: [DR26-09-02-HUB-01-1307-dopingovanie-mirovye-kadensy-re-ping-dunning-i-verdikt-originalnosti-d/](DR26-09-02-HUB-01-1307-dopingovanie-mirovye-kadensy-re-ping-dunning-i-verdikt-originalnosti-d/README.md)
+3 reports delivered, synthesis used 3 of 6. [DR26-09-02-HUB-01-1307-dopingovanie-mirovye-kadensy-re-ping-dunning-i-verdikt-originalnosti-d/](DR26-09-02-HUB-01-1307-dopingovanie-mirovye-kadensy-re-ping-dunning-i-verdikt-originalnosti-d/README.md)

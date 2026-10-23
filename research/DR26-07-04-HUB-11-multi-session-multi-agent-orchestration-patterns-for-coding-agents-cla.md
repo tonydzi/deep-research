@@ -60,4 +60,4 @@ source: Palo Alto AI Research Lab — deep research programme
 
 ## Raw model reports
 
-1 reports delivered, synthesis used not recorded: [DR26-07-04-HUB-11-multi-session-multi-agent-orchestration-patterns-for-coding-agents-cla/](DR26-07-04-HUB-11-multi-session-multi-agent-orchestration-patterns-for-coding-agents-cla/README.md)
+1 reports delivered, synthesis used not recorded. [DR26-07-04-HUB-11-multi-session-multi-agent-orchestration-patterns-for-coding-agents-cla/](DR26-07-04-HUB-11-multi-session-multi-agent-orchestration-patterns-for-coding-agents-cla/README.md)

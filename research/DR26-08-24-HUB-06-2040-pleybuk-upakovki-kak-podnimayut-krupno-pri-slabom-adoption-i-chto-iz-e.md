@@ -439,4 +439,4 @@ execution boundary для MCP tool calls».
 
 ## Raw model reports
 
-4 reports delivered, synthesis used 4 of 6: [DR26-08-24-HUB-06-2040-pleybuk-upakovki-kak-podnimayut-krupno-pri-slabom-adoption-i-chto-iz-e/](DR26-08-24-HUB-06-2040-pleybuk-upakovki-kak-podnimayut-krupno-pri-slabom-adoption-i-chto-iz-e/README.md)
+4 reports delivered, synthesis used 4 of 6. [DR26-08-24-HUB-06-2040-pleybuk-upakovki-kak-podnimayut-krupno-pri-slabom-adoption-i-chto-iz-e/](DR26-08-24-HUB-06-2040-pleybuk-upakovki-kak-podnimayut-krupno-pri-slabom-adoption-i-chto-iz-e/README.md)

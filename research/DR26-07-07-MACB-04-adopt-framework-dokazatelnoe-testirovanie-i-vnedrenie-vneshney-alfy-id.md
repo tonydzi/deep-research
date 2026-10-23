@@ -58,4 +58,4 @@ source: Palo Alto AI Research Lab — deep research programme
 
 ## Raw model reports
 
-2 reports delivered, synthesis used not recorded: [DR26-07-07-MACB-04-adopt-framework-dokazatelnoe-testirovanie-i-vnedrenie-vneshney-alfy-id/](DR26-07-07-MACB-04-adopt-framework-dokazatelnoe-testirovanie-i-vnedrenie-vneshney-alfy-id/README.md)
+2 reports delivered, synthesis used not recorded. [DR26-07-07-MACB-04-adopt-framework-dokazatelnoe-testirovanie-i-vnedrenie-vneshney-alfy-id/](DR26-07-07-MACB-04-adopt-framework-dokazatelnoe-testirovanie-i-vnedrenie-vneshney-alfy-id/README.md)

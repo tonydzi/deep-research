@@ -57,4 +57,4 @@ source: Palo Alto AI Research Lab — deep research programme
 
 ## Raw model reports
 
-1 reports delivered, synthesis used 1 of 5: [DR26-10-07-HUB-07-1720-chto-takoe-red-test-probe-prompt-body-zond-telo-prompta-i-krasnyy-test/](DR26-10-07-HUB-07-1720-chto-takoe-red-test-probe-prompt-body-zond-telo-prompta-i-krasnyy-test/README.md)
+1 reports delivered, synthesis used 1 of 5. [DR26-10-07-HUB-07-1720-chto-takoe-red-test-probe-prompt-body-zond-telo-prompta-i-krasnyy-test/](DR26-10-07-HUB-07-1720-chto-takoe-red-test-probe-prompt-body-zond-telo-prompta-i-krasnyy-test/README.md)

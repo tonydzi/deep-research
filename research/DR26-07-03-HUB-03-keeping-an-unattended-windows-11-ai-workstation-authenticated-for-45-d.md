@@ -64,4 +64,4 @@ source: Palo Alto AI Research Lab — deep research programme
 
 ## Raw model reports
 
-1 reports delivered, synthesis used not recorded: [DR26-07-03-HUB-03-keeping-an-unattended-windows-11-ai-workstation-authenticated-for-45-d/](DR26-07-03-HUB-03-keeping-an-unattended-windows-11-ai-workstation-authenticated-for-45-d/README.md)
+1 reports delivered, synthesis used not recorded. [DR26-07-03-HUB-03-keeping-an-unattended-windows-11-ai-workstation-authenticated-for-45-d/](DR26-07-03-HUB-03-keeping-an-unattended-windows-11-ai-workstation-authenticated-for-45-d/README.md)

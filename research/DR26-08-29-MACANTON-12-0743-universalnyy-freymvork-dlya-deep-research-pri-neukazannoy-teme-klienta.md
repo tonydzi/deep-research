@@ -52,4 +52,4 @@ source: Palo Alto AI Research Lab — deep research programme
 
 ## Raw model reports
 
-1 reports delivered, synthesis used not recorded: [DR26-08-29-MACANTON-12-0743-universalnyy-freymvork-dlya-deep-research-pri-neukazannoy-teme-klienta/](DR26-08-29-MACANTON-12-0743-universalnyy-freymvork-dlya-deep-research-pri-neukazannoy-teme-klienta/README.md)
+1 reports delivered, synthesis used not recorded. [DR26-08-29-MACANTON-12-0743-universalnyy-freymvork-dlya-deep-research-pri-neukazannoy-teme-klienta/](DR26-08-29-MACANTON-12-0743-universalnyy-freymvork-dlya-deep-research-pri-neukazannoy-teme-klienta/README.md)

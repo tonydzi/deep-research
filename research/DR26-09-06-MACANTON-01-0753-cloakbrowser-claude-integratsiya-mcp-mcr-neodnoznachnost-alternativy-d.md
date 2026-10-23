@@ -65,4 +65,4 @@ source: Palo Alto AI Research Lab — deep research programme
 
 ## Raw model reports
 
-1 reports delivered, synthesis used not recorded: [DR26-09-06-MACANTON-01-0753-cloakbrowser-claude-integratsiya-mcp-mcr-neodnoznachnost-alternativy-d/](DR26-09-06-MACANTON-01-0753-cloakbrowser-claude-integratsiya-mcp-mcr-neodnoznachnost-alternativy-d/README.md)
+1 reports delivered, synthesis used not recorded. [DR26-09-06-MACANTON-01-0753-cloakbrowser-claude-integratsiya-mcp-mcr-neodnoznachnost-alternativy-d/](DR26-09-06-MACANTON-01-0753-cloakbrowser-claude-integratsiya-mcp-mcr-neodnoznachnost-alternativy-d/README.md)

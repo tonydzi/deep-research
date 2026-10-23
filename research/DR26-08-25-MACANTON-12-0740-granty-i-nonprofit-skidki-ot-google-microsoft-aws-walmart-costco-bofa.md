@@ -57,4 +57,4 @@ source: Palo Alto AI Research Lab — deep research programme
 
 ## Raw model reports
 
-1 reports delivered, synthesis used not recorded: [DR26-08-25-MACANTON-12-0740-granty-i-nonprofit-skidki-ot-google-microsoft-aws-walmart-costco-bofa/](DR26-08-25-MACANTON-12-0740-granty-i-nonprofit-skidki-ot-google-microsoft-aws-walmart-costco-bofa/README.md)
+1 reports delivered, synthesis used not recorded. [DR26-08-25-MACANTON-12-0740-granty-i-nonprofit-skidki-ot-google-microsoft-aws-walmart-costco-bofa/](DR26-08-25-MACANTON-12-0740-granty-i-nonprofit-skidki-ot-google-microsoft-aws-walmart-costco-bofa/README.md)

@@ -60,4 +60,4 @@ source: Palo Alto AI Research Lab — deep research programme
 
 ## Raw model reports
 
-1 reports delivered, synthesis used not recorded: [DR26-08-29-MACANTON-22-0759-eu-entity-dlya-non-dilutive-funding-eic-horizon-vybor-yurisdiktsii-pod/](DR26-08-29-MACANTON-22-0759-eu-entity-dlya-non-dilutive-funding-eic-horizon-vybor-yurisdiktsii-pod/README.md)
+1 reports delivered, synthesis used not recorded. [DR26-08-29-MACANTON-22-0759-eu-entity-dlya-non-dilutive-funding-eic-horizon-vybor-yurisdiktsii-pod/](DR26-08-29-MACANTON-22-0759-eu-entity-dlya-non-dilutive-funding-eic-horizon-vybor-yurisdiktsii-pod/README.md)

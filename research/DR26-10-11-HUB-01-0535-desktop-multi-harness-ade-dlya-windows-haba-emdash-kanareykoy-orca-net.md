@@ -71,4 +71,4 @@ Hands-on ни одного продукта (ни одна нога не ста�
 
 ## Raw model reports
 
-4 reports delivered, synthesis used 4 of 6: [DR26-10-11-HUB-01-0535-desktop-multi-harness-ade-dlya-windows-haba-emdash-kanareykoy-orca-net/](DR26-10-11-HUB-01-0535-desktop-multi-harness-ade-dlya-windows-haba-emdash-kanareykoy-orca-net/README.md)
+4 reports delivered, synthesis used 4 of 6. [DR26-10-11-HUB-01-0535-desktop-multi-harness-ade-dlya-windows-haba-emdash-kanareykoy-orca-net/](DR26-10-11-HUB-01-0535-desktop-multi-harness-ade-dlya-windows-haba-emdash-kanareykoy-orca-net/README.md)

@@ -59,4 +59,4 @@ source: Palo Alto AI Research Lab — deep research programme
 
 ## Raw model reports
 
-1 reports delivered, synthesis used not recorded: [DR26-07-07-HUB-01-engineering-communities-as-a-hiring-asset-in-the-ai-era/](DR26-07-07-HUB-01-engineering-communities-as-a-hiring-asset-in-the-ai-era/README.md)
+1 reports delivered, synthesis used not recorded. [DR26-07-07-HUB-01-engineering-communities-as-a-hiring-asset-in-the-ai-era/](DR26-07-07-HUB-01-engineering-communities-as-a-hiring-asset-in-the-ai-era/README.md)

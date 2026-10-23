@@ -94,4 +94,4 @@ decision-2026-08-19-agent-chrome-rail-mac16-measurement.
 
 ## Raw model reports
 
-1 reports delivered, synthesis used not recorded: [DR26-08-01-MACANTON-01-0631-brauzernaya-relsa-agenta-chemu-uchat-openclaw-i-hermes-sintez-dr26-08/](DR26-08-01-MACANTON-01-0631-brauzernaya-relsa-agenta-chemu-uchat-openclaw-i-hermes-sintez-dr26-08/README.md)
+1 reports delivered, synthesis used not recorded. [DR26-08-01-MACANTON-01-0631-brauzernaya-relsa-agenta-chemu-uchat-openclaw-i-hermes-sintez-dr26-08/](DR26-08-01-MACANTON-01-0631-brauzernaya-relsa-agenta-chemu-uchat-openclaw-i-hermes-sintez-dr26-08/README.md)

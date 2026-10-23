@@ -55,4 +55,4 @@ source: Palo Alto AI Research Lab — deep research programme
 
 ## Raw model reports
 
-1 reports delivered, synthesis used not recorded: [DR26-07-17-HUB-04-conditional-rule-activation-in-llm-agents-lazy-loading-rules-context-v/](DR26-07-17-HUB-04-conditional-rule-activation-in-llm-agents-lazy-loading-rules-context-v/README.md)
+1 reports delivered, synthesis used not recorded. [DR26-07-17-HUB-04-conditional-rule-activation-in-llm-agents-lazy-loading-rules-context-v/](DR26-07-17-HUB-04-conditional-rule-activation-in-llm-agents-lazy-loading-rules-context-v/README.md)

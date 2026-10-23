@@ -59,4 +59,4 @@ source: Palo Alto AI Research Lab — deep research programme
 
 ## Raw model reports
 
-1 reports delivered, synthesis used not recorded: [DR26-07-28-HUB-25-2339-nua-rudel-kak-sloy-skill-intelligence-dlya-claude-code-i-codex-demo-st/](DR26-07-28-HUB-25-2339-nua-rudel-kak-sloy-skill-intelligence-dlya-claude-code-i-codex-demo-st/README.md)
+1 reports delivered, synthesis used not recorded. [DR26-07-28-HUB-25-2339-nua-rudel-kak-sloy-skill-intelligence-dlya-claude-code-i-codex-demo-st/](DR26-07-28-HUB-25-2339-nua-rudel-kak-sloy-skill-intelligence-dlya-claude-code-i-codex-demo-st/README.md)

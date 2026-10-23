@@ -59,4 +59,4 @@ source: Palo Alto AI Research Lab — deep research programme
 
 ## Raw model reports
 
-1 reports delivered, synthesis used not recorded: [DR26-07-17-HUB-02-prior-art-zaschita-4-uzlovogo-konsensusa-ot-split-brain-fencing-epoch/](DR26-07-17-HUB-02-prior-art-zaschita-4-uzlovogo-konsensusa-ot-split-brain-fencing-epoch/README.md)
+1 reports delivered, synthesis used not recorded. [DR26-07-17-HUB-02-prior-art-zaschita-4-uzlovogo-konsensusa-ot-split-brain-fencing-epoch/](DR26-07-17-HUB-02-prior-art-zaschita-4-uzlovogo-konsensusa-ot-split-brain-fencing-epoch/README.md)

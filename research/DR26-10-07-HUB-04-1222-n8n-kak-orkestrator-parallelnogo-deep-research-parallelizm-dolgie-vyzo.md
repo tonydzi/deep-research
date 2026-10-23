@@ -66,3 +66,8 @@ source: Palo Alto AI Research Lab — deep research programme
 - n8n queue mode и масштабирование
 - Pruning истории исполнений
 - Оркестратор против системы записи
+
+
+## Raw model reports
+
+3 reports delivered, synthesis used 1 of 5. Note: 2 report(s) arrived after the synthesis was written; they are attached raw and were not reconciled. [DR26-10-07-HUB-04-1222-n8n-kak-orkestrator-parallelnogo-deep-research-parallelizm-dolgie-vyzo/](DR26-10-07-HUB-04-1222-n8n-kak-orkestrator-parallelnogo-deep-research-parallelizm-dolgie-vyzo/README.md)

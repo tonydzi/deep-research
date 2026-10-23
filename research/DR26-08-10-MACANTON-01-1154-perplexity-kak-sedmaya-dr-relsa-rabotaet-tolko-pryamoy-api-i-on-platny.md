@@ -56,4 +56,4 @@ source: Palo Alto AI Research Lab — deep research programme
 
 ## Raw model reports
 
-4 reports delivered, synthesis used 4 of 4: [DR26-08-10-MACANTON-01-1154-perplexity-kak-sedmaya-dr-relsa-rabotaet-tolko-pryamoy-api-i-on-platny/](DR26-08-10-MACANTON-01-1154-perplexity-kak-sedmaya-dr-relsa-rabotaet-tolko-pryamoy-api-i-on-platny/README.md)
+4 reports delivered, synthesis used 4 of 4. [DR26-08-10-MACANTON-01-1154-perplexity-kak-sedmaya-dr-relsa-rabotaet-tolko-pryamoy-api-i-on-platny/](DR26-08-10-MACANTON-01-1154-perplexity-kak-sedmaya-dr-relsa-rabotaet-tolko-pryamoy-api-i-on-platny/README.md)

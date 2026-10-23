@@ -54,4 +54,4 @@ source: Palo Alto AI Research Lab — deep research programme
 
 ## Raw model reports
 
-1 reports delivered, synthesis used not recorded: [DR26-06-30-HUB-03-ofitsialnye-api-facebook-meta-i-x-twitter-2025-2026-limity-posting-mon/](DR26-06-30-HUB-03-ofitsialnye-api-facebook-meta-i-x-twitter-2025-2026-limity-posting-mon/README.md)
+1 reports delivered, synthesis used not recorded. [DR26-06-30-HUB-03-ofitsialnye-api-facebook-meta-i-x-twitter-2025-2026-limity-posting-mon/](DR26-06-30-HUB-03-ofitsialnye-api-facebook-meta-i-x-twitter-2025-2026-limity-posting-mon/README.md)

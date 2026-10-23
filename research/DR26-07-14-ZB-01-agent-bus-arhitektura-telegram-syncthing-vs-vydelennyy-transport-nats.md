@@ -58,4 +58,4 @@ source: Palo Alto AI Research Lab — deep research programme
 
 ## Raw model reports
 
-3 reports delivered, synthesis used not recorded: [DR26-07-14-ZB-01-agent-bus-arhitektura-telegram-syncthing-vs-vydelennyy-transport-nats/](DR26-07-14-ZB-01-agent-bus-arhitektura-telegram-syncthing-vs-vydelennyy-transport-nats/README.md)
+3 reports delivered, synthesis used not recorded. [DR26-07-14-ZB-01-agent-bus-arhitektura-telegram-syncthing-vs-vydelennyy-transport-nats/](DR26-07-14-ZB-01-agent-bus-arhitektura-telegram-syncthing-vs-vydelennyy-transport-nats/README.md)

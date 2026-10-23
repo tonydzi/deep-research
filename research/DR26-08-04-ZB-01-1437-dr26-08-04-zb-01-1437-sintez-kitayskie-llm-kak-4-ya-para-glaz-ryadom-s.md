@@ -87,4 +87,4 @@ gemini-third-reviewer-rail · hub-review-rails · model-routing-fable-smart · p
 
 ## Raw model reports
 
-2 reports delivered, synthesis used not recorded: [DR26-08-04-ZB-01-1437-dr26-08-04-zb-01-1437-sintez-kitayskie-llm-kak-4-ya-para-glaz-ryadom-s/](DR26-08-04-ZB-01-1437-dr26-08-04-zb-01-1437-sintez-kitayskie-llm-kak-4-ya-para-glaz-ryadom-s/README.md)
+2 reports delivered, synthesis used not recorded. [DR26-08-04-ZB-01-1437-dr26-08-04-zb-01-1437-sintez-kitayskie-llm-kak-4-ya-para-glaz-ryadom-s/](DR26-08-04-ZB-01-1437-dr26-08-04-zb-01-1437-sintez-kitayskie-llm-kak-4-ya-para-glaz-ryadom-s/README.md)

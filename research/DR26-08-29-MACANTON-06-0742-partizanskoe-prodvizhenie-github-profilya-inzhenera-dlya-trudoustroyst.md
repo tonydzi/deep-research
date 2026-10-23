@@ -55,4 +55,4 @@ source: Palo Alto AI Research Lab — deep research programme
 
 ## Raw model reports
 
-1 reports delivered, synthesis used not recorded: [DR26-08-29-MACANTON-06-0742-partizanskoe-prodvizhenie-github-profilya-inzhenera-dlya-trudoustroyst/](DR26-08-29-MACANTON-06-0742-partizanskoe-prodvizhenie-github-profilya-inzhenera-dlya-trudoustroyst/README.md)
+1 reports delivered, synthesis used not recorded. [DR26-08-29-MACANTON-06-0742-partizanskoe-prodvizhenie-github-profilya-inzhenera-dlya-trudoustroyst/](DR26-08-29-MACANTON-06-0742-partizanskoe-prodvizhenie-github-profilya-inzhenera-dlya-trudoustroyst/README.md)

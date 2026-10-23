@@ -75,4 +75,4 @@ source: Palo Alto AI Research Lab — deep research programme
 
 ## Raw model reports
 
-3 reports delivered, synthesis used not recorded: [DR26-08-01-MACANTON-02-659-steward-hire-kak-laboratorii-nanimayut-meynteynera-vmeste-s-proektom-v/](DR26-08-01-MACANTON-02-659-steward-hire-kak-laboratorii-nanimayut-meynteynera-vmeste-s-proektom-v/README.md)
+3 reports delivered, synthesis used not recorded. [DR26-08-01-MACANTON-02-659-steward-hire-kak-laboratorii-nanimayut-meynteynera-vmeste-s-proektom-v/](DR26-08-01-MACANTON-02-659-steward-hire-kak-laboratorii-nanimayut-meynteynera-vmeste-s-proektom-v/README.md)

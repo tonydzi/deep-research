@@ -51,4 +51,4 @@ source: Palo Alto AI Research Lab — deep research programme
 
 ## Raw model reports
 
-1 reports delivered, synthesis used not recorded: [DR26-08-25-MACANTON-10-0740-limity-deep-research-v-chatgpt-plus-pro-na-avgust-2026-i-chto-posle-is/](DR26-08-25-MACANTON-10-0740-limity-deep-research-v-chatgpt-plus-pro-na-avgust-2026-i-chto-posle-is/README.md)
+1 reports delivered, synthesis used not recorded. [DR26-08-25-MACANTON-10-0740-limity-deep-research-v-chatgpt-plus-pro-na-avgust-2026-i-chto-posle-is/](DR26-08-25-MACANTON-10-0740-limity-deep-research-v-chatgpt-plus-pro-na-avgust-2026-i-chto-posle-is/README.md)

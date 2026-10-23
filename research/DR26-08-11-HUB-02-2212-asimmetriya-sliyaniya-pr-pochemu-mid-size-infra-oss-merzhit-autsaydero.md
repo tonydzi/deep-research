@@ -53,4 +53,4 @@ source: Palo Alto AI Research Lab — deep research programme
 
 ## Raw model reports
 
-5 reports delivered, synthesis used not recorded: [DR26-08-11-HUB-02-2212-asimmetriya-sliyaniya-pr-pochemu-mid-size-infra-oss-merzhit-autsaydero/](DR26-08-11-HUB-02-2212-asimmetriya-sliyaniya-pr-pochemu-mid-size-infra-oss-merzhit-autsaydero/README.md)
+5 reports delivered, synthesis used not recorded. [DR26-08-11-HUB-02-2212-asimmetriya-sliyaniya-pr-pochemu-mid-size-infra-oss-merzhit-autsaydero/](DR26-08-11-HUB-02-2212-asimmetriya-sliyaniya-pr-pochemu-mid-size-infra-oss-merzhit-autsaydero/README.md)

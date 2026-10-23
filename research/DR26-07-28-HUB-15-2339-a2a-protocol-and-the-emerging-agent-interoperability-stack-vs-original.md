@@ -55,4 +55,4 @@ source: Palo Alto AI Research Lab — deep research programme
 
 ## Raw model reports
 
-1 reports delivered, synthesis used not recorded: [DR26-07-28-HUB-15-2339-a2a-protocol-and-the-emerging-agent-interoperability-stack-vs-original/](DR26-07-28-HUB-15-2339-a2a-protocol-and-the-emerging-agent-interoperability-stack-vs-original/README.md)
+1 reports delivered, synthesis used not recorded. [DR26-07-28-HUB-15-2339-a2a-protocol-and-the-emerging-agent-interoperability-stack-vs-original/](DR26-07-28-HUB-15-2339-a2a-protocol-and-the-emerging-agent-interoperability-stack-vs-original/README.md)

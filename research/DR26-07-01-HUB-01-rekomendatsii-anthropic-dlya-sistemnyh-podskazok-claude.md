@@ -58,4 +58,4 @@ source: Palo Alto AI Research Lab — deep research programme
 
 ## Raw model reports
 
-1 reports delivered, synthesis used not recorded: [DR26-07-01-HUB-01-rekomendatsii-anthropic-dlya-sistemnyh-podskazok-claude/](DR26-07-01-HUB-01-rekomendatsii-anthropic-dlya-sistemnyh-podskazok-claude/README.md)
+1 reports delivered, synthesis used not recorded. [DR26-07-01-HUB-01-rekomendatsii-anthropic-dlya-sistemnyh-podskazok-claude/](DR26-07-01-HUB-01-rekomendatsii-anthropic-dlya-sistemnyh-podskazok-claude/README.md)

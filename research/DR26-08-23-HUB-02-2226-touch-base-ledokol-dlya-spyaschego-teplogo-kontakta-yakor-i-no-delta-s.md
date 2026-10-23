@@ -50,4 +50,4 @@ RU/CIS-специфика реактивации в мессенджерах —
 
 ## Raw model reports
 
-4 reports delivered, synthesis used 4 of 6: [DR26-08-23-HUB-02-2226-touch-base-ledokol-dlya-spyaschego-teplogo-kontakta-yakor-i-no-delta-s/](DR26-08-23-HUB-02-2226-touch-base-ledokol-dlya-spyaschego-teplogo-kontakta-yakor-i-no-delta-s/README.md)
+4 reports delivered, synthesis used 4 of 6. [DR26-08-23-HUB-02-2226-touch-base-ledokol-dlya-spyaschego-teplogo-kontakta-yakor-i-no-delta-s/](DR26-08-23-HUB-02-2226-touch-base-ledokol-dlya-spyaschego-teplogo-kontakta-yakor-i-no-delta-s/README.md)

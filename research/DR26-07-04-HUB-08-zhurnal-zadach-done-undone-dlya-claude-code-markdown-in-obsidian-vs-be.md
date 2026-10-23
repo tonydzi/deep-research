@@ -58,4 +58,4 @@ source: Palo Alto AI Research Lab — deep research programme
 
 ## Raw model reports
 
-1 reports delivered, synthesis used not recorded: [DR26-07-04-HUB-08-zhurnal-zadach-done-undone-dlya-claude-code-markdown-in-obsidian-vs-be/](DR26-07-04-HUB-08-zhurnal-zadach-done-undone-dlya-claude-code-markdown-in-obsidian-vs-be/README.md)
+1 reports delivered, synthesis used not recorded. [DR26-07-04-HUB-08-zhurnal-zadach-done-undone-dlya-claude-code-markdown-in-obsidian-vs-be/](DR26-07-04-HUB-08-zhurnal-zadach-done-undone-dlya-claude-code-markdown-in-obsidian-vs-be/README.md)

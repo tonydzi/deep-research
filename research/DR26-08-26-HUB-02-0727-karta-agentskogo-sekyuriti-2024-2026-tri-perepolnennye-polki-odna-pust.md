@@ -75,4 +75,4 @@ source: Palo Alto AI Research Lab — deep research programme
 
 ## Raw model reports
 
-2 reports delivered, synthesis used 2 of 6: [DR26-08-26-HUB-02-0727-karta-agentskogo-sekyuriti-2024-2026-tri-perepolnennye-polki-odna-pust/](DR26-08-26-HUB-02-0727-karta-agentskogo-sekyuriti-2024-2026-tri-perepolnennye-polki-odna-pust/README.md)
+2 reports delivered, synthesis used 2 of 6. [DR26-08-26-HUB-02-0727-karta-agentskogo-sekyuriti-2024-2026-tri-perepolnennye-polki-odna-pust/](DR26-08-26-HUB-02-0727-karta-agentskogo-sekyuriti-2024-2026-tri-perepolnennye-polki-odna-pust/README.md)

@@ -60,4 +60,4 @@ source: Palo Alto AI Research Lab — deep research programme
 
 ## Raw model reports
 
-2 reports delivered, synthesis used not recorded: [DR26-07-06-HUB-04-vizualnaya-tipografika-github-markdown-dlya-serializovannoy-knigi-the/](DR26-07-06-HUB-04-vizualnaya-tipografika-github-markdown-dlya-serializovannoy-knigi-the/README.md)
+2 reports delivered, synthesis used not recorded. [DR26-07-06-HUB-04-vizualnaya-tipografika-github-markdown-dlya-serializovannoy-knigi-the/](DR26-07-06-HUB-04-vizualnaya-tipografika-github-markdown-dlya-serializovannoy-knigi-the/README.md)

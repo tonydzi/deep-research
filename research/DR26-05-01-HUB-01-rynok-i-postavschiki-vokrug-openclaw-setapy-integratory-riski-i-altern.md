@@ -61,4 +61,4 @@ source: Palo Alto AI Research Lab — deep research programme
 
 ## Raw model reports
 
-1 reports delivered, synthesis used not recorded: [DR26-05-01-HUB-01-rynok-i-postavschiki-vokrug-openclaw-setapy-integratory-riski-i-altern/](DR26-05-01-HUB-01-rynok-i-postavschiki-vokrug-openclaw-setapy-integratory-riski-i-altern/README.md)
+1 reports delivered, synthesis used not recorded. [DR26-05-01-HUB-01-rynok-i-postavschiki-vokrug-openclaw-setapy-integratory-riski-i-altern/](DR26-05-01-HUB-01-rynok-i-postavschiki-vokrug-openclaw-setapy-integratory-riski-i-altern/README.md)

@@ -76,4 +76,4 @@ source: Palo Alto AI Research Lab — deep research programme
 
 ## Raw model reports
 
-3 reports delivered, synthesis used not recorded: [DR26-07-16-MACANTON-01-1533-karta-oss-kontributsiy-v-ekosistemu-anthropic-gde-i-kak-kontribyutit-c/](DR26-07-16-MACANTON-01-1533-karta-oss-kontributsiy-v-ekosistemu-anthropic-gde-i-kak-kontribyutit-c/README.md)
+3 reports delivered, synthesis used not recorded. [DR26-07-16-MACANTON-01-1533-karta-oss-kontributsiy-v-ekosistemu-anthropic-gde-i-kak-kontribyutit-c/](DR26-07-16-MACANTON-01-1533-karta-oss-kontributsiy-v-ekosistemu-anthropic-gde-i-kak-kontribyutit-c/README.md)

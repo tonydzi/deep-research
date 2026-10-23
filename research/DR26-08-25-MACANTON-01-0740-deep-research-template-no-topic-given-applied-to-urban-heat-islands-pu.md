@@ -55,4 +55,4 @@ source: Palo Alto AI Research Lab — deep research programme
 
 ## Raw model reports
 
-1 reports delivered, synthesis used not recorded: [DR26-08-25-MACANTON-01-0740-deep-research-template-no-topic-given-applied-to-urban-heat-islands-pu/](DR26-08-25-MACANTON-01-0740-deep-research-template-no-topic-given-applied-to-urban-heat-islands-pu/README.md)
+1 reports delivered, synthesis used not recorded. [DR26-08-25-MACANTON-01-0740-deep-research-template-no-topic-given-applied-to-urban-heat-islands-pu/](DR26-08-25-MACANTON-01-0740-deep-research-template-no-topic-given-applied-to-urban-heat-islands-pu/README.md)

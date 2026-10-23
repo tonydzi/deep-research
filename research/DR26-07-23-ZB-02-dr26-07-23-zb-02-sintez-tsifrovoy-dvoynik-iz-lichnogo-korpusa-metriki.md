@@ -57,4 +57,4 @@ source: Palo Alto AI Research Lab — deep research programme
 
 ## Raw model reports
 
-1 reports delivered, synthesis used not recorded: [DR26-07-23-ZB-02-dr26-07-23-zb-02-sintez-tsifrovoy-dvoynik-iz-lichnogo-korpusa-metriki/](DR26-07-23-ZB-02-dr26-07-23-zb-02-sintez-tsifrovoy-dvoynik-iz-lichnogo-korpusa-metriki/README.md)
+1 reports delivered, synthesis used not recorded. [DR26-07-23-ZB-02-dr26-07-23-zb-02-sintez-tsifrovoy-dvoynik-iz-lichnogo-korpusa-metriki/](DR26-07-23-ZB-02-dr26-07-23-zb-02-sintez-tsifrovoy-dvoynik-iz-lichnogo-korpusa-metriki/README.md)

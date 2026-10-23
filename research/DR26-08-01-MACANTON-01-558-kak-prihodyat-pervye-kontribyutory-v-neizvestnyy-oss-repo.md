@@ -61,4 +61,4 @@ source: Palo Alto AI Research Lab — deep research programme
 
 ## Raw model reports
 
-2 reports delivered, synthesis used not recorded: [DR26-08-01-MACANTON-01-558-kak-prihodyat-pervye-kontribyutory-v-neizvestnyy-oss-repo/](DR26-08-01-MACANTON-01-558-kak-prihodyat-pervye-kontribyutory-v-neizvestnyy-oss-repo/README.md)
+2 reports delivered, synthesis used not recorded. [DR26-08-01-MACANTON-01-558-kak-prihodyat-pervye-kontribyutory-v-neizvestnyy-oss-repo/](DR26-08-01-MACANTON-01-558-kak-prihodyat-pervye-kontribyutory-v-neizvestnyy-oss-repo/README.md)

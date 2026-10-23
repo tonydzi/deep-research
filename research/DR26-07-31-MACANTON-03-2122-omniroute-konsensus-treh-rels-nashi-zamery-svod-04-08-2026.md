@@ -74,4 +74,4 @@ source: Palo Alto AI Research Lab — deep research programme
 
 ## Raw model reports
 
-2 reports delivered, synthesis used not recorded: [DR26-07-31-MACANTON-03-2122-omniroute-konsensus-treh-rels-nashi-zamery-svod-04-08-2026/](DR26-07-31-MACANTON-03-2122-omniroute-konsensus-treh-rels-nashi-zamery-svod-04-08-2026/README.md)
+2 reports delivered, synthesis used not recorded. [DR26-07-31-MACANTON-03-2122-omniroute-konsensus-treh-rels-nashi-zamery-svod-04-08-2026/](DR26-07-31-MACANTON-03-2122-omniroute-konsensus-treh-rels-nashi-zamery-svod-04-08-2026/README.md)

@@ -76,4 +76,4 @@ source: Palo Alto AI Research Lab — deep research programme
 
 ## Raw model reports
 
-5 reports delivered, synthesis used not recorded: [DR26-07-14-MACANTON-01-fandreyz-strategiya-2026-dlya-ai-native-faundera-digital-twin-second-b/](DR26-07-14-MACANTON-01-fandreyz-strategiya-2026-dlya-ai-native-faundera-digital-twin-second-b/README.md)
+5 reports delivered, synthesis used not recorded. [DR26-07-14-MACANTON-01-fandreyz-strategiya-2026-dlya-ai-native-faundera-digital-twin-second-b/](DR26-07-14-MACANTON-01-fandreyz-strategiya-2026-dlya-ai-native-faundera-digital-twin-second-b/README.md)

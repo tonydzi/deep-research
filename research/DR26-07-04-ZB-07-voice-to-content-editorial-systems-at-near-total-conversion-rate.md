@@ -61,4 +61,4 @@ source: Palo Alto AI Research Lab — deep research programme
 
 ## Raw model reports
 
-1 reports delivered, synthesis used not recorded: [DR26-07-04-ZB-07-voice-to-content-editorial-systems-at-near-total-conversion-rate/](DR26-07-04-ZB-07-voice-to-content-editorial-systems-at-near-total-conversion-rate/README.md)
+1 reports delivered, synthesis used not recorded. [DR26-07-04-ZB-07-voice-to-content-editorial-systems-at-near-total-conversion-rate/](DR26-07-04-ZB-07-voice-to-content-editorial-systems-at-near-total-conversion-rate/README.md)

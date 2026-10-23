@@ -70,4 +70,4 @@ insight-2026-08-26-compact-retro-landscape-github · task-2026-08-26-distribute-
 
 ## Raw model reports
 
-2 reports delivered, synthesis used 2 of 6: [DR26-08-26-HUB-03-0935-dr-sintez-optimizatsiya-retro-i-kompakta-sota-szhatiya-konteksta-bench/](DR26-08-26-HUB-03-0935-dr-sintez-optimizatsiya-retro-i-kompakta-sota-szhatiya-konteksta-bench/README.md)
+2 reports delivered, synthesis used 2 of 6. [DR26-08-26-HUB-03-0935-dr-sintez-optimizatsiya-retro-i-kompakta-sota-szhatiya-konteksta-bench/](DR26-08-26-HUB-03-0935-dr-sintez-optimizatsiya-retro-i-kompakta-sota-szhatiya-konteksta-bench/README.md)

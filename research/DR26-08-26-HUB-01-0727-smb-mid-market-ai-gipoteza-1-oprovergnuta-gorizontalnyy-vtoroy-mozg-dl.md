@@ -70,4 +70,4 @@ VC **не отвергает SMB, но фондирует вертикали, н
 
 ## Raw model reports
 
-2 reports delivered, synthesis used 2 of 6: [DR26-08-26-HUB-01-0727-smb-mid-market-ai-gipoteza-1-oprovergnuta-gorizontalnyy-vtoroy-mozg-dl/](DR26-08-26-HUB-01-0727-smb-mid-market-ai-gipoteza-1-oprovergnuta-gorizontalnyy-vtoroy-mozg-dl/README.md)
+2 reports delivered, synthesis used 2 of 6. [DR26-08-26-HUB-01-0727-smb-mid-market-ai-gipoteza-1-oprovergnuta-gorizontalnyy-vtoroy-mozg-dl/](DR26-08-26-HUB-01-0727-smb-mid-market-ai-gipoteza-1-oprovergnuta-gorizontalnyy-vtoroy-mozg-dl/README.md)

@@ -58,4 +58,4 @@ source: Palo Alto AI Research Lab — deep research programme
 
 ## Raw model reports
 
-1 reports delivered, synthesis used not recorded: [DR26-08-25-MACANTON-08-0740-kak-perepisyvat-ai-tekst-chtoby-on-chitalsya-kak-tekst-zhivogo-zanyato/](DR26-08-25-MACANTON-08-0740-kak-perepisyvat-ai-tekst-chtoby-on-chitalsya-kak-tekst-zhivogo-zanyato/README.md)
+1 reports delivered, synthesis used not recorded. [DR26-08-25-MACANTON-08-0740-kak-perepisyvat-ai-tekst-chtoby-on-chitalsya-kak-tekst-zhivogo-zanyato/](DR26-08-25-MACANTON-08-0740-kak-perepisyvat-ai-tekst-chtoby-on-chitalsya-kak-tekst-zhivogo-zanyato/README.md)

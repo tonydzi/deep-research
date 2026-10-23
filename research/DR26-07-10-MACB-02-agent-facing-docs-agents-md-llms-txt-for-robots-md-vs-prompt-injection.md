@@ -61,4 +61,4 @@ source: Palo Alto AI Research Lab — deep research programme
 
 ## Raw model reports
 
-3 reports delivered, synthesis used not recorded: [DR26-07-10-MACB-02-agent-facing-docs-agents-md-llms-txt-for-robots-md-vs-prompt-injection/](DR26-07-10-MACB-02-agent-facing-docs-agents-md-llms-txt-for-robots-md-vs-prompt-injection/README.md)
+3 reports delivered, synthesis used not recorded. [DR26-07-10-MACB-02-agent-facing-docs-agents-md-llms-txt-for-robots-md-vs-prompt-injection/](DR26-07-10-MACB-02-agent-facing-docs-agents-md-llms-txt-for-robots-md-vs-prompt-injection/README.md)

@@ -75,4 +75,4 @@ source: Palo Alto AI Research Lab — deep research programme
 
 ## Raw model reports
 
-2 reports delivered, synthesis used 2 of 2: [DR26-08-01-MACANTON-02-658-ekonomika-udalennogo-ofera-ot-amerikanskoy-kompanii-cheloveku-v-lissab/](DR26-08-01-MACANTON-02-658-ekonomika-udalennogo-ofera-ot-amerikanskoy-kompanii-cheloveku-v-lissab/README.md)
+2 reports delivered, synthesis used 2 of 2. [DR26-08-01-MACANTON-02-658-ekonomika-udalennogo-ofera-ot-amerikanskoy-kompanii-cheloveku-v-lissab/](DR26-08-01-MACANTON-02-658-ekonomika-udalennogo-ofera-ot-amerikanskoy-kompanii-cheloveku-v-lissab/README.md)

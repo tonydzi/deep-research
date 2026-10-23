@@ -82,4 +82,4 @@ zero-trust-product-line, main-goals, fake-it-courage-not-fake-numbers.
 
 ## Raw model reports
 
-4 reports delivered, synthesis used 4 of 6: [DR26-08-25-HUB-03-2301-dr26-08-25-hub-03-audit-rels-iz-kvoruma-4-6-podtverzhdayuschih-rels-dv/](DR26-08-25-HUB-03-2301-dr26-08-25-hub-03-audit-rels-iz-kvoruma-4-6-podtverzhdayuschih-rels-dv/README.md)
+4 reports delivered, synthesis used 4 of 6. [DR26-08-25-HUB-03-2301-dr26-08-25-hub-03-audit-rels-iz-kvoruma-4-6-podtverzhdayuschih-rels-dv/](DR26-08-25-HUB-03-2301-dr26-08-25-hub-03-audit-rels-iz-kvoruma-4-6-podtverzhdayuschih-rels-dv/README.md)

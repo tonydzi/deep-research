@@ -242,4 +242,4 @@ AK-идеальность = (проверенные полезные эффек�
 
 ## Raw model reports
 
-4 reports delivered, synthesis used 4 of 6: [DR26-08-06-HUB-01-1055-dr26-08-06-hub-01-1055-triz-chto-brat-chto-otkazat-i-gde-ona-pryamo-pr/](DR26-08-06-HUB-01-1055-dr26-08-06-hub-01-1055-triz-chto-brat-chto-otkazat-i-gde-ona-pryamo-pr/README.md)
+4 reports delivered, synthesis used 4 of 6. [DR26-08-06-HUB-01-1055-dr26-08-06-hub-01-1055-triz-chto-brat-chto-otkazat-i-gde-ona-pryamo-pr/](DR26-08-06-HUB-01-1055-dr26-08-06-hub-01-1055-triz-chto-brat-chto-otkazat-i-gde-ona-pryamo-pr/README.md)

@@ -139,4 +139,4 @@ ZB-03 пришёл к этому от паттернов Карпаты и Гв�
 
 ## Raw model reports
 
-1 reports delivered, synthesis used not recorded: [DR26-07-26-ZB-04-sintez-dr26-07-26-zb-04-neyronauka-pamyati-chto-kopirovat-v-tsifrovoy/](DR26-07-26-ZB-04-sintez-dr26-07-26-zb-04-neyronauka-pamyati-chto-kopirovat-v-tsifrovoy/README.md)
+1 reports delivered, synthesis used not recorded. [DR26-07-26-ZB-04-sintez-dr26-07-26-zb-04-neyronauka-pamyati-chto-kopirovat-v-tsifrovoy/](DR26-07-26-ZB-04-sintez-dr26-07-26-zb-04-neyronauka-pamyati-chto-kopirovat-v-tsifrovoy/README.md)

@@ -134,4 +134,4 @@ memory-index-hygiene · claude-md-compression-contract · write-service-files-ti
 
 ## Raw model reports
 
-4 reports delivered, synthesis used not recorded: [DR26-07-27-HUB-01-2203-format-always-loaded-faylov-spor-top-protiv-ploskogo-spiska-zakryt-fak/](DR26-07-27-HUB-01-2203-format-always-loaded-faylov-spor-top-protiv-ploskogo-spiska-zakryt-fak/README.md)
+4 reports delivered, synthesis used not recorded. [DR26-07-27-HUB-01-2203-format-always-loaded-faylov-spor-top-protiv-ploskogo-spiska-zakryt-fak/](DR26-07-27-HUB-01-2203-format-always-loaded-faylov-spor-top-protiv-ploskogo-spiska-zakryt-fak/README.md)

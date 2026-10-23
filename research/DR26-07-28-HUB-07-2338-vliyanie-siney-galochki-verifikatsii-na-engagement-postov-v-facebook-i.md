@@ -56,4 +56,4 @@ source: Palo Alto AI Research Lab — deep research programme
 
 ## Raw model reports
 
-1 reports delivered, synthesis used not recorded: [DR26-07-28-HUB-07-2338-vliyanie-siney-galochki-verifikatsii-na-engagement-postov-v-facebook-i/](DR26-07-28-HUB-07-2338-vliyanie-siney-galochki-verifikatsii-na-engagement-postov-v-facebook-i/README.md)
+1 reports delivered, synthesis used not recorded. [DR26-07-28-HUB-07-2338-vliyanie-siney-galochki-verifikatsii-na-engagement-postov-v-facebook-i/](DR26-07-28-HUB-07-2338-vliyanie-siney-galochki-verifikatsii-na-engagement-postov-v-facebook-i/README.md)

@@ -112,4 +112,4 @@ Apple MPP автоматически загружает пиксели; Mailchim
 
 ## Raw model reports
 
-1 reports delivered, synthesis used 1 of 2: [DR26-08-01-MACANTON-02-727-substack-dlya-laboratorii-bez-email-bazy-brat-ili-net-v-kakom-formate/](DR26-08-01-MACANTON-02-727-substack-dlya-laboratorii-bez-email-bazy-brat-ili-net-v-kakom-formate/README.md)
+1 reports delivered, synthesis used 1 of 2. [DR26-08-01-MACANTON-02-727-substack-dlya-laboratorii-bez-email-bazy-brat-ili-net-v-kakom-formate/](DR26-08-01-MACANTON-02-727-substack-dlya-laboratorii-bez-email-bazy-brat-ili-net-v-kakom-formate/README.md)

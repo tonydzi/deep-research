@@ -62,4 +62,4 @@ ai-audit-before-call-offer · mission-get-noticed-hired-by-llm-company · anton-
 
 ## Raw model reports
 
-2 reports delivered, synthesis used 2 of 2: [DR26-07-31-MACANTON-04-2124-sintez-dr-anthropic-ekvivalenta-promo-sidov-kone-vc-net-stroim-cpn-svo/](DR26-07-31-MACANTON-04-2124-sintez-dr-anthropic-ekvivalenta-promo-sidov-kone-vc-net-stroim-cpn-svo/README.md)
+2 reports delivered, synthesis used 2 of 2. [DR26-07-31-MACANTON-04-2124-sintez-dr-anthropic-ekvivalenta-promo-sidov-kone-vc-net-stroim-cpn-svo/](DR26-07-31-MACANTON-04-2124-sintez-dr-anthropic-ekvivalenta-promo-sidov-kone-vc-net-stroim-cpn-svo/README.md)

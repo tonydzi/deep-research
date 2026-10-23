@@ -80,4 +80,4 @@ source: Palo Alto AI Research Lab — deep research programme
 
 ## Raw model reports
 
-3 reports delivered, synthesis used not recorded: [DR26-07-14-MACB-01-ne-zhdat-hab-rasscheplenie-3-roley-haba-gpu-reindeks-control-plane-sin/](DR26-07-14-MACB-01-ne-zhdat-hab-rasscheplenie-3-roley-haba-gpu-reindeks-control-plane-sin/README.md)
+3 reports delivered, synthesis used not recorded. [DR26-07-14-MACB-01-ne-zhdat-hab-rasscheplenie-3-roley-haba-gpu-reindeks-control-plane-sin/](DR26-07-14-MACB-01-ne-zhdat-hab-rasscheplenie-3-roley-haba-gpu-reindeks-control-plane-sin/README.md)

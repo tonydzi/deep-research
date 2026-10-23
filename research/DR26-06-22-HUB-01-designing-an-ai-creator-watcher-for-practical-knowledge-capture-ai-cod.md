@@ -56,4 +56,4 @@ source: Palo Alto AI Research Lab — deep research programme
 
 ## Raw model reports
 
-1 reports delivered, synthesis used not recorded: [DR26-06-22-HUB-01-designing-an-ai-creator-watcher-for-practical-knowledge-capture-ai-cod/](DR26-06-22-HUB-01-designing-an-ai-creator-watcher-for-practical-knowledge-capture-ai-cod/README.md)
+1 reports delivered, synthesis used not recorded. [DR26-06-22-HUB-01-designing-an-ai-creator-watcher-for-practical-knowledge-capture-ai-cod/](DR26-06-22-HUB-01-designing-an-ai-creator-watcher-for-practical-knowledge-capture-ai-cod/README.md)

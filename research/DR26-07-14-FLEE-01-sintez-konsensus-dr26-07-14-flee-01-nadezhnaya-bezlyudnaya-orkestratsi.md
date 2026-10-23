@@ -47,4 +47,4 @@ source: Palo Alto AI Research Lab — deep research programme
 
 ## Raw model reports
 
-2 reports delivered, synthesis used not recorded: [DR26-07-14-FLEE-01-sintez-konsensus-dr26-07-14-flee-01-nadezhnaya-bezlyudnaya-orkestratsi/](DR26-07-14-FLEE-01-sintez-konsensus-dr26-07-14-flee-01-nadezhnaya-bezlyudnaya-orkestratsi/README.md)
+2 reports delivered, synthesis used not recorded. [DR26-07-14-FLEE-01-sintez-konsensus-dr26-07-14-flee-01-nadezhnaya-bezlyudnaya-orkestratsi/](DR26-07-14-FLEE-01-sintez-konsensus-dr26-07-14-flee-01-nadezhnaya-bezlyudnaya-orkestratsi/README.md)

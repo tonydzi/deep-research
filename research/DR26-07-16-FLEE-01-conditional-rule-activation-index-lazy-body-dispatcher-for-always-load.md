@@ -58,4 +58,4 @@ source: Palo Alto AI Research Lab — deep research programme
 
 ## Raw model reports
 
-2 reports delivered, synthesis used not recorded: [DR26-07-16-FLEE-01-conditional-rule-activation-index-lazy-body-dispatcher-for-always-load/](DR26-07-16-FLEE-01-conditional-rule-activation-index-lazy-body-dispatcher-for-always-load/README.md)
+2 reports delivered, synthesis used not recorded. [DR26-07-16-FLEE-01-conditional-rule-activation-index-lazy-body-dispatcher-for-always-load/](DR26-07-16-FLEE-01-conditional-rule-activation-index-lazy-body-dispatcher-for-always-load/README.md)

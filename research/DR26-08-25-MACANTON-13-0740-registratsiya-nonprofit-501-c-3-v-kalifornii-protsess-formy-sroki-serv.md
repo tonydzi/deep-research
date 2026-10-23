@@ -58,4 +58,4 @@ source: Palo Alto AI Research Lab — deep research programme
 
 ## Raw model reports
 
-1 reports delivered, synthesis used not recorded: [DR26-08-25-MACANTON-13-0740-registratsiya-nonprofit-501-c-3-v-kalifornii-protsess-formy-sroki-serv/](DR26-08-25-MACANTON-13-0740-registratsiya-nonprofit-501-c-3-v-kalifornii-protsess-formy-sroki-serv/README.md)
+1 reports delivered, synthesis used not recorded. [DR26-08-25-MACANTON-13-0740-registratsiya-nonprofit-501-c-3-v-kalifornii-protsess-formy-sroki-serv/](DR26-08-25-MACANTON-13-0740-registratsiya-nonprofit-501-c-3-v-kalifornii-protsess-formy-sroki-serv/README.md)

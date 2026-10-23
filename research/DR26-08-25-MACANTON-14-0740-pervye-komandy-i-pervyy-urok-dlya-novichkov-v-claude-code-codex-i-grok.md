@@ -61,4 +61,4 @@ source: Palo Alto AI Research Lab — deep research programme
 
 ## Raw model reports
 
-1 reports delivered, synthesis used not recorded: [DR26-08-25-MACANTON-14-0740-pervye-komandy-i-pervyy-urok-dlya-novichkov-v-claude-code-codex-i-grok/](DR26-08-25-MACANTON-14-0740-pervye-komandy-i-pervyy-urok-dlya-novichkov-v-claude-code-codex-i-grok/README.md)
+1 reports delivered, synthesis used not recorded. [DR26-08-25-MACANTON-14-0740-pervye-komandy-i-pervyy-urok-dlya-novichkov-v-claude-code-codex-i-grok/](DR26-08-25-MACANTON-14-0740-pervye-komandy-i-pervyy-urok-dlya-novichkov-v-claude-code-codex-i-grok/README.md)

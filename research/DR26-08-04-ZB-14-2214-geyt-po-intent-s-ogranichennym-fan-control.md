@@ -104,4 +104,4 @@ shadow_ablation:
 
 ## Raw model reports
 
-4 reports delivered, synthesis used 4 of 6: [DR26-08-04-ZB-14-2214-geyt-po-intent-s-ogranichennym-fan-control/](DR26-08-04-ZB-14-2214-geyt-po-intent-s-ogranichennym-fan-control/README.md)
+4 reports delivered, synthesis used 4 of 6. [DR26-08-04-ZB-14-2214-geyt-po-intent-s-ogranichennym-fan-control/](DR26-08-04-ZB-14-2214-geyt-po-intent-s-ogranichennym-fan-control/README.md)

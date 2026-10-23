@@ -36,4 +36,4 @@ Gemini предлагал **генерировать** правдоподобн�
 
 ## Raw model reports
 
-4 reports delivered, synthesis used not recorded: [DR26-07-30-MACANTON-01-1456-sintez-dr-anti-ai-slop-humanizator-skill-ai-slop/](DR26-07-30-MACANTON-01-1456-sintez-dr-anti-ai-slop-humanizator-skill-ai-slop/README.md)
+4 reports delivered, synthesis used not recorded. [DR26-07-30-MACANTON-01-1456-sintez-dr-anti-ai-slop-humanizator-skill-ai-slop/](DR26-07-30-MACANTON-01-1456-sintez-dr-anti-ai-slop-humanizator-skill-ai-slop/README.md)

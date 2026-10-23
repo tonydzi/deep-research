@@ -96,4 +96,4 @@ Source-of-hire компании не публикуют — поэтому лю�
 
 ## Raw model reports
 
-5 reports delivered, synthesis used 5 of 8: [DR26-09-14-ZB-12-2009-coo-chief-of-staff-ir-capital-formation-zapolnyayutsya-li-eti-roli-pub/](DR26-09-14-ZB-12-2009-coo-chief-of-staff-ir-capital-formation-zapolnyayutsya-li-eti-roli-pub/README.md)
+5 reports delivered, synthesis used 5 of 8. [DR26-09-14-ZB-12-2009-coo-chief-of-staff-ir-capital-formation-zapolnyayutsya-li-eti-roli-pub/](DR26-09-14-ZB-12-2009-coo-chief-of-staff-ir-capital-formation-zapolnyayutsya-li-eti-roli-pub/README.md)

@@ -54,4 +54,4 @@ source: Palo Alto AI Research Lab — deep research programme
 
 ## Raw model reports
 
-1 reports delivered, synthesis used not recorded: [DR26-08-25-MACANTON-02-0740-rezonansy-shumana-i-magnitosfera-zemli-fizika-izmereniya-vliyanie-na-t/](DR26-08-25-MACANTON-02-0740-rezonansy-shumana-i-magnitosfera-zemli-fizika-izmereniya-vliyanie-na-t/README.md)
+1 reports delivered, synthesis used not recorded. [DR26-08-25-MACANTON-02-0740-rezonansy-shumana-i-magnitosfera-zemli-fizika-izmereniya-vliyanie-na-t/](DR26-08-25-MACANTON-02-0740-rezonansy-shumana-i-magnitosfera-zemli-fizika-izmereniya-vliyanie-na-t/README.md)

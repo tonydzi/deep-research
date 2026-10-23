@@ -49,4 +49,4 @@ source: Palo Alto AI Research Lab — deep research programme
 
 ## Raw model reports
 
-1 reports delivered, synthesis used not recorded: [DR26-07-01-ZB-01-sota-architecture-for-a-unified-local-first-second-brain-memory-shared/](DR26-07-01-ZB-01-sota-architecture-for-a-unified-local-first-second-brain-memory-shared/README.md)
+1 reports delivered, synthesis used not recorded. [DR26-07-01-ZB-01-sota-architecture-for-a-unified-local-first-second-brain-memory-shared/](DR26-07-01-ZB-01-sota-architecture-for-a-unified-local-first-second-brain-memory-shared/README.md)

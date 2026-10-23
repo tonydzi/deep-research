@@ -58,4 +58,4 @@ source: Palo Alto AI Research Lab — deep research programme
 
 ## Raw model reports
 
-1 reports delivered, synthesis used not recorded: [DR26-07-06-HUB-07-distributed-on-air-board-for-a-small-ai-fleet/](DR26-07-06-HUB-07-distributed-on-air-board-for-a-small-ai-fleet/README.md)
+1 reports delivered, synthesis used not recorded. [DR26-07-06-HUB-07-distributed-on-air-board-for-a-small-ai-fleet/](DR26-07-06-HUB-07-distributed-on-air-board-for-a-small-ai-fleet/README.md)

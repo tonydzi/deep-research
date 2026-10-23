@@ -55,4 +55,4 @@ mission-get-noticed-hired-by-llm-company · github-guerrilla-presence-over-merge
 
 ## Raw model reports
 
-2 reports delivered, synthesis used not recorded: [DR26-07-31-MACANTON-05-2135-sintez-dr-oss-dveri-vne-vendorov-antikythera-i-google-pi-zhivye-sfi-mi/](DR26-07-31-MACANTON-05-2135-sintez-dr-oss-dveri-vne-vendorov-antikythera-i-google-pi-zhivye-sfi-mi/README.md)
+2 reports delivered, synthesis used not recorded. [DR26-07-31-MACANTON-05-2135-sintez-dr-oss-dveri-vne-vendorov-antikythera-i-google-pi-zhivye-sfi-mi/](DR26-07-31-MACANTON-05-2135-sintez-dr-oss-dveri-vne-vendorov-antikythera-i-google-pi-zhivye-sfi-mi/README.md)

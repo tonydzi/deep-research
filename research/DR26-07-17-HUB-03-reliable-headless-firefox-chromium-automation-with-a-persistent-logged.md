@@ -57,4 +57,4 @@ source: Palo Alto AI Research Lab — deep research programme
 
 ## Raw model reports
 
-1 reports delivered, synthesis used not recorded: [DR26-07-17-HUB-03-reliable-headless-firefox-chromium-automation-with-a-persistent-logged/](DR26-07-17-HUB-03-reliable-headless-firefox-chromium-automation-with-a-persistent-logged/README.md)
+1 reports delivered, synthesis used not recorded. [DR26-07-17-HUB-03-reliable-headless-firefox-chromium-automation-with-a-persistent-logged/](DR26-07-17-HUB-03-reliable-headless-firefox-chromium-automation-with-a-persistent-logged/README.md)

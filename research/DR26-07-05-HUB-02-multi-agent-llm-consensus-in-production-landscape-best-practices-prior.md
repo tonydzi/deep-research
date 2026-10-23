@@ -61,4 +61,4 @@ source: Palo Alto AI Research Lab — deep research programme
 
 ## Raw model reports
 
-4 reports delivered, synthesis used not recorded: [DR26-07-05-HUB-02-multi-agent-llm-consensus-in-production-landscape-best-practices-prior/](DR26-07-05-HUB-02-multi-agent-llm-consensus-in-production-landscape-best-practices-prior/README.md)
+4 reports delivered, synthesis used not recorded. [DR26-07-05-HUB-02-multi-agent-llm-consensus-in-production-landscape-best-practices-prior/](DR26-07-05-HUB-02-multi-agent-llm-consensus-in-production-landscape-best-practices-prior/README.md)

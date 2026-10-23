@@ -61,4 +61,4 @@ source: Palo Alto AI Research Lab — deep research programme
 
 ## Raw model reports
 
-4 reports delivered, synthesis used 4 of 6: [DR26-09-14-ZB-07-2007-kartina-mira-faunderov-frontier-ai-laboratoriy-teh-faundery-vs-ideolog/](DR26-09-14-ZB-07-2007-kartina-mira-faunderov-frontier-ai-laboratoriy-teh-faundery-vs-ideolog/README.md)
+4 reports delivered, synthesis used 4 of 6. [DR26-09-14-ZB-07-2007-kartina-mira-faunderov-frontier-ai-laboratoriy-teh-faundery-vs-ideolog/](DR26-09-14-ZB-07-2007-kartina-mira-faunderov-frontier-ai-laboratoriy-teh-faundery-vs-ideolog/README.md)

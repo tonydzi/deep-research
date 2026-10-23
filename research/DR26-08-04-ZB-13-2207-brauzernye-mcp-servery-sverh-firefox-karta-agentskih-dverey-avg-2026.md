@@ -56,4 +56,4 @@ source: Palo Alto AI Research Lab — deep research programme
 
 ## Raw model reports
 
-4 reports delivered, synthesis used not recorded: [DR26-08-04-ZB-13-2207-brauzernye-mcp-servery-sverh-firefox-karta-agentskih-dverey-avg-2026/](DR26-08-04-ZB-13-2207-brauzernye-mcp-servery-sverh-firefox-karta-agentskih-dverey-avg-2026/README.md)
+4 reports delivered, synthesis used not recorded. [DR26-08-04-ZB-13-2207-brauzernye-mcp-servery-sverh-firefox-karta-agentskih-dverey-avg-2026/](DR26-08-04-ZB-13-2207-brauzernye-mcp-servery-sverh-firefox-karta-agentskih-dverey-avg-2026/README.md)

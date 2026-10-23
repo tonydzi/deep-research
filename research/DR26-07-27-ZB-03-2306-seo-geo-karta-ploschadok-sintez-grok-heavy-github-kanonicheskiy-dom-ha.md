@@ -98,4 +98,4 @@ Habr и VC.ru **не дают** настоящего внешнего `rel=canon
 
 ## Raw model reports
 
-1 reports delivered, synthesis used not recorded: [DR26-07-27-ZB-03-2306-seo-geo-karta-ploschadok-sintez-grok-heavy-github-kanonicheskiy-dom-ha/](DR26-07-27-ZB-03-2306-seo-geo-karta-ploschadok-sintez-grok-heavy-github-kanonicheskiy-dom-ha/README.md)
+1 reports delivered, synthesis used not recorded. [DR26-07-27-ZB-03-2306-seo-geo-karta-ploschadok-sintez-grok-heavy-github-kanonicheskiy-dom-ha/](DR26-07-27-ZB-03-2306-seo-geo-karta-ploschadok-sintez-grok-heavy-github-kanonicheskiy-dom-ha/README.md)

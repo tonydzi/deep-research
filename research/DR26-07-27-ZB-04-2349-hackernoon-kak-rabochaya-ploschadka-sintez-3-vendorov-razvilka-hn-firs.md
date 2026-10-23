@@ -105,4 +105,4 @@ Gemini: 66,5% OpenAI / 25,5% AmazonBot / 8% Perplexity. ChatGPT со ссылк�
 
 ## Raw model reports
 
-1 reports delivered, synthesis used not recorded: [DR26-07-27-ZB-04-2349-hackernoon-kak-rabochaya-ploschadka-sintez-3-vendorov-razvilka-hn-firs/](DR26-07-27-ZB-04-2349-hackernoon-kak-rabochaya-ploschadka-sintez-3-vendorov-razvilka-hn-firs/README.md)
+1 reports delivered, synthesis used not recorded. [DR26-07-27-ZB-04-2349-hackernoon-kak-rabochaya-ploschadka-sintez-3-vendorov-razvilka-hn-firs/](DR26-07-27-ZB-04-2349-hackernoon-kak-rabochaya-ploschadka-sintez-3-vendorov-razvilka-hn-firs/README.md)

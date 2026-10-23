@@ -53,4 +53,4 @@ source: Palo Alto AI Research Lab — deep research programme
 
 ## Raw model reports
 
-1 reports delivered, synthesis used not recorded: [DR26-07-01-ZB-02-persistent-structural-code-memory-symbol-call-graph-blast-radius-for-c/](DR26-07-01-ZB-02-persistent-structural-code-memory-symbol-call-graph-blast-radius-for-c/README.md)
+1 reports delivered, synthesis used not recorded. [DR26-07-01-ZB-02-persistent-structural-code-memory-symbol-call-graph-blast-radius-for-c/](DR26-07-01-ZB-02-persistent-structural-code-memory-symbol-call-graph-blast-radius-for-c/README.md)
