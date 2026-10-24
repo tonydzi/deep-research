@@ -1,9 +1,10 @@
 # Research history
 
-346 deep-research runs, newest first. Each run is sent to several frontier models in parallel ("rails"); models finish at different times, so a synthesis may be built from fewer reports than were finally delivered. The two columns show both numbers honestly; `?` means we do not know.
+347 deep-research runs, newest first. Each run is sent to several frontier models in parallel ("rails"); models finish at different times, so a synthesis may be built from fewer reports than were finally delivered. The two columns show both numbers honestly; `?` means we do not know.
 
 | ID | date | topic | reports delivered | used in synthesis | dev.to |
 |---|---|---|---|---|---|
+| [DR26-10-23-ZB-01-2006](https://github.com/tonydzi/deep-research/blob/main/research/DR26-10-23-ZB-01-2006-chto-flot-mozhet-dostich-cherez-ssh-sintez-5-vendorov.md) | 2026-10-23 | Что флот может достичь через SSH: удалённые видимые сессии, оркестрация, бэкапы, GPU хаба, безопасность ключей | 5 | 5/5 |  |
 | [DR26-10-22-MACANTON-02-1416](https://github.com/tonydzi/deep-research/blob/main/research/DR26-10-22-MACANTON-02-1416-dr26-10-22-macanton-02-1416-chuzhaya-distributsiya-sgm-i-put-k-1000-zv.md) | 2026-10-22 | sqlite-graph-memory: чужая дистрибуция и путь к 1000 звёздам | 4 | 1/6 |  |
 | [DR26-10-22-ZB-01-2030](https://github.com/tonydzi/deep-research/blob/main/research/DR26-10-22-ZB-01-2030-handwriting-mechanics-of-successful-ai-builder-x-accounts-for-short-pa.md) | 2026-10-22 | Почерк успешных X-авторов ниши AI-builders для коротких постов боли: 15-25 аккаунтов, 40 реальных постов с мет | 2 | 2/6 |  |
 | [DR26-10-20-HUB-03-2232](https://github.com/tonydzi/deep-research/blob/main/research/DR26-10-20-HUB-03-2232-remontoprigodnaya-sloistaya-pamyat-sessiy-inkrementalnaya-indeksatsiya.md) | 2026-10-20 | Layered session memory incremental indexing relinking evaluation AK47 | 1 | 1/6 |  |

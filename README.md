@@ -1,6 +1,6 @@
 # Deep Research — Palo Alto AI Research Lab
 
-347 deep-research reports, distilled. Every entry answers two questions: why we ran this research, and what we got out of it.
+348 deep-research reports, distilled. Every entry answers two questions: why we ran this research, and what we got out of it.
 
 Each report was run across several frontier models (ChatGPT, Gemini, Grok, Claude, GLM, Mistral), then reconciled into the distilled note you see here. Findings are the reconciled ones, not a single model's opinion.
 
@@ -372,6 +372,7 @@ Raw model transcripts stay in our vault. What is published here is the distilled
 | [DR26-10-05-HUB-06-2203](research/DR26-10-05-HUB-06-2203-spokoynoe-uverennoe-povedenie-na-konferentsiyah-mitapah-i-hakatonah-ch.md) | Спокойное уверенное поведение на конференциях, митапах и хакатонах — что подтверждено, что опровергнуто |  |
 | [DR26-10-18-HUB-02-0542](research/DR26-10-18-HUB-02-0542-fabrika-podkastov-notebooklm-na-vse-platformy-sintez-dr-18-10-2026.md) | Фабрика подкастов NotebookLM на все платформы (синтез ДР, 18.10.2026) |  |
 | [DR26-10-22-MACANTON-02-1416](research/DR26-10-22-MACANTON-02-1416-dr26-10-22-macanton-02-1416-chuzhaya-distributsiya-sgm-i-put-k-1000-zv.md) | DR26-10-22-MACANTON-02-1416: чужая дистрибуция sgm и путь к 1000 звёздам (синтез 4 ног) |  |
+| [DR26-10-23-ZB-01-2006](research/DR26-10-23-ZB-01-2006-chto-flot-mozhet-dostich-cherez-ssh-sintez-5-vendorov.md) | Что флот может достичь через SSH: синтез 5 вендоров |  |
 
 ---
 

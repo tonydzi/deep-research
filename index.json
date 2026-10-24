@@ -1,6 +1,6 @@
 {
- "generated": "2026-10-23",
- "count": 347,
+ "generated": "2026-10-24",
+ "count": 348,
  "repo": "https://github.com/tonydzi/deep-research",
  "research": [
   {
@@ -497,6 +497,15 @@
    "date": "",
    "slug": "DR26-10-22-MACANTON-02-1416-dr26-10-22-macanton-02-1416-chuzhaya-distributsiya-sgm-i-put-k-1000-zv",
    "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-10-22-MACANTON-02-1416-dr26-10-22-macanton-02-1416-chuzhaya-distributsiya-sgm-i-put-k-1000-zv.md"
+  },
+  {
+   "dr_id": "DR26-10-23-ZB-01-2006",
+   "title": "Что флот может достичь через SSH: синтез 5 вендоров",
+   "summary": "Заказ: Антон 23.10.2026 19:58, голосом: «Запусти ДР: что флот может достичь через SSH». Ноги собраны на Mac16 сессией, поднятой с ZBook по SSH дверью `mac_app_fire.py`. Гейт `dr_leg_gate.py --prompt`: chatgpt 55 источников, claudeai 54, gemini 67, grok 116, mistral 186. Ноги: `_machine-bus/_dr/queue/DR26-10-23-ZB-01-2006/results/`.",
+   "lang": "ru",
+   "date": "",
+   "slug": "DR26-10-23-ZB-01-2006-chto-flot-mozhet-dostich-cherez-ssh-sintez-5-vendorov",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-10-23-ZB-01-2006-chto-flot-mozhet-dostich-cherez-ssh-sintez-5-vendorov.md"
   },
   {
    "dr_id": "DR26-05-01-HUB-01",
