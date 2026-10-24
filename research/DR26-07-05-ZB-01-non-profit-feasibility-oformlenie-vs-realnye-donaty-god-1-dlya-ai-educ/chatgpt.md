@@ -2,10 +2,951 @@
 
 > Unedited output of one model. Our reconciled synthesis is the page one level up.
 
-<!-- source: ChatGPT Pro Deep Research (report re-printed as chat message; original in DR widget) -->
-<!-- topic: DR26-07-05-ZB-01 Non-profit feasibility -->
-<!-- date: 2026-07-05 ~03:30, collected by Max (Claude Code, HP17) verbatim via blob-download -->
-<!-- origin: приватный чат -->
+---
+title: "Non-profit feasibility AI"
+type: ai-conversation
+stage: raw
+source: chatgpt
+
+
+authored_by: hybrid
+conversation_id: 6a49b068-576c-83eb-8db2-dc4857fe1790
+model: "gpt-5-5-pro"
+url: "https://приватный чат"
+date_recorded: 2026-07-05
+date_added: 2026-07-07
+valid_as_of: 2026-07-05
+archived: false
+volatility: slow
+interpretation_confidence: high
+intent: ""
+language: ru
+tags: [chatgpt, ai-conversation]
+value_score: 0.0
+msg_count: 116
+related_concepts: []
+revisit_if: ""
+---
+
+# Non-profit feasibility AI
+
+> ChatGPT · 2026-07-05 · `gpt-5-5-pro` · 116 сообщений
+
+## Диалог
+
+**Anton:**
+
+@Deep research # DR26-07-05-ZB-01 — Non-profit feasibility: время/деньги на оформление vs реальные донаты год-1 (AI-education школа). Роль: ты консультант по некоммерческим организациям и фандрейзингу в tech/AI-образовании. Дай решение-ориентированный отчёт с цифрами и источниками, не общие слова. Контекст (не выдумывай, используй как дано): соло-фаундер (PhD, экс-крипто, Лиссабон/Португалия, налоговый резидент Португалии, есть опыт US-структур), команда 3 человека, денег на счету компании $0, личный резерв ограничен. Уже ЕСТЬ живой проект бесплатного AI-образования: «открытый второй мозг» — публикуем в open-source образовательный контент и инструменты работы с Claude Code / AI-агентами (build-in-public, аудитория растёт). Вопрос: стоит ли оформлять это как юридический non-profit, чтобы получать донаты/гранты, или остаться неформальным open-source проектом. Вопросы (по каждому — цифры + источник): 1. Оформление: сравни 4 маршрута для нашего кейса: (а) US 501(c)(3) удалённо; (б) португальская associação sem fins lucrativos; (в) эстонское MTÜ через e-Residency; (г) fiscal sponsorship в США (Open Collective Foundation-аналоги 2026, Hack Club Bank и т.п.) БЕЗ своего юрлица. Для каждого: срок до возможности легально принимать донаты · полная стоимость запуска (госпошлины+юрист+бухгалтер) · годовая стоимость поддержки (отчётность, аудит) · часы времени фаундера. 2. Реальные деньги год-1: сколько реально собирают МАЛЕНЬКИЕ новые non-profit в AI/tech-образовании в первый год (медиана, не выбросы)? Разбей по источникам: индивидуальные донаты аудитории · гранты (кто вообще даёт новым: Fast Forward, Mozilla, Schmidt Futures, OpenAI/Anthropic philanthropy-программы, EU/Portugal гранты на digital skills) · корпоративные спонсорства. Бенчмарки: freeCodeCamp год-1, The Odin Project, ML-collective и похожие — сколько у них было в первый год и через что пришло. 3. Зарплата фаундера: можно ли и сколько платить себе из non-profit («reasonable compensation») в каждой юрисдикции из п.1; риски и ограничения. 4. Совместимость с коммерцией: можно ли параллельно вести платный AI-консалтинг (личный/LLC) рядом с non-profit тем же брендом/персоной; типовые конструкции (non-profit + LLC-сестра), конфликты интересов, что нельзя. 5. Геморрой-фактор: главные скрытые издержки (борд/директора, minutes, донор-отчётность, банк-комплаенс для нерезидента) — что чаще всего убивает микро-non-profit в первые 2 года. Формат ответа: (1) сравнительная таблица маршрутов: время · деньги-затраты год-1 · ожидаемые донаты год-1 (pessimistic/base/optimistic) · геморрой 1-5; (2) вердикт: при каком пороге ожидаемых донатов оформление окупается, и какой маршрут №1 для нашего кейса; (3) если вердикт «пока не оформлять» — самый дешёвый способ принимать донаты уже сейчас (GitHub Sponsors / Ko-fi / Open Collective) с цифрами комиссий.
+
+---
+
+**ChatGPT:** · `gpt-5-5-instant`
+
+```
+{"path":"/Deep Research App/start","args":{"user_query":"DR26-07-05-ZB-01 \u2014 Non-profit feasibility: \u0432\u0440\u0435\u043c\u044f/\u0434\u0435\u043d\u044c\u0433\u0438 \u043d\u0430 \u043e\u0444\u043e\u0440\u043c\u043b\u0435\u043d\u0438\u0435 vs \u0440\u0435\u0430\u043b\u044c\u043d\u044b\u0435 \u0434\u043e\u043d\u0430\u0442\u044b \u0433\u043e\u0434-1 (AI-education \u0448\u043a\u043e\u043b\u0430). \u0420\u043e\u043b\u044c: \u043a\u043e\u043d\u0441\u0443\u043b\u044c\u0442\u0430\u043d\u0442 \u043f\u043e \u043d\u0435\u043a\u043e\u043c\u043c\u0435\u0440\u0447\u0435\u0441\u043a\u0438\u043c \u043e\u0440\u0433\u0430\u043d\u0438\u0437\u0430\u0446\u0438\u044f\u043c \u0438 \u0444\u0430\u043d\u0434\u0440\u0435\u0439\u0437\u0438\u043d\u0433\u0443 \u0432 tech/AI-\u043e\u0431\u0440\u0430\u0437\u043e\u0432\u0430\u043d\u0438\u0438. \u041f\u043e\u0434\u0433\u043e\u0442\u043e\u0432\u0438\u0442\u044c \u0440\u0435\u0448\u0435\u043d\u0438\u0435-\u043e\u0440\u0438\u0435\u043d\u0442\u0438\u0440\u043e\u0432\u0430\u043d\u043d\u044b\u0439 \u043e\u0442\u0447\u0451\u0442 \u0441 \u0446\u0438\u0444\u0440\u0430\u043c\u0438 \u0438 \u0438\u0441\u0442\u043e\u0447\u043d\u0438\u043a\u0430\u043c\u0438. \u041a\u043e\u043d\u0442\u0435\u043a\u0441\u0442: \u0441\u043e\u043b\u043e-\u0444\u0430\u0443\u043d\u0434\u0435\u0440 (PhD, \u044d\u043a\u0441-\u043a\u0440\u0438\u043f\u0442\u043e, \u041b\u0438\u0441\u0441\u0430\u0431\u043e\u043d/\u041f\u043e\u0440\u0442\u0443\u0433\u0430\u043b\u0438\u044f, \u043d\u0430\u043b\u043e\u0433\u043e\u0432\u044b\u0439 \u0440\u0435\u0437\u0438\u0434\u0435\u043d\u0442 \u041f\u043e\u0440\u0442\u0443\u0433\u0430\u043b\u0438\u0438, \u043e\u043f\u044b\u0442 US-\u0441\u0442\u0440\u0443\u043a\u0442\u0443\u0440), \u043a\u043e\u043c\u0430\u043d\u0434\u0430 3 \u0447\u0435\u043b\u043e\u0432\u0435\u043a\u0430, \u0434\u0435\u043d\u0435\u0433 \u043d\u0430 \u0441\u0447\u0435\u0442\u0443 \u043a\u043e\u043c\u043f\u0430\u043d\u0438\u0438 $0, \u043b\u0438\u0447\u043d\u044b\u0439 \u0440\u0435\u0437\u0435\u0440\u0432 \u043e\u0433\u0440\u0430\u043d\u0438\u0447\u0435\u043d. \u0423\u0436\u0435 \u0435\u0441\u0442\u044c \u0436\u0438\u0432\u043e\u0439 \u043f\u0440\u043e\u0435\u043a\u0442 \u0431\u0435\u0441\u043f\u043b\u0430\u0442\u043d\u043e\u0433\u043e AI-\u043e\u0431\u0440\u0430\u0437\u043e\u0432\u0430\u043d\u0438\u044f: \u00ab\u043e\u0442\u043a\u0440\u044b\u0442\u044b\u0439 \u0432\u0442\u043e\u0440\u043e\u0439 \u043c\u043e\u0437\u0433\u00bb \u2014 open-source \u043e\u0431\u0440\u0430\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u044c\u043d\u044b\u0439 \u043a\u043e\u043d\u0442\u0435\u043d\u0442 \u0438 \u0438\u043d\u0441\u0442\u0440\u0443\u043c\u0435\u043d\u0442\u044b \u0440\u0430\u0431\u043e\u0442\u044b \u0441 Claude Code / AI-\u0430\u0433\u0435\u043d\u0442\u0430\u043c\u0438 (build-in-public, \u0430\u0443\u0434\u0438\u0442\u043e\u0440\u0438\u044f \u0440\u0430\u0441\u0442\u0451\u0442). \u0412\u043e\u043f\u0440\u043e\u0441: \u0441\u0442\u043e\u0438\u0442 \u043b\u0438 \u043e\u0444\u043e\u0440\u043c\u043b\u044f\u0442\u044c \u043a\u0430\u043a \u044e\u0440\u0438\u0434\u0438\u0447\u0435\u0441\u043a\u0438\u0439 non-profit \u0434\u043b\u044f \u0434\u043e\u043d\u0430\u0442\u043e\u0432/\u0433\u0440\u0430\u043d\u0442\u043e\u0432 \u0438\u043b\u0438 \u043e\u0441\u0442\u0430\u0442\u044c\u0441\u044f \u043d\u0435\u0444\u043e\u0440\u043c\u0430\u043b\u044c\u043d\u044b\u043c open-source \u043f\u0440\u043e\u0435\u043a\u0442\u043e\u043c. \u0418\u0441\u0441\u043b\u0435\u0434\u043e\u0432\u0430\u0442\u044c: (1) \u0441\u0440\u0430\u0432\u043d\u0435\u043d\u0438\u0435 \u043c\u0430\u0440\u0448\u0440\u0443\u0442\u043e\u0432: US 501(c)(3) \u0443\u0434\u0430\u043b\u0451\u043d\u043d\u043e; \u043f\u043e\u0440\u0442\u0443\u0433\u0430\u043b\u044c\u0441\u043a\u0430\u044f associa\u00e7\u00e3o sem fins lucrativos; \u044d\u0441\u0442\u043e\u043d\u0441\u043a\u043e\u0435 MT\u00dc \u0447\u0435\u0440\u0435\u0437 e-Residency; US fiscal sponsorship (Open Collective Foundation-\u0430\u043d\u0430\u043b\u043e\u0433\u0438 2026, Hack Club Bank \u0438 \u0434\u0440.) \u0431\u0435\u0437 \u0441\u0432\u043e\u0435\u0433\u043e \u044e\u0440\u043b\u0438\u0446\u0430. \u0414\u043b\u044f \u043a\u0430\u0436\u0434\u043e\u0433\u043e: \u0441\u0440\u043e\u043a \u0434\u043e \u0432\u043e\u0437\u043c\u043e\u0436\u043d\u043e\u0441\u0442\u0438 \u043f\u0440\u0438\u043d\u0438\u043c\u0430\u0442\u044c \u0434\u043e\u043d\u0430\u0442\u044b, \u043f\u043e\u043b\u043d\u0430\u044f \u0441\u0442\u043e\u0438\u043c\u043e\u0441\u0442\u044c \u0437\u0430\u043f\u0443\u0441\u043a\u0430 (\u043f\u043e\u0448\u043b\u0438\u043d\u044b+\u044e\u0440\u0438\u0441\u0442+\u0431\u0443\u0445\u0433\u0430\u043b\u0442\u0435\u0440), \u0433\u043e\u0434\u043e\u0432\u0430\u044f \u0441\u0442\u043e\u0438\u043c\u043e\u0441\u0442\u044c \u043f\u043e\u0434\u0434\u0435\u0440\u0436\u043a\u0438, \u0447\u0430\u0441\u044b \u0432\u0440\u0435\u043c\u0435\u043d\u0438 \u0444\u0430\u0443\u043d\u0434\u0435\u0440\u0430. (2) \u0420\u0435\u0430\u043b\u044c\u043d\u044b\u0435 \u0434\u0435\u043d\u044c\u0433\u0438 \u0433\u043e\u0434-1: \u043c\u0435\u0434\u0438\u0430\u043d\u043d\u044b\u0435 \u043e\u0436\u0438\u0434\u0430\u043d\u0438\u044f \u0434\u043b\u044f \u043c\u0430\u043b\u0435\u043d\u044c\u043a\u0438\u0445 \u043d\u043e\u0432\u044b\u0445 AI/tech education non-profits \u043f\u043e \u0438\u0441\u0442\u043e\u0447\u043d\u0438\u043a\u0430\u043c (\u0438\u043d\u0434\u0438\u0432\u0438\u0434\u0443\u0430\u043b\u044c\u043d\u044b\u0435 \u0434\u043e\u043d\u0430\u0442\u044b, \u0433\u0440\u0430\u043d\u0442\u044b \u2014 Fast Forward, Mozilla, Schmidt Futures, OpenAI/Anthropic philanthropy, EU/Portugal digital skills, \u043a\u043e\u0440\u043f\u043e\u0440\u0430\u0442\u0438\u0432\u043d\u044b\u0435 \u0441\u043f\u043e\u043d\u0441\u043e\u0440\u0441\u0442\u0432\u0430). \u0411\u0435\u043d\u0447\u043c\u0430\u0440\u043a\u0438: freeCodeCamp, The Odin Project, ML Collective \u0438 \u0430\u043d\u0430\u043b\u043e\u0433\u0438. (3) \u0417\u0430\u0440\u043f\u043b\u0430\u0442\u0430 \u0444\u0430\u0443\u043d\u0434\u0435\u0440\u0430: reasonable compensation, \u043e\u0433\u0440\u0430\u043d\u0438\u0447\u0435\u043d\u0438\u044f \u0438 \u0440\u0438\u0441\u043a\u0438 \u043f\u043e \u043a\u0430\u0436\u0434\u043e\u0439 \u044e\u0440\u0438\u0441\u0434\u0438\u043a\u0446\u0438\u0438. (4) \u0421\u043e\u0432\u043c\u0435\u0441\u0442\u0438\u043c\u043e\u0441\u0442\u044c \u0441 \u043a\u043e\u043c\u043c\u0435\u0440\u0446\u0438\u0435\u0439: non-profit + \u043b\u0438\u0447\u043d\u044b\u0439/LLC AI-\u043a\u043e\u043d\u0441\u0430\u043b\u0442\u0438\u043d\u0433, sister LLC, \u043a\u043e\u043d\u0444\u043b\u0438\u043a\u0442\u044b \u0438\u043d\u0442\u0435\u0440\u0435\u0441\u043e\u0432. (5) \u0421\u043a\u0440\u044b\u0442\u044b\u0435 \u0438\u0437\u0434\u0435\u0440\u0436\u043a\u0438: \u0431\u043e\u0440\u0434, minutes, \u0434\u043e\u043d\u043e\u0440\u0441\u043a\u0430\u044f \u043e\u0442\u0447\u0451\u0442\u043d\u043e\u0441\u0442\u044c, \u0431\u0430\u043d\u043a\u043e\u0432\u0441\u043a\u0438\u0439 \u043a\u043e\u043c\u043f\u043b\u0430\u0435\u043d\u0441 \u0434\u043b\u044f \u043d\u0435\u0440\u0435\u0437\u0438\u0434\u0435\u043d\u0442\u0430 \u0438 \u0447\u0442\u043e \u0447\u0430\u0449\u0435 \u0432\u0441\u0435\u0433\u043e \u0443\u0431\u0438\u0432\u0430\u0435\u0442 \u043c\u0438\u043a\u0440\u043e-non-profit. \u0418\u0442\u043e\u0433: \u0441\u0440\u0430\u0432\u043d\u0438\u0442\u0435\u043b\u044c\u043d\u0430\u044f \u0442\u0430\u0431\u043b\u0438\u0446\u0430 (\u0432\u0440\u0435\u043c\u044f, \u0434\u0435\u043d\u044c\u0433\u0438 \u0433\u043e\u0434-1, \u043e\u0436\u0438\u0434\u0430\u0435\u043c\u044b\u0435 \u0434\u043e\u043d\u0430\u0442\u044b pess/base/optimistic, \u0433\u0435\u043c\u043e\u0440\u0440\u043e\u0439 1\u20135), \u0432\u0435\u0440\u0434\u0438\u043a\u0442 \u0441 \u043f\u043e\u0440\u043e\u0433\u043e\u043c \u043e\u043a\u0443\u043f\u0430\u0435\u043c\u043e\u0441\u0442\u0438 \u043e\u0444\u043e\u0440\u043c\u043b\u0435\u043d\u0438\u044f \u0438 \u043b\u0443\u0447\u0448\u0438\u043c \u043c\u0430\u0440\u0448\u0440\u0443\u0442\u043e\u043c, \u043b\u0438\u0431\u043e \u0435\u0441\u043b\u0438 \u043d\u0435 \u043e\u0444\u043e\u0440\u043c\u043b\u044f\u0442\u044c \u2014 \u0441\u0430\u043c\u044b\u0439 \u0434\u0435\u0448\u0451\u0432\u044b\u0439 \u0441\u043f\u043e\u0441\u043e\u0431 \u043f\u0440\u0438\u043d\u0438\u043c\u0430\u0442\u044c \u0434\u043e\u043d\u0430\u0442\u044b \u0441\u0435\u0439\u0447\u0430\u0441 (GitHub Sponsors / Ko-fi / Open Collective) \u0441 \u043a\u043e\u043c\u0438\u0441\u0441\u0438\u044f\u043c\u0438."}}
+```
+
+---
+
+**Anton:**
+
+Выведи, пожалуйста, ПОЛНЫЙ текст финального отчёта обычным сообщением в чат (markdown, целиком, без сокращений) — виджет не читается моим экспортным инструментом.
+
+---
+
+**ChatGPT:** · `gpt-5-5-pro`
+
+I’ll provide the full report as a normal Markdown chat message, rebuilding it with checked current fees, timelines, requirements, and inline sources because the widget text is not directly accessible here.
+
+---
+
+**ChatGPT:** · `gpt-5-5-pro`
+
+```
+{"search_query":[{"q":"IRS Form 1023-EZ user fee 2026 275 Form 1023 user fee 600 official"},{"q":"IRS Form 990-N gross receipts normally 50000 small tax exempt organization official"},{"q":"IRS Publication 557 reasonable compensation private inurement 501(c)(3) official"},{"q":"IRS 501(c)(3) application processing time Form 1023-EZ Form 1023 2026"}],"response_length":"short"}
+```
+
+---
+
+**ChatGPT:** · `gpt-5-5-pro`
+
+```
+{"search_query":[{"q":"site:irs.gov user fee Form 1023 1023-EZ $600 $275"},{"q":"site:irs.gov Form 1023-EZ application fee $275 2026"},{"q":"site:irs.gov 990-N gross receipts normally $50,000 or less e-Postcard"}],"response_length":"medium"}
+```
+
+---
+
+**ChatGPT:** · `gpt-5-5-pro`
+
+```
+{"search_query":[{"q":"IRS user fee Form 1023-EZ 275 Form 1023 600"},{"q":"IRS pay.gov Form 1023-EZ user fee 275"},{"q":"IRS annual electronic filing requirement small exempt organizations Form 990-N gross receipts normally 50000"}],"response_length":"medium"}
+```
+
+---
+
+**ChatGPT:** · `gpt-5-5-pro`
+
+```
+{"open":[{"ref_id":"https://www.irs.gov/charities-non-profits/applying-for-tax-exempt-status"},{"ref_id":"https://www.irs.gov/charities-non-profits/applying-for-exemption-form-1023"},{"ref_id":"https://www.irs.gov/charities-non-profits/form-1023-ez-streamlined-application-for-recognition-of-exemption"},{"ref_id":"https://www.irs.gov/charities-non-profits/annual-electronic-filing-requirement-for-small-exempt-organizations-form-990-n-e-postcard"}],"response_length":"medium"}
+```
+
+---
+
+**ChatGPT:** · `gpt-5-5-pro`
+
+```
+{"search_query":[{"q":"Delaware Division of Corporations certificate of incorporation nonstock corporation filing fee $89"},{"q":"Wyoming nonprofit corporation articles of incorporation filing fee $25 nonprofit official"},{"q":"California nonprofit articles of incorporation filing fee $30 official 2026"}],"response_length":"short"}
+```
+
+---
+
+**ChatGPT:** · `gpt-5-5-pro`
+
+```
+{"search_query":[{"q":"site:corp.delaware.gov nonstock corporation certificate of incorporation fee 89"},{"q":"site:corp.delaware.gov fee schedule non-stock corporation certificate of incorporation 89"}],"response_length":"medium"}
+```
+
+---
+
+**ChatGPT:** · `gpt-5-5-pro`
+
+```
+{"search_query":[{"q":"Delaware Division Corporations fee schedule non-stock corporation certificate of incorporation $89"},{"q":"Delaware non-stock corporation certificate of incorporation minimum filing fee 89"}],"response_length":"medium"}
+```
+
+---
+
+**ChatGPT:** · `gpt-5-5-pro`
+
+```
+{"search_query":[{"q":"corpfiles.delaware.gov fee schedule division corporations non-stock certificate incorporation 89 pdf"},{"q":"Delaware Division of Corporations Corporate Fee Schedule non-stock corporation $89 PDF"}],"response_length":"medium"}
+```
+
+---
+
+**ChatGPT:** · `gpt-5-5-pro`
+
+```
+{"open":[{"ref_id":"https://corp.delaware.gov/fees/"}],"response_length":"medium"}
+```
+
+---
+
+**ChatGPT:** · `gpt-5-5-pro`
+
+```
+{"search_query":[{"q":"Associação na Hora Portugal custo 300 euros constituição associação sem fins lucrativos"},{"q":"ePortugal Associação na Hora criar associação custo prazo"},{"q":"Instituto dos Registos e Notariado Associação na Hora custo 2026"}],"response_length":"medium"}
+```
+
+---
+
+**ChatGPT:** · `gpt-5-5-pro`
+
+```
+{"open":[{"ref_id":"https://eportugal.gov.pt/servicos/criar-uma-associacao-na-hora"},{"ref_id":"https://irn.justica.gov.pt/Servicos/Associacao-na-Hora"}],"response_length":"medium"}
+```
+
+---
+
+**ChatGPT:** · `gpt-5-5-pro`
+
+```
+{"click":[{"ref_id":"turn101165view0","id":2}],"response_length":"medium"}
+```
+
+---
+
+**ChatGPT:** · `gpt-5-5-pro`
+
+```
+{"open":[{"ref_id":"https://irn.justica.gov.pt/Servicos/Associacao-na-Hora"}],"response_length":"long"}
+```
+
+---
+
+**ChatGPT:** · `gpt-5-5-pro`
+
+```
+{"click":[{"ref_id":"turn914555view0","id":0}],"response_length":"medium"}
+```
+
+---
+
+**ChatGPT:** · `gpt-5-5-pro`
+
+```
+{"click":[{"ref_id":"turn715896view0","id":77},{"ref_id":"turn715896view0","id":113}],"response_length":"long"}
+```
+
+---
+
+**ChatGPT:** · `gpt-5-5-pro`
+
+```
+{"search_query":[{"q":"Portugal associação sem fins lucrativos pode remunerar dirigentes salários Código Civil associação remuneração direção"},{"q":"Portugal associação sem fins lucrativos órgãos sociais remunerados administração fonte"},{"q":"Portugal non profit association can pay directors salary legal"}],"response_length":"medium"}
+```
+
+---
+
+**ChatGPT:** · `gpt-5-5-pro`
+
+```
+{"search_query":[{"q":"Código Civil Portugal associação artigos 167 170 órgãos sociais associação"},{"q":"Código Civil Portugal associações artigo 167 170 associação"}],"response_length":"medium"}
+```
+
+---
+
+**ChatGPT:** · `gpt-5-5-pro`
+
+```
+{"open":[{"ref_id":"https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=775&tabela=leis"}],"response_length":"medium"}
+```
+
+---
+
+**ChatGPT:** · `gpt-5-5-pro`
+
+```
+{"search_query":[{"q":"pgdl Código Civil Artigo 167 associações"},{"q":"site:pgdlisboa.pt/leis Código Civil artigo 167 associações personalidade jurídica"},{"q":"dre Código Civil artigo 167 associação constituição"}],"response_length":"medium"}
+```
+
+---
+
+**ChatGPT:** · `gpt-5-5-pro`
+
+```
+{"search_query":[{"q":"Estonia non-profit association MTÜ registration fee 2026 e-Business Register state fee"},{"q":"e-Residency Estonia non-profit association registration fee MTÜ state fee 20 2026"},{"q":"Estonia non-profit association annual report audit threshold MTÜ 2026"}],"response_length":"medium"}
+```
+
+---
+
+**ChatGPT:** · `gpt-5-5-pro`
+
+```
+{"search_query":[{"q":"Estonia e-Business Register non-profit association state fee MTÜ 20 euros"},{"q":"How to establish non-profit association Estonia state fee annual report"},{"q":"Riigiportaal establish non-profit association Estonia state fee"}],"response_length":"medium"}
+```
+
+---
+
+**ChatGPT:** · `gpt-5-5-pro`
+
+```
+{"open":[{"ref_id":"https://www.eesti.ee/en/doing-business/establishing-a-company/founding-a-non-profit-association"},{"ref_id":"https://www.eesti.ee/en/legal-advice/legal-assistance/founding-a-non-profit-association"}],"response_length":"long"}
+```
+
+---
+
+**ChatGPT:** · `gpt-5-5-pro`
+
+```
+{"search_query":[{"q":"\"Founding a non-profit association\" \"eesti.ee\""},{"q":"\"Mittetulundusühingu asutamine\" \"eesti.ee\""}],"response_length":"medium"}
+```
+
+---
+
+**ChatGPT:** · `gpt-5-5-pro`
+
+```
+{"open":[{"ref_id":"https://www.riigiteataja.ee/en/eli/ee/514062023007/consolide/current"},{"ref_id":"https://ariregister.rik.ee/eng/company-registration"}],"response_length":"medium"}
+```
+
+---
+
+**ChatGPT:** · `gpt-5-5-pro`
+
+```
+{"search_query":[{"q":"site:riigiteataja.ee/en \"Non-profit Associations Act\" \"Estonia\""},{"q":"site:rik.ee \"non-profit association\" \"registration\" \"state fee\" Estonia"},{"q":"site:ariregister.rik.ee \"non-profit association\" \"state fee\""}],"response_length":"medium"}
+```
+
+---
+
+**ChatGPT:** · `gpt-5-5-pro`
+
+```
+{"open":[{"ref_id":"turn614023search0"}],"response_length":"long"}
+```
+
+---
+
+**ChatGPT:** · `gpt-5-5-pro`
+
+```
+{"click":[{"ref_id":"turn270073view0","id":142},{"ref_id":"turn270073view0","id":151},{"ref_id":"turn270073view0","id":145}],"response_length":"medium"}
+```
+
+---
+
+**ChatGPT:** · `gpt-5-5-pro`
+
+```
+{"open":[{"ref_id":"turn327733view0","lineno":320},{"ref_id":"turn327733view0","lineno":525},{"ref_id":"turn327733view0","lineno":640},{"ref_id":"turn327733view0","lineno":735}],"response_length":"medium"}
+```
+
+---
+
+**ChatGPT:** · `gpt-5-5-pro`
+
+```
+{"search_query":[{"q":"\"Mittetulundusühingu\" \"riigilõiv\" \"20 eurot\""},{"q":"\"Mittetulundusühingu asutamine\" \"riigilõiv\" \"20\""},{"q":"\"e-äriregister\" \"mittetulundusühing\" \"riigilõiv\""}],"response_length":"medium"}
+```
+
+---
+
+**ChatGPT:** · `gpt-5-5-pro`
+
+```
+{"search_query":[{"q":"Estonia non-profit association state fee 20 EUR registration"},{"q":"Estonian MTÜ state fee registration 20 euros"},{"q":"Estonia NGO registration state fee 20"}],"response_length":"long"}
+```
+
+---
+
+**ChatGPT:** · `gpt-5-5-pro`
+
+```
+{"search_query":[{"q":"\"mittetulundusühingu registrisse kandmise\" \"20 eurot\""},{"q":"\"Mittetulundusühingu registrisse kandmise eest\" \"eurot\""},{"q":"\"mittetulundusühingu\" \"registrisse kandmise eest tasutakse riigilõivu\""}],"response_length":"medium"}
+```
+
+---
+
+**ChatGPT:** · `gpt-5-5-pro`
+
+```
+{"search_query":[{"q":"Riigilõivuseadus mittetulundusühing registrisse kandmine riigilõiv"},{"q":"Riigilõivuseadus mittetulundusühingu registrisse kandmise avaldus 20"}],"response_length":"medium"}
+```
+
+---
+
+**ChatGPT:** · `gpt-5-5-pro`
+
+```
+{"search_query":[{"q":"Estonia e-Residency state fee 2026 application cost 100 120 official"},{"q":"e-Residency Estonia application state fee 2026 pickup location cost official"},{"q":"e-resident digital ID application state fee Estonia official 120"}],"response_length":"medium"}
+```
+
+---
+
+**ChatGPT:** · `gpt-5-5-pro`
+
+```
+{"open":[{"ref_id":"https://www.e-resident.gov.ee/become-an-e-resident/"},{"ref_id":"https://www.e-resident.gov.ee/fees/"}],"response_length":"medium"}
+```
+
+---
+
+**ChatGPT:** · `gpt-5-5-pro`
+
+```
+{"search_query":[{"q":"Estonia contact person service required if board abroad non-profit association MTÜ"},{"q":"Estonia contact person legal requirement board located abroad MTÜ"},{"q":"Estonia non profit association contact person if management board foreign address"}],"response_length":"medium"}
+```
+
+---
+
+**ChatGPT:** · `gpt-5-5-pro`
+
+```
+{"search_query":[{"q":"Open Collective Foundation fiscal host status closed 2024 2026"},{"q":"Open Collective Foundation no longer accepting new projects fiscal sponsorship closing"},{"q":"Open Collective fiscal host fees 2026 nonprofits 10%"}],"response_length":"medium"}
+```
+
+---
+
+**ChatGPT:** · `gpt-5-5-pro`
+
+```
+{"search_query":[{"q":"Open Source Collective fiscal host fee 2026 Open Collective 10%"},{"q":"Open Source Collective fee fiscal host Open Collective 10% host fee 2026"},{"q":"Hack Club Bank fiscal sponsorship fee 2026"}],"response_length":"medium"}
+```
+
+---
+
+**ChatGPT:** · `gpt-5-5-pro`
+
+```
+{"open":[{"ref_id":"https://opencollective.com/opensource"},{"ref_id":"https://www.oscollective.org/"},{"ref_id":"https://hackclub.com/fiscal-sponsorship/"}],"response_length":"long"}
+```
+
+---
+
+**ChatGPT:** · `gpt-5-5-pro`
+
+```
+{"click":[{"ref_id":"turn844516view0","id":13},{"ref_id":"turn844516view0","id":11},{"ref_id":"turn844516view0","id":12}],"response_length":"medium"}
+```
+
+---
+
+**ChatGPT:** · `gpt-5-5-pro`
+
+```
+{"click":[{"ref_id":"turn759547view1","id":4}],"response_length":"medium"}
+```
+
+---
+
+**ChatGPT:** · `gpt-5-5-pro`
+
+```
+{"search_query":[{"q":"ANNOUNCEMENT Open Collective Foundation dissolving effective 12/31/2024 official"},{"q":"Open Collective Foundation dissolving 12/31/2024 fiscal sponsorship program official"}],"response_length":"medium"}
+```
+
+---
+
+**ChatGPT:** · `gpt-5-5-pro`
+
+```
+{"open":[{"ref_id":"https://blog.opencollective.com/ocf-dissolving/"}],"response_length":"medium"}
+```
+
+---
+
+**ChatGPT:** · `gpt-5-5-pro`
+
+```
+{"search_query":[{"q":"GitHub Sponsors fees fiscal host fee 2026 GitHub 0% personal organizations 6%"},{"q":"GitHub Sponsors pricing fees sponsored organizations 2026 official"},{"q":"Ko-fi fees 2026 free 5% platform fee payment processor"}],"response_length":"medium"}
+```
+
+---
+
+**ChatGPT:** · `gpt-5-5-pro`
+
+```
+{"open":[{"ref_id":"https://docs.github.com/en/sponsors/sponsoring-open-source-contributors/about-github-sponsors"},{"ref_id":"https://docs.github.com/en/billing/managing-billing-for-your-products/managing-billing-for-github-sponsors/about-billing-for-github-sponsors"},{"ref_id":"https://help.ko-fi.com/hc/en-us/articles/360004880013-Does-Ko-fi-take-a-fee"}],"response_length":"medium"}
+```
+
+---
+
+**ChatGPT:** · `gpt-5-5-pro`
+
+```
+{"search_query":[{"q":"site:help.ko-fi.com Does Ko-fi take a fee 5% Ko-fi Gold no fees"},{"q":"Ko-fi fees 5% platform fee memberships commissions shop official"},{"q":"Ko-fi pricing fees 5% free donations official"}],"response_length":"medium"}
+```
+
+---
+
+**ChatGPT:** · `gpt-5-5-pro`
+
+```
+{"open":[{"ref_id":"https://ko-fi.com/pricing"},{"ref_id":"https://help.ko-fi.com/hc/en-us/articles/360002506494-Does-Ko-fi-take-a-fee"}],"response_length":"medium"}
+```
+
+---
+
+**ChatGPT:** · `gpt-5-5-pro`
+
+```
+{"search_query":[{"q":"freeCodeCamp first year revenue donations 2014 2015 form 990"},{"q":"freeCodeCamp Form 990 2015 contributions revenue"},{"q":"Free Code Camp 2015 form 990 revenue donations"}],"response_length":"medium"}
+```
+
+---
+
+**ChatGPT:** · `gpt-5-5-pro`
+
+```
+{"search_query":[{"q":"ProPublica Nonprofit Explorer Free Code Camp Inc 2016 990 total revenue"},{"q":"Free Code Camp Inc ProPublica nonprofit explorer 2016"},{"q":"Free Code Camp Inc EIN 82-0779546 2016 990"}],"response_length":"medium"}
+```
+
+---
+
+**ChatGPT:** · `gpt-5-5-pro`
+
+```
+{"open":[{"ref_id":"https://projects.propublica.org/nonprofits/organizations/820779546"}],"response_length":"long"}
+```
+
+---
+
+**ChatGPT:** · `gpt-5-5-pro`
+
+I’ll also anchor the recommendation around a zero-budget founder case and separate legal setup costs, platform fees, fiscal-sponsor status, and realistic year-one fundraising benchmarks.
+
+---
+
+**ChatGPT:** · `gpt-5-5-pro`
+
+```
+{"search_query":[{"q":"IRS Form 1023 user fee 2026 1023-EZ user fee 275 600 Pay.gov"},{"q":"IRS annual electronic filing requirement small exempt organizations Form 990-N gross receipts normally $50,000"},{"q":"IRS Form 1023-EZ processing time 501(c)(3) application 2026"},{"q":"IRS private inurement reasonable compensation 501(c)(3) founder salary"}],"response_length":"short"}
+```
+
+---
+
+**ChatGPT:** · `gpt-5-5-pro`
+
+```
+{"search_query":[{"q":"site:irs.gov Form 1023 user fee 1023-EZ 275 600"},{"q":"site:irs.gov Form 1023-EZ streamlined application 275 user fee"},{"q":"site:irs.gov reasonable compensation nonprofit 501(c)(3) private inurement excess benefit transaction"},{"q":"site:irs.gov annual electronic filing requirement small exempt organizations 990-N gross receipts normally $50,000"}],"response_length":"medium"}
+```
+
+---
+
+**ChatGPT:** · `gpt-5-5-pro`
+
+```
+{"open":[{"ref_id":"https://www.irs.gov/charities-non-profits/applying-for-tax-exempt-status"},{"ref_id":"https://www.irs.gov/charities-non-profits/annual-electronic-filing-requirement-for-small-exempt-organizations-form-990-n-e-postcard"},{"ref_id":"https://www.irs.gov/charities-non-profits/charitable-organizations/lifecycle-of-an-exempt-organization-private-inurement"}],"response_length":"medium"}
+```
+
+---
+
+**ChatGPT:** · `gpt-5-5-pro`
+
+```
+{"open":[{"ref_id":"turn107487view1","lineno":330},{"ref_id":"turn107487view0","lineno":338}],"response_length":"medium"}
+```
+
+---
+
+**ChatGPT:** · `gpt-5-5-pro`
+
+```
+{"open":[{"ref_id":"https://www2.gov.pt/en/servicos/criar-uma-associacao-na-hora"},{"ref_id":"https://justica.gov.pt/Servicos/Registar-associacao"},{"ref_id":"https://www.e-resident.gov.ee/become-an-e-resident/"},{"ref_id":"https://www.riigiteataja.ee/en/eli/506042021003/consolide"}],"response_length":"medium"}
+```
+
+---
+
+**ChatGPT:** · `gpt-5-5-pro`
+
+```
+{"open":[{"ref_id":"turn310181view1","lineno":190},{"ref_id":"turn310181view2","lineno":18},{"ref_id":"https://www.riigiteataja.ee/en/eli/ee/506042021003/consolide/current"}],"response_length":"medium"}
+```
+
+---
+
+**ChatGPT:** · `gpt-5-5-pro`
+
+```
+{"search_query":[{"q":"Estonia Non-profit Associations Act Riigi Teataja English MTÜ income may be used only to achieve objectives"},{"q":"site:riigiteataja.ee/en Non-profit Associations Act Estonia income may be used only to achieve objectives"},{"q":"Estonia non-profit associations act at least two founders board member remuneration general meeting"}],"response_length":"short"}
+```
+
+---
+
+**ChatGPT:** · `gpt-5-5-pro`
+
+```
+{"search_query":[{"q":"\"Non-profit Associations Act\" \"Riigi Teataja\" \"income\" \"statutory objectives\""},{"q":"\"Non-profit Associations Act\" \"may not be distributed\" Estonia"},{"q":"\"Mittetulundusühingute seadus\" \"Riigi Teataja\" English"}],"response_length":"medium"}
+```
+
+---
+
+**ChatGPT:** · `gpt-5-5-pro`
+
+```
+{"open":[{"ref_id":"https://www.riigiteataja.ee/en/eli/ee/Riigikogu/act/501042024005/consolide"},{"ref_id":"https://www.riigiteataja.ee/en/eli/506042021003/consolide/current"},{"ref_id":"https://www.riigiteataja.ee/en/eli/ee/501042024005/consolide/current"},{"ref_id":"https://www.riigiteataja.ee/en/eli/503062019013/consolide/current"}],"response_length":"medium"}
+```
+
+---
+
+**ChatGPT:** · `gpt-5-5-pro`
+
+```
+{"open":[{"ref_id":"https://www.riigiteataja.ee/akt/130122015067?leiaKehtiv"}],"response_length":"medium"}
+```
+
+---
+
+**ChatGPT:** · `gpt-5-5-pro`
+
+```
+{"open":[{"ref_id":"turn160001view0","lineno":312},{"ref_id":"turn160001view0","lineno":626},{"ref_id":"turn160001view0","lineno":708}],"response_length":"medium"}
+```
+
+---
+
+**ChatGPT:** · `gpt-5-5-pro`
+
+```
+{"open":[{"ref_id":"https://hackclub.com/hcb/"},{"ref_id":"https://www.oscollective.org/"},{"ref_id":"https://docs.oscollective.org/for-hosted-collectives/fees"},{"ref_id":"https://docs.oscollective.org/for-hosted-collectives/financial-contributions"}],"response_length":"medium"}
+```
+
+---
+
+**ChatGPT:** · `gpt-5-5-pro`
+
+```
+{"search_query":[{"q":"Open Source Collective host fee 10% no setup fees 2026"},{"q":"docs.oscollective.org fees fixed 10% host fee incoming funds"},{"q":"Open Collective Foundation fiscal sponsorship dissolving 2024 open collective foundation closure"}],"response_length":"medium"}
+```
+
+---
+
+**ChatGPT:** · `gpt-5-5-pro`
+
+```
+{"search_query":[{"q":"\"Fixed 10% host fee\" \"Open Source Collective\""},{"q":"\"No setup fees\" \"Open Source Collective\" \"10%\""},{"q":"\"host fee\" \"incoming funds\" \"Open Source Collective\" \"10%\""}],"response_length":"medium"}
+```
+
+---
+
+**ChatGPT:** · `gpt-5-5-pro`
+
+```
+{"open":[{"ref_id":"https://docs.oscollective.org/"}],"response_length":"medium"}
+```
+
+---
+
+**ChatGPT:** · `gpt-5-5-pro`
+
+```
+{"click":[{"ref_id":"turn896757view0","id":4},{"ref_id":"turn896757view0","id":2},{"ref_id":"turn896757view0","id":3},{"ref_id":"turn896757view0","id":5}],"response_length":"medium"}
+```
+
+---
+
+**ChatGPT:** · `gpt-5-5-pro`
+
+```
+{"open":[{"ref_id":"https://docs.github.com/en/sponsors/sponsoring-open-source-contributors/about-github-sponsors"},{"ref_id":"https://docs.github.com/en/sponsors/receiving-sponsorships-through-github-sponsors/about-github-sponsors-for-open-source-contributors"},{"ref_id":"https://help.ko-fi.com/hc/en-us/articles/360002506494-What-fees-does-Ko-fi-charge"},{"ref_id":"https://opencollective.com/pricing"}],"response_length":"medium"}
+```
+
+---
+
+**ChatGPT:** · `gpt-5-5-pro`
+
+```
+{"search_query":[{"q":"Ko-fi fees 0% donations 5% memberships 2026 payment processor fees 3% 30c"},{"q":"Ko-fi what fees does Ko-fi charge 0% donations 5% shop memberships commissions"}],"response_length":"medium"}
+```
+
+---
+
+**ChatGPT:** · `gpt-5-5-pro`
+
+```
+{"open":[{"ref_id":"https://ko-fi.com/pricing"},{"ref_id":"https://more.ko-fi.com/pricing"}],"response_length":"medium"}
+```
+
+---
+
+**ChatGPT:** · `gpt-5-5-pro`
+
+```
+{"search_query":[{"q":"\"What fees does Ko-fi charge\""},{"q":"\"Ko-fi does not take a cut of donations\""},{"q":"\"0% platform fees\" \"Ko-fi\" \"5%\""}],"response_length":"medium"}
+```
+
+---
+
+**ChatGPT:** · `gpt-5-5-pro`
+
+```
+{"open":[{"ref_id":"turn987742view1"}],"response_length":"medium"}
+```
+
+---
+
+**ChatGPT:** · `gpt-5-5-pro`
+
+```
+{"search_query":[{"q":"Fast Forward tech nonprofit accelerator grant amount 2026"},{"q":"Fast Forward Accelerator tech nonprofits $25,000 grant"},{"q":"Mozilla Technology Fund grant amount 2026 open source AI education"},{"q":"EU Digital Europe Programme advanced digital skills funding 2026 grants digital skills"}],"response_length":"medium"}
+```
+
+---
+
+**ChatGPT:** · `gpt-5-5-pro`
+
+```
+{"open":[{"ref_id":"https://www.ffwd.org/accelerator"},{"ref_id":"https://www.ffwd.org/tech-nonprofit-playbook/funding"},{"ref_id":"https://www.ffwd.org/ai-for-humanity"}],"response_length":"medium"}
+```
+
+---
+
+**ChatGPT:** · `gpt-5-5-pro`
+
+```
+{"search_query":[{"q":"Mozilla Technology Fund grant amount 2026 AI open source grants"},{"q":"site:foundation.mozilla.org Mozilla Technology Fund grant amount $50,000"},{"q":"Mozilla Responsible Computing Challenge grant amount 2026 open source education"},{"q":"Mozilla Builders AI grant amount 2026"}],"response_length":"medium"}
+```
+
+---
+
+**ChatGPT:** · `gpt-5-5-pro`
+
+```
+{"search_query":[{"q":"Mozilla funding open source AI grants 2026 \"Mozilla\" \"grants\""},{"q":"Mozilla Foundation AI grants open source responsible AI funding"},{"q":"Mozilla Technology Fund funding amount"}],"response_length":"medium"}
+```
+
+---
+
+**ChatGPT:** · `gpt-5-5-pro`
+
+```
+{"search_query":[{"q":"site:openai.com nonprofit grants education AI 2026 OpenAI philanthropy grants"},{"q":"OpenAI Academy grants nonprofits 2026 education"},{"q":"Anthropic philanthropy grants AI education nonprofit 2026"},{"q":"Anthropic grants nonprofit education AI safety 2026"}],"response_length":"medium"}
+```
+
+---
+
+**ChatGPT:** · `gpt-5-5-pro`
+
+```
+{"open":[{"ref_id":"turn114061news1"},{"ref_id":"turn114061news0"},{"ref_id":"https://www.anthropic.com/news/anthropic-gates-foundation-partnership"}],"response_length":"medium"}
+```
+
+---
+
+**ChatGPT:** · `gpt-5-5-pro`
+
+```
+{"search_query":[{"q":"OpenAI Gates Foundation $50 million partnership AI African clinics January 2026"},{"q":"site:openai.com Gates Foundation OpenAI $50 million 1000 clinics AI 2026"},{"q":"OpenAI nonprofit grants education 2026 academy grants"}],"response_length":"medium"}
+```
+
+---
+
+**ChatGPT:** · `gpt-5-5-pro`
+
+```
+{"search_query":[{"q":"IRS Applying for tax exempt status Form 1023 1023-EZ electronic Pay.gov user fee 2026"},{"q":"IRS Form 990-N e-Postcard gross receipts normally $50,000 or less 2026"},{"q":"Portugal Associação na Hora create association cost 300 euros RCBE 30 days 2025 official"},{"q":"Estonia e-Residency fee 150 card pickup 30 days 2-5 weeks official"}],"response_length":"medium"}
+```
+
+---
+
+**ChatGPT:** · `gpt-5-5-pro`
+
+```
+{"search_query":[{"q":"site:irs.gov applying for tax exempt status Form 1023 1023-EZ Pay.gov user fee"},{"q":"site:irs.gov Annual Electronic Filing Requirement for Small Exempt Organizations Form 990-N normally $50,000 or less"},{"q":"site:gov.pt criar associação na hora custo 300 RCBE 30 dias"},{"q":"site:e-resident.gov.ee e-Residency 150 30 days 2-5 weeks"}],"response_length":"short"}
+```
+
+---
+
+**ChatGPT:** · `gpt-5-5-pro`
+
+```
+{"search_query":[{"q":"IRS Applying for tax exempt status Form 1023-EZ Pay.gov"},{"q":"IRS Form 990-N e-Postcard normally $50,000 or less"},{"q":"Criar uma associação Portugal gov.pt custo 300 associação na hora"},{"q":"Estonia e-Residency apply €150 30 days 2-5 weeks"}],"response_length":"medium"}
+```
+
+---
+
+**ChatGPT:** · `gpt-5-5-pro`
+
+```
+{"open":[{"ref_id":"https://www.irs.gov/charities-non-profits/applying-for-tax-exempt-status"},{"ref_id":"https://www.irs.gov/charities-non-profits/annual-electronic-filing-requirement-for-small-exempt-organizations-form-990-n-e-postcard"},{"ref_id":"https://www2.gov.pt/en/servicos/criar-uma-associacao"},{"ref_id":"https://www.e-resident.gov.ee/become-an-e-resident/"}],"response_length":"medium"}
+```
+
+---
+
+**ChatGPT:** · `gpt-5-5-pro`
+
+```
+{"open":[{"ref_id":"turn975152view1","lineno":320},{"ref_id":"turn975152view3","lineno":15},{"ref_id":"https://justica.gov.pt/Servicos/Registar-associacao"},{"ref_id":"https://www2.gov.pt/servicos/criar-uma-associacao"}],"response_length":"medium"}
+```
+
+---
+
+**ChatGPT:** · `gpt-5-5-pro`
+
+```
+{"open":[{"ref_id":"turn449429view2","lineno":170}],"response_length":"medium"}
+```
+
+---
+
+**ChatGPT:** · `gpt-5-5-pro`
+
+```
+{"open":[{"ref_id":"https://hackclub.com/hcb/"},{"ref_id":"https://www.oscollective.org/"},{"ref_id":"https://docs.oscollective.org/for-hosted-collectives/fees-and-pricing"},{"ref_id":"https://docs.oscollective.org/for-hosted-collectives/fiscal-hosting"}],"response_length":"medium"}
+```
+
+---
+
+**ChatGPT:** · `gpt-5-5-pro`
+
+```
+{"search_query":[{"q":"Open Source Collective fees 10% host fee docs"},{"q":"Open Source Collective fiscal hosting 501(c)(6) donations not tax deductible docs"},{"q":"GitHub Sponsors fees personal accounts 100% organization account 6% official"},{"q":"Ko-fi fees 0% donations 5% memberships official"}],"response_length":"medium"}
+```
+
+---
+
+**ChatGPT:** · `gpt-5-5-pro`
+
+```
+{"click":[{"ref_id":"turn771112view1","id":5}],"response_length":"medium"}
+```
+
+---
+
+**ChatGPT:** · `gpt-5-5-pro`
+
+```
+{"click":[{"ref_id":"turn747788view0","id":2},{"ref_id":"turn747788view0","id":3},{"ref_id":"turn747788view0","id":4}],"response_length":"medium"}
+```
+
+---
+
+**ChatGPT:** · `gpt-5-5-pro`
+
+```
+{"open":[{"ref_id":"https://docs.github.com/en/sponsors/sponsoring-open-source-contributors/about-github-sponsors"},{"ref_id":"https://help.ko-fi.com/hc/en-us/articles/360002506494-What-fees-does-Ko-fi-charge"}],"response_length":"medium"}
+```
+
+---
+
+**ChatGPT:** · `gpt-5-5-pro`
+
+```
+{"search_query":[{"q":"GitHub Docs about GitHub Sponsors fees no fees personal account organization account 6%"},{"q":"Ko-fi help What fees does Ko-fi charge Free 0% tips 5% memberships"}],"response_length":"medium"}
+```
+
+---
+
+**ChatGPT:** · `gpt-5-5-pro`
+
+```
+{"search_query":[{"q":"site:docs.github.com/en/sponsors \"GitHub Sponsors charges no fees\""},{"q":"site:docs.github.com/en/sponsors \"fee\" \"6%\" \"GitHub Sponsors\""},{"q":"site:help.ko-fi.com \"Ko-fi Free\" \"0%\" \"5%\""}],"response_length":"medium"}
+```
+
+---
+
+**ChatGPT:** · `gpt-5-5-pro`
+
+```
+{"search_query":[{"q":"docs.github.com sponsors about GitHub Sponsors fees sponsorships from personal accounts 100% goes to sponsored developer"},{"q":"help.ko-fi.com what fees does Ko-fi charge 0% donations 5%"}],"response_length":"long"}
+```
+
+---
+
+**ChatGPT:** · `gpt-5-5-pro`
+
+```
+{"search_query":[{"q":"\"About GitHub Sponsors\" \"GitHub Sponsors charges no fees\""},{"q":"\"sponsorships from personal accounts\" \"GitHub Sponsors charges no fees\""},{"q":"\"For sponsorships from organizations accounts\" \"6%\" \"GitHub Sponsors\""},{"q":"\"What fees does Ko-fi charge\" \"0%\" \"5%\""}],"response_length":"medium"}
+```
+
+---
+
+**ChatGPT:** · `gpt-5-5-pro`
+
+```
+{"open":[{"ref_id":"https://www.riigiteataja.ee/en/eli/ee/Riigikogu/act/516012024001/consolide"},{"ref_id":"https://www.riigiteataja.ee/en/eli/ee/Riigikogu/act/522112013002/consolide"}],"response_length":"medium"}
+```
+
+---
+
+**ChatGPT:** · `gpt-5-5-pro`
+
+```
+{"search_query":[{"q":"Estonia Non-profit Associations Act income may be used only to achieve objectives profit may not be distributed members management board annual report"},{"q":"Riigi Teataja Non-profit Associations Act Estonia annual report management board members less than two"},{"q":"Estonia MTÜ e-residency non-profit association at least two founders annual report"}],"response_length":"medium"}
+```
+
+---
+
+**ChatGPT:** · `gpt-5-5-pro`
+
+```
+{"open":[{"ref_id":"https://www.ffwd.org/accelerator"},{"ref_id":"https://www.ffwd.org/ai-for-humanity"}],"response_length":"medium"}
+```
+
+---
+
+**ChatGPT:** · `gpt-5-5-pro`
+
+```
+{"search_query":[{"q":"Reuters Anthropic Gates Foundation $200 million AI public goods education health 2026"},{"q":"AP Anthropic Claude Corps $150 million 1000 fellows 400 nonprofits 10000 grant 2026"},{"q":"Reuters European Commission Digital Europe Programme 2025 2027 1.3 billion digital skills AI cybersecurity"},{"q":"AP OpenAI Foundation $1 billion grants AI literacy 40.5 million grants 2026"}],"response_length":"medium"}
+```
+
+---
+
+**ChatGPT:** · `gpt-5-5-pro`
+
+```
+{"search_query":[{"q":"ProPublica Free Code Camp Inc nonprofit explorer 2017 revenue 125,025"},{"q":"Free Code Camp Inc ProPublica 2017 revenue 125025 contributions 125025"}],"response_length":"medium"}
+```
+
+---
+
+**ChatGPT:** · `gpt-5-5-pro`
+
+```
+{"open":[{"ref_id":"https://projects.propublica.org/nonprofits/organizations/820779546"}],"response_length":"long"}
+```
+
+---
+
+**ChatGPT:** · `gpt-5-5-pro`
+
+```
+{"search_query":[{"q":"IRS Form 1023-EZ user fee $275 Form 1023 $600 2026 Pay.gov"},{"q":"IRS user fee Form 1023 600 1023-EZ 275 2026"},{"q":"Pay.gov IRS Form 1023 User Fee 600 1023-EZ 275"}],"response_length":"medium"}
+```
+
+---
+
+**ChatGPT:** · `gpt-5-5-pro`
+
+```
+{"search_query":[{"q":"\"Form 1023-EZ\" \"$275\" \"Form 1023\" \"$600\" \"IRS\""},{"q":"\"Form 1023\" \"$600\" \"Form 1023-EZ\" \"$275\""},{"q":"\"Application for Recognition of Exemption\" \"$600\" \"$275\""}],"response_length":"medium"}
+```
+
+---
+
+**ChatGPT:** · `gpt-5-5-pro`
+
+```
+{"search_query":[{"q":"IRS 501(c)(3) private inurement excess benefit transaction reasonable compensation disqualified person"},{"q":"IRS reasonable compensation nonprofit 501(c)(3) excess benefit transaction private inurement"},{"q":"IRS charities nonprofit reasonable compensation officers directors trustees private benefit"}],"response_length":"medium"}
+```
+
+---
+
+**ChatGPT:** · `gpt-5-5-pro`
+
+```
+{"search_query":[{"q":"The Odin Project Open Collective donations revenue fiscal sponsor first year"},{"q":"Open Collective The Odin Project budget annual donations Open Source Collective"},{"q":"The Odin Project nonprofit Open Collective current donations"}],"response_length":"medium"}
+```
+
+---
+
+**ChatGPT:** · `gpt-5-5-pro`
+
+```
+{"open":[{"ref_id":"https://opencollective.com/theodinproject"}],"response_length":"medium"}
+```
+
+---
+
+**ChatGPT:** · `gpt-5-5-pro`
+
+```
+{"search_query":[{"q":"ML Collective nonprofit fiscal sponsorship donations revenue first year Open Collective"},{"q":"ML Collective ProPublica nonprofit revenue"},{"q":"ML Collective 501(c)(3) donors annual report"}],"response_length":"medium"}
+```
+
+---
+
+**ChatGPT:** · `gpt-5-5-pro`
+
+```
+{"open":[{"ref_id":"https://docs.github.com/en/sponsors/receiving-sponsorships-through-github-sponsors/about-github-sponsors"},{"ref_id":"https://docs.github.com/en/sponsors/sponsoring-open-source-contributors/about-github-sponsors"}],"response_length":"medium"}
+```
+
+---
+
+**ChatGPT:** · `gpt-5-5-pro`
+
+```
+{"open":[{"ref_id":"https://docs.github.com"}],"response_length":"short"}
+```
+
+---
+
+**ChatGPT:** · `gpt-5-5-pro`
+
+```
+{"click":[{"ref_id":"turn375912view0","id":44}],"response_length":"long"}
+```
+
+---
+
+**ChatGPT:** · `gpt-5-5-pro`
+
+```
+{"click":[{"ref_id":"turn979452view0","id":5},{"ref_id":"turn979452view0","id":2},{"ref_id":"turn979452view0","id":12}],"response_length":"long"}
+```
+
+---
+
+**ChatGPT:** · `gpt-5-5-pro`
+
+```
+{"open":[{"ref_id":"https://ko-fi.com"}],"response_length":"short"}
+```
+
+---
+
+**ChatGPT:** · `gpt-5-5-pro`
+
+```
+{"search_query":[{"q":"site:help.ko-fi.com/hc/en-us/articles Ko-fi fees charge donations 0% 5% PayPal Stripe"}],"response_length":"medium"}
+```
+
+---
+
+**ChatGPT:** · `gpt-5-5-pro`
 
 # DR26-07-05-ZB-01 — Non-profit feasibility: AI-education школа
 

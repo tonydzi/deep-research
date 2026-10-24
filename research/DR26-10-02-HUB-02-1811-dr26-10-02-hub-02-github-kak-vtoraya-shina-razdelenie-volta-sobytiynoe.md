@@ -78,4 +78,4 @@ source: Palo Alto AI Research Lab — deep research programme
 
 ## Raw model reports
 
-9 reports delivered, synthesis used 5 of 5. Note: 2 report(s) arrived after the synthesis was written; they are attached raw and were not reconciled. [DR26-10-02-HUB-02-1811-dr26-10-02-hub-02-github-kak-vtoraya-shina-razdelenie-volta-sobytiynoe/](DR26-10-02-HUB-02-1811-dr26-10-02-hub-02-github-kak-vtoraya-shina-razdelenie-volta-sobytiynoe/README.md)
+6 reports delivered, synthesis used 5 of 5. Note: 2 report(s) arrived after the synthesis was written; they are attached raw and were not reconciled. [DR26-10-02-HUB-02-1811-dr26-10-02-hub-02-github-kak-vtoraya-shina-razdelenie-volta-sobytiynoe/](DR26-10-02-HUB-02-1811-dr26-10-02-hub-02-github-kak-vtoraya-shina-razdelenie-volta-sobytiynoe/README.md)

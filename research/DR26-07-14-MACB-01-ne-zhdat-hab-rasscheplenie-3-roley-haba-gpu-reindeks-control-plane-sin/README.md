@@ -11,6 +11,6 @@
 
 Reports below are published as delivered, after an automatic privacy scrub.
 
-- [plan](./plan.md)
 - [chatgpt](./chatgpt.md)
 - [grok](./grok.md)
+- [plan](./plan.md)

@@ -99,6 +99,7 @@ Computer actions available — press Tab until focus enters the card, Escape to 
 
 Step 1 of 8
 Share
+Claude finished the response
 
 Use the up and down arrow keys to move between messages.
 
@@ -108,6 +109,10 @@ You said: DR26-10-02-HUB-02-1811 — GitHub as a second sync bus for a personal 
 
 Message collapsed
 Show more
+8 minutes ago
+
+
+
 Claude responded: Запускаю исследование по всем пяти сценариям и вопросам A–E: разведу поиск по нескольким потокам, соберу источники с датами и оформлю результат отчётом-докумен…
 Планирование параллельных направлений исследования для подзадач.
 
@@ -116,7 +121,7 @@ Claude responded: Запускаю исследование по всем пят
 Запускаю исследование по всем пяти сценариям и вопросам A–E: разведу поиск по нескольким потокам, соберу источники с датами и оформлю результат отчётом-документом.
 
 Needs your input
-1 agent
+2 agents
 
 Needs your input
 
@@ -152,6 +157,7 @@ Claude is AI and can make mistakes.
 Fable 5.1 Max
 
 Manual
+
 Progress
 
 Исследую «git как шина сообщений» и лимиты GitHub
@@ -192,4 +198,3 @@ Accept all cookies
 
 ## Ссылки со страницы (href, собраны рельсой)
 https://support.anthropic.com/en/articles/8525154-claude-is-providing-incorrect-or-misleading-responses-what-s-going-on
-https://www.anthropic.com/legal/cookies

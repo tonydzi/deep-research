@@ -12,5 +12,5 @@
 Reports below are published as delivered, after an automatic privacy scrub.
 
 - [chatgpt](./chatgpt.md)
-- [memoir](./memoir.md)
 - [grok](./grok.md)
+- [memoir](./memoir.md)

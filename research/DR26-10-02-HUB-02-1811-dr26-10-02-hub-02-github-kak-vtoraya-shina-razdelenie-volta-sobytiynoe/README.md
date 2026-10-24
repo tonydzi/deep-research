@@ -9,18 +9,15 @@
 | chatgpt | 2026-10-02 19:59 |
 | claudeai | 2026-10-02 19:51 |
 | gemini | 2026-10-02 18:24 |
-| glm | 2026-10-02 19:37 |
-| grok | 2026-10-02 18:16 |
+| glm | 2026-10-02 19:55 |
+| grok | 2026-10-02 18:21 |
 | mistral | 2026-10-02 20:21 |
 
 Reports below are published as delivered, after an automatic privacy scrub.
 
 - [chatgpt](./chatgpt.md)
 - [claudeai](./claudeai.md)
-- [claudeai](./claudeai.md)
 - [gemini](./gemini.md)
-- [gemini](./gemini.md)
-- [glm](./glm.md)
 - [glm](./glm.md)
 - [grok](./grok.md)
 - [mistral](./mistral.md)

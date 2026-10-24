@@ -59,4 +59,4 @@ source: Palo Alto AI Research Lab — deep research programme
 
 ## Raw model reports
 
-5 reports delivered, synthesis used 4 of 6. [DR26-09-20-HUB-01-1819-kompensatsii-senior-urovnya-hedzh-fondy-kvant-treyding-vs-ai-laborator/](DR26-09-20-HUB-01-1819-kompensatsii-senior-urovnya-hedzh-fondy-kvant-treyding-vs-ai-laborator/README.md)
+4 reports delivered, synthesis used 4 of 6. [DR26-09-20-HUB-01-1819-kompensatsii-senior-urovnya-hedzh-fondy-kvant-treyding-vs-ai-laborator/](DR26-09-20-HUB-01-1819-kompensatsii-senior-urovnya-hedzh-fondy-kvant-treyding-vs-ai-laborator/README.md)

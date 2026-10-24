@@ -125,4 +125,4 @@ source: Palo Alto AI Research Lab — deep research programme
 
 ## Raw model reports
 
-3 reports delivered, synthesis used not recorded. [DR26-07-29-MACANTON-02-1537-partizanskiy-github-sintez-dr26-07-29-macanton-02-1537/](DR26-07-29-MACANTON-02-1537-partizanskiy-github-sintez-dr26-07-29-macanton-02-1537/README.md)
+2 reports delivered, synthesis used not recorded. [DR26-07-29-MACANTON-02-1537-partizanskiy-github-sintez-dr26-07-29-macanton-02-1537/](DR26-07-29-MACANTON-02-1537-partizanskiy-github-sintez-dr26-07-29-macanton-02-1537/README.md)

@@ -522,4 +522,4 @@ Firefox оставляем рабочей лошадкой для простых
 
 ## Raw model reports
 
-4 reports delivered, synthesis used 4 of 6. Note: 1 report(s) arrived after the synthesis was written; they are attached raw and were not reconciled. [DR26-08-14-MACANTON-01-2117-brauzernaya-i-ekrannaya-relsa-dlya-mac16-i-flota-grabli-agentnyh-brauz/](DR26-08-14-MACANTON-01-2117-brauzernaya-i-ekrannaya-relsa-dlya-mac16-i-flota-grabli-agentnyh-brauz/README.md)
+3 reports delivered, synthesis used 4 of 6. Note: 1 report(s) arrived after the synthesis was written; they are attached raw and were not reconciled. [DR26-08-14-MACANTON-01-2117-brauzernaya-i-ekrannaya-relsa-dlya-mac16-i-flota-grabli-agentnyh-brauz/](DR26-08-14-MACANTON-01-2117-brauzernaya-i-ekrannaya-relsa-dlya-mac16-i-flota-grabli-agentnyh-brauz/README.md)

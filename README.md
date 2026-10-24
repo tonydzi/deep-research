@@ -1,6 +1,6 @@
 # Deep Research — Palo Alto AI Research Lab
 
-348 deep-research reports, distilled. Every entry answers two questions: why we ran this research, and what we got out of it.
+350 deep-research reports, distilled. Every entry answers two questions: why we ran this research, and what we got out of it.
 
 Each report was run across several frontier models (ChatGPT, Gemini, Grok, Claude, GLM, Mistral), then reconciled into the distilled note you see here. Findings are the reconciled ones, not a single model's opinion.
 
@@ -179,6 +179,8 @@ Raw model transcripts stay in our vault. What is published here is the distilled
 
 | ID | Тема | Дата |
 |---|---|---|
+| [DR26-10-22-MACANTON-01-1334](research/DR26-10-22-MACANTON-01-1334-brauzernye-agent-harnessy-dlya-podachi-form-i-zagruzki-cv.md) | браузерные агент-харнессы для подачи форм и загрузки CV | 2026-10-23 |
+| [DR26-10-23-HUB-01](research/DR26-10-23-HUB-01-luchshie-russkie-audioknigi-dlya-detey-3-15-let-top-10-ispolneniy-23-1.md) | Лучшие русские аудиокниги для детей 3–15 лет: ТОП-10 исполнений (23.10.2026) | 2026-10-23 |
 | [DR26-10-19-MACPRO192-03-1044](research/DR26-10-19-MACPRO192-03-1044-dr-odna-sessiya-agenta-na-neskolko-kompyuterov-i-lyudey-sintez-4-nog.md) | ДР: одна сессия агента на несколько компьютеров и людей (синтез 4 ног) | 2026-10-20 |
 | [DR26-10-19-HUB-05-2154](research/DR26-10-19-HUB-05-2154-kak-llm-servis-obsluzhivaet-mnogo-polzovateley-filtruet-vrednye-zapros.md) | Как LLM-сервис обслуживает много пользователей, фильтрует вредные запросы и хранит контекс | 2026-10-19 |
 | [DR26-10-19-MACANTON-01-0501](research/DR26-10-19-MACANTON-01-0501-sqlite-graph-memory-put-ot-100-k-10-000-ustanovok-v-nedelyu.md) | sqlite-graph-memory, путь от 100 к 10 000 установок в неделю | 2026-10-19 |

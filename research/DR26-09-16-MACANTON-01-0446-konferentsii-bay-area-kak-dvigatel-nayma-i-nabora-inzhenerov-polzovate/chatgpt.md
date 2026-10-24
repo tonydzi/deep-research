@@ -2,687 +2,1053 @@
 
 > Unedited output of one model. Our reconciled synthesis is the page one level up.
 
-A. EXECUTIVE ANSWER
+<!-- source: chatgpt.com Deep research, acct a2 Pro, chat 6aaa8591-9194-83ed-b117-6a36d786079f, meta {"slug":"gpt-5-thinking","started":"2026-09-16T12:04:57.886202Z","stopped":"2026-09-16T12:13:31.386080Z"} -->
 
-As of 16 September 2026
+# DR26-09-16-MACANTON-01-0446 — Bay Area conferences as a hiring and engineer-acquisition engine
 
-Anton should stop treating conferences as places to “see what is happening.” Each event should be treated as a short, instrumented campaign with one primary mission, named targets, a live artifact, explicit asks, and follow-up already scheduled before he leaves home.
+## Executive answer
 
-The redesign:
+Anton should stop treating conferences as events to **attend** and start treating them as a **two-sided conversion pipeline**.
 
-1. Attend two events per week, not every available event.
-2. Give each event one primary objective:
-   JOB: obtain a warm introduction to a named hiring manager or role.
-   OSS: get engineers to run one tool and create an issue, test report, or small PR.
-3. Select events by interaction structure, not prestige. Prioritize:
-   - Curated hackathons and build nights.
-   - Small technical meetups with demos or talks.
-   - Company-hosted developer days where product engineers attend.
-   - Small dinners only when the attendee list contains relevant decision-makers.
-   - Large conferences only with pre-booked meetings, a speaking/demo role, or a sharply targeted side-event plan.
-4. Before every event, select three to five people and send two meeting requests.
-5. Show one working artifact. Do not verbally inventory 15 repositories.
-6. Make one explicit next-step request during the conversation.
-7. Enter every meaningful contact into the CRM before sleeping.
-8. Send a personalized message within 24 hours, perform the promised action within 72 hours, and send one substantive update about two weeks later.
-9. Evaluate events by downstream behavior, not contacts collected.
-10. Spend at least as much time creating visible technical proof and following up as attending events.
+The current behavior—three to five AI events per week, listening, meeting interesting people, collecting contacts, then inconsistently following up—is almost perfectly optimized for *feeling embedded in the Bay Area AI scene while producing very little durable career or OSS value*. The redesign is therefore not “network better.” It is much harsher:
 
-Why this model: a large randomized LinkedIn study covering more than 20 million users, two billion connections, and 600,000 jobs found an inverted-U relationship: moderately weak ties were especially useful for job transmission. Events can manufacture those ties, but the event itself is only the introduction. https://digitaleconomy.stanford.edu/publication/a-causal-test-of-the-strength-of-weak-ties/
+> **Attend at most two events per normal week. Every event must be selected, instrumented, pre-targeted, and followed by a concrete object: a warm introduction, recruiting next step, live product trial, GitHub issue, PR, or scheduled follow-up. No object = the event mostly failed.**
 
-The evidence does not support pretending that ordinary conference attendance has a high hiring conversion rate. In one survey of doctoral students and postdocs, only 2.3%–4.7% reported a job offer as an effect of conference attendance. A separate study estimated only two to three advantageous encounters per ten conferences. These populations are not Bay Area AI job seekers, but they establish the correct order of magnitude: passive attendance is a low-yield activity. https://pmc.ncbi.nlm.nih.gov/articles/PMC7499794/ and https://pmc.ncbi.nlm.nih.gov/articles/PMC9841198/
+This conclusion is consistent with both the current hiring specifications of frontier labs and the structure of high-signal Bay Area builder events. Anthropic’s current Developer Relations role explicitly measures developer adoption, ecosystem growth, technical content, developer feedback, and high-impact developer events; it also requires production-quality code demos and technical credibility. citeturn21view0 OpenAI’s current Technical Community Lead specification is even more revealing for Anton: it explicitly says the candidate **does not need to be a full-time software engineer**, but must be technically fluent, hands-on with agents/APIs/automation, able to recruit advanced users, run demos and in-person programs, route bugs and feedback, and—critically—be “highly organized” and able to “close loops reliably.” citeturn18view1
 
-My blunt recommendation: Anton should attend eight carefully chosen events during the next 30 days, seek two speaking/demo roles, run one small hands-on session himself, conduct at least 16 live demos, and generate:
+That second archetype is much closer to Anton’s strongest plausible frontier-lab positioning than “non-coder trying to become an FDE.” OpenAI’s current SF Forward Deployed Engineer role requires directly contributing code, full-stack production delivery, and production-grade Python/JavaScript; Anthropic’s Developer Relations posting requires production-quality demo code. citeturn18view0turn21view0 **Conferences cannot network around that technical bar.**
 
-- 12 qualified hiring contacts.
-- 4 warm introductions or referrals to specific teams.
-- 4 recruiter or hiring-manager conversations.
-- 12 qualified engineer-users.
-- 8 successful installs or demo tries.
-- 4 substantive GitHub issues.
-- 1–2 external PRs.
-- 2 interviews or formal exploratory calls within 30 days.
+So the first redesign is positioning:
 
-Those numbers are proposed operating targets, not published Bay Area benchmarks.
+> **Do not introduce yourself as “a non-coder who builds with agents.”**
 
-Overall confidence: High on the operating model; medium on event-type rankings; low-to-medium on numerical conversion targets because credible event-specific hiring and OSS conversion datasets are scarce.
+That phrase makes the listener resolve a contradiction: “Why are you applying to a technical role if you cannot code?” Instead:
 
+> **“I build and operate agent workflows and open-source tooling using agentic coding systems. My strength is turning frontier workflows into usable tools, recruiting technical users, capturing failure modes, and feeding those insights back into product.”**
 
-B1. EVENT SELECTION
+That is truthful without pretending to be a traditional SWE. When deeper implementation ability matters, state the boundary honestly.
 
-Evidence
+The second redesign is event selection. The strongest Bay Area formats are not necessarily the biggest. A Meta LlamaCon hackathon in San Francisco selected 238 builders from more than 600 registrants; participants produced 44 demonstrable projects in 24 hours, with workshops, mentors, onsite technical Q&A and judges. citeturn16view1 A YC-office agents hackathon explicitly described itself as a “small, high-signal” event for people who ship, was application-gated, required in-person demos, and included builders and guests from companies including OpenAI and Anthropic. citeturn25view1 AI Tinkerers SF describes its current format as screened, demo-first and no-pitch, centered on working systems and technical Q&A, with 30 events in the prior 12 months. citeturn16view0 These formats force the thing Anton needs: **proof of work interacting with relevant people**.
 
-The strongest available comparison favors small, structured, interactive meetings. A study comparing small Scialog meetings with the much larger APS March Meeting found that the small meetings were more than two orders of magnitude more effective at generating new collaborations. The same study found that 40% of initially disconnected participant pairs became acquainted at in-person meetings versus 22% in virtual ones. This is scientific collaboration rather than AI hiring, so it supports the direction, not a literal hiring rate. https://academic.oup.com/pnasnexus/article/4/1/pgae522/7906554
+Large technical conferences remain useful, but only when approached as meeting infrastructure. AI Engineer World’s Fair 2026 had thousands of attendees, more than 100 expo partners, speakers including heads of developer experience and engineering from frontier companies, explicit “hallway tracks,” and described its expo as a place where labs “meet to debut, hire, and compete.” citeturn17view0turn17view1turn17view2turn17view3 That is high density, not automatically high conversion. Going there cold to “see what is happening” is low-value. Going with five named targets, two pre-arranged seven-minute meetings, one demo and a side-event speaking slot can be excellent.
 
-In another conference survey, participants reported roughly two to three advantageous encounters per ten meetings. https://pmc.ncbi.nlm.nih.gov/articles/PMC9841198/
+There is also causal evidence for the broader networking mechanism: the large randomized LinkedIn study published in *Science* found that weak ties can causally increase job mobility, particularly in more digital industries. citeturn23search1turn23search2 That supports deliberately expanding relevant weak ties. It does **not** establish that attending more conferences produces more offers.
 
-A trade-show study found attendees normally followed up with only 20%–30% of contacts, demonstrating that contact collection grossly overstates usable outcomes. https://www.tandfonline.com/doi/full/10.1080/15470148.2017.1308285
+I found **no credible public dataset that gives Bay Area 2025–2026 “job conversations per conference” or “OSS contributors per meetup” conversion rates by event category**. Anyone giving precise industry benchmarks here is largely inventing them. Therefore the hit rates later in this report are explicitly **planning priors**, not claimed empirical averages. Anton should replace them with his own observed rates after three to six events in each category.
 
-The local event formats are genuinely different:
+The third redesign is to make every event produce one **artifact-mediated interaction**. For hiring, show one proof-of-work page containing the best relevant repo/demo, one concrete user/adoption story, and selected upstream contributions. For OSS acquisition, do not end with “here’s my GitHub.” Give a 60–90 second demo, then ask the engineer to **try or break one thing**, preferably on their machine, and turn the resulting observation into a GitHub issue before the relationship cools. GitHub’s own OSS guidance describes the path as potential user → contributor → maintainer and recommends minimizing friction, using clear documentation and approachable issues, and explicitly asking people for small PRs instead of fixing everything yourself. citeturn24view1turn24view2turn24view3
 
-- OpenAI DevDay 2026 is a company-hosted technical event explicitly designed for developers to test tools and spend time with OpenAI product teams. It costs $650 and uses selective admission. https://devday.openai.com/
-- AI Engineer World’s Fair 2026 advertised more than 6,000 in-person participants and offered workshops, 15–20 minute technical talks, and 5–10 minute lightning talks. That provides reach, but its size creates severe competition for attention. https://sessionize.com/aiewf2026/
-- A 2026 Frontier Tower hackathon was curated to 150–200 builders, required working prototypes and used a platform for team formation and submissions. That structure makes behavior observable rather than leaving everyone in networking mode. https://luma.com/ftchack-sf-2026
+The fourth redesign is follow-up. Anton has already identified his real bottleneck. I agree with his diagnosis more strongly than he may like:
 
-Recommended ranking for Anton
+> **At his current event density, weak follow-up makes additional conferences negative expected value.**
 
-1. Curated hackathon/build sprint with relevant sponsors or judges.
-   Best for: engineer-users, technical credibility, founders and DevRel contacts.
-   Condition: enter with a usable tool or use it inside the project; do not merely observe.
+GitHub’s community guide cites evidence that contributors receiving code review within 48 hours were much more likely to return and contribute again. citeturn24view1 OpenAI’s current technical-community job specification explicitly treats building repeatable engagement systems and closing loops reliably as core competencies. citeturn18view1 Therefore conferences should be capped until 24-hour follow-up compliance is consistently above 90%.
 
-2. Small technical meetup with talks, demos, or office hours.
-   Best for: repeated exposure, lightning talks, direct feedback and recruiting early adopters.
-   Condition: 25–120 relevant attendees, technical agenda and accessible organizer.
+The operating model should be:
 
-3. Company-hosted developer event.
-   Best for: product teams, DevRel leaders, solutions engineers and recruiters attached to a specific ecosystem.
-   Condition: identify the relevant team and open role beforehand.
+**Before:** choose 3–5 people, send 2–3 advance messages, identify one job hypothesis and one OSS hypothesis, prepare one artifact.
 
-4. Curated dinner or roundtable.
-   Best for: founders, senior decision-makers and warm introductions.
-   Condition: the attendee list or host confirms at least two relevant people. Generic “founder dinners” without that evidence are weak bets.
+**During:** pursue 3–5 relevant conversations rather than 25 random ones. Demonstrate rather than explain. End every strong conversation with a named next action.
 
-5. Large technical conference.
-   Best for: pre-arranged meetings, speaking, side events and ecosystem scanning.
-   Condition: book at least three meetings or secure a role. Without that, skip or attend only one targeted half-day.
+**Within 24 hours:** deliver exactly what was promised.
 
-6. Generic mixer, broad “AI networking,” or investor-heavy showcase.
-   Usually skip. The room may be full while the relevant decision-maker density is near zero.
+**Within 72 hours:** create something based on the conversation—a GitHub issue, reproducible example, short memo, improved demo, or forwardable introduction note.
 
-Planning hit rates — opinion, not published benchmarks
+**At two weeks:** show progress, not “just checking in.”
 
-Event type | Qualified conversations | Job-path outcome within 30 days | OSS activation within 14 days
-Curated hackathon | 4–8 | 10%–25% chance of one warm hiring path | 20%–40% chance of one issue/test/PR
-Small technical meetup | 3–6 | 10%–20% | 15%–30%
-Company developer day | 3–6 | 15%–30%, if team targeted | 10%–25%
-Curated dinner | 2–4 | 15%–35% | 5%–15%
-Large conference, pre-booked | 5–10 | 10%–25% | 10%–20%
-Large conference, unplanned | 1–4 | 0%–5% | 0%–10%
-Generic mixer | 0–2 | 0%–5% | 0%–5%
+**Every Sunday:** calculate outcomes per hour and eliminate low-performing event classes.
 
-“Job-path outcome” means a referral, warm introduction, recruiter screen, or hiring-manager follow-up—not an offer.
+My recommended 30-day cap is **eight events**, usually two per week. A serious weekend hackathon may replace both events for that week. Use the recovered time to ship, improve documentation, review contributions, prepare interviews, and build the proof-of-work portfolio. This is also consistent with experienced DevRel practitioner Lorna Mitchell’s first-hand argument for fewer, more intentional physical events and more durable asynchronous content and relationships. citeturn25view3
 
-Confidence: Medium. The ranking follows collaboration and event-design evidence, but the hit rates are deliberately labeled operating hypotheses.
+A good 30-day outcome is not “met 100 people.” It is approximately:
 
+**Job funnel:** 16+ qualified conversations → 4 warm introductions/referrals → 2 real recruiting/interview processes.
 
-B2. PRE-EVENT PREPARATION: 30–60 MINUTES
+**OSS funnel:** 10–12 live demos → 8 genuine trials → 4 actionable GitHub issues → 2 first external PRs → 1 person who comes back.
 
-The routine
+**Visibility:** at least one public five-minute demo/lightning slot and several applications for additional speaking/demo opportunities.
 
-0–10 minutes: define the event’s primary mission.
+Those are **management targets, not statistical forecasts**.
 
-Write one sentence:
+The brutal summary is this:
 
-“By leaving tonight, I want [named person/team] to agree to [specific next step].”
+> Anton does not need more Bay Area access. He already has extraordinary access. He needs to convert access into evidence, relationships into next actions, conversations into public artifacts, and event attendance into measured pipelines.
 
-Examples:
+That operating system—rather than another 50 meetups—is what can make conferences materially useful for both getting hired and recruiting engineers.
 
-- “I want an introduction to the Developer Relations hiring manager at Anthropic.”
-- “I want three agent-tool builders to run the memory diagnostic and file their result.”
+## Searches run
 
-10–25 minutes: build the target list.
+The detailed report below is based primarily on official event pages, current frontier-lab career specifications, GitHub’s official/open-source-maintainer guidance, and a causal networking study. Search queries run included:
 
-Use the event page, visible Luma attendee list, speakers, hosts, sponsors, LinkedIn and X. Select:
+```text
+site:ai.engineer world's fair 2026 San Francisco official AI Engineer World's Fair
+site:anthropic.com events San Francisco developer event Anthropic 2026
+site:openai.com events developers San Francisco 2026 OpenAI
+site:lu.ma AI San Francisco Anthropic hackathon 2026
 
-- One decision-maker: hiring manager, DevRel lead, engineering manager or founder.
-- One credible internal referrer.
-- One technical peer who has the problem Anton solves.
-- One connector: organizer, community lead or sponsor representative.
-- One fallback target.
+site:anthropic.com "hackathon" developers San Francisco
+site:openai.com "hackathon" developers San Francisco
+site:developers.googleblog.com Gemini hackathon San Francisco 2025 developer event
+site:meta.com developers hackathon Llama San Francisco 2025
+site:ai.meta.com LlamaCon Hackathon winners 2025 Meta official
 
-Target relevance is more important than status. Practical networking guidance also recommends narrowing the program to a niche and contacting selected people before the meeting rather than trying to meet everyone. https://pmc.ncbi.nlm.nih.gov/articles/PMC9900404/
+site:opensource.guide building community contributors events open source maintainers GitHub
+site:docs.github.com open source contributor issue good first issue discussions community building
+site:github.blog maintainer event contributors hackathon open source first PR community
+site:devrel.net conference booth developer adoption follow up contributors open source
 
-25–35 minutes: prepare one artifact.
+site:anthropic.com/careers developer relations developer advocate solutions architect forward deployed engineer Anthropic
+site:openai.com/careers developer relations developer advocate solutions engineer forward deployed engineer OpenAI
+site:deepmind.google/careers developer relations solutions engineer AI developer advocate
+site:x.ai/careers developer relations developer advocate solutions engineer
 
-Use only one entry point:
+developer relations Anthropic careers
+solutions architect OpenAI careers
+developer relations OpenAI careers
+forward deployed engineer OpenAI careers
 
-- A 60–90 second live demo.
-- One repository landing page with a clear “run this” command.
-- A single visual showing problem → tool → measured result.
-- A mobile-friendly URL plus QR code.
+site:anthropic.com/careers "Developer Relations" Anthropic
+site:anthropic.com/careers "Solutions Architect" Anthropic
+site:openai.com/careers "Developer Relations" OpenAI
+site:openai.com/careers "Forward Deployed" OpenAI
 
-The landing page must answer:
+site:anthropic.com/careers "Developer" "Community" Anthropic careers 2026
+site:anthropic.com/careers "Developer Advocate" Anthropic careers 2026
+site:anthropic.com/careers "Claude Code" community developer relations jobs
 
-- What problem does this solve?
-- Who is it for?
-- Can it be tried in under ten minutes?
-- What result should appear?
-- Where does a tester report failure?
-- What is the smallest contribution available?
+site:uscis.gov O-1 extraordinary ability evidence criteria USCIS
+site:uscis.gov O-1 visa employer agent petition change employers USCIS
+USCIS O-1 individuals extraordinary ability achievement evidence criteria policy manual
+USCIS Policy Manual O-1 extraordinary ability evidence petitioner agent employer
 
-GitHub recommends README and contribution guidance, and specifically presents small documentation changes, bug reports, “help wanted,” and “good first issue” work as accessible first contributions. https://docs.github.com/en/get-started/exploring-projects-on-github/contributing-to-open-source
+San Francisco AI hackathon hiring engineers company hosted 2025 official
+site:lu.ma San Francisco AI hackathon hiring Anthropic OpenAI 2025
+site:cerebralvalley.ai hackathon San Francisco AI 2025
 
-35–45 minutes: prepare two tailored questions per target.
+site:sf.aitinkerers.org submit demo presentation San Francisco AI Tinkerers demo night
+site:aitinkerers.org demo night submit demo AI Tinkerers presenter application
 
-Examples:
+Science 2022 LinkedIn strength of weak ties randomized experiment jobs paper
+Rajkumar Saint-Jacques Bojinov Brynjolfsson Aral 2022 weak ties job mobility Science primary DOI
+employee referrals hiring outcomes field experiment referral job applicants primary study
+conference networking hiring job search weak ties primary research
 
-- “Your team is hiring Developer Advocates. Is the harder problem currently content, field feedback, or getting examples into production?”
-- “Where does your team’s agent memory fail after a week of use?”
-- “If I gave you a ten-minute repro, would you be willing to run it and send me the output?”
+site:techcrunch.com/events/disrupt-2026 San Francisco Disrupt 2026 official attendance
+```
 
-45–55 minutes: send two pre-event messages.
+A methodological limitation matters: I found abundant evidence about **event structure, attendee quality, developer-community mechanics and current hiring criteria**, but no defensible primary dataset measuring offers or OSS PRs per Bay Area event category. Consequently, conversion ranges below are deliberately labeled as Anton-specific starting priors rather than empirical industry benchmarks.
+
+## Selection, preparation, and positioning
+
+**Event selection — sub-question one**
+
+**Evidence.** The strongest observable signal is that event structure matters more than simple event size.
+
+Meta’s first LlamaCon Hackathon brought 238 selected developers from more than 600 registrants into a 24-hour building environment and produced 44 submitted projects; Meta and partners supplied workshops, mentors, onsite Q&A and judging. citeturn16view1 The YC-office Agents Hackathon required applications, required in-person demos, described itself as a small high-signal room for people who ship, and attracted people connected to OpenAI, Anthropic, Vercel, Convex, Vapi and YC. citeturn25view1 AI Tinkerers SF currently describes itself as screened, demo-first, no-pitch, oriented to engineers, founders, researchers and product builders showing real systems rather than sales decks. citeturn16view0
+
+At the opposite end, AI Engineer World’s Fair shows why a large event can still be valuable: the 2026 event explicitly promoted hallway conversations, had 100+ expo partners, thousands of technical attendees across roles including Staff+, FDE, directors and executives, and had relevant frontier-lab leaders on the agenda. citeturn17view0turn17view1turn17view3 The organizer explicitly described the expo as a place where agent/model labs “debut, hire, and compete.” citeturn17view2
+
+OpenAI’s current developer ecosystem itself includes meetups, Codex Ambassadors, Codex for Open Source and community spaces. citeturn17view4turn17view5 Separately, full OpenAI Forum members can receive invitations to exclusive in-person gatherings at OpenAI offices, and membership requires demonstrated expertise plus an invitation from a current member or OpenAI staff member. citeturn16view4 That is a useful illustration of why reputation can unlock qualitatively different events.
+
+The causal LinkedIn experiment gives a theoretical basis for conference networking: weak ties can affect job mobility, with particularly relevant effects in digital industries. citeturn23search1turn23search2 It does not tell us which conference format has the highest conversion.
+
+**My judgment.** Rank Bay Area opportunities roughly as follows. The percentages are **starting priors for Anton**, not published benchmarks.
+
+| Event type | Job “hit” prior per event* | OSS “hit” prior per event** | Verdict |
+|---|---:|---:|---|
+| Application-gated technical hackathon/build day with frontier-company engineers | 25–45% | 40–70% | **Highest priority** |
+| Target-company developer/office event where relevant team members are identifiable | 20–40% | 20–40% | **Highest priority** |
+| Screened, demo-first builder meetup such as AI Tinkerers | 15–30% | 25–50% | **High priority** |
+| Curated technical dinner of roughly 10–30 relevant people | 25–50% | 10–25% | **Excellent for job/referral mission** |
+| Large technical conference with meetings booked before arrival | 15–30% | 15–30% | **Selective** |
+| Large technical conference attended cold | 3–10% | 5–15% | **Usually poor** |
+| General startup mixer / generic “AI networking” meetup | 3–10% | 5–15% | **Usually skip** |
+| Generalist mega-event such as TechCrunch Disrupt | Depends almost entirely on pre-booked targets | Depends on target density | **Do not attend merely because it is famous** |
+
+\* A **job hit** means at least one relevant hiring-manager/team-lead/internal-referrer/recruiter interaction that creates an explicit next step—not an offer.
+
+\** An **OSS hit** means at least one engineer actually tries the tool, opens an actionable issue, agrees to a specific contribution, or otherwise performs a behavior beyond following Anton on LinkedIn.
+
+The important difference is **behavioral forcing function**. Hackathons force building. Demo nights force showing. Small dinners force repeated conversation. A huge conference allows anonymous passive consumption.
+
+For large conferences, the decision rule should be:
+
+> **No ticket/travel unless Anton can name at least three people he genuinely wants to meet or has a speaking/demo/side-event role.**
+
+For free local meetups:
+
+> **No attendance merely because it is nearby and AI-related.**
+
+Three to five available events a week should normally result in **one or two selected events**, not three to five attended events.
+
+**Confidence: Medium-high** on ranking; **low** on numerical ranges because no published conversion benchmarks exist.
+
+**Pre-event preparation — sub-question two**
+
+The optimal prep session is approximately 45 minutes. The principle is not exhaustive research; it is to arrive with **named hypotheses**.
+
+**First ten minutes — define outputs.**
+
+Write two sentences before leaving home:
+
+> Job objective: “At this event I want one conversation with someone inside Claude Code / developer ecosystem / technical community who can tell me who owns hiring for this work.”
+
+> OSS objective: “I want two agent-tooling engineers to see the memory demo and one to test it or create an issue.”
+
+Without this, the brain defaults to entertaining conversations rather than strategically useful ones.
+
+**Next fifteen minutes — target-map the room.**
+
+Use the public Luma page, organizer/host information, speaker list, sponsors, LinkedIn and X. Do not waste half an hour attempting to reconstruct every attendee.
+
+Pick **five names maximum**:
+
+| Slot | Target |
+|---|---|
+| A | Hiring manager / DevRel or technical-community lead |
+| B | Senior engineer on the relevant product/team |
+| C | Internal connector or recruiter |
+| D | Engineer who is a plausible OSS user |
+| E | Engineer/founder who can introduce D or provide product feedback |
+
+For each target, write only:
+
+`team — why relevant — one question — one artifact`
+
+Example:
+
+`Jane / Claude Code DevEx — contributor onboarding — “what breaks most often for advanced Claude Code users?” — agent-memory demo`
+
+**Next ten minutes — prepare one artifact, not your entire portfolio.**
+
+Anton should have one mobile-friendly URL per event containing:
+
+```text
+What I build — 1 sentence
+30–60 sec demo/GIF
+The single relevant repo
+One command / simplest possible Quick Start
+Three real technical learnings or failure modes
+Three small "help wanted / good first issue" tasks
+Selected upstream contributions
+Contact / GitHub
+```
+
+For a hiring-oriented conversation, the artifact should visibly answer:
+
+> What did Anton personally identify, decide, ship, measure and learn?
+
+For an OSS user, it should answer:
+
+> Can I tell in 20 seconds whether this solves something for me, and can I try it in five minutes?
+
+GitHub’s maintainer guidance supports precisely this friction-reduction model: clear README/examples, explicit CONTRIBUTING instructions and approachable issues improve the contributor funnel. citeturn24view1turn24view2
+
+**Final ten minutes — send two or three micro-meeting requests.**
 
 Template:
 
-“Hi [Name]—I’m attending [event]. I’ve been building and testing agent-memory and multi-agent workflows in public, including [one relevant proof]. Your work on [specific item] overlaps with a failure mode I’m investigating. Could I steal seven minutes after [session] to show you the result and ask one question?”
+> “Hey Maya — I’ll be at AI Tinkerers tonight. I’m working on agent memory / multi-agent workflows and saw you’re working on Claude Code infrastructure. I have one tiny demo relevant to `[specific thing]`. Could I steal 7 minutes after the demos? Totally fine if the evening gets chaotic.”
 
-55–60 minutes: create the capture form.
+This is much better than:
 
-Minimum fields:
+> “Would love to connect and pick your brain.”
 
-Name; company; role; event; date; mission; exact problem; artifact shown; hiring/OSS/both; promised action by Anton; promised action by contact; next date; channel; job URL/team; visa relevance; strength; status.
+At a large conference, Anton should have **two pre-booked micro-meetings before entering the venue**.
 
-Confidence: High for the workflow; medium for the exact time allocation.
+At a small meetup, one is sufficient.
 
+**Confidence: High** on the process logic; exact minutes are an operational recommendation rather than research-derived.
 
-B3. THE PITCH
+**The pitch — sub-question three**
 
-Positioning principle
+The biggest positioning mistake would be making “non-coder” the centerpiece.
 
-Do not lead with “I am a non-coder.” That describes an input limitation and invites the listener to downgrade the output. Do not pretend to be a software engineer either.
+Anthropic’s current DevRel role wants production-quality code demos and the ability to critically review samples; OpenAI’s current FDE specification expects production-grade code and end-to-end deployment. citeturn21view0turn18view0 By contrast, OpenAI’s Technical Community Lead archetype explicitly allows candidates who are not full-time software engineers while requiring technical fluency, sophisticated AI workflows, agents, APIs and automation. citeturn18view1
 
-Use: “I build and operate AI-agent systems, publish the tools, and recruit engineers to stress-test them.”
+That means Anton should neither pretend to be a senior SWE nor define himself by what he cannot do.
 
-Anthropic’s current careers guidance says it cares about what candidates can do rather than where they learned it; it also distinguishes conversational non-technical interviews from technical ones. https://www.anthropic.com/careers
+A defensible positioning line is:
 
-Anton’s credible category is operator-builder / technical community builder: a person who identifies real workflow problems, uses agents to ship solutions, dogfoods them, documents failures and turns users into collaborators. For DevRel, solutions, community and PM roles, this can be stronger than either “enthusiast” or falsely claiming traditional engineering depth.
+> **“I’m an AI systems builder and technical-community operator. I use agentic coding systems heavily to ship open-source agent workflows, and I focus on the adoption, evaluation and user-feedback layer around them.”**
 
-Three 15-second intros
+If challenged about coding:
 
-Recruiter or hiring manager:
+> “I’m not a traditional production software engineer, and I don’t pretend to be one. I build through agentic coding workflows and can own prototypes, integrations, evals and user feedback. For deep production engineering I work best with strong software engineers.”
 
-“I run a small AI tooling lab in Palo Alto. I build and dogfood agent-memory and multi-machine workflows, publish the failures and fixes, and have contributed across roughly 15 open-source repos. I’m looking for a DevRel, ecosystem, or forward-deployed role where that builder-to-user loop is the job.”
+That answer is far stronger than attempting to bluff through technical depth.
 
-Senior engineer:
+### Ready-to-use introductions
 
-“I operate a multi-agent, multi-machine lab and turn the ugly failures—memory drift, coordination and follow-up—into reproducible open-source tools. I’m not a traditional hand-coder; I specify, test and ship through coding agents. Can I show you one failure case in 60 seconds?”
+**Recruiter / hiring manager**
 
-Founder:
+> “I build agent tooling and the developer-adoption loop around it—agent memory, multi-machine agent workflows and automation—with roughly 15 public repos and upstream contributions. I’m looking for a technical community, developer ecosystem or agent-tooling role where I can turn power-user workflows into adoption and product feedback.”
 
-“I build the field-testing layer around agent products: real workflows, failure discovery, open-source examples and engineer communities. I’m looking for a team where I can turn raw model capability into repeatable adoption. What part of that loop is currently breaking for you?”
+**Senior engineer**
 
-Should he explicitly say he wants a job?
+> “I’m building open-source tooling around agent memory and multi-agent workflows. I use coding agents heavily, but I own the product, eval and feedback loop. I’m looking for engineers who’ll tell me where the system is wrong in a real stack—can I show you a 60-second demo?”
 
-Yes, after relevance has been demonstrated.
+**Founder / senior product leader**
 
-Good:
+> “I run a tiny agent-tooling lab. My edge is finding frontier workflows early, shipping them publicly, then turning technical users into design partners and structured product feedback. I’m also exploring ecosystem and technical-community roles at frontier labs.”
 
-“I’m specifically exploring DevRel and forward-deployed roles at Anthropic. Is your developer platform team likely to value this kind of work?”
+Do not mention age unless relevant. Do not apologize for being Russian-speaking. Do not give a five-minute biography.
 
-Bad:
+**Should he explicitly say he is looking for a job? Yes—but after establishing relevance.**
 
-“I’m looking for anything—can you refer me?”
+Weak:
 
-Stating a focused goal helps the other person route Anton. A referral field experiment found referred candidates were more likely to be hired than otherwise comparable non-referred candidates, but referrals are not a substitute for fit. https://www.nber.org/papers/w21357
+> “Hi, I’m Anton, I’m looking for a job at Anthropic.”
 
-Confidence: High on positioning; medium on the exact wording.
+Better:
 
+> “I’m especially interested in technical community / developer ecosystem roles at Anthropic. From what you’ve seen internally, who actually owns this problem?”
 
-B4. FINDING JOB OPPORTUNITIES ON THE FLOOR
+That clarity reduces the cognitive burden on a possible referrer. It tells them what routing action is useful without demanding that a stranger immediately endorse Anton.
 
-Influence order
+A strong networking conversation should progress:
 
-1. Direct hiring manager or future manager.
-2. Team lead or senior employee trusted by that manager.
-3. DevRel/community/ecosystem leader for relevant roles.
-4. Internal employee who knows Anton’s work well enough to make a specific introduction.
-5. Recruiter assigned to the exact function.
-6. General booth recruiter.
-7. Unconnected attendee.
+`relevance → evidence → curiosity → explicit career goal → routing ask`
 
-An employee referral is useful chiefly because it can deliver context and human review. LinkedIn’s internal analysis called referrals its most efficient hiring source and reported that referred hiring increased while time-to-hire fell after it simplified its referral process. That is one company’s internal data, not a universal causal estimate. https://www.linkedin.com/business/talent/blog/product-tips/how-linkedin-is-using-linkedin-referrals
+not:
 
-Five-minute conversation sequence
+`career need → life story → request for referral`
 
-Minute 1: establish relevance.
-“I saw your team is working on [specific product/problem].”
+**Confidence: High**, based both on current role specifications and Anton’s stated strengths/weaknesses.
 
-Minute 2: ask a diagnostic question.
-“What is harder right now: getting developers to first success, collecting useful field failures, or turning examples into production patterns?”
+## Hiring, OSS adoption, and follow-up
 
-Minute 3: show one piece of proof.
-A demo, one issue, one merged contribution, or one measured operational result.
+**Finding job opportunities on the floor — sub-question four**
 
-Minute 4: connect proof to a role.
-“That builder-feedback loop is the work I want to do full-time in DevRel or forward-deployed engineering.”
+Not everyone wearing a target-company badge has equal hiring influence.
 
-Minute 5: make a low-friction ask.
-“Who owns that problem? Would you be comfortable introducing us if I send a six-line summary and the relevant role URL?”
+Anton should mentally rank contacts this way:
 
-Referral request template
+| Person | Hiring leverage | Best question |
+|---|---|---|
+| Actual hiring manager | Very high | “What would make someone unusually strong for this team?” |
+| DevRel / DevEx / technical-community / team lead | Very high for Anton-type roles | “Who owns hiring for this function?” |
+| Senior engineer on target team | High signal + referral potential | “What is the team actually struggling with?” |
+| Product lead adjacent to target function | High routing value | “Which team owns developer feedback/adoption for this?” |
+| Internal recruiter | High process leverage, less technical validation | “Which of these role families actually match this background?” |
+| Random company employee | Variable | “Who would know the answer to this?” |
+| Booth contractor / marketing staff | Often low | Ask for routing, not career evaluation |
 
-“I’m applying for [exact role, URL]. Based on what you saw, do you think the fit is credible? If yes, would you introduce me to the hiring manager or submit a referral? I’ll send a short note you can forward. If the fit is weak, I’d rather hear that directly.”
+The goal of a five-minute conversation is **not to obtain a referral immediately**. It is to earn enough relevance that a referral is socially easy.
 
-Visa conversation
+A practical sequence:
 
-Do not open with immigration. First establish role and competence. When mutual interest becomes real, say:
+**Minute one:** Find overlap.
 
-“I’m already in the Bay Area. I will require employment-based immigration support. I’m also documenting an O-1-capable evidence path, so I’d like recruiting or immigration counsel to assess the cleanest route rather than speculate here.”
+> “I’m working on persistent memory around agent workflows. You’re on Claude Code—where is memory/context management creating the ugliest real user problems?”
 
-Do not tell an engineer a lengthy visa story. Do not hide the requirement on an application that asks.
+**Minutes two to three:** Show, do not tell.
 
-Anthropic currently states that it sponsors visas and green cards for eligible roles, which means the issue is role- and candidate-specific rather than an automatic rejection. https://www.anthropic.com/careers
+> “That is exactly the failure mode I’ve been working on. Here’s the 45-second version.”
 
-OpenAI’s Residency FAQ likewise says sponsorship support depends on individual circumstances. https://openai.com/residency/
+**Minute four:** Establish career direction.
 
-O-1 is not self-declared evidence of greatness; it requires a qualifying U.S. petitioner structure and legal analysis. Treat conference speaking, press, judging and consequential OSS work as potentially useful evidence to document, not as proof that an O-1 will be approved.
+> “This class of developer/product feedback loop is actually the work I’d like to do full-time.”
 
-Confidence: High on conversational strategy; medium on company-specific sponsorship applicability; legal outcome confidence intentionally low because this is not legal advice.
+**Minute five:** Ask for routing.
 
+> “Would you be comfortable introducing me to whoever owns developer adoption / technical community for this area? I can send you a four-line forwardable note tonight.”
 
-B5. FINDING ENGINEER-USERS FOR OSS TOOLS
+The phrase **“I’ll send a forwardable note”** matters because it turns a vague favor into a low-effort task.
 
-The conversion unit is not a GitHub star. It is an observed use event.
+Forwardable note:
 
-Use this funnel:
+> “Anton builds open-source agent tooling around memory and multi-agent workflows and has been contributing in the Claude ecosystem. We met at `[event]` and his work on `[specific issue]` seemed relevant to your team’s `[problem]`. He’s exploring technical community / developer ecosystem roles and has a working demo here: `[URL]`. Thought the two of you should talk.”
 
-Conversation → problem confirmed → tool run → result captured → issue created → contribution scoped → PR opened → contributor returns.
+Do **not** ask someone who has known Anton for five minutes:
 
-At the event:
+> “Can you refer me for every open role at Anthropic?”
 
-1. Ask about a concrete failure before pitching.
-   “Have your agents ever lost state across machines or sessions?”
+A referral should be team-specific.
 
-2. If the answer matches, show one 60-second demo.
+### Role targeting needs a correction
 
-3. Ask for action now:
-   “Would you run this five-minute diagnostic on your setup? If it fails, the QR opens a prefilled issue.”
+As of September 16, 2026, Anthropic actually has a San Francisco/New York Developer Relations opening. The role is directly about developer-product discovery, adoption, ecosystem growth, developer feedback, events and technical content—but it demands five-plus years in relevant technical roles and production-quality code demos. citeturn20view0turn21view0
 
-4. Offer three contribution sizes:
-   - Two minutes: paste environment and result.
-   - Ten minutes: reproduce and file an issue.
-   - Thirty to sixty minutes: claim a scoped documentation, fixture or test task.
+Anthropic’s Applied AI Architect role is similarly customer-facing but expects years of technical customer-facing work, cloud architecture, Python comfort and LLM frameworks. citeturn18view2
 
-5. Put the task in GitHub immediately. Discord may support conversation, but GitHub should hold the durable problem and next action.
+OpenAI’s current FDE role is clearly more engineering-heavy still. citeturn18view0
 
-6. Reply quickly and personally.
+OpenAI’s Technical Community Lead archetype, however, explicitly values the hybrid of technical-community builder and technically fluent AI power user, and says the person need not be a software engineer. citeturn18view1
 
-GitHub’s guidance recommends starting contributors with small fixes or bug reports and using “help wanted” and “good first issue” labels. https://docs.github.com/en/get-started/exploring-projects-on-github/contributing-to-open-source
+**My conclusion:** Anton’s first-choice role family should currently be:
 
-GitHub’s Open Source Guide recommends an explicit newcomer section, suitable issue labels, sharing ownership and preserving easy non-critical bugs as mentoring opportunities instead of fixing everything yourself. https://opensource.guide/building-community/
+> **Technical Community / Developer Ecosystem / Developer Programs / advanced-user programs / product-community / developer-adoption PM**
 
-What actually improves the chance of a first issue or PR:
+followed by:
 
-- The person already has the problem.
-- Installation succeeds while motivation is high.
-- The requested task has a single visible finish line.
-- The contributor knows how long it should take.
-- Anton creates or assigns the issue during the conversation.
-- Feedback arrives before the contributor forgets the context.
-- Credit and ownership are visible.
+> **DevRel roles where the coding bar can be met through demonstrated artifacts**
 
-QR destination:
+and only then:
 
-Not the repository homepage. Send it to a “Start here in 10 minutes” page containing:
+> **Solutions/FDE roles where he can genuinely pass the production-technical bar.**
 
-- One sentence of value.
-- One command or click path.
-- Expected output.
-- “Worked / failed” buttons.
-- Prefilled issue form.
-- Three current starter tasks.
-- Anton’s response-time promise.
+“Forward-deployed engineer” should not be used as a prestige label if he cannot currently pass an engineering interview.
 
-Confidence: High on contributor-friction principles; medium on event-specific conversion because direct controlled evidence is limited.
+### Visa / O-1 conversation
 
+Do not introduce immigration in the first thirty seconds unless directly asked.
 
-B6. FOLLOW-UP SYSTEM
+Also do not conceal it.
 
-Cadence
+At least Anthropic explicitly states on current postings that it sponsors visas but cannot successfully sponsor every role or every candidate and will make reasonable efforts after an offer. citeturn21view0turn18view2 Thus “needs immigration support” is not automatically disqualifying there.
 
-Within 24 hours:
-Send a personalized reminder containing the exact subject discussed and one next action.
+Use the exact factual status:
 
-Within 72 hours:
-Deliver what Anton promised—introduction text, demo link, issue, test result, role-specific résumé, or reproduction. Do not send “just checking in.”
+> “I’m currently in `[actual status]`. For a long-term role I would need employer immigration support. I’m also building an O-1 evidence record with immigration counsel. I’m happy to give recruiting the exact status and dates once we establish that the role is a fit.”
 
-At two weeks:
-Send a useful update, not a demand for attention. Mention a relevant fix, result, contribution, role or event.
+Never say:
 
-After that:
-Continue only when there is new value or an agreed date. Silence after repeated generic nudges is not relationship-building.
+> “I can definitely get an O-1.”
 
-The urgency is justified because real-world follow-up is poor: one trade-show study found only 20%–30% of contacts were followed up at all. https://www.tandfonline.com/doi/full/10.1080/15470148.2017.1308285
+unless counsel has actually established that.
 
-Four templates
+Conference speaking, judging, published OSS work, independent recognition, invitations and documentation may be useful materials to **preserve for an immigration attorney**, but this report is not treating any individual conference appearance as automatically satisfying an O-1 criterion.
 
-1. LinkedIn—hiring contact, within 24 hours
+For every substantial public role, archive:
 
-“Hi [Name]—good meeting you at [event]. Your point about [specific problem] matched what I’m seeing in [artifact]. Here is the [demo/repo/result] I mentioned: [URL]. I’m targeting [exact role/team]. If, after looking, you think the fit is real, would you introduce me to [person/team]?”
+`invitation + organizer + agenda + speaker page + audience size + photos + recording + independent coverage + judging evidence + public code/artifact`
 
-2. Email—hiring manager or recruiter, within 72 hours
+That creates evidence inventory without pretending to make the legal determination.
 
-Subject: [Event] — proof for [team/problem]
+**Confidence: High** on hiring-floor strategy and role-fit analysis; **medium** on immigration conversation sequencing. Immigration eligibility itself requires individual legal review.
 
-“Hi [Name],
+**Finding engineer-users for OSS tools — sub-question five**
 
-[Contact] suggested I write after our conversation at [event]. I run a small Palo Alto AI tooling lab focused on [specific problem]. The most relevant proof is [one result, contribution or demo], here: [URL].
+Here the event strategy should be much more aggressive.
 
-I’m interested in [exact role, URL] because the work appears to require [two matching capabilities]. I require immigration support and can discuss that with recruiting at the appropriate stage.
+Do not ask:
 
-Would a 20-minute fit conversation be useful?
+> “Would you star my repo?”
 
-Anton”
+A star is almost worthless for Anton’s stated goal.
 
-3. X DM or Telegram—engineer-user
+Do not ask:
 
-“Good meeting you at [event]. Here’s the ten-minute [tool] test we discussed: [URL]. Expected result: [one line]. If it breaks, tap ‘failed’ and the issue is prefilled. I’ll respond within one working day.”
+> “Join my Discord.”
 
-4. Two-week value update
+A Discord membership is not product adoption.
 
-“Quick update since [event]: your [specific comment] led me to test [condition]. The result was [one sentence], and the fix/reproduction is here: [URL]. If you still want to try it, task [issue number] is now isolated to about 20 minutes.”
+The desired funnel is:
 
-CRM fields that matter
+> **conversation → demo → first action → documented friction → issue → small contribution → repeat contribution**
 
-Identity:
-Name, company, role, location, contact channels, profile URLs.
+This matches GitHub’s own contributor-funnel model: potential user → contributor → maintainer, with friction reduction at each stage. citeturn24view1 GitHub recommends clear documentation, accessible contribution guidelines, `good first issue` opportunities and minor fixes/documentation as good initial contribution surfaces. citeturn24view2turn24view3
 
-Provenance:
-Event, date, introducer, target category.
+### The event conversion playbook
 
-Substance:
-Exact problem, memorable detail, artifact shown, objections, role/team URL.
+**Start with a problem question.**
 
-Commitments:
-Anton promised, contact promised, owner, due date.
+> “How are you persisting memory across Claude Code / agent sessions?”
 
-Funnel:
-Job stage; OSS stage; last touch; next touch; response; outcome.
+not:
 
-Attribution:
-Interview, referral, install, issue, PR or contribution credited back to the event.
+> “I made a second-brain system.”
 
-Lead-killing mistakes
+Then:
 
-- Generic “great meeting you.”
-- No reminder of the actual conversation.
-- Sending five links or a portfolio dump.
-- Asking for a referral before demonstrating fit.
-- Failing to deliver a promise.
-- Moving OSS work into a private chat where nobody else can discover it.
-- Logging contacts but not the next action and date.
-- Repeated “checking in” messages with no new value.
-- Calling a connection a lead when no problem or next step was established.
+> “I’ve been attacking exactly that. Can I show you the failure mode and the tool in 60 seconds?”
 
-Confidence: High on the system; medium on the exact cadence because rigorous comparative cadence studies are limited.
+The demo should be short enough that Anton is not monopolizing a meetup.
 
+Then the critical conversion question:
 
-B7. EVENT SCORECARD
+> **“Would this be useful enough that you’d try to break it on your stack?”**
 
-Score each event after 72 hours and again after 30 days.
+That question filters politeness from real interest.
 
-Metric | Definition | Minimum acceptable per ordinary event
-Hours | Travel + prep + event + follow-up | Record actual
-Cash | Ticket + travel + food | Record actual
-Target attendance | Selected targets actually met | ≥2 of 3–5
-Qualified hiring contacts | Relevant company/team plus explicit next step | ≥1
-Warm introductions/referrals | Introduced or referred to a named team/role | ≥0.25 average per event
-Qualified engineer-users | Has the problem and agreed to try | ≥2
-Live demos | Artifact actually shown or run | ≥2
-Successful tries | External person ran the tool | ≥1
-GitHub issues | Substantive external issue within 14 days | ≥0.5 average
-External PRs | PR attributable within 30 days | ≥0.125 average
-Interviews | Recruiter/hiring-manager call within 30 days | ≥0.125 average
-Follow-up completion | Qualified contacts followed within 24h | 100%
-Cost per qualified outcome | Total cost / referrals + interviews + tries + issues + PRs | Trend downward
+If yes, use a QR code whose landing page goes directly to:
 
-Suggested event score:
+```text
+Try in 5 minutes
+Report one failure
+Three tiny contributor tasks
+GitHub
+```
 
-+5 interview scheduled
-+4 warm hiring-manager introduction
-+3 formal referral to an exact role
-+3 external PR
-+2 substantive external issue
-+2 successful independent tool run
-+1 qualified contact with dated next step
-−2 no target research
-−3 promised follow-up missed
-−3 more than six hours with zero qualified outcomes
+A stronger event than “scan later” is:
 
-Decision rules—opinion
+> **“Do you have your laptop? Let’s see whether it even installs.”**
 
-- Repeat: score ≥5 or produces one interview/referral/PR.
-- Modify: score 2–4.
-- Stop attending that event type after three comparable events scoring ≤1.
-- Immediate stop: two events in the same series with no relevant targets, no demo tries and no follow-up responses.
-- Large paid event: require either a speaking/demo role or three pre-booked target meetings.
-- Do not credit registrations, badges scanned, LinkedIn connections, GitHub stars or “interesting conversations” as final outcomes.
+The goal is not necessarily successful installation. A failed installation is often more useful: it can produce the first issue.
 
-Review 30-day attribution because conference benefits may occur after the event, while immediate self-reports can exaggerate value. Research also warns that conference impact is difficult to isolate and often relies on self-reported outcomes. https://pmc.ncbi.nlm.nih.gov/articles/PMC7499794/
+Immediately convert the discussion into public state:
 
-Confidence: High as a management framework; low-to-medium on thresholds until Anton collects his own baseline.
+> “You just found something real. Mind if I open a GitHub issue now and tag your handle?”
 
+This is superior to keeping the technical observation in a DM because GitHub’s maintainer guidance recommends public project communication and specifically suggests directing people to issues rather than accumulating private conversations. citeturn24view1
 
-B8. SPEAKING AND HOSTING AS LEVERAGE
+### The first contribution should be embarrassingly small
 
-Speaking is strategically better than anonymous attendance because it provides a reason for relevant people to approach Anton, creates a reusable artifact and demonstrates the actual communication work required in DevRel. However, direct evidence that a five-minute talk causes more hiring or OSS adoption is limited.
+Ask for:
 
-Conference research associates presenting with greater visibility and publication impact, although that is academic evidence and does not establish Bay Area hiring causality. https://www.sciencedirect.com/science/article/pii/S0264999320312827
+> a failing test  
+> a reproducible example  
+> a README clarification  
+> an integration example  
+> one adapter  
+> a tiny benchmark case  
+> a docs correction
 
-AI Engineer World’s Fair explicitly accepted 5–10 minute lightning talks, 15–20 minute stage talks, workshops and online talks, demonstrating that short practitioner formats are legitimate entry points rather than consolation prizes. https://sessionize.com/aiewf2026/
+not:
 
-Recommended leverage order:
+> “Can you refactor my memory architecture?”
 
-1. Five-minute live demo with a measurable failure/result.
-2. Ten-minute lightning talk.
-3. Hands-on office hour or debugging table.
-4. A 10–20 person problem-specific roundtable.
-5. Co-hosted build night with an established community.
-6. Only later, Anton’s own recurring meetup.
+GitHub explicitly recommends starting with minor fixes, documentation improvements or small bug reports, and provides `help wanted` / `good first issue` mechanisms for discoverability. citeturn24view2turn24view3
 
-Best talk proposal:
+A good live ask:
 
-Title: “What broke when I ran agent memory across six machines”
+> “You know this integration better than I do. Would you add the smallest failing example as a PR? Ten minutes is enough; I’ll handle the rest.”
 
-Abstract:
-“I operate a multi-machine agent workflow and expected shared memory to behave like a database. It did not. This five-minute demo shows one reproducible failure, the instrumentation that exposed it, and the open-source test anyone can run against their own setup.”
+GitHub’s maintainer guide literally recommends leaving simple non-critical bugs available and asking a user whether they could submit a quick PR rather than immediately fixing everything yourself. citeturn24view1
 
-This beats “The future of agent memory” because it promises evidence and a usable artifact.
+### Design the repo before recruiting contributors
 
-How to obtain slots:
+Every conference-target repo should already have:
 
-- Ask the organizer immediately after attending once.
-- Offer a five-minute talk with one live demo and a hard stop.
-- Send title, three-sentence abstract and demo URL.
-- Volunteer as a backup speaker.
-- Ask sponsors and community leads for build-night demo slots.
-- Submit CFPs early.
-- Offer a co-session with an engineer-user who tested the tool.
-- After the talk, leave one QR code on the final slide leading to one action.
+`README`  
+`CONTRIBUTING.md`  
+`good first issue` labels  
+`help wanted` labels  
+three genuinely small tasks  
+one-command or near-one-command setup  
+issue templates  
+tests that make a small PR safe  
+visible roadmap  
+fast maintainer response
 
-Hosting should be a tightly scoped experiment, not a new institution:
+Otherwise Anton is spending conference time pouring engineers into a leaking funnel.
 
-“Agent Memory Failure Clinic—12 seats, bring one broken workflow, leave with one reproduction or GitHub issue.”
+**Confidence: High.** This is the best-supported part of the entire event strategy because GitHub has extensive maintainer guidance on reducing contributor friction.
 
-Hosting has greater upside because Anton controls admission, structure, follow-up and speaking time. Its downside is operational load and the risk of attracting an audience that wants free help but will never contribute. Run one session, then repeat only if it generates at least four qualified users, three live runs and one issue or PR.
+**Follow-up system — sub-question six**
 
-Confidence: Medium. Visibility evidence supports speaking, but the proposed hosting thresholds are operating judgment.
+The CRM should be treated as part of Anton’s product, not administrative cleanup.
 
+The cadence I recommend is:
 
-B9. COUNTER-EVIDENCE AND STOP RULES
+> **24 hours: memory + promise**  
+> **72 hours: value created**  
+> **two weeks: progress / closure**
 
-Conferences are not a hiring channel by themselves.
+Not every person requires all three touches. A person who responds enters a conversational state; the cadence is primarily for unclosed loops.
 
-The academic survey reporting only 2.3%–4.7% job-offer outcomes and the estimate of only two to three advantageous encounters per ten conferences both argue against treating attendance as inherently productive. https://pmc.ncbi.nlm.nih.gov/articles/PMC7499794/ and https://pmc.ncbi.nlm.nih.gov/articles/PMC9841198/
+### Within twenty-four hours
 
-Moderately weak ties can transmit jobs, but the LinkedIn experiment does not say that collecting more shallow connections automatically produces employment. Its result was nonlinear: ties can be too weak to help. https://digitaleconomy.stanford.edu/publication/a-causal-test-of-the-strength-of-weak-ties/
+The message must contain:
 
-Frontier-lab hiring still requires visible fit and demonstrated ability. Anthropic explicitly says it cares about what candidates can do, not where they learned it. https://www.anthropic.com/careers
+`where we met + specific memory + promised artifact + exactly one CTA`
 
-Stop going to events when:
+**LinkedIn — hiring contact**
 
-- Follow-up backlog exceeds 24 hours.
-- There is no working artifact worth showing.
-- No target person or team can be named.
-- The event competes with completing a strong contribution for a target company.
-- Three comparable events fail the scorecard.
-- The audience is predominantly investors, service providers or job seekers rather than builders and hiring teams.
-- Anton has already saturated that community and is seeing the same people without deeper progress.
-- Attendance prevents writing the case study, improving onboarding, reviewing a contributor’s PR or preparing for an interview.
+> “Maya — good talking at AI Tinkerers about context failure in long-running agent workflows. Your point about `[specific issue]` made me change `[specific thing]`. Here’s the 60-sec demo I mentioned: `[URL]`. I’m specifically exploring technical-community / developer-ecosystem work around agent products. Would you be comfortable pointing me to whoever owns that function on your side?”
 
-Better alternatives:
+### Within seventy-two hours
 
-- Make one substantial contribution to a target lab’s ecosystem.
-- Publish a factual failure analysis with runnable reproduction.
-- Build a role-specific demo.
-- Ask an existing credible contact for one exact introduction.
-- Conduct five remote user tests.
-- Close the loop with people already met.
-- Prepare an evidence-backed application for one exact role.
-- Turn a conference result into a public technical talk or issue thread.
+Create value from their input rather than merely reminding them that Anton exists.
 
-Recommended time allocation during the 30-day experiment:
+**Email — potential referrer / hiring manager**
 
-- 25% event attendance and travel.
-- 20% event preparation and targeted outreach.
-- 25% follow-up and CRM.
-- 30% artifact quality, OSS responses and role-specific applications.
+> **Subject:** `[Event] → the agent-memory example we discussed`  
+>   
+> “Hi Maya — I implemented the small example we discussed and wrote up the failure case here: `[URL]`. The overlap with `[team/product]` is stronger than I expected. I’m exploring roles around technical community / developer adoption rather than pure backend engineering. If that maps to your organization, would a 15-minute conversation next week be sensible? If another person owns it, a pointer is enough.”
 
-If event time rises above half of the weekly job/OSS effort, conferences are consuming the mission rather than serving it.
+### OSS follow-up
 
-Confidence: High on the need for stop rules; medium on the time split.
+**X DM — engineer-user**
 
+> “You mentioned that `[specific integration]` would probably break my memory layer. I turned that into issue #42 with a minimal repro: `[URL]`. If you can paste one representative config/input into the issue, I’ll turn it into a regression test. No need to install anything tonight.”
 
-B10. CONCRETE 30-DAY PLAN
+### Two-week closure
 
-Core weekly rhythm
+**Telegram / direct message**
 
-Monday:
-- Review current target-company roles and relevant teams.
-- Score available events.
-- Select two events: one job-primary, one OSS-primary.
-- Choose three to five targets per event.
-- Send two pre-event meeting requests.
-- Ensure one artifact and three starter issues are ready.
+> “Closing the loop from `[event]`: the issue you raised is now in the release — `[URL]`. Your example changed `[specific behavior]`. I also left a genuinely small follow-up task in issue #57 if you feel like touching it; otherwise no action needed. Thanks again for the useful failure case.”
 
-Tuesday:
-- Artifact work and one targeted application or contribution.
-- Attend an event only if it beats the selection threshold.
+Notice what is absent:
 
-Wednesday:
-- Primary event.
-- Minimum floor behavior:
-  - Speak with two selected targets.
-  - Show two demos.
-  - Make one hiring ask.
-  - Make two tool-test asks.
-  - Log notes before leaving the venue or immediately after.
+> “Just checking in.”
 
-Thursday:
-- Complete all 24-hour follow-ups.
-- Deliver any promised material.
-- Create or assign GitHub issues.
-- Ask the organizer for a lightning-talk or demo slot.
+Every follow-up carries information.
 
-Friday:
-- Second event, preferably a hackathon, technical meetup, company developer session, demo night or small roundtable.
-- Avoid a third event unless Anton is speaking, hosting, meeting a named decision-maker, or participating in a build sprint.
+GitHub’s maintainer guide emphasizes responsiveness and cites a Mozilla study in which contributors receiving reviews within 48 hours had much higher return/repeat contribution rates. citeturn24view1 That makes Anton’s follow-up weakness directly relevant to OSS conversion.
 
-Saturday:
-- One deep work block:
-  - Review issues.
-  - Help external testers.
-  - Finish the role-specific artifact.
-  - Convert the week’s strongest technical lesson into a reusable public proof.
+### CRM schema
 
-Sunday:
-- Review the scorecard.
-- Attribute every referral, install, issue, PR and interview.
-- Kill one low-yield event category if its three-event trend fails.
-- Select next week’s targets.
-- Clear every overdue follow-up before registering for another event.
+The minimum useful record is:
 
-Week 1: Establish the baseline
+```text
+person
+company
+team
+title
+event
+event_date
+mission = job | oss | both
+influence_type
+context_hook
+what_they_care_about
+artifact_shown
+role_or_repo
+promised_by_anton
+next_action
+next_action_due
+last_contact
+status
+referral_target
+warm_intro_status
+application_status
+visa_discussed
+live_demo
+trial_72h
+github_issue
+github_pr
+repeat_contributor
+interview_date
+event_hours
+event_cost
+```
 
-Attend:
-- One small technical meetup.
-- One company-hosted or sponsor-heavy developer event.
+The four non-negotiable fields are:
 
-Targets:
-- 6 qualified contacts.
-- 4 live demos.
-- 2 independent tries.
-- 1 warm introduction.
-- 1 issue.
+`what_they_care_about`  
+`promised_by_anton`  
+`next_action`  
+`next_action_due`
 
-Week 2: Force participation
+A contact without a `next_action_due` is not a pipeline record. It is an address-book entry.
 
-Attend:
-- One hackathon/build night.
-- One meetup only if Anton has a demo or lightning slot.
+Automate a daily queue:
 
-Targets:
-- Use Anton’s tool in a real build.
-- Recruit 3 engineer-testers.
-- Generate 2 issues.
-- Ask for 1 referral to an exact team.
+```text
+WHERE next_action_due <= today
+AND status NOT IN ('closed', 'not-fit')
+```
 
-Week 3: Create owned leverage
+and a Sunday stale-contact query:
 
-Host:
-- One 10–20 person “Agent Memory Failure Clinic,” preferably co-hosted with an existing organizer.
+```text
+WHERE last_contact < today - 7 days
+AND status IN ('warm', 'intro-pending', 'trial-pending')
+```
 
-Attend:
-- At most one other event.
+### Follow-up errors that kill leads
 
-Targets:
-- 4 qualified users.
-- 3 live runs.
-- 2 issues.
-- 1 external PR or clearly assigned starter task.
-- Record a short technical demo that can support applications.
+The most damaging are:
 
-Week 4: Conversion, not collection
+**Contextless follow-up:** “Great meeting you!”
 
-Attend:
-- One high-value event with pre-booked meetings.
-- Optionally one event where Anton speaks or demos.
+**Multiple asks:** intro + referral + coffee + repo star + job advice in one message.
 
-Spend the remaining time on:
-- Hiring-manager conversations.
-- Specific referrals.
-- Contributor support.
-- Interview preparation.
-- Publishing the best technical case study.
-- Reviewing 30-day event attribution.
+**Referral too early:** asking somebody to endorse Anton before they have evidence.
 
-Thirty-day decision
+**Failure to deliver:** “I’ll send you my demo tomorrow” followed by silence.
 
-Continue the conference engine only if it produces at least two of these:
+**Private technical limbo:** useful OSS feedback lives forever in Telegram rather than GitHub.
 
-- Two interviews or formal hiring explorations.
-- Four warm introductions/referrals.
-- Eight successful external tool runs.
-- Four substantive external issues.
-- One external PR.
-- One repeat contributor or design partner.
+**Long autobiography:** making the recipient re-process Anton’s life history.
 
-If it produces contacts but none of those outcomes, the failure is probably one of three things:
+**Visa dumping:** turning a technically interesting five-minute conversation into an immigration consultation.
 
-- Wrong rooms.
-- Weak artifact.
-- Broken follow-up.
+**No closure:** never telling an engineer that their feedback shipped.
 
-Diagnose which one using the funnel. Do not solve it by attending more events.
+The last one is especially bad because closing feedback loops is explicitly part of the current OpenAI technical-community role profile Anton resembles. citeturn18view1
 
-Final assessment
+**Confidence: High** on workflow design; cadence timing is a practical operating recommendation rather than a validated universal sequence.
 
-Evidence-based:
-- In-person, structured interaction creates more connections than passive or virtual exposure.
-- Smaller interactive settings can outperform very large conferences for collaboration.
-- Moderately weak ties can improve job transmission.
-- Referrals can improve hiring access.
-- First OSS contributions need low-friction, clearly scoped tasks and responsive maintainers.
-- Ordinary follow-up rates are poor, making disciplined follow-up a real differentiator.
+## Measurement, speaking leverage, and counter-evidence
 
-Opinion/recommendation:
-- Two events per week.
-- The proposed hit rates, thresholds and scoring weights.
-- The 30-day output targets.
-- The “Failure Clinic” format.
-- The exact 25/20/25/30 time allocation.
+**Measuring whether an event was worth it — sub-question seven**
 
-Overall conclusion:
-Anton’s unusual advantage is not that he attends many AI events. The Bay Area supplies that opportunity to thousands of people. His advantage can be that he arrives with a live system, exposes real failures, makes the next action unusually easy and follows through better than everyone else. If he cannot execute the follow-up, he should attend fewer events until he can.
+The wrong metric is contacts collected.
 
-🧒 Простыми словами: конференция — не экскурсия и не коллекция знакомых. Это как рыбалка с заранее выбранной рыбой, правильной наживкой и ведром для улова. До события Антон выбирает людей. На месте показывает одну работающую вещь. Перед уходом договаривается о следующем шаге. На следующий день выполняет обещание. Если три одинаковых события не дают интервью, тестов, issues или PR — больше на них не ходит.
+The next-worst metric is LinkedIn connections.
+
+The useful unit is a **durable state change**.
+
+### Event scorecard
+
+| Metric | Definition | Healthy target | Kill signal after repeated events |
+|---|---|---:|---|
+| Total time | Prep + travel + event + follow-up | Track every hour | Hidden time makes “free” meetups look cheap |
+| Cash cost | Ticket + transit + food + parking | Track | No fixed ceiling; compare with output |
+| Named targets | People selected before event | 3–5/event | Zero = mostly random attendance |
+| Qualified job conversations | Relevant person + career/team relevance + explicit next step | ≥1/event over rolling average | <1 across 3 events of same class |
+| Warm intro/referral | Internal routing to a relevant person/role | ≥1 per 2–3 strong job events | None after 3 high-priority events |
+| Recruiting next step | Recruiter call, hiring-manager call, application requested/reviewed | ≥1 per 3–4 job events | None after 6 targeted events |
+| Interview in 30 days | Formal interview process | ≥1 per ~4 strong job events as a management goal | Zero after 8 targeted events → diagnose positioning |
+| Live OSS demos | Relevant engineer actually sees product | ≥1–2/event | Conversations without demos |
+| Real trial within 72h | Engineer runs/installs/tests it | ≥1/event on OSS-oriented events | <3 across 3 OSS events |
+| GitHub issues | Actionable external problem/feedback | ≥1 per 2 OSS events | Zero after 3 OSS events |
+| External first PR | New external engineer contributes | ≥1 per 4–6 OSS events as a goal | Zero after 8–10 real trials → funnel problem |
+| Repeat contributor | Same engineer returns | ≥1/month initial goal | First PRs never repeat |
+| Follow-up compliance | Promised actions delivered ≤24h | >90% | **Below 80% → attend fewer events immediately** |
+| Qualified outcomes/hour | Warm intro, recruiting step, live trial, issue or PR ÷ total hours | Aim ≥0.25/h initially | <0.15/h after enough observations |
+
+These are **operating thresholds I propose**, not published benchmarks.
+
+A clean decision rule after three instances of the same event category:
+
+**Job-oriented event:** continue only if it creates at least one meaningful internal intro/recruiting next step across the three or clearly reaches high-value target employees.
+
+**OSS-oriented event:** continue only if the three events collectively create at least three real trials and one persistent GitHub object such as an issue or PR.
+
+**Dual-purpose event:** it should produce at least one durable outcome from each funnel over three instances.
+
+Do not overfit three events statistically. This is a management kill-switch against Anton’s known tendency to attend events habitually.
+
+The interesting model is not:
+
+> “Was tonight fun?”
+
+It is:
+
+```text
+event_type
+→ target conversation rate
+→ follow-up response rate
+→ warm intro / trial rate
+→ interview / issue rate
+→ offer / repeat contributor
+```
+
+After 30–60 days, Anton should have his own Bay Area conversion dataset, which will be far more valuable than generic networking advice.
+
+**Confidence: Medium.** Measurement logic is strong; thresholds are intentionally provisional.
+
+**Speaking and hosting as leverage — sub-question eight**
+
+There is an important evidence limitation here:
+
+> I did **not** find a controlled study showing that giving a five-minute Bay Area AI lightning talk produces X times more hiring conversations or contributors than attending as a guest.
+
+So I would not invent one.
+
+There is, however, strong role- and event-level evidence that speaking/demoing is strategically aligned with Anton’s targets.
+
+Anthropic’s current DevRel position makes leading and participating in developer events/workshops part of the job and lists public speaking at industry conferences as desirable experience. citeturn21view0 OpenAI’s Technical Community Lead role involves demos, office hours, show-and-tell sessions, peer learning, in-person events and user cohorts. citeturn18view1 AI Tinkerers SF is explicitly built around live demonstrations of real systems, working prototypes, architecture lessons and failures rather than sales pitches. citeturn16view0 AI Engineer World’s Fair similarly emphasizes talks from engineers who ship and technical hallway interactions. citeturn17view0turn17view2
+
+Therefore a lightning demo does three things that attendance alone cannot:
+
+**It creates inbound networking.** People approach the demonstrator afterward.
+
+**It proves the exact skill frontier labs want.** Anton can explain a technical workflow to developers, handle questions and convert complexity into useful artifacts.
+
+**It creates a durable public artifact.** Video, agenda, GitHub repo, slides/demo and organizer acknowledgment can be reused in hiring—and archived for immigration counsel.
+
+My judgment is that **a relevant five-minute demo slot is generally worth more to Anton than another two hours of free-form networking**.
+
+### How to get slots at Bay Area AI meetups
+
+For AI Tinkerers specifically, the current SF page says demos should be real systems/code rather than sales decks and provides a route to message organizers. citeturn16view0 Do not send organizers a keynote proposal.
+
+Send this:
+
+> **Subject:** 5-minute live demo — persistent memory failure in agent workflows  
+>   
+> “I’ve built a working open-source prototype around persistent memory across agent sessions. I can do a five-minute zero-sales live demo: one real failure, the architecture, and what broke in practice. Public GitHub: `[URL]`. No company pitch, no fundraising, no slides required. Happy to fit a lightning slot.”
+
+Even better:
+
+> “I can show what **failed**, not only what worked.”
+
+That fits technical-builder communities better than marketing language.
+
+Use the same pitch structure elsewhere:
+
+`problem → real system → surprising result/failure → public repo → exact duration`
+
+### Hosting his own event
+
+Hosting can be stronger than speaking only if Anton avoids becoming an unpaid general event organizer.
+
+Do **not** create:
+
+> “Palo Alto AI Networking Meetup.”
+
+Create:
+
+> “Agent Memory Failure Clinic — 15 builders, three 5-minute demos, bring a repo.”
+
+Cap it at approximately 12–20 technical participants.
+
+Registration should ask:
+
+```text
+GitHub
+What agent stack do you use?
+What memory/context problem do you have?
+What can you demo?
+```
+
+Agenda:
+
+```text
+20 min arrival
+3 × 5 min demos
+30 min "break each other's systems"
+30 min GitHub issue / experiment formation
+20 min open conversation
+```
+
+Invite one target-lab engineer as a technical guest or demonstrator—not as a person Anton intends to corner for employment.
+
+Instrument the event:
+
+`registrants → attendees → demos → repo trials → issues → PRs → follow-ups`
+
+Anthropic’s current Head of Community specification is unusually explicit that community should be tied to retained users and product adoption rather than activity metrics. citeturn22view0 Hosting an instrumented micro-community gives Anton a portfolio example of exactly that philosophy.
+
+**Confidence: Medium-high** that speaking/hosting is more useful for Anton; **low** on any precise multiplier versus ordinary attendance because no causal conversion data was found.
+
+**Counter-evidence — sub-question nine**
+
+There are five reasons conferences may not help Anton much.
+
+**First: technical gaps remain technical gaps.**
+
+OpenAI FDE currently expects end-to-end production deployment and production-grade Python/JavaScript; Anthropic DevRel asks for production-quality code demonstrations. citeturn18view0turn21view0 Ten warm referrals do not remove that evaluation bar.
+
+Therefore Anton should not spend conference hours trying to socially manufacture an engineering credential he does not possess.
+
+**Second: repeated visibility without repeated output eventually becomes negative signal.**
+
+If people repeatedly see Anton at events but not shipping substantive work, the implicit brand can become “networker who is everywhere” rather than “builder/operator who is unusually connected.”
+
+This is an inference, but it is exactly why the event should point back to tangible GitHub work.
+
+**Third: conference content itself is rarely scarce.**
+
+AI Engineer World’s Fair now publishes substantial conference material online. citeturn17view1 OpenAI Academy offers builder education and online/on-demand material alongside physical events. citeturn25view5 Lorna Mitchell’s first-hand DevRel experience was that digital formats let her produce more meaningful content/code/support and establish repeated touchpoints, and she argues for fewer, more intentional physical events. citeturn25view3
+
+So going to an event just to watch talks is particularly hard to justify.
+
+**Fourth: OSS adoption does not happen because someone liked the maintainer over drinks.**
+
+It happens because installation works, documentation works, tasks are scoped, maintainers respond and contributors feel ownership. GitHub’s official/open maintainer guidance repeatedly emphasizes those mechanics. citeturn24view1turn24view2turn24view3
+
+If Anton has 15 half-maintained repos and poor contributor onboarding, another meetup does less for OSS growth than one evening spent turning the strongest repo into a world-class contribution surface.
+
+**Fifth: Anton’s self-identified weakness—follow-up—is directly incompatible with the role he wants.**
+
+OpenAI’s current community-role specification explicitly demands organization, repeatable systems and reliably closing loops. citeturn18view1 The event pipeline therefore doubles as a job simulation:
+
+> Can Anton run his own developer relationships with the rigor he would be expected to run OpenAI’s or Anthropic’s?
+
+If not, more attendance is the wrong intervention.
+
+### When to skip the event and do something else
+
+Skip whenever one of these is true:
+
+The event has no identifiable target audience.
+
+Anton cannot name three useful people or one specific community to reach.
+
+He still owes follow-ups from the previous event.
+
+The best relevant repo lacks a five-minute onboarding path.
+
+He has not shipped anything substantial for a week because evenings are consumed by events.
+
+He has an interview/application requiring preparation.
+
+He could instead write a high-quality technical case study of a real agent failure.
+
+He has access to a frontier engineer for a focused one-to-one coffee.
+
+Two hours implementing feedback from an existing user will usually dominate two hours collecting new users whom he then neglects.
+
+**Confidence: High** on the central counter-evidence; the precise event-versus-shipping tradeoff is personal and should be measured.
+
+## Thirty-day operating plan
+
+**Thirty-day plan — sub-question ten**
+
+The key recommendation is counterintuitive given Bay Area abundance:
+
+> **Available: three to five events/week. Attend: usually two.**
+
+A high-signal all-day or overnight hackathon counts as the week’s event budget, not an excuse to add four more meetups.
+
+### Weekly rhythm
+
+| Day | Operating rhythm | Required output |
+|---|---|---|
+| Monday | Review roles, target companies and OSS funnel; shortlist week’s events | Choose maximum two; reject the rest |
+| Tuesday | 45-min target research + pre-DMs; optional Event A | 3–5 targets, 1 artifact, 1–2 pre-booked micro-meetings |
+| Wednesday | **No default event**; ship/follow up | Every Tuesday promise closed; GitHub issues created |
+| Thursday | Application/interview work + OSS maintenance | One durable technical artifact or role application |
+| Friday | Prep Event B / submit lightning-demo proposals | One speaking pitch every week |
+| Friday or Saturday | Event B: preferably demo night, company event, curated dinner or hackathon | 2+ target conversations; 1 durable next step |
+| Sunday | 60-minute pipeline review | Update scorecard, kill weak event categories, schedule follow-ups |
+
+### Week-specific progression
+
+**Week one — instrument everything**
+
+Attend one screened technical meetup/demo night and one target-company or similarly high-signal event.
+
+Before event one, create the single canonical proof-of-work URL.
+
+Before event two, make sure the strongest OSS repo has:
+
+`Quick Start + CONTRIBUTING + 3 good-first-issues + issue template`
+
+Goal is not maximization. Establish baseline conversion.
+
+End-of-week target:
+
+```text
+4+ qualified conversations
+2+ OSS demos
+1+ real trial
+1 warm routing/introduction
+100% 24-hour follow-up
+```
+
+**Week two — turn attendance into visibility**
+
+Attend one company-adjacent developer event and one builder event.
+
+Submit at least three five-minute demo proposals to communities where the artifact genuinely fits. AI Tinkerers is an obvious candidate because its current format is explicitly demo-first and builder-screened. citeturn16view0
+
+Send one forwardable career note through the strongest internal contact from week one.
+
+End-of-week cumulative target:
+
+```text
+8+ qualified conversations
+2 warm introductions/referrals
+4 real OSS trials
+2 public GitHub issues
+1 speaking/demo opportunity in pipeline
+```
+
+**Week three — create your own high-signal room if necessary**
+
+If speaking opportunities materialize, use them.
+
+If none materialize and Anton can recruit at least eight technically relevant attendees, run a tiny Agent Memory / Agent Workflow Failure Clinic rather than attending a third generic meetup.
+
+Do not optimize registration volume.
+
+Invite:
+
+`5–8 engineers who use relevant stacks`  
+`1–2 founders/technical leads`  
+`1 person from a target frontier ecosystem if naturally relevant`
+
+The event needs a public artifact afterward: examples, issues, lessons or demo recording.
+
+End-of-week cumulative target:
+
+```text
+12+ qualified conversations
+3+ warm intros
+6+ real OSS trials
+3 issues
+1 external PR or committed small contribution
+```
+
+**Week four — conversion, not acquisition**
+
+Attend only the best one or two events.
+
+Spend extra time moving warm contacts through existing funnels:
+
+`internal intro → role owner → recruiting call`  
+`trial → issue → PR`  
+`speaker pitch → confirmed demo`
+
+Publish one concise case study:
+
+> “What 10 engineers broke in my agent-memory system in three weeks.”
+
+That piece simultaneously demonstrates technical curiosity, community-building, user research, OSS maintenance and closing the feedback loop—the same combination current frontier-lab community and DevRel postings value. citeturn18view1turn21view0
+
+### Thirty-day dashboard
+
+I would set these as **management objectives**, not expected statistical outcomes:
+
+| Funnel | Minimum useful result | Strong result |
+|---|---:|---:|
+| Events attended | 6 | 8 |
+| Named targets researched | 24 | 40 |
+| Qualified relevant conversations | 12 | 16–20 |
+| Warm internal intros/referrals | 3 | 4–6 |
+| Formal recruiter/hiring-manager processes | 1 | 2–3 |
+| Interviews scheduled | 1 | 2+ |
+| OSS live demos | 8 | 12+ |
+| Engineers who actually try product | 5 | 8–10 |
+| Actionable external issues | 3 | 4–6 |
+| First external PRs | 1 | 2–3 |
+| Repeat contributors | 1 | 2 |
+| Demo/lightning slots | 1 | 2 |
+| 24h follow-up compliance | >90% | ~100% |
+
+### The Sunday review
+
+Every Sunday answer five questions:
+
+**Which event category created the most durable outcomes per hour?**
+
+**Which person is one action away from an internal introduction or interview?**
+
+**Which OSS user is one action away from becoming a contributor?**
+
+**Which promised actions are overdue?**
+
+**What should I stop attending next week?**
+
+The last question is essential.
+
+At the end of the month Anton should not say:
+
+> “I went to thirty AI events.”
+
+He should be able to say:
+
+> “I tested four event categories. Screened demo nights generated one GitHub issue per X hours; curated company events generated one internal introduction per Y hours; generic mixers generated nothing, so I stopped them. Four engineers became active users, two contributed, and two target-company conversations moved into recruiting.”
+
+That statement itself sounds like someone who can run developer ecosystem programs.
+
+It also directly mirrors how current Anthropic community leadership describes the desired shift from activity metrics toward adoption and retained-user outcomes. citeturn22view0
+
+**Confidence: High** on the weekly structure; monthly numerical objectives are deliberately aggressive experimental targets, not forecasts.
+
+## Primary sources opened
+
+The research emphasized current official sources and first-hand material. Dynamic career/event pages below were accessed on **September 16, 2026** unless a publication date is shown.
+
+| Source | What it contributed | Exact URL opened |
+|---|---|---|
+| AI Engineer World’s Fair 2026 | Attendee composition, hallway track, 100+ expo partners, explicit hiring language | `https://ai.engineer/worldsfair/2026` citeturn16view2turn17view0turn17view2 |
+| Meta AI, LlamaCon Hackathon, May 13 2025 | 238 participants, >600 registrants, 44 projects, mentors/judges/Q&A | `https://ai.meta.com/blog/llamacon-hackathon/` citeturn16view1 |
+| AI Tinkerers San Francisco | Screened demo-first format, technical audience, event cadence, organizer contact | `https://sf.aitinkerers.org/` citeturn16view0 |
+| YC Agents Hackathon / Luma | Application gating, small high-signal room, mandatory demos, target-company guests | `https://luma.com/pz27h0xy` citeturn25view1 |
+| Cerebral Valley | Current SF builder ecosystem and technical-event/recruiting orientation | `https://cerebralvalley.ai/u/cv` citeturn25view2 |
+| OpenAI Developers | Meetups, Codex Ambassadors, OSS/community programs | `https://developers.openai.com/` citeturn16view3turn17view4 |
+| OpenAI Forum | Expert membership and invitations to in-person OpenAI-office gatherings | `https://forum.openai.com/` citeturn16view4 |
+| OpenAI Academy | Current builder learning and in-person/on-demand event model | `https://academy.openai.com/` citeturn25view5 |
+| OpenAI FDE — SF | Current production-engineering and customer-deployment bar | `https://openai.com/careers/forward-deployed-engineer-(fde)-sf-san-francisco/` citeturn18view0 |
+| OpenAI Technical Community Lead | Non-full-time-SWE archetype, advanced-user recruitment, demos, feedback loops, close-loop requirement | `https://openai.com/careers/technical-community-lead-pro-new-york-city/` citeturn18view1 |
+| OpenAI Careers search | Current role landscape | `https://openai.com/careers/search/?referer=crawljobs` citeturn18view4 |
+| Anthropic current jobs | Current Developer Relations and adjacent roles | `https://www.anthropic.com/careers/jobs` citeturn20view0 |
+| Anthropic Developer Relations | Directly relevant current DevRel requirements, events, developer adoption, code-demo bar, sponsorship | `https://job-boards.greenhouse.io/anthropic/jobs/5383596008` citeturn21view0 |
+| Anthropic Applied AI Architect | Technical customer-facing requirements and visa language | `https://www.anthropic.com/careers/jobs/4461444008` citeturn18view2 |
+| Anthropic Applied AI Engineer, Enterprise | Current applied-engineering role archetype | `https://www.anthropic.com/careers/jobs/5390754008` citeturn18view3 |
+| Anthropic Head of Community | Current emphasis on funnels, retained users and product adoption rather than activity metrics | `https://job-boards.greenhouse.io/anthropic/jobs/5388719008` citeturn22view0 |
+| GitHub/Open Source Guides — Building Welcoming Communities | Contributor funnel, low-friction tasks, responsiveness, public issues, asking users for PRs | `https://opensource.guide/building-community/` citeturn24view1 |
+| GitHub Docs — helpful contribution labels | `good first issue` discoverability | `https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/encouraging-helpful-contributions-to-your-project-with-labels` citeturn24view2 |
+| GitHub Docs — contributing to open source | Minor fixes/docs as first contributions and contribution workflow | `https://docs.github.com/en/get-started/exploring-projects-on-github/contributing-to-open-source` citeturn24view3 |
+| Rajkumar et al., *Science*, 2022 | Large-scale causal test of weak ties and job mobility | `https://www.science.org/doi/10.1126/science.abl4476` citeturn23search1 |
+| Lorna Mitchell, Dec. 23 2020 | First-hand DevRel case for fewer, intentional in-person events plus durable digital touchpoints | `https://lornajane.net/posts/2020/digital-developer-relations-past-and-future` citeturn25view3 |
+| Denis Gladkikh, Nov. 16 2020 | First-hand description of DevRel as engineering + product + developer connection | `https://den.dev/blog/joining-microsoft-developer-relations/` citeturn25view4 |
+
+The strongest evidence supports the **mechanisms** in this redesign—technical proof of work, qualified weak ties, high-signal builder environments, low-friction contributor funnels, rapid maintainer response, events as a core DevRel/community competency, and measurement based on adoption rather than activity. What the available evidence does **not** support is a universal Bay Area “conference conversion rate.” The correct empirical answer for Anton is therefore to spend the next month generating his own dataset while radically reducing uninstrumented attendance.

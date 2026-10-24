@@ -192,4 +192,4 @@ P.S. Да, нас можно нанять. Двух кофаундеров, би
 
 ## Raw model reports
 
-4 reports delivered, synthesis used 4 of 7. [DR26-09-16-MACANTON-01-0446-konferentsii-bay-area-kak-dvigatel-nayma-i-nabora-inzhenerov-polzovate/](DR26-09-16-MACANTON-01-0446-konferentsii-bay-area-kak-dvigatel-nayma-i-nabora-inzhenerov-polzovate/README.md)
+3 reports delivered, synthesis used 4 of 7. [DR26-09-16-MACANTON-01-0446-konferentsii-bay-area-kak-dvigatel-nayma-i-nabora-inzhenerov-polzovate/](DR26-09-16-MACANTON-01-0446-konferentsii-bay-area-kak-dvigatel-nayma-i-nabora-inzhenerov-polzovate/README.md)

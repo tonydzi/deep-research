@@ -14,16 +14,8 @@
 
 Reports below are published as delivered, after an automatic privacy scrub.
 
-- [vaultcopy](./vaultcopy.md)
-- [glm](./glm.md)
-- [claudeai](./claudeai.md)
 - [chatgpt](./chatgpt.md)
 - [claudeai](./claudeai.md)
 - [gemini](./gemini.md)
 - [glm](./glm.md)
 - [grok](./grok.md)
-- [vaultcopy](./vaultcopy.md)
-- [glm](./glm.md)
-- [claudeai](./claudeai.md)
-- [chatgpt](./chatgpt.md)
-- [chatgpt](./chatgpt.md)

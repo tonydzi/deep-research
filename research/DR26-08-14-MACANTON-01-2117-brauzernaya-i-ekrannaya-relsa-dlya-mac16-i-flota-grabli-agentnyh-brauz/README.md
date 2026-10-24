@@ -9,11 +9,9 @@
 | chatgpt | 2026-08-15 05:26 |
 | claudeai | 2026-08-15 05:36 |
 | glm | 2026-08-15 05:57 |
-| synthesis | 2026-08-15 06:04 |
 
 Reports below are published as delivered, after an automatic privacy scrub.
 
-- [synthesis](./synthesis.md)
 - [chatgpt](./chatgpt.md)
 - [claudeai](./claudeai.md)
 - [glm](./glm.md)

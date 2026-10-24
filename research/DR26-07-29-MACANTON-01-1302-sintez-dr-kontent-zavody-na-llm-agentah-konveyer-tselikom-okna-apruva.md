@@ -156,4 +156,4 @@ source: Palo Alto AI Research Lab — deep research programme
 
 ## Raw model reports
 
-6 reports delivered, synthesis used not recorded. [DR26-07-29-MACANTON-01-1302-sintez-dr-kontent-zavody-na-llm-agentah-konveyer-tselikom-okna-apruva/](DR26-07-29-MACANTON-01-1302-sintez-dr-kontent-zavody-na-llm-agentah-konveyer-tselikom-okna-apruva/README.md)
+4 reports delivered, synthesis used not recorded. [DR26-07-29-MACANTON-01-1302-sintez-dr-kontent-zavody-na-llm-agentah-konveyer-tselikom-okna-apruva/](DR26-07-29-MACANTON-01-1302-sintez-dr-kontent-zavody-na-llm-agentah-konveyer-tselikom-okna-apruva/README.md)

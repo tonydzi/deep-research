@@ -13,6 +13,5 @@
 Reports below are published as delivered, after an automatic privacy scrub.
 
 - [chatgpt](./chatgpt.md)
-- [chatgpt](./chatgpt.md)
 - [gemini](./gemini.md)
 - [grok](./grok.md)

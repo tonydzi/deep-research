@@ -82,4 +82,4 @@ source: Palo Alto AI Research Lab — deep research programme
 
 ## Raw model reports
 
-5 reports delivered, synthesis used 5 of 8. [DR26-09-14-ZB-14-2009-inkubatory-akseleratory-i-issledovatelskie-roli-v-laboratorii-bez-ml-p/](DR26-09-14-ZB-14-2009-inkubatory-akseleratory-i-issledovatelskie-roli-v-laboratorii-bez-ml-p/README.md)
+3 reports delivered, synthesis used 5 of 8. [DR26-09-14-ZB-14-2009-inkubatory-akseleratory-i-issledovatelskie-roli-v-laboratorii-bez-ml-p/](DR26-09-14-ZB-14-2009-inkubatory-akseleratory-i-issledovatelskie-roli-v-laboratorii-bez-ml-p/README.md)

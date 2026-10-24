@@ -12,7 +12,7 @@
 
 Reports below are published as delivered, after an automatic privacy scrub.
 
-- [source](./source.md)
 - [chatgpt](./chatgpt.md)
 - [gemini](./gemini.md)
 - [grok](./grok.md)
+- [source](./source.md)

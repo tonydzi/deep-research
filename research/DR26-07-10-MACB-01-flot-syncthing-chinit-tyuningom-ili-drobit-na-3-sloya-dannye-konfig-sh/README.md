@@ -12,9 +12,9 @@
 
 Reports below are published as delivered, after an automatic privacy scrub.
 
+- [alternatives](./alternatives.md)
 - [chatgpt](./chatgpt.md)
 - [gemini](./gemini.md)
 - [grok](./grok.md)
-- [syncthing](./syncthing.md)
-- [alternatives](./alternatives.md)
 - [rakes](./rakes.md)
+- [syncthing](./syncthing.md)

@@ -10,6 +10,8 @@ source: Palo Alto AI Research Lab — deep research programme
 
 > What writing mechanics and which accounts make short failure/pain posts perform on X in the AI-builder niche (2025-2026), with a few-shot corpus and a system-prompt recipe for daily lab posts.
 
+> ⚠️ Поправка dr-judge 23.10: строка ниже «выжила только Gemini (2 из 6)» неверна по охвату: на диске ДВЕ ноги, grok (36 КБ, 94 ссылки x.com, ~34 из 40 постов достал) и gemini. Заметка написана по gemini, числа grok не учтены. Механика по grok: 29% постов начинаются со строчной, 29% кончаются точкой, 0 хэштегов, 79% от первого лица (у gemini 42,5% строчных, 72,5% без точки). Корпус gemini без URL = недоказуемый; брать корпус grok. Потребители `/x-post`, `/ai-slop` ссылаются на этот ДР: при следующей правке пересобрать образец по grok. Связь: MOC-Deep-Research-2026-09. Бэкап: `.prebak`.
+
 ## Ключевые выводы
 - Only the Gemini leg of the DR survived (2 of 6 legs on disk). Its 40-post corpus has serious provenance problems. Most posts are tagged search snippet or page retrieved with no URLs. Several look fabricated or misattributed: the levelsio post dated 2026-10-21 about PHP, the Karpathy Medium-sourced quote, and the Danny Postma 2023 Stripe 'jack smith' posts cited via a non-primary site. The engagement numbers cannot be verified. Treat the corpus as unverified candidates, not ground truth.
 - Gemini's claimed mechanics over N=40: mean length about 207 chars; 42.5% start lowercase; 72.5% omit the final period; 15% use '...'; mean 0.8 line breaks (65% single block); sentences 1/2/3 = 15/55/30%; first person 92.5%; hard numbers in 85%; question endings 7.5%; emoji 5%; hashtags 0%. These frequencies are computed on a corpus that is not verified, so they are plausible but not proven.

@@ -10,5 +10,4 @@
 
 Reports below are published as delivered, after an automatic privacy scrub.
 
-- [prompt](./prompt.md)
 - [vendor](./vendor.md)

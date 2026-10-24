@@ -61,4 +61,4 @@ source: Palo Alto AI Research Lab — deep research programme
 
 ## Raw model reports
 
-4 reports delivered, synthesis used not recorded. [DR26-07-20-MACANTON-02-2127-multi-vendornaya-karta-zhivosti-oss-cookbook-examples-repo-top-llm-kom/](DR26-07-20-MACANTON-02-2127-multi-vendornaya-karta-zhivosti-oss-cookbook-examples-repo-top-llm-kom/README.md)
+3 reports delivered, synthesis used not recorded. [DR26-07-20-MACANTON-02-2127-multi-vendornaya-karta-zhivosti-oss-cookbook-examples-repo-top-llm-kom/](DR26-07-20-MACANTON-02-2127-multi-vendornaya-karta-zhivosti-oss-cookbook-examples-repo-top-llm-kom/README.md)

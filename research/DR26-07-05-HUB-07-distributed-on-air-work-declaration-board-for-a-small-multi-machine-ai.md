@@ -63,4 +63,4 @@ source: Palo Alto AI Research Lab — deep research programme
 
 ## Raw model reports
 
-4 reports delivered, synthesis used not recorded. [DR26-07-05-HUB-07-distributed-on-air-work-declaration-board-for-a-small-multi-machine-ai/](DR26-07-05-HUB-07-distributed-on-air-work-declaration-board-for-a-small-multi-machine-ai/README.md)
+3 reports delivered, synthesis used not recorded. [DR26-07-05-HUB-07-distributed-on-air-work-declaration-board-for-a-small-multi-machine-ai/](DR26-07-05-HUB-07-distributed-on-air-work-declaration-board-for-a-small-multi-machine-ai/README.md)

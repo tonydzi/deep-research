@@ -96,4 +96,4 @@ Mistral держит **две параллельные** вакансии: Senio
 
 ## Raw model reports
 
-4 reports delivered, synthesis used 4 of 8. [DR26-09-14-ZB-10-2009-devrel-developer-education-v-ai-laboratorii-sobiratelnyy-portret/](DR26-09-14-ZB-10-2009-devrel-developer-education-v-ai-laboratorii-sobiratelnyy-portret/README.md)
+3 reports delivered, synthesis used 4 of 8. [DR26-09-14-ZB-10-2009-devrel-developer-education-v-ai-laboratorii-sobiratelnyy-portret/](DR26-09-14-ZB-10-2009-devrel-developer-education-v-ai-laboratorii-sobiratelnyy-portret/README.md)
