@@ -1,6 +1,6 @@
 # Deep Research — Palo Alto AI Research Lab
 
-350 deep-research reports, distilled. Every entry answers two questions: why we ran this research, and what we got out of it.
+353 deep-research reports, distilled. Every entry answers two questions: why we ran this research, and what we got out of it.
 
 Each report was run across several frontier models (ChatGPT, Gemini, Grok, Claude, GLM, Mistral), then reconciled into the distilled note you see here. Findings are the reconciled ones, not a single model's opinion.
 
@@ -20,6 +20,8 @@ Raw model transcripts stay in our vault. What is published here is the distilled
 
 | ID | Topic | Date |
 |---|---|---|
+| [DR26-10-24-HUB-01](research/DR26-10-24-HUB-01-windows-low-overhead-continuous-monitoring-and-on-demand-tracing-perfm.md) | Windows low-overhead continuous monitoring and on-demand tracing (PerfMon, ETW/WPR, Sysmon | 2026-10-24 |
+| [DR26-10-24-HUB-07-0721](research/DR26-10-24-HUB-07-0721-codeindexer-companion-semantic-search-and-lsp-canary-selection-oct-202.md) | CodeIndexer companion: semantic-search and LSP canary selection (Oct 2026 delta) | 2026-10-24 |
 | [DR26-10-22-ZB-01-2030](research/DR26-10-22-ZB-01-2030-handwriting-mechanics-of-successful-ai-builder-x-accounts-for-short-pa.md) | Handwriting mechanics of successful AI-builder X accounts for short pain posts | 2026-10-22 |
 | [DR26-10-20-HUB-03-2232](research/DR26-10-20-HUB-03-2232-remontoprigodnaya-sloistaya-pamyat-sessiy-inkrementalnaya-indeksatsiya.md) | Ремонтопригодная слоистая память сессий: инкрементальная индексация, релинкинг, оценка | 2026-10-20 |
 | [DR26-10-16-HUB-08-2027](research/DR26-10-16-HUB-08-2027-audio-only-always-on-capture-and-transcription-pipeline-on-windows-vs.md) | Audio-only always-on capture and transcription pipeline on Windows (vs Screenpipe) | 2026-10-16 |
@@ -179,6 +181,7 @@ Raw model transcripts stay in our vault. What is published here is the distilled
 
 | ID | Тема | Дата |
 |---|---|---|
+| [DR26-10-24-HUB-04-0512](research/DR26-10-24-HUB-04-0512-nautilus-pro-lsd-bystrye-ritmy-i-fraktalnost-mozga-proverka-po-pervois.md) | Nautilus про LSD, быстрые ритмы и фрактальность мозга: проверка по первоисточнику (MEG, N= | 2026-10-24 |
 | [DR26-10-22-MACANTON-01-1334](research/DR26-10-22-MACANTON-01-1334-brauzernye-agent-harnessy-dlya-podachi-form-i-zagruzki-cv.md) | браузерные агент-харнессы для подачи форм и загрузки CV | 2026-10-23 |
 | [DR26-10-23-HUB-01](research/DR26-10-23-HUB-01-luchshie-russkie-audioknigi-dlya-detey-3-15-let-top-10-ispolneniy-23-1.md) | Лучшие русские аудиокниги для детей 3–15 лет: ТОП-10 исполнений (23.10.2026) | 2026-10-23 |
 | [DR26-10-19-MACPRO192-03-1044](research/DR26-10-19-MACPRO192-03-1044-dr-odna-sessiya-agenta-na-neskolko-kompyuterov-i-lyudey-sintez-4-nog.md) | ДР: одна сессия агента на несколько компьютеров и людей (синтез 4 ног) | 2026-10-20 |
