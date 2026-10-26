@@ -1,6 +1,6 @@
 {
- "generated": "2026-10-25",
- "count": 353,
+ "generated": "2026-10-26",
+ "count": 354,
  "repo": "https://github.com/tonydzi/deep-research",
  "research": [
   {
@@ -506,6 +506,15 @@
    "date": "",
    "slug": "DR26-10-23-ZB-01-2006-chto-flot-mozhet-dostich-cherez-ssh-sintez-5-vendorov",
    "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-10-23-ZB-01-2006-chto-flot-mozhet-dostich-cherez-ssh-sintez-5-vendorov.md"
+  },
+  {
+   "dr_id": "DR26-10-25-HUB-02-1107",
+   "title": "Связка Claude Code + Codex на одной машине: синтез ДР DR26-10-25-HUB-02-1107",
+   "summary": "1. Роли: **Codex пишет, Claude ревьюит read-only и возвращает вердикт, не код; человек решает спорное.** Это у четырёх из четырёх ног (у ChatGPT и Grok как «Claude оркестратор, Codex исполнитель/ревьюер» без измерений, у claude.ai и Mistral с цифрами). 2. Единственный контролируемый замер (arXiv 2607.21656, n=116, олимпиадные задачи, статическое ревью): Claude ревьюит Codex 71,6% → 89,7%; Codex ревьюит Claude 91,4% → 82,8%. Направление важнее кросс-вендорности. 3. Транспорт внутри машины: **прямой вызов CLI + обратный звонок** (Claude → `codex exec` / `exec resume` → Stop-хук Codex → inbox-сокет Claude, `asyncRewake`-watcher как страховка, SQLite `aibus_lite` как журнал и lease). Telegram только между машинами и для оповещений. Четыре ноги против MCP/Telegram внутри одной машины. 4. «Claude отвечал в 3 из 17» по версии claude.ai почти наверняка про механику пробуждения (bypass-permissions держит входящее 5 минут), а не про роли. Это гипотеза, проверяется экспериментом, не факт. 5. Слабое место: сама ревью-петля (ложный консенсус, выдуманные замечания), второе: RAM от MCP в каждой сессии. 6. Протокол раундов: 1 ревью + максимум 1 повтор (claude.ai), до 3 (Mistral, Grok: 2). Дальше человек.",
+   "lang": "ru",
+   "date": "",
+   "slug": "DR26-10-25-HUB-02-1107-svyazka-claude-code-codex-na-odnoy-mashine-sintez-dr-dr26-10-25-hub-02",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-10-25-HUB-02-1107-svyazka-claude-code-codex-na-odnoy-mashine-sintez-dr-dr26-10-25-hub-02.md"
   },
   {
    "dr_id": "DR26-05-01-HUB-01",
