@@ -76,3 +76,8 @@ source: Palo Alto AI Research Lab — deep research programme
 - Расширяющие добавки на основе CaO
 - Сульфатная коррозия бетона
 - Щелочно-кремнезёмная реакция (ASR)
+
+
+## Raw model reports
+
+4 reports delivered, synthesis used 2 of 6. Note: 2 report(s) arrived after the synthesis was written; they are attached raw and were not reconciled. [DR26-10-14-HUB-04-1949-gashenaya-i-negashenaya-izvest-v-betone-i-drevnih-putstsolanovyh-smesy/](DR26-10-14-HUB-04-1949-gashenaya-i-negashenaya-izvest-v-betone-i-drevnih-putstsolanovyh-smesy/README.md)

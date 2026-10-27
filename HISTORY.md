@@ -1,9 +1,11 @@
 # Research history
 
-353 deep-research runs, newest first. Each run is sent to several frontier models in parallel ("rails"); models finish at different times, so a synthesis may be built from fewer reports than were finally delivered. The two columns show both numbers honestly; `?` means we do not know.
+355 deep-research runs, newest first. Each run is sent to several frontier models in parallel ("rails"); models finish at different times, so a synthesis may be built from fewer reports than were finally delivered. The two columns show both numbers honestly; `?` means we do not know.
 
 | ID | date | topic | reports delivered | used in synthesis | dev.to |
 |---|---|---|---|---|---|
+| [DR26-10-26-HUB-01-0658](https://github.com/tonydzi/deep-research/blob/main/research/DR26-10-26-HUB-01-0658-replit-chto-eto-segodnya-i-kakaya-polza-palo-alto-ai-research-lab-dr-4.md) | 2026-10-26 | Replit: что это сегодня, двери для малой лаборатории, польза для нас | 4 | ? |  |
+| [DR26-10-26-HUB-04-1338](https://github.com/tonydzi/deep-research/blob/main/research/DR26-10-26-HUB-04-1338-kak-llm-dumaet-po-sloyam-i-chto-proishodit-v-glubine-sintez-dr-dr26-10.md) | 2026-10-26 | Как LLM думает на разных слоях, особенно на глубоких: анатомия слоёв, скрытое рассуждение, надёжность приборов | 5 | 5/6 |  |
 | [DR26-10-25-HUB-02-1107](https://github.com/tonydzi/deep-research/blob/main/research/DR26-10-25-HUB-02-1107-svyazka-claude-code-codex-na-odnoy-mashine-sintez-dr-dr26-10-25-hub-02.md) | 2026-10-25 | Полевая перепись связок Claude Code + Codex на одной машине: роли (оркестратор/исполнитель/автор/ревьюер) × тр | 4 | 4/6 |  |
 | [DR26-10-24-HUB-04-0512](https://github.com/tonydzi/deep-research/blob/main/research/DR26-10-24-HUB-04-0512-nautilus-pro-lsd-bystrye-ritmy-i-fraktalnost-mozga-proverka-po-pervois.md) | 2026-10-24 | LSD ускоряет ритмы мозга и делает его фрактальным: журналистское расследование (Nautilus/Communications Biolog | 1 | 1/6 |  |
 | [DR26-10-24-HUB-07-0721](https://github.com/tonydzi/deep-research/blob/main/research/DR26-10-24-HUB-07-0721-codeindexer-companion-semantic-search-and-lsp-canary-selection-oct-202.md) | 2026-10-24 | CodeIndexer independent comparator delta since 2026-09-11: local semantic and LSP cross-platform canary | 1 | 1/6 |  |
