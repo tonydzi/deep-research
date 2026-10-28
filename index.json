@@ -1,6 +1,6 @@
 {
- "generated": "2026-10-27",
- "count": 356,
+ "generated": "2026-10-28",
+ "count": 361,
  "repo": "https://github.com/tonydzi/deep-research",
  "research": [
   {
@@ -515,6 +515,33 @@
    "date": "",
    "slug": "DR26-10-25-HUB-02-1107-svyazka-claude-code-codex-na-odnoy-mashine-sintez-dr-dr26-10-25-hub-02",
    "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-10-25-HUB-02-1107-svyazka-claude-code-codex-na-odnoy-mashine-sintez-dr-dr26-10-25-hub-02.md"
+  },
+  {
+   "dr_id": "DR26-10-27-HUB-01-0852",
+   "title": "ДР: надёжная доставка и накатка обновлений на флоте, inbox, backlog (синтез 4/6)",
+   "summary": "Machine: A-2022BAYAREA (Хаб) · Agent: Claude Code (Sonnet 5.5) · Operator: Anton · 2026-10-27",
+   "lang": "ru",
+   "date": "",
+   "slug": "DR26-10-27-HUB-01-0852-dr-nadezhnaya-dostavka-i-nakatka-obnovleniy-na-flote-inbox-backlog-sin",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-10-27-HUB-01-0852-dr-nadezhnaya-dostavka-i-nakatka-obnovleniy-na-flote-inbox-backlog-sin.md"
+  },
+  {
+   "dr_id": "DR26-10-27-MACANTON-01-0330",
+   "title": "Mac управляет другим Mac: альтернативы AnyDesk",
+   "summary": "Цены ниже являются опубликованными USD-ориентирами. Это не подтверждённая сумма в магазине Антона: регион, налоги, предложения и условия семейного доступа проверяются в конкретном checkout. «Бесплатный хост» и «бесплатный клиент» обозначают разные части системы.",
+   "lang": "ru",
+   "date": "",
+   "slug": "DR26-10-27-MACANTON-01-0330-mac-upravlyaet-drugim-mac-alternativy-anydesk",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-10-27-MACANTON-01-0330-mac-upravlyaet-drugim-mac-alternativy-anydesk.md"
+  },
+  {
+   "dr_id": "DR26-10-27-MACANTON-02-1519",
+   "title": "GitHub как канал найма в LLM-лабораторию: вердикт по лестнице A/B/C и плейбук на 8 недель",
+   "summary": "Цели: Q = QwenLM/qwen-code (@yiliang114, 1 мерж; @wenshao — контакт) · M = microsoft/semantic-kernel → agent-framework (@eavanvalkenburg, 1 мерж) · G1 = google/adk-go (@wojtas000, 1 мерж) · G2 = ChromeDevTools/chrome-devtools-mcp (@OrKoN, 1 мерж) · N = NVIDIA (@rng1995, 1 мерж). Резерв с готовым триггером «2 мержа»: @JerrettDavis (headroom, 78k★, 2 мержа), @guglielmo-san (mcp-go-sdk, 4), @punkpeye (fastmcp, 3).",
+   "lang": "ru",
+   "date": "",
+   "slug": "DR26-10-27-MACANTON-02-1519-github-kak-kanal-nayma-v-llm-laboratoriyu-verdikt-po-lestnitse-a-b-c-i",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-10-27-MACANTON-02-1519-github-kak-kanal-nayma-v-llm-laboratoriyu-verdikt-po-lestnitse-a-b-c-i.md"
   },
   {
    "dr_id": "DR26-05-01-HUB-01",
@@ -3197,6 +3224,24 @@
    "date": "2026-10-26",
    "slug": "DR26-10-26-HUB-01-0658-replit-chto-eto-segodnya-i-kakaya-polza-palo-alto-ai-research-lab-dr-4",
    "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-10-26-HUB-01-0658-replit-chto-eto-segodnya-i-kakaya-polza-palo-alto-ai-research-lab-dr-4.md"
+  },
+  {
+   "dr_id": "DR26-10-26-HUB-02",
+   "title": "Инструменты семантического/структурного поиска по коду и обучение через подкасты (два отчё",
+   "summary": "Какие инструменты индексации и поиска по коду (CodeIndexer, grepai, CocoIndex Code, Serena, mgrep и др.) внедрять в гибридном локально-облачном стеке, и (второй отчёт) как строить подкасты NotebookLM для долговременного обучения.",
+   "lang": "mixed",
+   "date": "2026-10-26",
+   "slug": "DR26-10-26-HUB-02-instrumenty-semanticheskogo-strukturnogo-poiska-po-kodu-i-obuchenie-ch",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-10-26-HUB-02-instrumenty-semanticheskogo-strukturnogo-poiska-po-kodu-i-obuchenie-ch.md"
+  },
+  {
+   "dr_id": "DR26-10-26-HUB-03-1338",
+   "title": "Layerwise computation и causal interpretability LLM: заказ Deep Research и recall",
+   "summary": "Пакет заказа (не научный отчёт) на многовендорное исследование того, как transformer LLM вычисляют ответ по слоям, что наблюдаемо, что доказано причинно и как воспроизвести на малой открытой модели.",
+   "lang": "mixed",
+   "date": "2026-10-26",
+   "slug": "DR26-10-26-HUB-03-1338-layerwise-computation-i-causal-interpretability-llm-zakaz-deep-researc",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-10-26-HUB-03-1338-layerwise-computation-i-causal-interpretability-llm-zakaz-deep-researc.md"
   },
   {
    "dr_id": "DR26-10-26-HUB-04-1338",
