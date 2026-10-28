@@ -4,9 +4,6 @@
 
 | ID | date | topic | reports delivered | used in synthesis | dev.to |
 |---|---|---|---|---|---|
-| [DR26-10-27-HUB-01-0852](https://github.com/tonydzi/deep-research/blob/main/research/DR26-10-27-HUB-01-0852-dr-nadezhnaya-dostavka-i-nakatka-obnovleniy-na-flote-inbox-backlog-sin.md) | 2026-10-27 | Надёжная доставка и накатка обновлений на флоте машин: inbox, очереди, ретраи, backlog | 4 | 4/6 |  |
-| [DR26-10-27-MACANTON-01-0330](https://github.com/tonydzi/deep-research/blob/main/research/DR26-10-27-MACANTON-01-0330-mac-upravlyaet-drugim-mac-alternativy-anydesk.md) | 2026-10-27 | Mac-to-Mac GUI remote desktop без AnyDesk: Jump Desktop, Screens, Apple Screen Sharing, RustDesk; Intel и Appl | 1 | 4/6 |  |
-| [DR26-10-27-MACANTON-02-1519](https://github.com/tonydzi/deep-research/blob/main/research/DR26-10-27-MACANTON-02-1519-github-kak-kanal-nayma-v-llm-laboratoriyu-verdikt-po-lestnitse-a-b-c-i.md) | 2026-10-27 | GitHub как канал найма в LLM-лаборатории: кейсы мерж→интро→оффер, лестница A+B+C | 4 | 4/6 |  |
 | [DR26-10-26-HUB-01-0658](https://github.com/tonydzi/deep-research/blob/main/research/DR26-10-26-HUB-01-0658-replit-chto-eto-segodnya-i-kakaya-polza-palo-alto-ai-research-lab-dr-4.md) | 2026-10-26 | Replit: что это сегодня, двери для малой лаборатории, польза для нас | 4 | ? |  |
 | [DR26-10-26-HUB-03-1338](https://github.com/tonydzi/deep-research/blob/main/research/DR26-10-26-HUB-03-1338-layerwise-computation-i-causal-interpretability-llm-zakaz-deep-researc.md) | 2026-10-26 | Как LLM думает на разных слоях, особенно глубоких: layerwise computation и causal interpretability | 1 | 1/6 |  |
 | [DR26-10-26-HUB-04-1338](https://github.com/tonydzi/deep-research/blob/main/research/DR26-10-26-HUB-04-1338-kak-llm-dumaet-po-sloyam-i-chto-proishodit-v-glubine-sintez-dr-dr26-10.md) | 2026-10-26 | Как LLM думает на разных слоях, особенно на глубоких: анатомия слоёв, скрытое рассуждение, надёжность приборов | 5 | 5/6 |  |

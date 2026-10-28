@@ -1,6 +1,6 @@
 {
  "generated": "2026-10-28",
- "count": 361,
+ "count": 358,
  "repo": "https://github.com/tonydzi/deep-research",
  "research": [
   {
@@ -515,33 +515,6 @@
    "date": "",
    "slug": "DR26-10-25-HUB-02-1107-svyazka-claude-code-codex-na-odnoy-mashine-sintez-dr-dr26-10-25-hub-02",
    "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-10-25-HUB-02-1107-svyazka-claude-code-codex-na-odnoy-mashine-sintez-dr-dr26-10-25-hub-02.md"
-  },
-  {
-   "dr_id": "DR26-10-27-HUB-01-0852",
-   "title": "ДР: надёжная доставка и накатка обновлений на флоте, inbox, backlog (синтез 4/6)",
-   "summary": "Machine: A-2022BAYAREA (Хаб) · Agent: Claude Code (Sonnet 5.5) · Operator: Anton · 2026-10-27",
-   "lang": "ru",
-   "date": "",
-   "slug": "DR26-10-27-HUB-01-0852-dr-nadezhnaya-dostavka-i-nakatka-obnovleniy-na-flote-inbox-backlog-sin",
-   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-10-27-HUB-01-0852-dr-nadezhnaya-dostavka-i-nakatka-obnovleniy-na-flote-inbox-backlog-sin.md"
-  },
-  {
-   "dr_id": "DR26-10-27-MACANTON-01-0330",
-   "title": "Mac управляет другим Mac: альтернативы AnyDesk",
-   "summary": "Цены ниже являются опубликованными USD-ориентирами. Это не подтверждённая сумма в магазине Антона: регион, налоги, предложения и условия семейного доступа проверяются в конкретном checkout. «Бесплатный хост» и «бесплатный клиент» обозначают разные части системы.",
-   "lang": "ru",
-   "date": "",
-   "slug": "DR26-10-27-MACANTON-01-0330-mac-upravlyaet-drugim-mac-alternativy-anydesk",
-   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-10-27-MACANTON-01-0330-mac-upravlyaet-drugim-mac-alternativy-anydesk.md"
-  },
-  {
-   "dr_id": "DR26-10-27-MACANTON-02-1519",
-   "title": "GitHub как канал найма в LLM-лабораторию: вердикт по лестнице A/B/C и плейбук на 8 недель",
-   "summary": "Цели: Q = QwenLM/qwen-code (@yiliang114, 1 мерж; @wenshao — контакт) · M = microsoft/semantic-kernel → agent-framework (@eavanvalkenburg, 1 мерж) · G1 = google/adk-go (@wojtas000, 1 мерж) · G2 = ChromeDevTools/chrome-devtools-mcp (@OrKoN, 1 мерж) · N = NVIDIA (@rng1995, 1 мерж). Резерв с готовым триггером «2 мержа»: @JerrettDavis (headroom, 78k★, 2 мержа), @guglielmo-san (mcp-go-sdk, 4), @punkpeye (fastmcp, 3).",
-   "lang": "ru",
-   "date": "",
-   "slug": "DR26-10-27-MACANTON-02-1519-github-kak-kanal-nayma-v-llm-laboratoriyu-verdikt-po-lestnitse-a-b-c-i",
-   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-10-27-MACANTON-02-1519-github-kak-kanal-nayma-v-llm-laboratoriyu-verdikt-po-lestnitse-a-b-c-i.md"
   },
   {
    "dr_id": "DR26-05-01-HUB-01",

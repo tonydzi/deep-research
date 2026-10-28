@@ -1,6 +1,6 @@
 # Deep Research — Palo Alto AI Research Lab
 
-361 deep-research reports, distilled. Every entry answers two questions: why we ran this research, and what we got out of it.
+358 deep-research reports, distilled. Every entry answers two questions: why we ran this research, and what we got out of it.
 
 Each report was run across several frontier models (ChatGPT, Gemini, Grok, Claude, GLM, Mistral), then reconciled into the distilled note you see here. Findings are the reconciled ones, not a single model's opinion.
 
@@ -383,9 +383,6 @@ Raw model transcripts stay in our vault. What is published here is the distilled
 | [DR26-10-22-MACANTON-02-1416](research/DR26-10-22-MACANTON-02-1416-dr26-10-22-macanton-02-1416-chuzhaya-distributsiya-sgm-i-put-k-1000-zv.md) | DR26-10-22-MACANTON-02-1416: чужая дистрибуция sgm и путь к 1000 звёздам (синтез 4 ног) |  |
 | [DR26-10-23-ZB-01-2006](research/DR26-10-23-ZB-01-2006-chto-flot-mozhet-dostich-cherez-ssh-sintez-5-vendorov.md) | Что флот может достичь через SSH: синтез 5 вендоров |  |
 | [DR26-10-25-HUB-02-1107](research/DR26-10-25-HUB-02-1107-svyazka-claude-code-codex-na-odnoy-mashine-sintez-dr-dr26-10-25-hub-02.md) | Связка Claude Code + Codex на одной машине: синтез ДР DR26-10-25-HUB-02-1107 |  |
-| [DR26-10-27-HUB-01-0852](research/DR26-10-27-HUB-01-0852-dr-nadezhnaya-dostavka-i-nakatka-obnovleniy-na-flote-inbox-backlog-sin.md) | ДР: надёжная доставка и накатка обновлений на флоте, inbox, backlog (синтез 4/6) |  |
-| [DR26-10-27-MACANTON-01-0330](research/DR26-10-27-MACANTON-01-0330-mac-upravlyaet-drugim-mac-alternativy-anydesk.md) | Mac управляет другим Mac: альтернативы AnyDesk |  |
-| [DR26-10-27-MACANTON-02-1519](research/DR26-10-27-MACANTON-02-1519-github-kak-kanal-nayma-v-llm-laboratoriyu-verdikt-po-lestnitse-a-b-c-i.md) | GitHub как канал найма в LLM-лабораторию: вердикт по лестнице A/B/C и плейбук на 8 недель |  |
 
 ---
 
