@@ -1,6 +1,6 @@
 {
- "generated": "2026-10-28",
- "count": 358,
+ "generated": "2026-10-29",
+ "count": 361,
  "repo": "https://github.com/tonydzi/deep-research",
  "research": [
   {
@@ -515,6 +515,24 @@
    "date": "",
    "slug": "DR26-10-25-HUB-02-1107-svyazka-claude-code-codex-na-odnoy-mashine-sintez-dr-dr26-10-25-hub-02",
    "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-10-25-HUB-02-1107-svyazka-claude-code-codex-na-odnoy-mashine-sintez-dr-dr26-10-25-hub-02.md"
+  },
+  {
+   "dr_id": "DR26-10-27-HUB-04-1451",
+   "title": "OpenFlow (SeeRay11) и конкуренты: что это даёт нашему флоту (ДР 27-28.10.2026)",
+   "summary": "Machine: A-2022BAYAREA (Хаб) · Agent: Claude Code (Opus 5.5) · Operator: Anton · 2026-10-28",
+   "lang": "ru",
+   "date": "",
+   "slug": "DR26-10-27-HUB-04-1451-openflow-seeray11-i-konkurenty-chto-eto-daet-nashemu-flotu-dr-27-28-10",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-10-27-HUB-04-1451-openflow-seeray11-i-konkurenty-chto-eto-daet-nashemu-flotu-dr-27-28-10.md"
+  },
+  {
+   "dr_id": "DR26-10-28-HUB-03-1540",
+   "title": "Claude Code: родная оркестрация против нашего флота (ДР 28.10.2026)",
+   "summary": "Machine: A-2022BAYAREA (Хаб) · Agent: Claude Code (Opus 5.5) · Operator: Anton · 2026-10-28",
+   "lang": "ru",
+   "date": "",
+   "slug": "DR26-10-28-HUB-03-1540-claude-code-rodnaya-orkestratsiya-protiv-nashego-flota-dr-28-10-2026",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-10-28-HUB-03-1540-claude-code-rodnaya-orkestratsiya-protiv-nashego-flota-dr-28-10-2026.md"
   },
   {
    "dr_id": "DR26-05-01-HUB-01",
@@ -3224,6 +3242,15 @@
    "date": "2026-10-26",
    "slug": "DR26-10-26-HUB-04-1338-kak-llm-dumaet-po-sloyam-i-chto-proishodit-v-glubine-sintez-dr-dr26-10",
    "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-10-26-HUB-04-1338-kak-llm-dumaet-po-sloyam-i-chto-proishodit-v-glubine-sintez-dr-dr26-10.md"
+  },
+  {
+   "dr_id": "DR26-10-27-ZB-02-1318",
+   "title": "Как ИИ раскусывают в короткой личке: улики для DM-гейта slop_gate",
+   "summary": "Какие признаки реально выдают ИИ в личке до 50 слов между инженерами, как выглядит настоящая переписка и подтверждает ли данные потолок в 10 слов.",
+   "lang": "mixed",
+   "date": "2026-10-27",
+   "slug": "DR26-10-27-ZB-02-1318-kak-ii-raskusyvayut-v-korotkoy-lichke-uliki-dlya-dm-geyta-slop-gate",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-10-27-ZB-02-1318-kak-ii-raskusyvayut-v-korotkoy-lichke-uliki-dlya-dm-geyta-slop-gate.md"
   }
  ]
 }
