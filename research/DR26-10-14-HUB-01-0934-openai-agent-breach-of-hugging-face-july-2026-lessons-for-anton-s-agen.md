@@ -62,8 +62,3 @@ source: Palo Alto AI Research Lab — deep research programme
 - Prompt injection from third-party data
 - Machine bus signing, ACK and task leases
 - Tier-2 approval gates
-
-
-## Raw model reports
-
-6 reports delivered, synthesis used 3 of 6. Note: 3 report(s) arrived after the synthesis was written; they are attached raw and were not reconciled. [DR26-10-14-HUB-01-0934-openai-agent-breach-of-hugging-face-july-2026-lessons-for-anton-s-agen/](DR26-10-14-HUB-01-0934-openai-agent-breach-of-hugging-face-july-2026-lessons-for-anton-s-agen/README.md)

@@ -61,8 +61,3 @@ source: Palo Alto AI Research Lab — deep research programme
 - ai-slop-gate
 - platform-matrix-gate
 - vendor-risk-assessment
-
-
-## Raw model reports
-
-4 reports delivered, synthesis used 3 of 5. Note: 1 report(s) arrived after the synthesis was written; they are attached raw and were not reconciled. [DR26-09-26-HUB-01-2230-jev-typesafe-ai-system-one-perenosit-li-reshayuschie-tochki-flota-na-t/](DR26-09-26-HUB-01-2230-jev-typesafe-ai-system-one-perenosit-li-reshayuschie-tochki-flota-na-t/README.md)

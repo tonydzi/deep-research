@@ -48,8 +48,3 @@ source: Palo Alto AI Research Lab — deep research programme
 - cli-agent-web-ui-alternatives
 - insight-DR-DR26-10-03-HUB-01-0323-bb-vs-hermes-agent-vs-openclaw-выбор-ежедневного-м — предыдущий DR по bb как оркестратору, этот DR его продолжает
 - insight-DR-DR26-10-03-HUB-01-0323-bb-vs-hermes-agent-vs-openclaw-как-ежедневный-кокп — та же DR-линия про bb как оркестратор, отвечает на открытые вопросы
-
-
-## Raw model reports
-
-3 reports delivered, synthesis used 2 of 5. Note: 1 report(s) arrived after the synthesis was written; they are attached raw and were not reconciled. [DR26-09-29-HUB-01-0839-bb-get-bb-kak-orkestrator-multi-agentnogo-flota-patterny-ispolzovaniya/](DR26-09-29-HUB-01-0839-bb-get-bb-kak-orkestrator-multi-agentnogo-flota-patterny-ispolzovaniya/README.md)

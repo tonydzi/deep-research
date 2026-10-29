@@ -165,8 +165,3 @@ source: Palo Alto AI Research Lab — deep research programme
 2. **Тезис Антона остаётся острым, но переезжает с «90% сотрудников» на «90% рутинных ЗАДАЧ в текстовых ролях частично забирается уже сегодня, а сколько именно — считаем по функции».** Резкость сохраняется, врать в цифрах не приходится (fake-it-courage-not-fake-numbers).
 3. **Кейсы Klarna и Air Canada идут в рубрику четверга** как готовые сюжеты «ошибка новичка» уровня корпорации.
 4. **CTA «уволь сотрудников» из рекламы убираем, из органики смягчаем** до «убрать переработки», «перестань платить за один и тот же отчёт».
-
-
-## Raw model reports
-
-2 reports delivered, synthesis used 1 of 6. Note: 1 report(s) arrived after the synthesis was written; they are attached raw and were not reconciled. [DR26-08-21-HUB-02-1609-ekonomika-sinteticheskih-sotrudnikov-chto-iz-tezisa-90-na-tokeny-mozhn/](DR26-08-21-HUB-02-1609-ekonomika-sinteticheskih-sotrudnikov-chto-iz-tezisa-90-na-tokeny-mozhn/README.md)

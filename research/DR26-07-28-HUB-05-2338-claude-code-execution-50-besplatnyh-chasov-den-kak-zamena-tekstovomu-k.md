@@ -47,8 +47,3 @@ source: Palo Alto AI Research Lab — deep research programme
 - model-routing-sonnet-grunt
 - model-routing-fable-smart
 - plan-code-test-review-workflow
-
-
-## Raw model reports
-
-1 reports delivered, synthesis used not recorded. [DR26-07-28-HUB-05-2338-claude-code-execution-50-besplatnyh-chasov-den-kak-zamena-tekstovomu-k/](DR26-07-28-HUB-05-2338-claude-code-execution-50-besplatnyh-chasov-den-kak-zamena-tekstovomu-k/README.md)

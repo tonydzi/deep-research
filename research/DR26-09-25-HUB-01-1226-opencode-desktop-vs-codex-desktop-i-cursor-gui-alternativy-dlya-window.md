@@ -51,8 +51,3 @@ source: Palo Alto AI Research Lab — deep research programme
 ## Связано
 - reglament-marshrutizatsiya-modeley-chernovaya-na-sonnet-myshlenie-na-opus
 - reglament-snachala-svoi-podpiski-potom-openrouter
-
-
-## Raw model reports
-
-2 reports delivered, synthesis used 2 of 6. [DR26-09-25-HUB-01-1226-opencode-desktop-vs-codex-desktop-i-cursor-gui-alternativy-dlya-window/](DR26-09-25-HUB-01-1226-opencode-desktop-vs-codex-desktop-i-cursor-gui-alternativy-dlya-window/README.md)

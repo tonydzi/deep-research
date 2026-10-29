@@ -327,8 +327,3 @@ Grok не нашёл публичного реестра компаний с ф�
 ## Связано
 - decision-2026-09-01-hiring-vs-new-venture — defines: Decision Memo, принятый из этого синтеза
 - mission-llm-hire-weekly-plan — same_cluster: миссия найма, которую кормит эта развилка
-
-
-## Raw model reports
-
-4 reports delivered, synthesis used 3 of 6. Note: 1 report(s) arrived after the synthesis was written; they are attached raw and were not reconciled. [DR26-08-31-ZB-01-2223-naym-protiv-novogo-proekta-sintez-treh-rels/](DR26-08-31-ZB-01-2223-naym-protiv-novogo-proekta-sintez-treh-rels/README.md)

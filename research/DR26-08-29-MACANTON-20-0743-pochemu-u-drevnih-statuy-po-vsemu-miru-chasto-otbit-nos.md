@@ -50,8 +50,3 @@ source: Palo Alto AI Research Lab — deep research programme
 - консервация-камня-и-эрозия
 - археологическая-мифология-Сфинкса
 - insight-DR-DR26-08-29-MACANTON-19-0743-почему-у-древних-статуй-отбиты-носы-и-лица-эрозия- — почти идентичный дубль-DR той же темы (отбитые носы статуй)
-
-
-## Raw model reports
-
-1 reports delivered, synthesis used not recorded. [DR26-08-29-MACANTON-20-0743-pochemu-u-drevnih-statuy-po-vsemu-miru-chasto-otbit-nos/](DR26-08-29-MACANTON-20-0743-pochemu-u-drevnih-statuy-po-vsemu-miru-chasto-otbit-nos/README.md)

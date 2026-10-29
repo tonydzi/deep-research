@@ -57,8 +57,3 @@ source: Palo Alto AI Research Lab — deep research programme
 - self-host-vs-managed
 - agentic-ai-attack-surface
 - insight-DR-DR26-07-14-HUB-12-рынок-и-поставщики-вокруг-openclaw-сетапы-интеграт — дословно тот же заголовок и вопрос про рынок/поставщиков OpenClaw, более ранний фанаут того же DR
-
-
-## Raw model reports
-
-1 reports delivered, synthesis used not recorded. [DR26-05-01-HUB-01-rynok-i-postavschiki-vokrug-openclaw-setapy-integratory-riski-i-altern/](DR26-05-01-HUB-01-rynok-i-postavschiki-vokrug-openclaw-setapy-integratory-riski-i-altern/README.md)

@@ -50,8 +50,3 @@ source: Palo Alto AI Research Lab — deep research programme
 - content-factory
 - telegram-account-identities
 - insight-DR-DR26-07-04-HUB-06-x-api-v2-posting-fb-graph-reading-own-posts-july-2 — тот же DR-кластер про официальные API X/Facebook
-
-
-## Raw model reports
-
-1 reports delivered, synthesis used not recorded. [DR26-06-30-HUB-03-ofitsialnye-api-facebook-meta-i-x-twitter-2025-2026-limity-posting-mon/](DR26-06-30-HUB-03-ofitsialnye-api-facebook-meta-i-x-twitter-2025-2026-limity-posting-mon/README.md)

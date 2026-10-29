@@ -91,8 +91,3 @@ chatgpt.md 46 КБ; отклонённая gemini — в `_rejected/`).
 Связано: post-mandatory-elements, palo-alto-lab-site-hiring-magnet,
 main-goals, closed-dr-becomes-public-content, fake-it-courage-not-fake-numbers,
 insight-DR-DR26-08-25-HUB-01-0712-claw-cluster (продолжение: карта CLAW-кластера и цена корня).
-
-
-## Raw model reports
-
-4 reports delivered, synthesis used 2 of 4. Note: 2 report(s) arrived after the synthesis was written; they are attached raw and were not reconciled. [DR26-08-05-ZB-03-1621-dr26-08-05-zb-03-sintez-neyming-laboratorii-qqq-otbit-tretiy-put-neolo/](DR26-08-05-ZB-03-1621-dr26-08-05-zb-03-sintez-neyming-laboratorii-qqq-otbit-tretiy-put-neolo/README.md)

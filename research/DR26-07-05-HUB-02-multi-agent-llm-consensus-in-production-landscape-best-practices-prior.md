@@ -57,8 +57,3 @@ source: Palo Alto AI Research Lab — deep research programme
 - ak47-simplicity
 - one-system-propagate
 - machine-bus-telegram-rail
-
-
-## Raw model reports
-
-3 reports delivered, synthesis used not recorded. [DR26-07-05-HUB-02-multi-agent-llm-consensus-in-production-landscape-best-practices-prior/](DR26-07-05-HUB-02-multi-agent-llm-consensus-in-production-landscape-best-practices-prior/README.md)

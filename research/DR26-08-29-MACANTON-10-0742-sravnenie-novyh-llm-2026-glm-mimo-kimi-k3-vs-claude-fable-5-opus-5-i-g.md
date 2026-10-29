@@ -51,8 +51,3 @@ source: Palo Alto AI Research Lab — deep research programme
 - model-routing-sonnet-grunt
 - burn-the-limits-utilization
 - prefer-included-limits-before-paid-api
-
-
-## Raw model reports
-
-1 reports delivered, synthesis used not recorded. [DR26-08-29-MACANTON-10-0742-sravnenie-novyh-llm-2026-glm-mimo-kimi-k3-vs-claude-fable-5-opus-5-i-g/](DR26-08-29-MACANTON-10-0742-sravnenie-novyh-llm-2026-glm-mimo-kimi-k3-vs-claude-fable-5-opus-5-i-g/README.md)

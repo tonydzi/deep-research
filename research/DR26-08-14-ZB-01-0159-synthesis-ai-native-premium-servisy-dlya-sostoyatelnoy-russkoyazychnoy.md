@@ -95,8 +95,3 @@ source: Palo Alto AI Research Lab — deep research programme
 | Регуляторные красные линии | high | Консенсус силён по санкциям, обходу, лицензиям, KYC и данным; детали охвата по странам требуют counsel. |
 | Экономия AI в 3-5 раз | low | Логика автоматизации сильна, но контролируемого замера в отчётах нет. |
 | Выбор первой услуги | high | Три отчёта независимо рекомендуют узкое банковское досье; четвёртый рекомендует близкий, но более рискованный вариант с разблокировкой. |
-
-
-## Raw model reports
-
-5 reports delivered, synthesis used 4 of 6. Note: 1 report(s) arrived after the synthesis was written; they are attached raw and were not reconciled. [DR26-08-14-ZB-01-0159-synthesis-ai-native-premium-servisy-dlya-sostoyatelnoy-russkoyazychnoy/](DR26-08-14-ZB-01-0159-synthesis-ai-native-premium-servisy-dlya-sostoyatelnoy-russkoyazychnoy/README.md)

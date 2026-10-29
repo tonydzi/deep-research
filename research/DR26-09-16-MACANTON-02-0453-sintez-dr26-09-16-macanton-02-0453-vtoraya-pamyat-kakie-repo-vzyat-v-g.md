@@ -140,8 +140,3 @@ source: Palo Alto AI Research Lab — deep research programme
 
 ### Baseline линейки, Mac16 16.09 11:31 (дописано после синтеза)
 multilingual-e5-base + mmarco-mMiniLMv2, 27 061 чанк, 46 мин на CPU/mps, gold 184. Recall@12 vector: title 0.933 ✅ · body 0.667 ❌ · bridge 0.177 ❌ · temporal 0.750 (n=4). nDCG@12 vector: 0.924 · 0.519 · 0.127 · 0.385. Граф: bridge nDCG +0.026 (порог полезности +0.03 не взят), body +0.005. RU nDCG 0.484 против EN 0.662: разрыв 0.18 — первая своя улика в пользу вывода Grok про модель под русский (§4). Скоры: `_imports/eval/scores-20260916-1131.jsonl`, SQLite gold_eval 12 строк. Программа: task-2026-09-16-second-memory-quality-program.
-
-
-## Raw model reports
-
-5 reports delivered, synthesis used 3 of 6. Note: 2 report(s) arrived after the synthesis was written; they are attached raw and were not reconciled. [DR26-09-16-MACANTON-02-0453-sintez-dr26-09-16-macanton-02-0453-vtoraya-pamyat-kakie-repo-vzyat-v-g/](DR26-09-16-MACANTON-02-0453-sintez-dr26-09-16-macanton-02-0453-vtoraya-pamyat-kakie-repo-vzyat-v-g/README.md)

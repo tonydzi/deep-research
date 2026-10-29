@@ -61,8 +61,3 @@ source: Palo Alto AI Research Lab — deep research programme
 - cofounder-growth-log
 - positioning-anton-mike-one-machine
 - insight-DR-DR26-08-29-MACANTON-09-0742-истории-успеха-некодеров-и-low-code-contributors-н — почти идентичный DR 4 дня спустя, те же кейсы Josh Wulf/Ruth Ikegah/Victor Eke
-
-
-## Raw model reports
-
-1 reports delivered, synthesis used not recorded. [DR26-08-25-MACANTON-07-0740-kak-nekoder-lou-kod-kontribyutor-stroit-kareru-i-offer-cherez-github-b/](DR26-08-25-MACANTON-07-0740-kak-nekoder-lou-kod-kontribyutor-stroit-kareru-i-offer-cherez-github-b/README.md)

@@ -55,8 +55,3 @@ source: Palo Alto AI Research Lab — deep research programme
 - cross-vendor session continuity
 - hooks parity Claude vs Codex
 - task-2026-08-03-pilot-konveyera-autsorsa-kodinga
-
-
-## Raw model reports
-
-1 reports delivered, synthesis used 4 of 6. [DR26-08-28-MACANTON-01-1114-dual-agent-codex-cli-claude-code-nad-obschim-voltom-monorepo-instrukts/](DR26-08-28-MACANTON-01-1114-dual-agent-codex-cli-claude-code-nad-obschim-voltom-monorepo-instrukts/README.md)

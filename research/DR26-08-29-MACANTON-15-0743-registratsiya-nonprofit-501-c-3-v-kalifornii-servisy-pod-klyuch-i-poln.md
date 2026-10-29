@@ -55,8 +55,3 @@ source: Palo Alto AI Research Lab — deep research programme
 - npo-formation-services
 - irs-form-1023
 - charitable-registration-ca-ag
-
-
-## Raw model reports
-
-1 reports delivered, synthesis used not recorded. [DR26-08-29-MACANTON-15-0743-registratsiya-nonprofit-501-c-3-v-kalifornii-servisy-pod-klyuch-i-poln/](DR26-08-29-MACANTON-15-0743-registratsiya-nonprofit-501-c-3-v-kalifornii-servisy-pod-klyuch-i-poln/README.md)

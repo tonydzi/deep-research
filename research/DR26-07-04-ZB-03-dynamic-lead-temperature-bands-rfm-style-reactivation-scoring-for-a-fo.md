@@ -54,8 +54,3 @@ source: Palo Alto AI Research Lab — deep research programme
 - telegram-crm-signals
 - rules-vs-llm-feature-engineering
 - insight-DR-DR26-07-28-HUB-23-2339-плейбук-реактивации-8-644-спящих-1-1-контактов-чер — общая тема RFM/scoring-приоритизации реактивации спящих лидов
-
-
-## Raw model reports
-
-1 reports delivered, synthesis used not recorded. [DR26-07-04-ZB-03-dynamic-lead-temperature-bands-rfm-style-reactivation-scoring-for-a-fo/](DR26-07-04-ZB-03-dynamic-lead-temperature-bands-rfm-style-reactivation-scoring-for-a-fo/README.md)

@@ -53,8 +53,3 @@ source: Palo Alto AI Research Lab — deep research programme
 - system-architect
 - one-system-propagate
 - vault-data-architecture
-
-
-## Raw model reports
-
-1 reports delivered, synthesis used not recorded. [DR26-06-26-HUB-04-otkazoustoychivost-llm-infrastruktury-failover-mezhdu-claude-opus-sonn/](DR26-06-26-HUB-04-otkazoustoychivost-llm-infrastruktury-failover-mezhdu-claude-opus-sonn/README.md)

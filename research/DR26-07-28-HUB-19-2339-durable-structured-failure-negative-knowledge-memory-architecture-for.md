@@ -56,8 +56,3 @@ source: Palo Alto AI Research Lab — deep research programme
 - ak47-simplicity
 - dr-registry
 - multi-agent-role-discipline
-
-
-## Raw model reports
-
-1 reports delivered, synthesis used not recorded. [DR26-07-28-HUB-19-2339-durable-structured-failure-negative-knowledge-memory-architecture-for/](DR26-07-28-HUB-19-2339-durable-structured-failure-negative-knowledge-memory-architecture-for/README.md)

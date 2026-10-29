@@ -48,8 +48,3 @@ source: Palo Alto AI Research Lab — deep research programme
 
 ## Связано
 - _Plaud-MOC
-
-
-## Raw model reports
-
-3 reports delivered, synthesis used 2 of 6. Note: 1 report(s) arrived after the synthesis was written; they are attached raw and were not reconciled. [DR26-09-24-ZB-01-1922-plaud-note-note-pro-notepin-integratsiya-s-claude-codex-obsidian-volto/](DR26-09-24-ZB-01-1922-plaud-note-note-pro-notepin-integratsiya-s-claude-codex-obsidian-volto/README.md)

@@ -58,8 +58,3 @@ source: Palo Alto AI Research Lab — deep research programme
 - verify-existing-before-proposing
 - connect-rule-pipeline-ownership
 - ak47-simplicity
-
-
-## Raw model reports
-
-3 reports delivered, synthesis used not recorded. [DR26-07-05-HUB-04-high-quality-ai-task-decomposition-for-parallel-llm-sessions-cut-quali/](DR26-07-05-HUB-04-high-quality-ai-task-decomposition-for-parallel-llm-sessions-cut-quali/README.md)

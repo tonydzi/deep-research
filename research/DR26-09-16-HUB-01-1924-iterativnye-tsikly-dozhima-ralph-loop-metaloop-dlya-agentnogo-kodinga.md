@@ -55,8 +55,3 @@ source: Palo Alto AI Research Lab — deep research programme
 - token-accounting-lies
 - finite-routines-eat-the-elephant
 - done-is-a-claim-recheck-twice
-
-
-## Raw model reports
-
-3 reports delivered, synthesis used 4 of 5. [DR26-09-16-HUB-01-1924-iterativnye-tsikly-dozhima-ralph-loop-metaloop-dlya-agentnogo-kodinga/](DR26-09-16-HUB-01-1924-iterativnye-tsikly-dozhima-ralph-loop-metaloop-dlya-agentnogo-kodinga/README.md)

@@ -55,8 +55,3 @@ source: Palo Alto AI Research Lab — deep research programme
 - open-source-funding
 - portugal-associacao
 - insight-DR-DR26-08-25-MACANTON-12-0740-гранты-и-nonprofit-скидки-от-google-microsoft-aws- — тот же вопрос — стоит ли оформлять 501c3 сейчас
-
-
-## Raw model reports
-
-3 reports delivered, synthesis used not recorded. [DR26-07-05-ZB-01-non-profit-feasibility-oformlenie-vs-realnye-donaty-god-1-dlya-ai-educ/](DR26-07-05-ZB-01-non-profit-feasibility-oformlenie-vs-realnye-donaty-god-1-dlya-ai-educ/README.md)

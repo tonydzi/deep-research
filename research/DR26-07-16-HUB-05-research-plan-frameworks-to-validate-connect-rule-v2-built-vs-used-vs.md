@@ -52,8 +52,3 @@ source: Palo Alto AI Research Lab — deep research programme
 - theory-of-constraints
 - stage-gate-process
 - opentelemetry-observability
-
-
-## Raw model reports
-
-3 reports delivered, synthesis used not recorded. [DR26-07-16-HUB-05-research-plan-frameworks-to-validate-connect-rule-v2-built-vs-used-vs/](DR26-07-16-HUB-05-research-plan-frameworks-to-validate-connect-rule-v2-built-vs-used-vs/README.md)

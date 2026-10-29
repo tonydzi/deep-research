@@ -94,8 +94,3 @@ UK/EU/US поверенным до коммерческого запуска. Э
 flagship-renamed-claw-consensus, main-goals, prichina-kak-claim,
 insight-2026-08-24-github-namescan-claw-digits (замеры кандидатов, в т.ч. «долинных» 25.08),
 insight-2026-08-26-compact-retro-landscape-github (карта соседей compact/retro; claw-retro занял место в семействе 26.08).
-
-
-## Raw model reports
-
-2 reports delivered, synthesis used 1 of 6. Note: 1 report(s) arrived after the synthesis was written; they are attached raw and were not reconciled. [DR26-08-25-HUB-01-0712-dr26-08-25-hub-01-sintez-koren-claw-eto-chuzhaya-grammatika-imen-a-ne/](DR26-08-25-HUB-01-0712-dr26-08-25-hub-01-sintez-koren-claw-eto-chuzhaya-grammatika-imen-a-ne/README.md)

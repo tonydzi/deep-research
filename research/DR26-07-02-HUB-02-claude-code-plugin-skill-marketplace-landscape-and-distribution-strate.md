@@ -49,8 +49,3 @@ source: Palo Alto AI Research Lab — deep research programme
 - developer tool discoverability
 - open vs curated ecosystem governance
 - plugin submission schema (marketplace.json / SKILL.md)
-
-
-## Raw model reports
-
-1 reports delivered, synthesis used not recorded. [DR26-07-02-HUB-02-claude-code-plugin-skill-marketplace-landscape-and-distribution-strate/](DR26-07-02-HUB-02-claude-code-plugin-skill-marketplace-landscape-and-distribution-strate/README.md)

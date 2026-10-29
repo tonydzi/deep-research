@@ -54,8 +54,3 @@ source: Palo Alto AI Research Lab — deep research programme
 - everything-becomes-content
 - concept-creation-rules
 - no-orphan-notes-rule
-
-
-## Raw model reports
-
-1 reports delivered, synthesis used not recorded. [DR26-07-08-HUB-01-edinyy-canon-story-state-vmesto-dvuh-rashodyaschihsya-spaynov-kniga-li/](DR26-07-08-HUB-01-edinyy-canon-story-state-vmesto-dvuh-rashodyaschihsya-spaynov-kniga-li/README.md)

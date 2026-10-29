@@ -53,8 +53,3 @@ source: Palo Alto AI Research Lab — deep research programme
 - cv-positioning-research-adjacent
 - top-ai-lab-hiring-2026
 - compensation-benchmarks-ai-labs
-
-
-## Raw model reports
-
-3 reports delivered, synthesis used 1 of 6. Note: 2 report(s) arrived after the synthesis was written; they are attached raw and were not reconciled. [DR26-09-22-HUB-05-1433-kak-netipichnye-kandidaty-bez-ml-publikatsiy-zahodyat-v-top-laboratori/](DR26-09-22-HUB-05-1433-kak-netipichnye-kandidaty-bez-ml-publikatsiy-zahodyat-v-top-laboratori/README.md)

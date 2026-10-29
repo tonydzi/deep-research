@@ -51,8 +51,3 @@ source: Palo Alto AI Research Lab — deep research programme
 - alpha-protocol-recall-plus-dr
 - evidence-grading-framework
 - insight-DR-DR26-08-29-MACANTON-01-0742-meta-reusable-deep-research-methodology-template-a — тот же феномен (пустой DR-брифинг) повторился 25.08 и 29.08 почти дословно
-
-
-## Raw model reports
-
-1 reports delivered, synthesis used not recorded. [DR26-08-25-MACANTON-01-0740-deep-research-template-no-topic-given-applied-to-urban-heat-islands-pu/](DR26-08-25-MACANTON-01-0740-deep-research-template-no-topic-given-applied-to-urban-heat-islands-pu/README.md)

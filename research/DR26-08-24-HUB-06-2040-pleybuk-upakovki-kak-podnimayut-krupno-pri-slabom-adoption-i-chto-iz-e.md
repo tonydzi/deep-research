@@ -435,8 +435,3 @@ execution boundary для MCP tool calls».
 ## Связано
 - insight-DR-DR26-08-25-HUB-02-0712-fundraise-ease-three-storefronts — предыдущий инсайт той же цепочки HUB (упаковка/рейз при слабом adoption), сирота — прямое продолжение
 - reglament-fandrayz-po-tipu-gonki — операционализация корзины (в): полное журналистское досье фандрайз-машины Gonka с вердиктами берём/адаптируем/запрещено; дверь = скилл `/gonka-fundraise`
-
-
-## Raw model reports
-
-4 reports delivered, synthesis used 4 of 6. [DR26-08-24-HUB-06-2040-pleybuk-upakovki-kak-podnimayut-krupno-pri-slabom-adoption-i-chto-iz-e/](DR26-08-24-HUB-06-2040-pleybuk-upakovki-kak-podnimayut-krupno-pri-slabom-adoption-i-chto-iz-e/README.md)

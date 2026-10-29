@@ -55,8 +55,3 @@ source: Palo Alto AI Research Lab — deep research programme
 - multi-vendor-coding-orchestration
 - headless-agent-cli
 - claude-code-orchestrator
-
-
-## Raw model reports
-
-2 reports delivered, synthesis used not recorded. [DR26-08-02-ZB-05-2357-cursor-anysphere-kak-implementer-3-v-multi-llm-konveyere-kodinga-svyaz/](DR26-08-02-ZB-05-2357-cursor-anysphere-kak-implementer-3-v-multi-llm-konveyere-kodinga-svyaz/README.md)

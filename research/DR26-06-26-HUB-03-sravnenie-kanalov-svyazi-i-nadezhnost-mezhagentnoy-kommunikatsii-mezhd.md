@@ -51,8 +51,3 @@ source: Palo Alto AI Research Lab — deep research programme
 - ak47-simplicity
 - sync-via-telegram-03-mandatory
 - peer-liveness-live-signal
-
-
-## Raw model reports
-
-1 reports delivered, synthesis used not recorded. [DR26-06-26-HUB-03-sravnenie-kanalov-svyazi-i-nadezhnost-mezhagentnoy-kommunikatsii-mezhd/](DR26-06-26-HUB-03-sravnenie-kanalov-svyazi-i-nadezhnost-mezhagentnoy-kommunikatsii-mezhd/README.md)

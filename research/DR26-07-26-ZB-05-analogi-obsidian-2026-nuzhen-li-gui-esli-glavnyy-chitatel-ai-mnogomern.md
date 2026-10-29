@@ -79,8 +79,3 @@ source: Palo Alto AI Research Lab — deep research programme
 - Obsidian vault
 - decision-2026-07-26-obsidian-viewer-or-headless
 - insight-DR-DR26-09-28-HUB-01-0455-критика-михаила-савченко-о-битемпоральности-и-репу — обсуждает битемпоральные рёбра в SQLite для того же второго мозга
-
-
-## Raw model reports
-
-2 reports delivered, synthesis used not recorded. [DR26-07-26-ZB-05-analogi-obsidian-2026-nuzhen-li-gui-esli-glavnyy-chitatel-ai-mnogomern/](DR26-07-26-ZB-05-analogi-obsidian-2026-nuzhen-li-gui-esli-glavnyy-chitatel-ai-mnogomern/README.md)

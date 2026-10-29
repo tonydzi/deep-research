@@ -78,8 +78,3 @@ insight-DR-DR26-08-25-HUB-02-0712-fundraise-ease-three-storefronts (соседн
 zero-trust-product-line, main-goals, fake-it-courage-not-fake-numbers.
 
 Ретро сессии-находки: retro-2026-08-27-dr-leg-gate-sources-and-invest-proof.
-
-
-## Raw model reports
-
-4 reports delivered, synthesis used 4 of 6. [DR26-08-25-HUB-03-2301-dr26-08-25-hub-03-audit-rels-iz-kvoruma-4-6-podtverzhdayuschih-rels-dv/](DR26-08-25-HUB-03-2301-dr26-08-25-hub-03-audit-rels-iz-kvoruma-4-6-podtverzhdayuschih-rels-dv/README.md)

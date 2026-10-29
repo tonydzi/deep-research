@@ -68,8 +68,3 @@ source: Palo Alto AI Research Lab — deep research programme
 - Рельса gemini снята через `retarget --drop`.
 
 Связано: proc-patrol-robot · dr-headless-rails-codex-grok
-
-
-## Raw model reports
-
-1 reports delivered, synthesis used not recorded. [DR26-08-01-MACANTON-02-726-dieta-mcp-i-sessiy-claude-code-chto-realno-est-u-vendora-a-chego-net/](DR26-08-01-MACANTON-02-726-dieta-mcp-i-sessiy-claude-code-chto-realno-est-u-vendora-a-chego-net/README.md)

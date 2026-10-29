@@ -67,8 +67,3 @@ source: Palo Alto AI Research Lab — deep research programme
 - Grief Hancock alt-history verification
 - Alpha Protocol Recall+DR
 - Ayahuasca safety and retreat risk
-
-
-## Raw model reports
-
-3 reports delivered, synthesis used 4 of 6. [DR26-08-23-HUB-01-2221-ayauaska-agressiya-styd-privykanie-riski-dekriminalizatsiya-verifikats/](DR26-08-23-HUB-01-2221-ayauaska-agressiya-styd-privykanie-riski-dekriminalizatsiya-verifikats/README.md)

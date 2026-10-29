@@ -46,8 +46,3 @@ source: Palo Alto AI Research Lab — deep research programme
 - ChatGPT тарифы
 - Alpha Protocol / DR реестр
 - OpenAI pricing changes
-
-
-## Raw model reports
-
-1 reports delivered, synthesis used not recorded. [DR26-08-29-MACANTON-11-0742-limity-deep-research-v-chatgpt-plus-pro-na-avgust-2026-i-povedenie-pos/](DR26-08-29-MACANTON-11-0742-limity-deep-research-v-chatgpt-plus-pro-na-avgust-2026-i-povedenie-pos/README.md)

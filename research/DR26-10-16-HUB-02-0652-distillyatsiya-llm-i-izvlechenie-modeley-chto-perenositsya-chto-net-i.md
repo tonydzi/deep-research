@@ -59,8 +59,3 @@ source: Palo Alto AI Research Lab — deep research programme
 - RL для рассуждений
 - imitation models и OOD-обобщение
 - API ToS и защита от дистилляции
-
-
-## Raw model reports
-
-2 reports delivered, synthesis used 2 of 6. [DR26-10-16-HUB-02-0652-distillyatsiya-llm-i-izvlechenie-modeley-chto-perenositsya-chto-net-i/](DR26-10-16-HUB-02-0652-distillyatsiya-llm-i-izvlechenie-modeley-chto-perenositsya-chto-net-i/README.md)

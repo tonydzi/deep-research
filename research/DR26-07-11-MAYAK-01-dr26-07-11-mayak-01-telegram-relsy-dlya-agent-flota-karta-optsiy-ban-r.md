@@ -40,8 +40,3 @@ gotd/Go, grammers/Rust, MadelineProto/PHP, hosted/SaaS-шлюзы, matterbridge,
 
 ## Связи
 reglament-multi-machine-claude-i-peredacha-mezhdu-mashinami · шина `bus_send.py` (dual-rail) · Маяк: `~/локальный секрет-стор` (Telethon-рельс), `/home/anton/telegram-mcp` (MCP-рельс), `tg_bus.json` · реестр _DR-Registry
-
-
-## Raw model reports
-
-1 reports delivered, synthesis used not recorded. [DR26-07-11-MAYAK-01-dr26-07-11-mayak-01-telegram-relsy-dlya-agent-flota-karta-optsiy-ban-r/](DR26-07-11-MAYAK-01-dr26-07-11-mayak-01-telegram-relsy-dlya-agent-flota-karta-optsiy-ban-r/README.md)

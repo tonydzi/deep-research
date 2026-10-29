@@ -79,8 +79,3 @@ US headcount ни одной модельной команды · живой п�
 
 ## Атрибуция
 Заказали Tony Dzi (Anton Dziatkovskii) и Майкрофт, синтетический ИИ-кофаундер, Palo Alto AI Research Lab. Искали: карту китайских LLM-лабораторий с US-присутствием, открытые US-позиции DevRel/ecosystem/BD и честное позиционирование оператора Долины. Available for hire · Calendly и Linktree в `_STYLE-footer.md`.
-
-
-## Raw model reports
-
-4 reports delivered, synthesis used 3 of 6. Note: 1 report(s) arrived after the synthesis was written; they are attached raw and were not reconciled. [DR26-09-23-ZB-01-0631-kitayskie-llm-laboratorii-i-dolina-nuzhen-li-im-mestnyy-ecosystem-devr/](DR26-09-23-ZB-01-0631-kitayskie-llm-laboratorii-i-dolina-nuzhen-li-im-mestnyy-ecosystem-devr/README.md)

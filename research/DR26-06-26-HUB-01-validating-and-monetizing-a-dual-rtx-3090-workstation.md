@@ -49,8 +49,3 @@ source: Palo Alto AI Research Lab — deep research programme
 - home-lab-hosting-security
 - vllm-multi-gpu-parallelism
 - gpu-hardware-validation-toolchain
-
-
-## Raw model reports
-
-1 reports delivered, synthesis used not recorded. [DR26-06-26-HUB-01-validating-and-monetizing-a-dual-rtx-3090-workstation/](DR26-06-26-HUB-01-validating-and-monetizing-a-dual-rtx-3090-workstation/README.md)

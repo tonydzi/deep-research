@@ -77,8 +77,3 @@ PhD: только один из шести в выборке. Усиливает
 Общее с заказом ZB-12: и там, и здесь крипто-прошлое спасает **язык регулируемых финансов**, а убивает — язык хайпа. Формулировка-мост одна и та же: «capital formation under regulatory uncertainty: compliant process, controlled disclosures, counsel coordination, institutional capital».
 
 🧒 Простыми словами: из трёх крипто-миров Антону легче всего зайти туда, где крипта превратилась в обычные платежи — там сейчас нужны люди, умеющие договариваться с банками, и туда берут даже из Visa и PayPal. В фонды можно, но только на роль «общаться с инвесторами». А в самые математические конторы вход закрыт, туда и пробовать не стоит. Главная опасность — рассказывать про сбор денег в 2017 году теми же словами, что тогда: у них там проверяющие, и это читается как беда. Надо теми же фактами, но скучным языком банкира. И честно: на этот вопрос ответили только двое из четырёх помощников, так что уверенность ниже обычного.
-
-
-## Raw model reports
-
-4 reports delivered, synthesis used 2 of 8. Note: 2 report(s) arrived after the synthesis was written; they are attached raw and were not reconciled. [DR26-09-14-ZB-13-2009-steyblkoiny-vs-kriptobirzhi-vs-hedzh-fondy-gde-profil-kripto-faundera/](DR26-09-14-ZB-13-2009-steyblkoiny-vs-kriptobirzhi-vs-hedzh-fondy-gde-profil-kripto-faundera/README.md)

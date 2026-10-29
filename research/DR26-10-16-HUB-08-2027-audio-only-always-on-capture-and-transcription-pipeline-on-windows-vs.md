@@ -54,8 +54,3 @@ source: Palo Alto AI Research Lab — deep research programme
 - capture-path liveness monitoring vs process health
 - dr_reconcile partial vendor legs
 - knowledge-base ingestion
-
-
-## Raw model reports
-
-1 reports delivered, synthesis used 1 of 6. [DR26-10-16-HUB-08-2027-audio-only-always-on-capture-and-transcription-pipeline-on-windows-vs/](DR26-10-16-HUB-08-2027-audio-only-always-on-capture-and-transcription-pipeline-on-windows-vs/README.md)

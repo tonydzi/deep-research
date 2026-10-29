@@ -57,8 +57,3 @@ source: Palo Alto AI Research Lab — deep research programme
 - application-layer-vs-labs
 - open-source-vs-closed-ai
 - insight-DR-DR26-09-14-ZB-08-2007-фандрейзинг-глазами-фаундеров-ai-лабораторий-под-какие
-
-
-## Raw model reports
-
-4 reports delivered, synthesis used 4 of 6. [DR26-09-14-ZB-07-2007-kartina-mira-faunderov-frontier-ai-laboratoriy-teh-faundery-vs-ideolog/](DR26-09-14-ZB-07-2007-kartina-mira-faunderov-frontier-ai-laboratoriy-teh-faundery-vs-ideolog/README.md)

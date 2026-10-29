@@ -61,8 +61,3 @@ source: Palo Alto AI Research Lab — deep research programme
 ---
 
 🧒 **Простыми словами:** Когда подключаем нового человека (Артура, семью), не надо говорить «мы построим тебе второй мозг» — это звучит странно и пугает. Надо сказать: «расскажи один раз — оно запомнит и потом само напомнит», и сразу ПОКАЗАТЬ на его настоящем примере, за минуту. Доверие растёт не от красивых слов, а от чеков: «вот что я сохранил», «вот я использовал то, что ты говорил во вторник». А роботу-ведомому мало написать «ты — память» в инструкции: нужно заставить его в конце каждой сессии реально проверять, что сохранить, и честно говорить, кто видит эти записи.
-
-
-## Raw model reports
-
-1 reports delivered, synthesis used not recorded. [DR26-07-07-MACB-02-onbording-pitch-vtorogo-mozga-dlya-netehnichnyh-rol-identichnost-claud/](DR26-07-07-MACB-02-onbording-pitch-vtorogo-mozga-dlya-netehnichnyh-rol-identichnost-claud/README.md)

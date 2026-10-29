@@ -54,8 +54,3 @@ source: Palo Alto AI Research Lab — deep research programme
 - AI-privacy-architecture
 - exited-founders-due-diligence
 - insight-DR-DR26-08-29-MACANTON-18-0743-venice-ai-vs-fanvue-проверка-фактов-про-unicorn-ст — тот же DR-кластер, прямой предшественник по сравнению Venice vs Fanvue
-
-
-## Raw model reports
-
-1 reports delivered, synthesis used not recorded. [DR26-08-25-MACANTON-15-0740-venice-ai-vs-fanvue-sravnenie-finansirovaniya-otsenki-i-riskov-avg-202/](DR26-08-25-MACANTON-15-0740-venice-ai-vs-fanvue-sravnenie-finansirovaniya-otsenki-i-riskov-avg-202/README.md)

@@ -57,8 +57,3 @@ source: Palo Alto AI Research Lab — deep research programme
 - prompt engineering for agents
 - content-factory / vibe-teach
 - insight-DR-DR26-08-29-MACANTON-16-0743-первые-команды-и-минимальный-онбординг-новичков-в- — почти дублирующий DR той же серии, тот же вопрос про онбординг новичков
-
-
-## Raw model reports
-
-1 reports delivered, synthesis used not recorded. [DR26-08-25-MACANTON-14-0740-pervye-komandy-i-pervyy-urok-dlya-novichkov-v-claude-code-codex-i-grok/](DR26-08-25-MACANTON-14-0740-pervye-komandy-i-pervyy-urok-dlya-novichkov-v-claude-code-codex-i-grok/README.md)

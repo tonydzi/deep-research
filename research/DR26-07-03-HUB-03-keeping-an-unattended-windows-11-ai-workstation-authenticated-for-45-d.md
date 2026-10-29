@@ -60,8 +60,3 @@ source: Palo Alto AI Research Lab — deep research programme
 - telegram-otp-self-fetch
 - system-architect
 - insight-DR-DR26-07-04-HUB-03-keeping-an-unattended-windows-11-ai-workstation-go — почти дубль-DR того же вопроса днём ранее
-
-
-## Raw model reports
-
-1 reports delivered, synthesis used not recorded. [DR26-07-03-HUB-03-keeping-an-unattended-windows-11-ai-workstation-authenticated-for-45-d/](DR26-07-03-HUB-03-keeping-an-unattended-windows-11-ai-workstation-authenticated-for-45-d/README.md)

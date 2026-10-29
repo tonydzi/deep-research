@@ -55,8 +55,3 @@ source: Palo Alto AI Research Lab — deep research programme
 - never-call-yourself-robot
 - alpha-protocol-recall-plus-dr
 - cv-forge-cluster-resumes
-
-
-## Raw model reports
-
-4 reports delivered, synthesis used 4 of 6. [DR26-09-20-HUB-01-1819-kompensatsii-senior-urovnya-hedzh-fondy-kvant-treyding-vs-ai-laborator/](DR26-09-20-HUB-01-1819-kompensatsii-senior-urovnya-hedzh-fondy-kvant-treyding-vs-ai-laborator/README.md)

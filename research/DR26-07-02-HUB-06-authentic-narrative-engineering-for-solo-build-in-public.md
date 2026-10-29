@@ -59,8 +59,3 @@ source: Palo Alto AI Research Lab — deep research programme
 - reality-show
 - episode-content-factory
 - insight-DR-DR26-09-03-HUB-01-2037-бульварное-чтиво-как-метод-перенос-таблоидных-real — foundational DR on borrowing serial/documentary narrative structure for solo build-in-public, same lineage as the tabloid-method insight
-
-
-## Raw model reports
-
-1 reports delivered, synthesis used not recorded. [DR26-07-02-HUB-06-authentic-narrative-engineering-for-solo-build-in-public/](DR26-07-02-HUB-06-authentic-narrative-engineering-for-solo-build-in-public/README.md)

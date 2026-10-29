@@ -94,8 +94,3 @@ Habr и VC.ru **не дают** настоящего внешнего `rel=canon
 - insight-DR-DR26-07-27-ZB-04-2349-hackernoon-kak-rabochaya-ploshchadka — конфликтующий вердикт по HackerNoon
 - main-goals — Миссия №2
 - insight-DR-DR26-08-06-ZB-01-0934-devto-voice — перепроверяет прежний вердикт CUT по dev.to
-
-
-## Raw model reports
-
-1 reports delivered, synthesis used not recorded. [DR26-07-27-ZB-03-2306-seo-geo-karta-ploschadok-sintez-grok-heavy-github-kanonicheskiy-dom-ha/](DR26-07-27-ZB-03-2306-seo-geo-karta-ploschadok-sintez-grok-heavy-github-kanonicheskiy-dom-ha/README.md)

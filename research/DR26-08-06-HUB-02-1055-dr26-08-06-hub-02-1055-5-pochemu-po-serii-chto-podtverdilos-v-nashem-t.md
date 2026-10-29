@@ -148,8 +148,3 @@ source: Palo Alto AI Research Lab — deep research programme
 
 Связано: five-whys-over-a-series · fix-root-cause-not-symptoms · prichina-kak-claim ·
 watchdog-must-verify-the-item · self-debug-transparency
-
-
-## Raw model reports
-
-4 reports delivered, synthesis used 4 of 6. [DR26-08-06-HUB-02-1055-dr26-08-06-hub-02-1055-5-pochemu-po-serii-chto-podtverdilos-v-nashem-t/](DR26-08-06-HUB-02-1055-dr26-08-06-hub-02-1055-5-pochemu-po-serii-chto-podtverdilos-v-nashem-t/README.md)

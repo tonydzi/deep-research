@@ -55,8 +55,3 @@ source: Palo Alto AI Research Lab — deep research programme
 - second-brain-northstar
 - everything-becomes-content
 - insight-DR-DR26-07-04-HUB-07-voice-note-to-content-pipeline-capture-triage-task — сестринский DR про voice-note-to-content и мультиканальный конвейер
-
-
-## Raw model reports
-
-1 reports delivered, synthesis used not recorded. [DR26-06-27-HUB-01-owned-platform-blogging-multi-channel-x-telegram-content-pipeline-and/](DR26-06-27-HUB-01-owned-platform-blogging-multi-channel-x-telegram-content-pipeline-and/README.md)

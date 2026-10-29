@@ -52,8 +52,3 @@ source: Palo Alto AI Research Lab — deep research programme
 - memory-index-hygiene
 - vault-data-architecture
 - ak47-simplicity
-
-
-## Raw model reports
-
-1 reports delivered, synthesis used not recorded. [DR26-06-30-HUB-04-prichiny-razrastaniya-claude-md-kontekstnyh-faylov-i-tehniki-ih-optimi/](DR26-06-30-HUB-04-prichiny-razrastaniya-claude-md-kontekstnyh-faylov-i-tehniki-ih-optimi/README.md)

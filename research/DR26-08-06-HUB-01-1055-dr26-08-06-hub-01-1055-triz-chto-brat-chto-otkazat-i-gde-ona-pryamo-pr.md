@@ -238,8 +238,3 @@ AK-идеальность = (проверенные полезные эффек�
 Критерии из пункта 8 остаются, к ним добавляется отказ-условие chatgpt: **сессия карточки дольше
 30 минут = метод не окупается**.
 
-
-
-## Raw model reports
-
-4 reports delivered, synthesis used 4 of 6. [DR26-08-06-HUB-01-1055-dr26-08-06-hub-01-1055-triz-chto-brat-chto-otkazat-i-gde-ona-pryamo-pr/](DR26-08-06-HUB-01-1055-dr26-08-06-hub-01-1055-triz-chto-brat-chto-otkazat-i-gde-ona-pryamo-pr/README.md)

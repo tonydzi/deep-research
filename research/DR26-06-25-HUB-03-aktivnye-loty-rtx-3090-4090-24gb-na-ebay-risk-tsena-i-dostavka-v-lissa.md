@@ -51,8 +51,3 @@ source: Palo Alto AI Research Lab — deep research programme
 - импорт и VAT в ЕС
 - DR-реестр Антона
 - insight-DR-DR26-06-26-HUB-08-инвентаризация-и-стресс-тестирование-б-у-gpu-rtx-3 — тот же проект покупки GPU: конкретные лоты RTX 3090/4090 на eBay, которые нужно стресс-тестировать по методике из этого DR
-
-
-## Raw model reports
-
-1 reports delivered, synthesis used not recorded. [DR26-06-25-HUB-03-aktivnye-loty-rtx-3090-4090-24gb-na-ebay-risk-tsena-i-dostavka-v-lissa/](DR26-06-25-HUB-03-aktivnye-loty-rtx-3090-4090-24gb-na-ebay-risk-tsena-i-dostavka-v-lissa/README.md)

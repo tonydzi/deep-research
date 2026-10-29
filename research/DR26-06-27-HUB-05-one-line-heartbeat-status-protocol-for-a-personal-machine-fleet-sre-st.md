@@ -53,8 +53,3 @@ source: Palo Alto AI Research Lab — deep research programme
 - system-architect
 - peer-liveness-live-signal
 - raise-sync-autonomous
-
-
-## Raw model reports
-
-1 reports delivered, synthesis used not recorded. [DR26-06-27-HUB-05-one-line-heartbeat-status-protocol-for-a-personal-machine-fleet-sre-st/](DR26-06-27-HUB-05-one-line-heartbeat-status-protocol-for-a-personal-machine-fleet-sre-st/README.md)

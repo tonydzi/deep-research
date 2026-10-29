@@ -53,8 +53,3 @@ source: Palo Alto AI Research Lab — deep research programme
 - approval-fatigue
 - agent-sandboxing
 - tool-poisoning
-
-
-## Raw model reports
-
-1 reports delivered, synthesis used not recorded. [DR26-07-28-HUB-17-2339-safety-action-gate-architecture-for-a-solo-operator-multi-agent-stack/](DR26-07-28-HUB-17-2339-safety-action-gate-architecture-for-a-solo-operator-multi-agent-stack/README.md)

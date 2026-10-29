@@ -51,8 +51,3 @@ source: Palo Alto AI Research Lab — deep research programme
 - retry-backoff-idempotency-dlq
 - ak47-simplicity
 - vault-data-architecture
-
-
-## Raw model reports
-
-1 reports delivered, synthesis used not recorded. [DR26-06-28-HUB-07-comparative-table-workflow-orchestration-engines-n8n-vs-windmill-vs-te/](DR26-06-28-HUB-07-comparative-table-workflow-orchestration-engines-n8n-vs-windmill-vs-te/README.md)

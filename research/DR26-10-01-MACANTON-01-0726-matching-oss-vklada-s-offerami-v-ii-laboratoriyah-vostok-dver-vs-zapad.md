@@ -55,8 +55,3 @@ source: Palo Alto AI Research Lab — deep research programme
 - ai-disclosure-in-prs
 - east-west-oss-openness-contradiction
 - china-oss-export-control-risk
-
-
-## Raw model reports
-
-2 reports delivered, synthesis used 1 of 6. Note: 1 report(s) arrived after the synthesis was written; they are attached raw and were not reconciled. [DR26-10-01-MACANTON-01-0726-matching-oss-vklada-s-offerami-v-ii-laboratoriyah-vostok-dver-vs-zapad/](DR26-10-01-MACANTON-01-0726-matching-oss-vklada-s-offerami-v-ii-laboratoriyah-vostok-dver-vs-zapad/README.md)

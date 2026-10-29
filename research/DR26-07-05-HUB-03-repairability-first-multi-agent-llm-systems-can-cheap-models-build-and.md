@@ -62,8 +62,3 @@ source: Palo Alto AI Research Lab — deep research programme
 - model-routing-sonnet-grunt
 - multi-agent-role-discipline
 - system-architect
-
-
-## Raw model reports
-
-4 reports delivered, synthesis used not recorded. [DR26-07-05-HUB-03-repairability-first-multi-agent-llm-systems-can-cheap-models-build-and/](DR26-07-05-HUB-03-repairability-first-multi-agent-llm-systems-can-cheap-models-build-and/README.md)
