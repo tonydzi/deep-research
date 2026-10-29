@@ -1,6 +1,6 @@
 # Deep Research — Palo Alto AI Research Lab
 
-361 deep-research reports, distilled. Every entry answers two questions: why we ran this research, and what we got out of it.
+360 deep-research reports, distilled. Every entry answers two questions: why we ran this research, and what we got out of it.
 
 Each report was run across several frontier models (ChatGPT, Gemini, Grok, Claude, GLM, Mistral), then reconciled into the distilled note you see here. Findings are the reconciled ones, not a single model's opinion.
 
@@ -20,7 +20,6 @@ Raw model transcripts stay in our vault. What is published here is the distilled
 
 | ID | Topic | Date |
 |---|---|---|
-| [DR26-10-27-ZB-02-1318](research/DR26-10-27-ZB-02-1318-kak-ii-raskusyvayut-v-korotkoy-lichke-uliki-dlya-dm-geyta-slop-gate.md) | Как ИИ раскусывают в короткой личке: улики для DM-гейта slop_gate | 2026-10-27 |
 | [DR26-10-26-HUB-02](research/DR26-10-26-HUB-02-instrumenty-semanticheskogo-strukturnogo-poiska-po-kodu-i-obuchenie-ch.md) | Инструменты семантического/структурного поиска по коду и обучение через подкасты (два отчё | 2026-10-26 |
 | [DR26-10-26-HUB-03-1338](research/DR26-10-26-HUB-03-1338-layerwise-computation-i-causal-interpretability-llm-zakaz-deep-researc.md) | Layerwise computation и causal interpretability LLM: заказ Deep Research и recall | 2026-10-26 |
 | [DR26-10-24-HUB-01](research/DR26-10-24-HUB-01-windows-low-overhead-continuous-monitoring-and-on-demand-tracing-perfm.md) | Windows low-overhead continuous monitoring and on-demand tracing (PerfMon, ETW/WPR, Sysmon | 2026-10-24 |
@@ -184,6 +183,8 @@ Raw model transcripts stay in our vault. What is published here is the distilled
 
 | ID | Тема | Дата |
 |---|---|---|
+| [DR26-10-28-HUB-01](research/DR26-10-28-HUB-01-alternativy-screenpipe-audit-nepreryvnoy-audiozapisi-ishodnikov-i-remo.md) | Альтернативы Screenpipe: аудит непрерывной аудиозаписи, исходников и ремонтопригодности | 2026-10-28 |
+| [DR26-10-28-HUB-05](research/DR26-10-28-HUB-05-seeray11-openflow-i-vizualnye-konstruktory-agentnyh-workflow-dlya-ai-l.md) | SeeRay11/OpenFlow и визуальные конструкторы агентных workflow для AI-лаборатории | 2026-10-28 |
 | [DR26-10-26-HUB-01-0658](research/DR26-10-26-HUB-01-0658-replit-chto-eto-segodnya-i-kakaya-polza-palo-alto-ai-research-lab-dr-4.md) | Replit: что это сегодня и какая польза Palo Alto AI Research Lab (ДР 4 рельсы, 26.10.2026) | 2026-10-26 |
 | [DR26-10-26-HUB-04-1338](research/DR26-10-26-HUB-04-1338-kak-llm-dumaet-po-sloyam-i-chto-proishodit-v-glubine-sintez-dr-dr26-10.md) | Как LLM думает по слоям и что происходит в глубине: синтез ДР DR26-10-26-HUB-04-1338 (5 ног из 6) | 2026-10-26 |
 | [DR26-10-24-HUB-04-0512](research/DR26-10-24-HUB-04-0512-nautilus-pro-lsd-bystrye-ritmy-i-fraktalnost-mozga-proverka-po-pervois.md) | Nautilus про LSD, быстрые ритмы и фрактальность мозга: проверка по первоисточнику (MEG, N= | 2026-10-24 |
@@ -384,8 +385,6 @@ Raw model transcripts stay in our vault. What is published here is the distilled
 | [DR26-10-22-MACANTON-02-1416](research/DR26-10-22-MACANTON-02-1416-dr26-10-22-macanton-02-1416-chuzhaya-distributsiya-sgm-i-put-k-1000-zv.md) | DR26-10-22-MACANTON-02-1416: чужая дистрибуция sgm и путь к 1000 звёздам (синтез 4 ног) |  |
 | [DR26-10-23-ZB-01-2006](research/DR26-10-23-ZB-01-2006-chto-flot-mozhet-dostich-cherez-ssh-sintez-5-vendorov.md) | Что флот может достичь через SSH: синтез 5 вендоров |  |
 | [DR26-10-25-HUB-02-1107](research/DR26-10-25-HUB-02-1107-svyazka-claude-code-codex-na-odnoy-mashine-sintez-dr-dr26-10-25-hub-02.md) | Связка Claude Code + Codex на одной машине: синтез ДР DR26-10-25-HUB-02-1107 |  |
-| [DR26-10-27-HUB-04-1451](research/DR26-10-27-HUB-04-1451-openflow-seeray11-i-konkurenty-chto-eto-daet-nashemu-flotu-dr-27-28-10.md) | OpenFlow (SeeRay11) и конкуренты: что это даёт нашему флоту (ДР 27-28.10.2026) |  |
-| [DR26-10-28-HUB-03-1540](research/DR26-10-28-HUB-03-1540-claude-code-rodnaya-orkestratsiya-protiv-nashego-flota-dr-28-10-2026.md) | Claude Code: родная оркестрация против нашего флота (ДР 28.10.2026) |  |
 
 ---
 
