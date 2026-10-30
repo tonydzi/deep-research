@@ -4,7 +4,6 @@
 
 | ID | date | topic | reports delivered | used in synthesis | dev.to |
 |---|---|---|---|---|---|
-| [DR26-10-28-HUB-08-1650](https://github.com/tonydzi/deep-research/blob/main/research/DR26-10-28-HUB-08-1650-tap-air-portugal-razbor-otbora-pilota-op23set26-dlya-instruktora-s-250.md) | 2026-10-28 | TAP Air Portugal pilot interview preparation for Sevenair instructor | 1 | 1/6 |  |
 | [DR26-10-28-HUB-01](https://github.com/tonydzi/deep-research/blob/main/research/DR26-10-28-HUB-01-alternativy-screenpipe-audit-nepreryvnoy-audiozapisi-ishodnikov-i-remo.md) | 2026-10-28 | DR26-10-16-HUB-08-2027 — Screenpipe alternatives: аудит непрерывной ау | ? | ? |  |
 | [DR26-10-28-HUB-05](https://github.com/tonydzi/deep-research/blob/main/research/DR26-10-28-HUB-05-seeray11-openflow-i-vizualnye-konstruktory-agentnyh-workflow-dlya-ai-l.md) | 2026-10-28 | SeeRay11/OpenFlow и визуальные конструкторы агентных workflow: исследо | ? | ? |  |
 | [DR26-10-26-HUB-01-0658](https://github.com/tonydzi/deep-research/blob/main/research/DR26-10-26-HUB-01-0658-replit-chto-eto-segodnya-i-kakaya-polza-palo-alto-ai-research-lab-dr-4.md) | 2026-10-26 | Replit: что это сегодня, двери для малой лаборатории, польза для нас | 4 | ? |  |
