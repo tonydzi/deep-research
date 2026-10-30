@@ -97,3 +97,8 @@ source: Palo Alto AI Research Lab — deep research programme
 - Рельса gemini снята через `dr_queue.py retarget --drop`.
 
 Связано: voice-mycroft · mycroft-voice-disclosure · first-person-posts-anton-or-mycroft · platform-matrix-gate · ai-coauthor-trailers-policy · mission-get-noticed-hired-by-llm-company
+
+
+## Raw model reports
+
+2 reports delivered, synthesis used 2 of 2. [DR26-08-01-MACANTON-02-701-publichnye-ai-kofaundery-i-sinteticheskie-persony-chto-realno-rabotaet/](DR26-08-01-MACANTON-02-701-publichnye-ai-kofaundery-i-sinteticheskie-persony-chto-realno-rabotaet/README.md)

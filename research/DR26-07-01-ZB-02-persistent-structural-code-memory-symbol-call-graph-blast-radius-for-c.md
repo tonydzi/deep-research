@@ -49,3 +49,8 @@ source: Palo Alto AI Research Lab — deep research programme
 - desktop-max-laptop-min
 - agent-stack-bundle
 - insight-DR-DR26-07-28-HUB-21-2339-persistent-structural-code-memory-for-coding-agent — тот же вопрос (structural code memory/CodeGraph); новый отчёт — полноценное продолжение
+
+
+## Raw model reports
+
+1 reports delivered, synthesis used not recorded. [DR26-07-01-ZB-02-persistent-structural-code-memory-symbol-call-graph-blast-radius-for-c/](DR26-07-01-ZB-02-persistent-structural-code-memory-symbol-call-graph-blast-radius-for-c/README.md)

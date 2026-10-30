@@ -72,3 +72,8 @@ source: Palo Alto AI Research Lab — deep research programme
 ## Связано
 - insight-DR-DR26-07-27-MACANTON-01-0018-мультиканальный-холодный-аутрич-к-devrel-исследова — обе согласны: GitHub PR/issue-comment идёт ПЕРЕД холодным касанием DevRel — сирота даёт каденцию после этого шага
 - insight-DR-DR26-08-25-MACANTON-07-0740-как-некодер-лоу-код-контрибьютор-строит-карьеру-и- — оба про OSS-вклад как путь к заметности и офферу
+
+
+## Raw model reports
+
+3 reports delivered, synthesis used not recorded. [DR26-07-16-MACANTON-01-1533-karta-oss-kontributsiy-v-ekosistemu-anthropic-gde-i-kak-kontribyutit-c/](DR26-07-16-MACANTON-01-1533-karta-oss-kontributsiy-v-ekosistemu-anthropic-gde-i-kak-kontribyutit-c/README.md)

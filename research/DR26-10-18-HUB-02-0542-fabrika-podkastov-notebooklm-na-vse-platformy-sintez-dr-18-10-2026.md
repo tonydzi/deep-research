@@ -145,3 +145,8 @@ ChatGPT (`deep-research-mini`) утверждал три вещи, которы�
 Промпт: «внутренний архив лаборатории» (тело + §1 add-on, 6824 знака, кириллица 2644 сверена в каждом композере). Ноги шли через живой Chrome хаба (Claude-in-Chrome MCP), без CLI. Леджер: `_drafts/DR-FANOUT-DR26-10-18-HUB-02-0542-podcast-factory.md`. Каждая нога прошла `dr_leg_gate.py --prompt` (exit 0).
 
 🏛H · Opus 5.5 · 99142
+
+
+## Raw model reports
+
+5 reports delivered, synthesis used 5 of 6. [DR26-10-18-HUB-02-0542-fabrika-podkastov-notebooklm-na-vse-platformy-sintez-dr-18-10-2026/](DR26-10-18-HUB-02-0542-fabrika-podkastov-notebooklm-na-vse-platformy-sintez-dr-18-10-2026/README.md)

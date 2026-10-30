@@ -19,3 +19,8 @@ source: Palo Alto AI Research Lab — deep research programme
 Потребитель: выбор харнесса для автоподач без ложных отказов. Связи: MOC-Deep-Research-2026-09.
 
 Дубль-оговорка: синтез codex по тем же 4 ногам уже лежал в DR26-10-22-MACANTON-01-1334-agent-harnesses-browser-forms (04-Projects/DR), мой grep по 03-Insights/02-Decisions его не видел; эта заметка короче, источник правды = синтез codex.
+
+
+## Raw model reports
+
+3 reports delivered, synthesis used 4 of 6. [DR26-10-22-MACANTON-01-1334-brauzernye-agent-harnessy-dlya-podachi-form-i-zagruzki-cv/](DR26-10-22-MACANTON-01-1334-brauzernye-agent-harnessy-dlya-podachi-form-i-zagruzki-cv/README.md)

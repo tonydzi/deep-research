@@ -48,3 +48,8 @@ nsfw-ai-dr-post-series-2026-08-24 (5 черновиков постов по эт
 - **Совпало с решением Антона по упаковке**: «не adult AI, а creator-monetization infrastructure + compliance» — claude.ai пришёл к той же рамке независимо, снизу, от чокпоинтов.
 - **Новая конкретика к переговорам (даты и цифры, не вайб):** TAKE IT DOWN Act — FTC начала enforcement 19.05.2026, до **$53 088 за нарушение**, 48ч на снятие NCII; California SB 243 (companion-боты) с 01.01.2026, $1 000 за нарушение + частный иск; NY-закон с 05.11.2025. Платежи: у Segpay из семи эквайеров **только один US принимает AI adult**, PayPal — полный бан; ставки 5-10% + резервы 0-20% на 90-180 дней, порог чарджбэков ~0.75%. Причина смерти в нише названа прямо: «больше AI-компаньонов умирает от платежей, чем от продукта».
 - **Против нашей же гипотезы (не сглаживаю):** если моат сводится к «готовности терпеть банковскую боль» — это барьер, а не монополия, повторяемый любым упрямым; и «indefinitely paused» у OpenAI ≠ «навсегда».
+
+
+## Raw model reports
+
+5 reports delivered, synthesis used 4 of 6. Note: 1 report(s) arrived after the synthesis was written; they are attached raw and were not reconciled. [DR26-08-24-HUB-01-0830-nsfw-adult-ai-kak-moat-sintez-4-vendorov-moat-realen-no-operatsionnyy/](DR26-08-24-HUB-01-0830-nsfw-adult-ai-kak-moat-sintez-4-vendorov-moat-realen-no-operatsionnyy/README.md)

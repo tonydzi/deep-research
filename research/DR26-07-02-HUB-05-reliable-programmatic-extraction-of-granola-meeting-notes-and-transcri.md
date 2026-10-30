@@ -52,3 +52,8 @@ source: Palo Alto AI Research Lab — deep research programme
 - meeting-transcription-pipeline
 - unattended-etl-reliability
 - mcp-oauth-token-refresh-limitations
+
+
+## Raw model reports
+
+1 reports delivered, synthesis used not recorded. [DR26-07-02-HUB-05-reliable-programmatic-extraction-of-granola-meeting-notes-and-transcri/](DR26-07-02-HUB-05-reliable-programmatic-extraction-of-granola-meeting-notes-and-transcri/README.md)

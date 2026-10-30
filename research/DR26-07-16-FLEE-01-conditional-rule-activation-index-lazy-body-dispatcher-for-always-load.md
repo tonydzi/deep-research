@@ -54,3 +54,8 @@ source: Palo Alto AI Research Lab — deep research programme
 - test-after-build-skill
 - always-on-memory-pilot
 - insight-DR-DR26-07-17-HUB-04-conditional-rule-activation-in-llm-agents-lazy-loa — twin DR report on the same conditional rule activation / lazy-loading topic
+
+
+## Raw model reports
+
+2 reports delivered, synthesis used not recorded. [DR26-07-16-FLEE-01-conditional-rule-activation-index-lazy-body-dispatcher-for-always-load/](DR26-07-16-FLEE-01-conditional-rule-activation-index-lazy-body-dispatcher-for-always-load/README.md)

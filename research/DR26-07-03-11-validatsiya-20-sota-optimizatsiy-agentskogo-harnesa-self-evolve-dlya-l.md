@@ -62,3 +62,8 @@ source: Palo Alto AI Research Lab — deep research programme
 - multi-agent deliberation
 - trace-level synthesis
 - self-evolving agents
+
+
+## Raw model reports
+
+1 reports delivered, synthesis used not recorded. [DR26-07-03-11-validatsiya-20-sota-optimizatsiy-agentskogo-harnesa-self-evolve-dlya-l/](DR26-07-03-11-validatsiya-20-sota-optimizatsiy-agentskogo-harnesa-self-evolve-dlya-l/README.md)

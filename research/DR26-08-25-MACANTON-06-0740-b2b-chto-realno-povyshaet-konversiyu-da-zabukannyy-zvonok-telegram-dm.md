@@ -54,3 +54,8 @@ source: Palo Alto AI Research Lab — deep research programme
 - telegram-outreach
 - b2b-sales-development
 - async-vs-sync-communication
+
+
+## Raw model reports
+
+1 reports delivered, synthesis used not recorded. [DR26-08-25-MACANTON-06-0740-b2b-chto-realno-povyshaet-konversiyu-da-zabukannyy-zvonok-telegram-dm/](DR26-08-25-MACANTON-06-0740-b2b-chto-realno-povyshaet-konversiyu-da-zabukannyy-zvonok-telegram-dm/README.md)

@@ -57,3 +57,8 @@ source: Palo Alto AI Research Lab — deep research programme
 - cofounder-pirate-voice
 - insight-2026-07-16-recovered-lost-alpha — обе заметки независимо приходят к тому же выводу: xai-cookbook мёртв, живая дверь = plugin-marketplace
 - insight-DR-DR26-08-11-HUB-02-2212-асимметрия-слияния-pr-почему-mid-size-инфра-oss-ме — прямой предшественник по живости вендорских cookbook-репо (те же 5 вендоров) — эта DR продолжает и адъюдицирует гипотезу
+
+
+## Raw model reports
+
+3 reports delivered, synthesis used not recorded. [DR26-07-20-MACANTON-02-2127-multi-vendornaya-karta-zhivosti-oss-cookbook-examples-repo-top-llm-kom/](DR26-07-20-MACANTON-02-2127-multi-vendornaya-karta-zhivosti-oss-cookbook-examples-repo-top-llm-kom/README.md)

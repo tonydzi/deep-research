@@ -57,3 +57,8 @@ source: Palo Alto AI Research Lab — deep research programme
 - ghostwriting-workflow
 - personalization-embeddings
 - insight-DR-DR26-07-28-HUB-22-2339-voice-to-content-editorial-systems-achieving-near- — более ранний DR по идентичной теме (voice-to-content, near-100% conversion)
+
+
+## Raw model reports
+
+1 reports delivered, synthesis used not recorded. [DR26-07-04-ZB-07-voice-to-content-editorial-systems-at-near-total-conversion-rate/](DR26-07-04-ZB-07-voice-to-content-editorial-systems-at-near-total-conversion-rate/README.md)

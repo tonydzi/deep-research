@@ -6,6 +6,8 @@ lang: ru
 source: Palo Alto AI Research Lab — deep research programme
 ---
 
+> ⚖️ Корректировка dr-judge 29.10.2026: `results/grok.md` (44 KB) существует и НЕ учтён ниже («grok не пробован» неверно); он согласен с вердиктом: Replit = канал распространения и демо-площадка, первый ход — заявка Ambassadors + публичная MCP-ссылка. Ноги на диске: claudeai, gemini, grok, mistral; chatgpt-файла в results/ нет. Связи: MOC-Deep-Research-2026-09
+
 Machine: хаб (Хаб) · Agent: Claude Code (Sonnet 5.5) · Operator: Anton · 2026-10-26
 
 # Replit для нас: вердикт

@@ -55,3 +55,8 @@ source: Palo Alto AI Research Lab — deep research programme
 - vc-fundability-criteria
 - ai-matching-graveyard
 - insight-DR-DR26-08-29-MACANTON-21-0747-catchclub-connectli-рынок-платных-telegram-клубов- — предшественник в той же цепочке исследования CatchClub/Connectli
+
+
+## Raw model reports
+
+1 reports delivered, synthesis used not recorded. [DR26-08-25-MACANTON-18-0745-catchclub-connectli-rynok-konkurentsiya-i-fandrayzing-v-ssha-2026/](DR26-08-25-MACANTON-18-0745-catchclub-connectli-rynok-konkurentsiya-i-fandrayzing-v-ssha-2026/README.md)

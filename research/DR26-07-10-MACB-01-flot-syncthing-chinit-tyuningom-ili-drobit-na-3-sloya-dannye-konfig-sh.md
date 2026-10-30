@@ -61,3 +61,8 @@ source: Palo Alto AI Research Lab — deep research programme
 - ak47-simplicity
 - deterministic-script-gotchas
 - own-fleet-peer-equality
+
+
+## Raw model reports
+
+6 reports delivered, synthesis used not recorded. [DR26-07-10-MACB-01-flot-syncthing-chinit-tyuningom-ili-drobit-na-3-sloya-dannye-konfig-sh/](DR26-07-10-MACB-01-flot-syncthing-chinit-tyuningom-ili-drobit-na-3-sloya-dannye-konfig-sh/README.md)

@@ -53,3 +53,8 @@ source: Palo Alto AI Research Lab — deep research programme
 - multi-machine-auto-consensus
 - one-system-propagate
 - verify-existing-before-proposing
+
+
+## Raw model reports
+
+1 reports delivered, synthesis used not recorded. [DR26-06-28-HUB-01-architecture-for-multi-llm-agents-claude-codex-gemini-grok-collaborati/](DR26-06-28-HUB-01-architecture-for-multi-llm-agents-claude-codex-gemini-grok-collaborati/README.md)

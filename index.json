@@ -1,6 +1,6 @@
 {
- "generated": "2026-10-29",
- "count": 360,
+ "generated": "2026-10-30",
+ "count": 361,
  "repo": "https://github.com/tonydzi/deep-research",
  "research": [
   {
@@ -3192,7 +3192,7 @@
   {
    "dr_id": "DR26-10-26-HUB-01-0658",
    "title": "Replit: что это сегодня и какая польза Palo Alto AI Research Lab (ДР 4 рельсы, 26.10.2026)",
-   "summary": "Machine: A-2022BAYAREA (Хаб) · Agent: Claude Code (Sonnet 5.5) · Operator: Anton · 2026-10-26",
+   "summary": "⚖️ Корректировка dr-judge 29.10.2026: `results/grok.md` (44 KB) существует и НЕ учтён ниже («grok не пробован» неверно); он согласен с вердиктом: Replit = канал распространения и демо-площадка, первый ход — заявка Ambassadors + публичная MCP-ссылка. Ноги на диске: claudeai, gemini, grok, mistral; chatgpt-файла в results/ нет. Связи: [[MOC-Deep-Research-2026-09]]",
    "lang": "ru",
    "date": "2026-10-26",
    "slug": "DR26-10-26-HUB-01-0658-replit-chto-eto-segodnya-i-kakaya-polza-palo-alto-ai-research-lab-dr-4",
@@ -3210,7 +3210,7 @@
   {
    "dr_id": "DR26-10-26-HUB-03-1338",
    "title": "Layerwise computation и causal interpretability LLM: заказ Deep Research и recall",
-   "summary": "Пакет заказа (не научный отчёт) на многовендорное исследование того, как transformer LLM вычисляют ответ по слоям, что наблюдаемо, что доказано причинно и как воспроизвести на малой открытой модели.",
+   "summary": "⚖️ Корректировка dr-judge 29.10.2026: заметка пересказывает только заказ, научного содержания в ней нет. По `results/grok.md` (52 KB, 1 из 6 ног): роли слоёв реальны, но не универсальная лестница; поздние слои уточняют, подавляют, маршрутизируют; logit/tuned lens показывают декодируемость, не причинность; четыре оси compute держать раздельно (ROME, IOI-цепи, looped transformers). Остальные ноги не приехали. Связи: [[MOC-Deep-Research-2026-09]] Пакет заказа (не научный отчёт) на многовендорное исследование того, как transformer LLM вычисляют ответ по слоям, что наблюдаемо, что доказано причинно и как воспроизвести на малой открытой модели.",
    "lang": "mixed",
    "date": "2026-10-26",
    "slug": "DR26-10-26-HUB-03-1338-layerwise-computation-i-causal-interpretability-llm-zakaz-deep-researc",
@@ -3242,6 +3242,15 @@
    "date": "2026-10-28",
    "slug": "DR26-10-28-HUB-05-seeray11-openflow-i-vizualnye-konstruktory-agentnyh-workflow-dlya-ai-l",
    "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-10-28-HUB-05-seeray11-openflow-i-vizualnye-konstruktory-agentnyh-workflow-dlya-ai-l.md"
+  },
+  {
+   "dr_id": "DR26-10-28-HUB-08-1650",
+   "title": "TAP Air Portugal: разбор отбора пилота OP23SET26 для инструктора с ~2500 ч",
+   "summary": "⚖️ dr-judge 29.10.2026: dr_id исправлен с DR26-10-28-HUB-04 на DR26-10-28-HUB-08-1650 (был чужой). Опора на 1 ногу из 6 (chatgpt). Потребитель: [[tap-ilia-20261028-private-preparation]]. Связи: [[MOC-Deep-Research-2026-09]] Что реально требует и как устроен конкурс TAP OP23SET26 и как подготовить к нему инструктора Sevenair с ~2500 ч piston/IFR и российским паспортом за неделю до оценки.",
+   "lang": "ru",
+   "date": "2026-10-28",
+   "slug": "DR26-10-28-HUB-08-1650-tap-air-portugal-razbor-otbora-pilota-op23set26-dlya-instruktora-s-250",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-10-28-HUB-08-1650-tap-air-portugal-razbor-otbora-pilota-op23set26-dlya-instruktora-s-250.md"
   }
  ]
 }

@@ -55,3 +55,8 @@ source: Palo Alto AI Research Lab — deep research programme
 - SMB retainer churn economics
 - forward-deployed engineers (FDE)
 - insight-DR-DR26-10-05-HUB-05-2152-ai-стартапы-для-smb-в-сша-типы-moat-риск-смыва-пла — тот же вопрос раньше: unit-экономика SMB AI-агентств на ретейнерах
+
+
+## Raw model reports
+
+1 reports delivered, synthesis used not recorded. [DR26-09-30-HUB-01-1422-unit-economics-of-ai-native-smb-automation-agencies-on-retainers/](DR26-09-30-HUB-01-1422-unit-economics-of-ai-native-smb-automation-agencies-on-retainers/README.md)

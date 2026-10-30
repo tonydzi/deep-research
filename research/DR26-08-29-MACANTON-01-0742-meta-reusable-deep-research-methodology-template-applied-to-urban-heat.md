@@ -49,3 +49,8 @@ source: Palo Alto AI Research Lab — deep research programme
 - climate-health-attribution
 - heat-health-action-plans
 - europe-heat-mortality
+
+
+## Raw model reports
+
+1 reports delivered, synthesis used not recorded. [DR26-08-29-MACANTON-01-0742-meta-reusable-deep-research-methodology-template-applied-to-urban-heat/](DR26-08-29-MACANTON-01-0742-meta-reusable-deep-research-methodology-template-applied-to-urban-heat/README.md)

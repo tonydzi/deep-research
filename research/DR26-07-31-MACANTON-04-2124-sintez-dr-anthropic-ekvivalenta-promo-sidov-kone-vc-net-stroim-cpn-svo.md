@@ -58,3 +58,8 @@ ai-audit-before-call-offer · mission-get-noticed-hired-by-llm-company · anton-
 Антон дал «+» на подачу в CPN. При заходе на форму (`claude.com/form/cpn-partner-application`) вскрылся порог, которого не назвала ни одна рельса ДР: **«Be a registered business with 10 or more employees»** — требование на САМОМ ВХОДЕ, не на уровне Select. У лаборатории столько людей нет, завышать цифру в форме запрещено (fake-it-courage-not-fake-numbers).
 
 **Решение (кофаундер, постфактум):** заявку НЕ подаём — она ушла бы в отказ и сожгла первое касание. Возвращаемся к CPN при 10+ оформленных людях либо под юрлицом партнёра. Пока: оффер offer-claude-launch-sprint + публичный продукт на Claude (Powered by Claude / ecosystem) + первая customer story. Лид-магнит без изменений — наш аудит.
+
+
+## Raw model reports
+
+2 reports delivered, synthesis used 2 of 2. [DR26-07-31-MACANTON-04-2124-sintez-dr-anthropic-ekvivalenta-promo-sidov-kone-vc-net-stroim-cpn-svo/](DR26-07-31-MACANTON-04-2124-sintez-dr-anthropic-ekvivalenta-promo-sidov-kone-vc-net-stroim-cpn-svo/README.md)

@@ -54,3 +54,8 @@ source: Palo Alto AI Research Lab — deep research programme
 - деньги/юр.регистрация США
 - founder governance non-profit
 - insight-DR-DR26-08-29-MACANTON-15-0743-регистрация-nonprofit-501-c-3-в-калифорнии-сервисы — тот же тред DR по регистрации 501(c)(3) в Калифорнии, более ранняя версия
+
+
+## Raw model reports
+
+1 reports delivered, synthesis used not recorded. [DR26-08-25-MACANTON-13-0740-registratsiya-nonprofit-501-c-3-v-kalifornii-protsess-formy-sroki-serv/](DR26-08-25-MACANTON-13-0740-registratsiya-nonprofit-501-c-3-v-kalifornii-protsess-formy-sroki-serv/README.md)

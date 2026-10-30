@@ -101,3 +101,8 @@ Gemini: 66,5% OpenAI / 25,5% AmazonBot / 8% Perplexity. ChatGPT со ссылк�
 - Соседний DR по карте площадок: `DR26-07-27-ZB-03-2306`, решение decision-2026-07-27-seo-geo-platform-map
 - Корпус Антона: Hackernoon-Publications-MOC
 - Verbatim-правила площадки с датой: `_originals/Hackernoon/2026-07-27-hackernoon-rules-capture.md`
+
+
+## Raw model reports
+
+1 reports delivered, synthesis used not recorded. [DR26-07-27-ZB-04-2349-hackernoon-kak-rabochaya-ploschadka-sintez-3-vendorov-razvilka-hn-firs/](DR26-07-27-ZB-04-2349-hackernoon-kak-rabochaya-ploschadka-sintez-3-vendorov-razvilka-hn-firs/README.md)

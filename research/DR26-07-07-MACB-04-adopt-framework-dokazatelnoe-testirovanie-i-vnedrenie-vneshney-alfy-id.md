@@ -54,3 +54,8 @@ source: Palo Alto AI Research Lab — deep research programme
 - capture-rules-into-bible
 - evaluate-recurring-into-routine
 - ak47-simplicity
+
+
+## Raw model reports
+
+1 reports delivered, synthesis used not recorded. [DR26-07-07-MACB-04-adopt-framework-dokazatelnoe-testirovanie-i-vnedrenie-vneshney-alfy-id/](DR26-07-07-MACB-04-adopt-framework-dokazatelnoe-testirovanie-i-vnedrenie-vneshney-alfy-id/README.md)

@@ -42,3 +42,8 @@ HUB-06 говорил «медианный US seed 2024 = $2.5M». grok уточ
 
 ## Продолжение той же ночи
 Следом за этим заказом ушёл DR26-08-25-HUB-03-2301 — инвест-валидация уже ВЫБРАННОЙ витрины (zero-trust control plane): сколько просить, на какой формулировке, какой ров, есть ли вау. Синтез: insight-DR-DR26-08-25-HUB-03-2301-invest-validaciya-control-plane — ask $5M, полоса $3.5-6M, и главный вывод «вау-артефакта у нас пока НЕТ».
+
+
+## Raw model reports
+
+2 reports delivered, synthesis used 2 of 6. [DR26-08-25-HUB-02-0712-legkost-fandreyza-po-trem-vitrinam-audit-legche-vsego-sirenka-krasnyy/](DR26-08-25-HUB-02-0712-legkost-fandreyza-po-trem-vitrinam-audit-legche-vsego-sirenka-krasnyy/README.md)

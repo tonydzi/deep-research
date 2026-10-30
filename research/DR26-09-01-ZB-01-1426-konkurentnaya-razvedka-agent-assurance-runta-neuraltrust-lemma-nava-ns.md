@@ -46,3 +46,8 @@ source: Palo Alto AI Research Lab — deep research programme
 - O-1 visa non-dilutive funding
 - stablecoin infra financing
 - policy proof / replay для AI-агентов
+
+
+## Raw model reports
+
+4 reports delivered, synthesis used not recorded. [DR26-09-01-ZB-01-1426-konkurentnaya-razvedka-agent-assurance-runta-neuraltrust-lemma-nava-ns/](DR26-09-01-ZB-01-1426-konkurentnaya-razvedka-agent-assurance-runta-neuraltrust-lemma-nava-ns/README.md)

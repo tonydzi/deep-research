@@ -152,3 +152,8 @@ source: Palo Alto AI Research Lab — deep research programme
 
 **Оригиналы:** `_originals/deep-research/DR26-07-29-MACANTON-01-1302-content-factories-{chatgpt,grok,gemini,codex-gaps}.md`
 **Связано:** spec-content-factory-architecture · spec-anti-slop-content-pipeline · content-approval-24h-timeout · tg-slop-markers-measured · content-factory-architecture · gemini-subscription-is-not-api-quota · prichina-kak-claim · fake-it-courage-not-fake-numbers
+
+
+## Raw model reports
+
+4 reports delivered, synthesis used not recorded. [DR26-07-29-MACANTON-01-1302-sintez-dr-kontent-zavody-na-llm-agentah-konveyer-tselikom-okna-apruva/](DR26-07-29-MACANTON-01-1302-sintez-dr-kontent-zavody-na-llm-agentah-konveyer-tselikom-okna-apruva/README.md)

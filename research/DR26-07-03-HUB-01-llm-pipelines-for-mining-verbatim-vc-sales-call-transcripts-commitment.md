@@ -60,3 +60,8 @@ source: Palo Alto AI Research Lab — deep research programme
 - granola-sync
 - crm-sync
 - model-routing-sonnet-grunt
+
+
+## Raw model reports
+
+3 reports delivered, synthesis used not recorded. [DR26-07-03-HUB-01-llm-pipelines-for-mining-verbatim-vc-sales-call-transcripts-commitment/](DR26-07-03-HUB-01-llm-pipelines-for-mining-verbatim-vc-sales-call-transcripts-commitment/README.md)

@@ -50,3 +50,8 @@ source: Palo Alto AI Research Lab — deep research programme
 - readability
 - voice-verbatim-no-sanitizing
 - content-miner
+
+
+## Raw model reports
+
+1 reports delivered, synthesis used not recorded. [DR26-08-29-MACANTON-07-0742-kak-perepisyvat-ai-sgenerirovannyy-tekst-v-chelovecheskiy-anti-ai-slop/](DR26-08-29-MACANTON-07-0742-kak-perepisyvat-ai-sgenerirovannyy-tekst-v-chelovecheskiy-anti-ai-slop/README.md)

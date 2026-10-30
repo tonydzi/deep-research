@@ -53,3 +53,8 @@ source: Palo Alto AI Research Lab — deep research programme
 - aws-imagine-grant
 - google-for-nonprofits
 - insight-DR-DR26-08-29-MACANTON-14-0743-гранты-и-nonprofit-льготы-сша-2026-что-реально-дос — почти дублирующий DR на ту же тему, парные апдейты 08-25 vs 08-29
+
+
+## Raw model reports
+
+1 reports delivered, synthesis used not recorded. [DR26-08-25-MACANTON-12-0740-granty-i-nonprofit-skidki-ot-google-microsoft-aws-walmart-costco-bofa/](DR26-08-25-MACANTON-12-0740-granty-i-nonprofit-skidki-ot-google-microsoft-aws-walmart-costco-bofa/README.md)

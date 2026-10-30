@@ -96,3 +96,8 @@ source: Palo Alto AI Research Lab — deep research programme
 
 ## Навигация
 insight-DR-DR26-09-16-MACANTON-01-0446-conference-playbook (стратегия ивентов: какие, сколько, фоллоуап) · self-pitch-kit (что говорить о себе) · concept-social-anxiety · concept-muzhestvo (A-001 «ГОЛОС а не текст», A-077 «ЗНАНИЕ УБИРАЕТ СТРАХ») · insight-contradictions §10 · coach-system · main-goals · dr-rails-fabricate-sources
+
+
+## Raw model reports
+
+2 reports delivered, synthesis used not recorded. [DR26-10-05-HUB-06-2203-spokoynoe-uverennoe-povedenie-na-konferentsiyah-mitapah-i-hakatonah-ch/](DR26-10-05-HUB-06-2203-spokoynoe-uverennoe-povedenie-na-konferentsiyah-mitapah-i-hakatonah-ch/README.md)

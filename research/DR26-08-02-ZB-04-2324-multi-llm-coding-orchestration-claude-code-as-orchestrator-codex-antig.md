@@ -59,3 +59,8 @@ source: Palo Alto AI Research Lab — deep research programme
 - secondop-second-opinion
 - shadow-first-mvp-pattern
 - insight-DR-DR26-08-25-MACANTON-16-0740-google-antigravity-2-0-архитектура-интерфейсы-desk — раздел про Antigravity CLI — прямое дополнение
+
+
+## Raw model reports
+
+2 reports delivered, synthesis used not recorded. [DR26-08-02-ZB-04-2324-multi-llm-coding-orchestration-claude-code-as-orchestrator-codex-antig/](DR26-08-02-ZB-04-2324-multi-llm-coding-orchestration-claude-code-as-orchestrator-codex-antig/README.md)

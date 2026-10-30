@@ -52,3 +52,8 @@ source: Palo Alto AI Research Lab — deep research programme
 - alpha-protocol-recall-plus-dr
 - everything-becomes-content
 - synthetic-cofounder
+
+
+## Raw model reports
+
+1 reports delivered, synthesis used not recorded. [DR26-06-27-HUB-02-competitive-landscape-for-a-unified-second-brain-agent-memory-crm-for/](DR26-06-27-HUB-02-competitive-landscape-for-a-unified-second-brain-agent-memory-crm-for/README.md)

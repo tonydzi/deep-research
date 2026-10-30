@@ -71,3 +71,8 @@ source: Palo Alto AI Research Lab — deep research programme
 
 ## Связано
 - insight-dr26-08-02-zb-03-sintez-github-to-hire-15-lichnostey — сиблинг того же вопроса github-репутация→найм
+
+
+## Raw model reports
+
+3 reports delivered, synthesis used not recorded. [DR26-08-01-MACANTON-02-659-steward-hire-kak-laboratorii-nanimayut-meynteynera-vmeste-s-proektom-v/](DR26-08-01-MACANTON-02-659-steward-hire-kak-laboratorii-nanimayut-meynteynera-vmeste-s-proektom-v/README.md)

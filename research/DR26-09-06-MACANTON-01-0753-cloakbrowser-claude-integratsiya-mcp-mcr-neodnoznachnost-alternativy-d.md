@@ -61,3 +61,8 @@ source: Palo Alto AI Research Lab — deep research programme
 
 ## Продолжение
 - 20.09.2026 установка на хабе + собственный замер стабильности (постинг · LLM · ДР): insight-2026-09-20-cloakbrowser-ustanovka-i-zamer-stabilnosti
+
+
+## Raw model reports
+
+1 reports delivered, synthesis used not recorded. [DR26-09-06-MACANTON-01-0753-cloakbrowser-claude-integratsiya-mcp-mcr-neodnoznachnost-alternativy-d/](DR26-09-06-MACANTON-01-0753-cloakbrowser-claude-integratsiya-mcp-mcr-neodnoznachnost-alternativy-d/README.md)

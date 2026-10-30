@@ -113,3 +113,8 @@ HyperLend Aviya добавляет bilateral secured credit, KYC/KYB и возм
 
 ## Связано
 - DR26-08-31-MACANTON-02-0655-synthesis — evidence_for: полный консенсус-синтез рельс этого ДР
+
+
+## Raw model reports
+
+4 reports delivered, synthesis used 3 of 6. Note: 1 report(s) arrived after the synthesis was written; they are attached raw and were not reconciled. [DR26-08-31-MACANTON-02-0655-dr-dr26-08-31-macanton-02-0655-hyperliquid-karta-raundov-nayma-i-dvere/](DR26-08-31-MACANTON-02-0655-dr-dr26-08-31-macanton-02-0655-hyperliquid-karta-raundov-nayma-i-dvere/README.md)

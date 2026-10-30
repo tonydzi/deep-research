@@ -1,6 +1,6 @@
 # Deep Research — Palo Alto AI Research Lab
 
-360 deep-research reports, distilled. Every entry answers two questions: why we ran this research, and what we got out of it.
+361 deep-research reports, distilled. Every entry answers two questions: why we ran this research, and what we got out of it.
 
 Each report was run across several frontier models (ChatGPT, Gemini, Grok, Claude, GLM, Mistral), then reconciled into the distilled note you see here. Findings are the reconciled ones, not a single model's opinion.
 
@@ -185,6 +185,7 @@ Raw model transcripts stay in our vault. What is published here is the distilled
 |---|---|---|
 | [DR26-10-28-HUB-01](research/DR26-10-28-HUB-01-alternativy-screenpipe-audit-nepreryvnoy-audiozapisi-ishodnikov-i-remo.md) | Альтернативы Screenpipe: аудит непрерывной аудиозаписи, исходников и ремонтопригодности | 2026-10-28 |
 | [DR26-10-28-HUB-05](research/DR26-10-28-HUB-05-seeray11-openflow-i-vizualnye-konstruktory-agentnyh-workflow-dlya-ai-l.md) | SeeRay11/OpenFlow и визуальные конструкторы агентных workflow для AI-лаборатории | 2026-10-28 |
+| [DR26-10-28-HUB-08-1650](research/DR26-10-28-HUB-08-1650-tap-air-portugal-razbor-otbora-pilota-op23set26-dlya-instruktora-s-250.md) | TAP Air Portugal: разбор отбора пилота OP23SET26 для инструктора с ~2500 ч | 2026-10-28 |
 | [DR26-10-26-HUB-01-0658](research/DR26-10-26-HUB-01-0658-replit-chto-eto-segodnya-i-kakaya-polza-palo-alto-ai-research-lab-dr-4.md) | Replit: что это сегодня и какая польза Palo Alto AI Research Lab (ДР 4 рельсы, 26.10.2026) | 2026-10-26 |
 | [DR26-10-26-HUB-04-1338](research/DR26-10-26-HUB-04-1338-kak-llm-dumaet-po-sloyam-i-chto-proishodit-v-glubine-sintez-dr-dr26-10.md) | Как LLM думает по слоям и что происходит в глубине: синтез ДР DR26-10-26-HUB-04-1338 (5 ног из 6) | 2026-10-26 |
 | [DR26-10-24-HUB-04-0512](research/DR26-10-24-HUB-04-0512-nautilus-pro-lsd-bystrye-ritmy-i-fraktalnost-mozga-proverka-po-pervois.md) | Nautilus про LSD, быстрые ритмы и фрактальность мозга: проверка по первоисточнику (MEG, N= | 2026-10-24 |

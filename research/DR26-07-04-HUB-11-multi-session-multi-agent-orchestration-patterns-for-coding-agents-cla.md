@@ -56,3 +56,8 @@ source: Palo Alto AI Research Lab — deep research programme
 - connect-rule-pipeline-ownership
 - machine-governance-leader-follower
 - insight-DR-DR26-07-04-HUB-11-multi-session-and-multi-agent-llm-orchestration-fo — тот же dr_id, дубль-вариант того же исследования
+
+
+## Raw model reports
+
+1 reports delivered, synthesis used not recorded. [DR26-07-04-HUB-11-multi-session-multi-agent-orchestration-patterns-for-coding-agents-cla/](DR26-07-04-HUB-11-multi-session-multi-agent-orchestration-patterns-for-coding-agents-cla/README.md)

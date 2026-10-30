@@ -52,3 +52,8 @@ source: Palo Alto AI Research Lab — deep research programme
 3. Если правило «жжём только оплаченное» держим — **отказаться целиком**, остаться на шести рельсах.
 
 **Рельса НЕ включена. Решение за Антоном (Tier-2).**
+
+
+## Raw model reports
+
+4 reports delivered, synthesis used 4 of 4. [DR26-08-10-MACANTON-01-1154-perplexity-kak-sedmaya-dr-relsa-rabotaet-tolko-pryamoy-api-i-on-platny/](DR26-08-10-MACANTON-01-1154-perplexity-kak-sedmaya-dr-relsa-rabotaet-tolko-pryamoy-api-i-on-platny/README.md)

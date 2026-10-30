@@ -47,3 +47,8 @@ source: Palo Alto AI Research Lab — deep research programme
 - OpenAI pricing changes
 - Alpha Protocol DR
 - insight-DR-DR26-08-29-MACANTON-11-0742-лимиты-deep-research-в-chatgpt-plus-pro-на-август- — тот же вопрос квот DR ChatGPT Plus/Pro исследован повторно 4 дня спустя
+
+
+## Raw model reports
+
+1 reports delivered, synthesis used not recorded. [DR26-08-25-MACANTON-10-0740-limity-deep-research-v-chatgpt-plus-pro-na-avgust-2026-i-chto-posle-is/](DR26-08-25-MACANTON-10-0740-limity-deep-research-v-chatgpt-plus-pro-na-avgust-2026-i-chto-posle-is/README.md)

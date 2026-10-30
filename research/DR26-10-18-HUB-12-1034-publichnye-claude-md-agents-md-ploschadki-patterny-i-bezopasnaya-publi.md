@@ -60,3 +60,8 @@ source: Palo Alto AI Research Lab — deep research programme
 - длина инструкций против качества агента
 - мультивендорный Deep Research и кворум 4/6
 - безопасность и границы доверия в agent instructions
+
+
+## Raw model reports
+
+4 reports delivered, synthesis used 1 of 6. Note: 3 report(s) arrived after the synthesis was written; they are attached raw and were not reconciled. [DR26-10-18-HUB-12-1034-publichnye-claude-md-agents-md-ploschadki-patterny-i-bezopasnaya-publi/](DR26-10-18-HUB-12-1034-publichnye-claude-md-agents-md-ploschadki-patterny-i-bezopasnaya-publi/README.md)

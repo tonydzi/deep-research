@@ -54,3 +54,8 @@ source: Palo Alto AI Research Lab — deep research programme
 - teach-anton-by-podcast-default
 - job-search-ai-labs
 - never-call-anton-a-founder
+
+
+## Raw model reports
+
+4 reports delivered, synthesis used 4 of 6. [DR26-09-22-HUB-03-1433-intervyu-lupy-top-laboratoriy-ii-dlya-research-scientist-mts-2025-2026/](DR26-09-22-HUB-03-1433-intervyu-lupy-top-laboratoriy-ii-dlya-research-scientist-mts-2025-2026/README.md)

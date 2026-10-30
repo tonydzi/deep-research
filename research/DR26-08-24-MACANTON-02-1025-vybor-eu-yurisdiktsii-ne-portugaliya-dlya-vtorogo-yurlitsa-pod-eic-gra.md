@@ -65,3 +65,8 @@ source: Palo Alto AI Research Lab — deep research programme
 - Ireland Knowledge Development Box
 - DR26-08-24-MACANTON-02-1025-synthesis — evidence_for: полный консенсус-синтез рельс этого ДР
 - insight-DR-DR26-08-29-MACANTON-22-0759-eu-entity-для-non-dilutive-funding-eic-horizon-выб — тот же вопрос EIC/Horizon EU-юрлица, follow-up DR с противоположной рекомендацией
+
+
+## Raw model reports
+
+4 reports delivered, synthesis used 4 of 6. [DR26-08-24-MACANTON-02-1025-vybor-eu-yurisdiktsii-ne-portugaliya-dlya-vtorogo-yurlitsa-pod-eic-gra/](DR26-08-24-MACANTON-02-1025-vybor-eu-yurisdiktsii-ne-portugaliya-dlya-vtorogo-yurlitsa-pod-eic-gra/README.md)

@@ -51,3 +51,8 @@ source: Palo Alto AI Research Lab — deep research programme
 - cofounder-github-visibility
 - everything-becomes-content
 - 2026-09-04-andrey-1-on-1-with-tony-54T44N — call subject Andrey describes exact guerrilla-PR job-hunting tactic (PRs noticed by Google engineers, seeking Anthropic/DevRel/BD role)
+
+
+## Raw model reports
+
+1 reports delivered, synthesis used not recorded. [DR26-08-29-MACANTON-06-0742-partizanskoe-prodvizhenie-github-profilya-inzhenera-dlya-trudoustroyst/](DR26-08-29-MACANTON-06-0742-partizanskoe-prodvizhenie-github-profilya-inzhenera-dlya-trudoustroyst/README.md)

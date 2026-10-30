@@ -6,6 +6,8 @@ lang: mixed
 source: Palo Alto AI Research Lab — deep research programme
 ---
 
+> ⚖️ Корректировка dr-judge 29.10.2026: заметка пересказывает только заказ, научного содержания в ней нет. По `results/grok.md` (52 KB, 1 из 6 ног): роли слоёв реальны, но не универсальная лестница; поздние слои уточняют, подавляют, маршрутизируют; logit/tuned lens показывают декодируемость, не причинность; четыре оси compute держать раздельно (ROME, IOI-цепи, looped transformers). Остальные ноги не приехали. Связи: MOC-Deep-Research-2026-09
+
 # Insight (DR DR26-10-26-HUB-03-1338): Layerwise computation и causal interpretability LLM: заказ Deep Research и recall
 
 > Пакет заказа (не научный отчёт) на многовендорное исследование того, как transformer LLM вычисляют ответ по слоям, что наблюдаемо, что доказано причинно и как воспроизвести на малой открытой модели.

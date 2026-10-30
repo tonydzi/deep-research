@@ -109,3 +109,8 @@ false-corroboration-two-sources-agreeing, check-all-places-not-one.
 ## 7. Мой промах в этом заходе
 
 Я написал, что реестр без платной подписки не собрать, проверив ровно две двери (DefiLlama API дал 402, лента CryptoRank под регистрацией). **Codex это опроверг**, собрав 77 раундов по бесплатным недельным дайджестам. Ошибка класса «пусто из одного места не равно нет» — check-all-places-not-one. Поправка внесена в оригинал замера.
+
+
+## Raw model reports
+
+2 reports delivered, synthesis used not recorded. [DR26-08-24-HUB-05-1830-audit-svezhih-raundov-v-kripte-iyun-avgust-2026-reestr-klastery-bd-adr/](DR26-08-24-HUB-05-1830-audit-svezhih-raundov-v-kripte-iyun-avgust-2026-reestr-klastery-bd-adr/README.md)

@@ -140,3 +140,8 @@ ACP (arXiv:2602.15055), «advisory concurrency» MTPO. Два других ве�
   Буфер обмена как канал не годится: параллельная сессия перетирает его за секунды
   (clipboard-shared-across-sessions подтвердилось трижды). Рабочий универсальный приём —
   Blob + `<a download>` из JS страницы, но Chrome даёт ОДНУ авто-загрузку на свежую вкладку.
+
+
+## Raw model reports
+
+3 reports delivered, synthesis used 3 of 3. [DR26-08-04-ZB-03-1552-sintez-dr26-08-04-zb-03-ack-protokol-flota-chinit-semantiku-a-ne-trans/](DR26-08-04-ZB-03-1552-sintez-dr26-08-04-zb-03-ack-protokol-flota-chinit-semantiku-a-ne-trans/README.md)

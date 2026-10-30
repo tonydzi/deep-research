@@ -1,12 +1,13 @@
 # Palo Alto AI Research Lab — deep research corpus
 
-360 distilled deep-research reports. Machine-readable index: index.json
+361 distilled deep-research reports. Machine-readable index: index.json
 Each file: frontmatter (dr_id, title, date, lang) + summary + key findings + recommendations.
 Multi-model methodology: every question fanned out to several frontier models, then reconciled.
 License: CC BY 4.0. Cite as: Palo Alto AI Research Lab, deep research <dr_id>.
 
 - DR26-10-28-HUB-01 (2026-10-28, ru): Альтернативы Screenpipe: аудит непрерывной аудиозаписи, исходников и ремонтопригодности
 - DR26-10-28-HUB-05 (2026-10-28, ru): SeeRay11/OpenFlow и визуальные конструкторы агентных workflow для AI-лаборатории
+- DR26-10-28-HUB-08-1650 (2026-10-28, ru): TAP Air Portugal: разбор отбора пилота OP23SET26 для инструктора с ~2500 ч
 - DR26-10-26-HUB-01-0658 (2026-10-26, ru): Replit: что это сегодня и какая польза Palo Alto AI Research Lab (ДР 4 рельсы, 26.10.2026)
 - DR26-10-26-HUB-02 (2026-10-26, mixed): Инструменты семантического/структурного поиска по коду и обучение через подкасты (два отчё
 - DR26-10-26-HUB-03-1338 (2026-10-26, mixed): Layerwise computation и causal interpretability LLM: заказ Deep Research и recall

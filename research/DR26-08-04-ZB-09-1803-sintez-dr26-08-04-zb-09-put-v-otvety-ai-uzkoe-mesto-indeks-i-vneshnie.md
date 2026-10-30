@@ -131,3 +131,8 @@ GitHub-артефакт и заработанные упоминания, а н�
 `🤔 не подтверждено`, ссылаться на них в публичном тексте нельзя (live-url-is-not-a-verified-citation).
 
 **Потребитель поправки:** decision-2026-08-04-linkmass-strategy-12weeks §5 (порядок при переименовании).
+
+
+## Raw model reports
+
+3 reports delivered, synthesis used 2 of 2. Note: 1 report(s) arrived after the synthesis was written; they are attached raw and were not reconciled. [DR26-08-04-ZB-09-1803-sintez-dr26-08-04-zb-09-put-v-otvety-ai-uzkoe-mesto-indeks-i-vneshnie/](DR26-08-04-ZB-09-1803-sintez-dr26-08-04-zb-09-put-v-otvety-ai-uzkoe-mesto-indeks-i-vneshnie/README.md)

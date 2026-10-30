@@ -55,3 +55,8 @@ source: Palo Alto AI Research Lab — deep research programme
 - enterprise-revenue-concentration-risk
 - compute-for-equity
 - ai-lab-ipo-s1-disclosure
+
+
+## Raw model reports
+
+3 reports delivered, synthesis used 3 of 6. [DR26-09-14-ZB-09-2008-forenzika-dohodov-frontier-llm-laboratoriy-shoditsya-li-podpisochnaya/](DR26-09-14-ZB-09-2008-forenzika-dohodov-frontier-llm-laboratoriy-shoditsya-li-podpisochnaya/README.md)
