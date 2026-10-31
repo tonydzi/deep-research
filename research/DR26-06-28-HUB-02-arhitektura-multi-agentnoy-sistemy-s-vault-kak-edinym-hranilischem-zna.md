@@ -58,6 +58,9 @@ source: Palo Alto AI Research Lab — deep research programme
 - RAG
 
 
+## Check it yourself: prompt, sources, raw reports
+
+
 ## Raw model reports
 
 1 reports delivered, synthesis used not recorded. [DR26-06-28-HUB-02-arhitektura-multi-agentnoy-sistemy-s-vault-kak-edinym-hranilischem-zna/](DR26-06-28-HUB-02-arhitektura-multi-agentnoy-sistemy-s-vault-kak-edinym-hranilischem-zna/README.md)

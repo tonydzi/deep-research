@@ -8,6 +8,9 @@
 |---|---|
 
 
+- prompt: not preserved (this research ran before we kept a prompt registry)
+- [sources](./sources.md): 1 unique links cited by the models
+
 Reports below are published as delivered, after an automatic privacy scrub.
 
 - [windows](./windows.md)

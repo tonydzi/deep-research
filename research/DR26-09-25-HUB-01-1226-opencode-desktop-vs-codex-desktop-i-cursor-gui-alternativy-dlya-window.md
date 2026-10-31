@@ -53,6 +53,11 @@ source: Palo Alto AI Research Lab — deep research programme
 - reglament-snachala-svoi-podpiski-potom-openrouter
 
 
+## Check it yourself: prompt, sources, raw reports
+
+- Prompt: [DR26-09-25-HUB-01-1226-opencode-desktop-vs-codex-desktop-i-cursor-gui-alternativy-dlya-window/prompt.md](DR26-09-25-HUB-01-1226-opencode-desktop-vs-codex-desktop-i-cursor-gui-alternativy-dlya-window/prompt.md)
+- All sources (48 links): [DR26-09-25-HUB-01-1226-opencode-desktop-vs-codex-desktop-i-cursor-gui-alternativy-dlya-window/sources.md](DR26-09-25-HUB-01-1226-opencode-desktop-vs-codex-desktop-i-cursor-gui-alternativy-dlya-window/sources.md)
+
 ## Raw model reports
 
 2 reports delivered, synthesis used 2 of 6. [DR26-09-25-HUB-01-1226-opencode-desktop-vs-codex-desktop-i-cursor-gui-alternativy-dlya-window/](DR26-09-25-HUB-01-1226-opencode-desktop-vs-codex-desktop-i-cursor-gui-alternativy-dlya-window/README.md)

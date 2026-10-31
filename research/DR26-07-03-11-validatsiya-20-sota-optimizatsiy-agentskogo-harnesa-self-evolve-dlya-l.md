@@ -64,6 +64,9 @@ source: Palo Alto AI Research Lab — deep research programme
 - self-evolving agents
 
 
+## Check it yourself: prompt, sources, raw reports
+
+
 ## Raw model reports
 
 1 reports delivered, synthesis used not recorded. [DR26-07-03-11-validatsiya-20-sota-optimizatsiy-agentskogo-harnesa-self-evolve-dlya-l/](DR26-07-03-11-validatsiya-20-sota-optimizatsiy-agentskogo-harnesa-self-evolve-dlya-l/README.md)

@@ -62,6 +62,10 @@ source: Palo Alto AI Research Lab — deep research programme
 - config-safety-backup-and-migration-check
 
 
+## Check it yourself: prompt, sources, raw reports
+
+- All sources (1 links): [DR26-07-02-HUB-03-scaling-a-decentralized-personal-ai-agent-fleet-multi-machine-claude-c/sources.md](DR26-07-02-HUB-03-scaling-a-decentralized-personal-ai-agent-fleet-multi-machine-claude-c/sources.md)
+
 ## Raw model reports
 
 1 reports delivered, synthesis used not recorded. [DR26-07-02-HUB-03-scaling-a-decentralized-personal-ai-agent-fleet-multi-machine-claude-c/](DR26-07-02-HUB-03-scaling-a-decentralized-personal-ai-agent-fleet-multi-machine-claude-c/README.md)

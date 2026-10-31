@@ -55,6 +55,9 @@ source: Palo Alto AI Research Lab — deep research programme
 - insight-DR-DR26-08-29-MACANTON-10-0742-сравнение-новых-ллм-2026-glm-mimo-kimi-k3-vs-claud — почти дублирующий DR той же темы, выпущен на 4 дня раньше
 
 
+## Check it yourself: prompt, sources, raw reports
+
+
 ## Raw model reports
 
 1 reports delivered, synthesis used not recorded. [DR26-08-25-MACANTON-09-0740-sravnenie-novyh-llm-2026-glm-mimo-kimi-k3-claude-fable-5-opus-5-gpt-5/](DR26-08-25-MACANTON-09-0740-sravnenie-novyh-llm-2026-glm-mimo-kimi-k3-claude-fable-5-opus-5-gpt-5/README.md)

@@ -60,6 +60,11 @@ source: Palo Alto AI Research Lab — deep research programme
 - llms.txt и открываемость агентами
 
 
+## Check it yourself: prompt, sources, raw reports
+
+- Prompt: [DR26-10-07-MACANTON-02-1738-kanaly-pervyh-100-polzovateley-malogo-oss-primitiva-dlya-llm-agentov-2/prompt.md](DR26-10-07-MACANTON-02-1738-kanaly-pervyh-100-polzovateley-malogo-oss-primitiva-dlya-llm-agentov-2/prompt.md)
+- All sources (42 links): [DR26-10-07-MACANTON-02-1738-kanaly-pervyh-100-polzovateley-malogo-oss-primitiva-dlya-llm-agentov-2/sources.md](DR26-10-07-MACANTON-02-1738-kanaly-pervyh-100-polzovateley-malogo-oss-primitiva-dlya-llm-agentov-2/sources.md)
+
 ## Raw model reports
 
 1 reports delivered, synthesis used 1 of 6. [DR26-10-07-MACANTON-02-1738-kanaly-pervyh-100-polzovateley-malogo-oss-primitiva-dlya-llm-agentov-2/](DR26-10-07-MACANTON-02-1738-kanaly-pervyh-100-polzovateley-malogo-oss-primitiva-dlya-llm-agentov-2/README.md)

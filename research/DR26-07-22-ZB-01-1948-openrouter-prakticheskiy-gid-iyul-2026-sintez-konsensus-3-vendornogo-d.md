@@ -82,6 +82,10 @@ source: Palo Alto AI Research Lab — deep research programme
 - decision-2026-07-23-openrouter-operational-setup — decision прямо называет себя 'операционализацией' этого DR-гида
 
 
+## Check it yourself: prompt, sources, raw reports
+
+- All sources (57 links): [DR26-07-22-ZB-01-1948-openrouter-prakticheskiy-gid-iyul-2026-sintez-konsensus-3-vendornogo-d/sources.md](DR26-07-22-ZB-01-1948-openrouter-prakticheskiy-gid-iyul-2026-sintez-konsensus-3-vendornogo-d/sources.md)
+
 ## Raw model reports
 
 2 reports delivered, synthesis used not recorded. [DR26-07-22-ZB-01-1948-openrouter-prakticheskiy-gid-iyul-2026-sintez-konsensus-3-vendornogo-d/](DR26-07-22-ZB-01-1948-openrouter-prakticheskiy-gid-iyul-2026-sintez-konsensus-3-vendornogo-d/README.md)

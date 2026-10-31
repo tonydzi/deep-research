@@ -51,6 +51,9 @@ source: Palo Alto AI Research Lab — deep research programme
 - insight-DR-DR26-07-04-HUB-14-voice-recipe-for-the-journey-blending-reputable-ai — твин-заметка того же DR-ID, независимый синтез той же темы
 
 
+## Check it yourself: prompt, sources, raw reports
+
+
 ## Raw model reports
 
 2 reports delivered, synthesis used not recorded. [DR26-07-04-HUB-14-voice-recipe-for-the-journey-blending-ai-world-writers-blockbuster-sci/](DR26-07-04-HUB-14-voice-recipe-for-the-journey-blending-ai-world-writers-blockbuster-sci/README.md)

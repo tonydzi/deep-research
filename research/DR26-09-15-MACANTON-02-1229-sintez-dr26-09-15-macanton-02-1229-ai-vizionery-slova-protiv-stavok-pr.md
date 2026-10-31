@@ -131,6 +131,11 @@ P.S. Да, нас можно нанять. Anthropic, OpenAI, ваш ход: cal
 > ⭐ **Перемер 26.09.2026 (11 дней спустя):** двери пересчитаны живьём, лучшая дверь СМЕНИЛАСЬ — `modded-nanogpt` просел с 16 мержей до 8, а `thinking-machines-lab/tinker-cookbook` даёт 47 внешних мержей от 12 авторов. Плюс найдена дверь в Anthropic (`sandbox-runtime`, 83 мержа, внешние = мейнтейнеры Electron/Prettier/Bun). Вердикт «кодит или болтает» по каждому из 22 + 4 готовых касания → insight-2026-09-26-ai-visionaries-github-doors-and-verdicts
 
 
+## Check it yourself: prompt, sources, raw reports
+
+- Prompt: [DR26-09-15-MACANTON-02-1229-sintez-dr26-09-15-macanton-02-1229-ai-vizionery-slova-protiv-stavok-pr/prompt.md](DR26-09-15-MACANTON-02-1229-sintez-dr26-09-15-macanton-02-1229-ai-vizionery-slova-protiv-stavok-pr/prompt.md)
+- All sources (249 links): [DR26-09-15-MACANTON-02-1229-sintez-dr26-09-15-macanton-02-1229-ai-vizionery-slova-protiv-stavok-pr/sources.md](DR26-09-15-MACANTON-02-1229-sintez-dr26-09-15-macanton-02-1229-ai-vizionery-slova-protiv-stavok-pr/sources.md)
+
 ## Raw model reports
 
 4 reports delivered, synthesis used 4 of 5. [DR26-09-15-MACANTON-02-1229-sintez-dr26-09-15-macanton-02-1229-ai-vizionery-slova-protiv-stavok-pr/](DR26-09-15-MACANTON-02-1229-sintez-dr26-09-15-macanton-02-1229-ai-vizionery-slova-protiv-stavok-pr/README.md)

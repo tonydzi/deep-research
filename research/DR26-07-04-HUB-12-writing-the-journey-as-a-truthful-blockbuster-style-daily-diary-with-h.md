@@ -61,6 +61,9 @@ source: Palo Alto AI Research Lab — deep research programme
 - insight-DR-DR26-07-04-HUB-12-turning-anton-s-daily-technical-build-diary-the-jo — тот же DR-ID, параллельный синтез другим вендором
 
 
+## Check it yourself: prompt, sources, raw reports
+
+
 ## Raw model reports
 
 3 reports delivered, synthesis used not recorded. [DR26-07-04-HUB-12-writing-the-journey-as-a-truthful-blockbuster-style-daily-diary-with-h/](DR26-07-04-HUB-12-writing-the-journey-as-a-truthful-blockbuster-style-daily-diary-with-h/README.md)

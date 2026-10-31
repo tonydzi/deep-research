@@ -21,6 +21,11 @@ source: Palo Alto AI Research Lab — deep research programme
 Дубль-оговорка: синтез codex по тем же 4 ногам уже лежал в DR26-10-22-MACANTON-01-1334-agent-harnesses-browser-forms (04-Projects/DR), мой grep по 03-Insights/02-Decisions его не видел; эта заметка короче, источник правды = синтез codex.
 
 
+## Check it yourself: prompt, sources, raw reports
+
+- Prompt: [DR26-10-22-MACANTON-01-1334-brauzernye-agent-harnessy-dlya-podachi-form-i-zagruzki-cv/prompt.md](DR26-10-22-MACANTON-01-1334-brauzernye-agent-harnessy-dlya-podachi-form-i-zagruzki-cv/prompt.md)
+- All sources (200 links): [DR26-10-22-MACANTON-01-1334-brauzernye-agent-harnessy-dlya-podachi-form-i-zagruzki-cv/sources.md](DR26-10-22-MACANTON-01-1334-brauzernye-agent-harnessy-dlya-podachi-form-i-zagruzki-cv/sources.md)
+
 ## Raw model reports
 
 3 reports delivered, synthesis used 4 of 6. [DR26-10-22-MACANTON-01-1334-brauzernye-agent-harnessy-dlya-podachi-form-i-zagruzki-cv/](DR26-10-22-MACANTON-01-1334-brauzernye-agent-harnessy-dlya-podachi-form-i-zagruzki-cv/README.md)

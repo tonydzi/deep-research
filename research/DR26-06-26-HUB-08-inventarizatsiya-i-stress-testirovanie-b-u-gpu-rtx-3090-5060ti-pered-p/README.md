@@ -8,6 +8,9 @@
 |---|---|
 
 
+- prompt: not preserved (this research ran before we kept a prompt registry)
+- [sources](./sources.md): 13 unique links cited by the models
+
 Reports below are published as delivered, after an automatic privacy scrub.
 
 - [данных](./данных.md)

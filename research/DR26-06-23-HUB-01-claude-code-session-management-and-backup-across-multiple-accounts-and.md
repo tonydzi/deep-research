@@ -57,6 +57,9 @@ source: Palo Alto AI Research Lab — deep research programme
 - machine-migration
 
 
+## Check it yourself: prompt, sources, raw reports
+
+
 ## Raw model reports
 
 1 reports delivered, synthesis used not recorded. [DR26-06-23-HUB-01-claude-code-session-management-and-backup-across-multiple-accounts-and/](DR26-06-23-HUB-01-claude-code-session-management-and-backup-across-multiple-accounts-and/README.md)

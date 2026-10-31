@@ -89,6 +89,11 @@ source: Palo Alto AI Research Lab — deep research programme
 - insight-DR-DR26-08-29-MACANTON-15-0743-регистрация-nonprofit-501-c-3-в-калифорнии-сервисы — тот же список сервисов регистрации (Foundation Group, LegalZoom, Northwest, Bizee)
 
 
+## Check it yourself: prompt, sources, raw reports
+
+- Prompt: [DR26-08-10-HUB-01-1449-onlayn-platformy-registratsii-501-c-3-foundation-group-core-kaliforniy/prompt.md](DR26-08-10-HUB-01-1449-onlayn-platformy-registratsii-501-c-3-foundation-group-core-kaliforniy/prompt.md)
+- All sources (112 links): [DR26-08-10-HUB-01-1449-onlayn-platformy-registratsii-501-c-3-foundation-group-core-kaliforniy/sources.md](DR26-08-10-HUB-01-1449-onlayn-platformy-registratsii-501-c-3-foundation-group-core-kaliforniy/sources.md)
+
 ## Raw model reports
 
 4 reports delivered, synthesis used 4 of 6. [DR26-08-10-HUB-01-1449-onlayn-platformy-registratsii-501-c-3-foundation-group-core-kaliforniy/](DR26-08-10-HUB-01-1449-onlayn-platformy-registratsii-501-c-3-foundation-group-core-kaliforniy/README.md)

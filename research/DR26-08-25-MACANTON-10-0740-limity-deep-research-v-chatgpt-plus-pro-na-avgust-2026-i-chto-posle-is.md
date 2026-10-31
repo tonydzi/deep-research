@@ -49,6 +49,10 @@ source: Palo Alto AI Research Lab — deep research programme
 - insight-DR-DR26-08-29-MACANTON-11-0742-лимиты-deep-research-в-chatgpt-plus-pro-на-август- — тот же вопрос квот DR ChatGPT Plus/Pro исследован повторно 4 дня спустя
 
 
+## Check it yourself: prompt, sources, raw reports
+
+- All sources (8 links): [DR26-08-25-MACANTON-10-0740-limity-deep-research-v-chatgpt-plus-pro-na-avgust-2026-i-chto-posle-is/sources.md](DR26-08-25-MACANTON-10-0740-limity-deep-research-v-chatgpt-plus-pro-na-avgust-2026-i-chto-posle-is/sources.md)
+
 ## Raw model reports
 
 1 reports delivered, synthesis used not recorded. [DR26-08-25-MACANTON-10-0740-limity-deep-research-v-chatgpt-plus-pro-na-avgust-2026-i-chto-posle-is/](DR26-08-25-MACANTON-10-0740-limity-deep-research-v-chatgpt-plus-pro-na-avgust-2026-i-chto-posle-is/README.md)

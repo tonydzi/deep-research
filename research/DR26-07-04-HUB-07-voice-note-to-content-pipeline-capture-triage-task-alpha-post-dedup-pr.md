@@ -59,6 +59,9 @@ source: Palo Alto AI Research Lab — deep research programme
 - insight-DR-DR26-07-04-ZB-07-voice-to-content-editorial-systems-at-near-total-c — другой DR того же дня о voice-note-to-content конвейере
 
 
+## Check it yourself: prompt, sources, raw reports
+
+
 ## Raw model reports
 
 1 reports delivered, synthesis used not recorded. [DR26-07-04-HUB-07-voice-note-to-content-pipeline-capture-triage-task-alpha-post-dedup-pr/](DR26-07-04-HUB-07-voice-note-to-content-pipeline-capture-triage-task-alpha-post-dedup-pr/README.md)

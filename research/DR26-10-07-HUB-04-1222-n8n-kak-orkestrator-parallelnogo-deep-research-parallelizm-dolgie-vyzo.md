@@ -68,6 +68,11 @@ source: Palo Alto AI Research Lab — deep research programme
 - Оркестратор против системы записи
 
 
+## Check it yourself: prompt, sources, raw reports
+
+- Prompt: [DR26-10-07-HUB-04-1222-n8n-kak-orkestrator-parallelnogo-deep-research-parallelizm-dolgie-vyzo/prompt.md](DR26-10-07-HUB-04-1222-n8n-kak-orkestrator-parallelnogo-deep-research-parallelizm-dolgie-vyzo/prompt.md)
+- All sources (65 links): [DR26-10-07-HUB-04-1222-n8n-kak-orkestrator-parallelnogo-deep-research-parallelizm-dolgie-vyzo/sources.md](DR26-10-07-HUB-04-1222-n8n-kak-orkestrator-parallelnogo-deep-research-parallelizm-dolgie-vyzo/sources.md)
+
 ## Raw model reports
 
 3 reports delivered, synthesis used 1 of 5. Note: 2 report(s) arrived after the synthesis was written; they are attached raw and were not reconciled. [DR26-10-07-HUB-04-1222-n8n-kak-orkestrator-parallelnogo-deep-research-parallelizm-dolgie-vyzo/](DR26-10-07-HUB-04-1222-n8n-kak-orkestrator-parallelnogo-deep-research-parallelizm-dolgie-vyzo/README.md)

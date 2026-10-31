@@ -85,6 +85,11 @@ gemini-third-reviewer-rail · hub-review-rails · model-routing-fable-smart · p
 - insight-DR-DR26-08-25-MACANTON-09-0740-сравнение-новых-llm-2026-glm-mimo-kimi-k3-claude-f — тот же DR-разбор GLM/Kimi K3, прямое пересечение
 
 
+## Check it yourself: prompt, sources, raw reports
+
+- Prompt: [DR26-08-04-ZB-01-1437-dr26-08-04-zb-01-1437-sintez-kitayskie-llm-kak-4-ya-para-glaz-ryadom-s/prompt.md](DR26-08-04-ZB-01-1437-dr26-08-04-zb-01-1437-sintez-kitayskie-llm-kak-4-ya-para-glaz-ryadom-s/prompt.md)
+- All sources (61 links): [DR26-08-04-ZB-01-1437-dr26-08-04-zb-01-1437-sintez-kitayskie-llm-kak-4-ya-para-glaz-ryadom-s/sources.md](DR26-08-04-ZB-01-1437-dr26-08-04-zb-01-1437-sintez-kitayskie-llm-kak-4-ya-para-glaz-ryadom-s/sources.md)
+
 ## Raw model reports
 
 2 reports delivered, synthesis used not recorded. [DR26-08-04-ZB-01-1437-dr26-08-04-zb-01-1437-sintez-kitayskie-llm-kak-4-ya-para-glaz-ryadom-s/](DR26-08-04-ZB-01-1437-dr26-08-04-zb-01-1437-sintez-kitayskie-llm-kak-4-ya-para-glaz-ryadom-s/README.md)

@@ -166,6 +166,11 @@ Anton Dziatkovskii
 `_originals\deep-research\DR26-08-05-ZB-01-0125-arxiv-moderation-{chatgpt,grok,gemini-REJECTED-no-citations}.md`
 
 
+## Check it yourself: prompt, sources, raw reports
+
+- Prompt: [DR26-08-05-ZB-01-0125-pochemu-statya-visit-na-arxiv-i-chto-realno-delat/prompt.md](DR26-08-05-ZB-01-0125-pochemu-statya-visit-na-arxiv-i-chto-realno-delat/prompt.md)
+- All sources (23 links): [DR26-08-05-ZB-01-0125-pochemu-statya-visit-na-arxiv-i-chto-realno-delat/sources.md](DR26-08-05-ZB-01-0125-pochemu-statya-visit-na-arxiv-i-chto-realno-delat/sources.md)
+
 ## Raw model reports
 
 4 reports delivered, synthesis used 4 of 4. [DR26-08-05-ZB-01-0125-pochemu-statya-visit-na-arxiv-i-chto-realno-delat/](DR26-08-05-ZB-01-0125-pochemu-statya-visit-na-arxiv-i-chto-realno-delat/README.md)

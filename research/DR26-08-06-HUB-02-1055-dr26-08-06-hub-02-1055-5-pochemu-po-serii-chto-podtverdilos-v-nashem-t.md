@@ -150,6 +150,11 @@ source: Palo Alto AI Research Lab — deep research programme
 watchdog-must-verify-the-item · self-debug-transparency
 
 
+## Check it yourself: prompt, sources, raw reports
+
+- Prompt: [DR26-08-06-HUB-02-1055-dr26-08-06-hub-02-1055-5-pochemu-po-serii-chto-podtverdilos-v-nashem-t/prompt.md](DR26-08-06-HUB-02-1055-dr26-08-06-hub-02-1055-5-pochemu-po-serii-chto-podtverdilos-v-nashem-t/prompt.md)
+- All sources (105 links): [DR26-08-06-HUB-02-1055-dr26-08-06-hub-02-1055-5-pochemu-po-serii-chto-podtverdilos-v-nashem-t/sources.md](DR26-08-06-HUB-02-1055-dr26-08-06-hub-02-1055-5-pochemu-po-serii-chto-podtverdilos-v-nashem-t/sources.md)
+
 ## Raw model reports
 
 4 reports delivered, synthesis used 4 of 6. [DR26-08-06-HUB-02-1055-dr26-08-06-hub-02-1055-5-pochemu-po-serii-chto-podtverdilos-v-nashem-t/](DR26-08-06-HUB-02-1055-dr26-08-06-hub-02-1055-5-pochemu-po-serii-chto-podtverdilos-v-nashem-t/README.md)

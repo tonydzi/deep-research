@@ -55,6 +55,9 @@ source: Palo Alto AI Research Lab — deep research programme
 - cold-outreach-antipatterns
 
 
+## Check it yourself: prompt, sources, raw reports
+
+
 ## Raw model reports
 
 1 reports delivered, synthesis used not recorded. [DR26-08-29-MACANTON-08-0742-chto-realno-povyshaet-konversiyu-da-zabukannyy-zvonok-v-b2b-telegram-d/](DR26-08-29-MACANTON-08-0742-chto-realno-povyshaet-konversiyu-da-zabukannyy-zvonok-v-b2b-telegram-d/README.md)

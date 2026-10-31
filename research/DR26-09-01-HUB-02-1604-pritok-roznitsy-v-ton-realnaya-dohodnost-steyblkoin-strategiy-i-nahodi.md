@@ -60,6 +60,11 @@ source: Palo Alto AI Research Lab — deep research programme
 - beyond-canton-stablecoin-rails
 
 
+## Check it yourself: prompt, sources, raw reports
+
+- Prompt: [DR26-09-01-HUB-02-1604-pritok-roznitsy-v-ton-realnaya-dohodnost-steyblkoin-strategiy-i-nahodi/prompt.md](DR26-09-01-HUB-02-1604-pritok-roznitsy-v-ton-realnaya-dohodnost-steyblkoin-strategiy-i-nahodi/prompt.md)
+- All sources (136 links): [DR26-09-01-HUB-02-1604-pritok-roznitsy-v-ton-realnaya-dohodnost-steyblkoin-strategiy-i-nahodi/sources.md](DR26-09-01-HUB-02-1604-pritok-roznitsy-v-ton-realnaya-dohodnost-steyblkoin-strategiy-i-nahodi/sources.md)
+
 ## Raw model reports
 
 3 reports delivered, synthesis used 4 of 6. [DR26-09-01-HUB-02-1604-pritok-roznitsy-v-ton-realnaya-dohodnost-steyblkoin-strategiy-i-nahodi/](DR26-09-01-HUB-02-1604-pritok-roznitsy-v-ton-realnaya-dohodnost-steyblkoin-strategiy-i-nahodi/README.md)

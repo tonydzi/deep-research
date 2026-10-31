@@ -59,6 +59,9 @@ source: Palo Alto AI Research Lab — deep research programme
 - blast-radius-analysis
 
 
+## Check it yourself: prompt, sources, raw reports
+
+
 ## Raw model reports
 
 1 reports delivered, synthesis used not recorded. [DR26-07-28-HUB-21-2339-persistent-structural-code-memory-for-coding-agents-symbol-call-graph/](DR26-07-28-HUB-21-2339-persistent-structural-code-memory-for-coding-agents-symbol-call-graph/README.md)

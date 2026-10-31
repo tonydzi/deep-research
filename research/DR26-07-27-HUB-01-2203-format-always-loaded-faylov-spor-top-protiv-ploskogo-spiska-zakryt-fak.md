@@ -132,6 +132,10 @@ Grok: 5–15, «ТОП-20 borderline». Gemini: ≤20 — потолок. ⇒ Н
 memory-index-hygiene · claude-md-compression-contract · write-service-files-tight-no-recompress · ak47-simplicity · shadow-first-mvp-pattern · coordinate-sessions-before-sensitive-edit · one-system-propagate · prichina-kak-claim
 
 
+## Check it yourself: prompt, sources, raw reports
+
+- All sources (36 links): [DR26-07-27-HUB-01-2203-format-always-loaded-faylov-spor-top-protiv-ploskogo-spiska-zakryt-fak/sources.md](DR26-07-27-HUB-01-2203-format-always-loaded-faylov-spor-top-protiv-ploskogo-spiska-zakryt-fak/sources.md)
+
 ## Raw model reports
 
 3 reports delivered, synthesis used not recorded. [DR26-07-27-HUB-01-2203-format-always-loaded-faylov-spor-top-protiv-ploskogo-spiska-zakryt-fak/](DR26-07-27-HUB-01-2203-format-always-loaded-faylov-spor-top-protiv-ploskogo-spiska-zakryt-fak/README.md)

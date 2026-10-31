@@ -61,6 +61,9 @@ source: Palo Alto AI Research Lab — deep research programme
 - sync-via-telegram-03-mandatory
 
 
+## Check it yourself: prompt, sources, raw reports
+
+
 ## Raw model reports
 
 3 reports delivered, synthesis used not recorded. [DR26-07-05-HUB-07-distributed-on-air-work-declaration-board-for-a-small-multi-machine-ai/](DR26-07-05-HUB-07-distributed-on-air-work-declaration-board-for-a-small-multi-machine-ai/README.md)

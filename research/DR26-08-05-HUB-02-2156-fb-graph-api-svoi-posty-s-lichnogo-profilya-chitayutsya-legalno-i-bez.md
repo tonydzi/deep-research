@@ -113,6 +113,11 @@ Grok — «да, как дополнение». GLM — payload содержит
 - DR-предшественник `DR26-07-04-HUB-06` — задавал тот же вопрос 04.07.2026, но **отчёта не принёс**: в инсайте все ключевые пункты стоят «не отвечено». Этот прогон закрывает тот долг.
 
 
+## Check it yourself: prompt, sources, raw reports
+
+- Prompt: [DR26-08-05-HUB-02-2156-fb-graph-api-svoi-posty-s-lichnogo-profilya-chitayutsya-legalno-i-bez/prompt.md](DR26-08-05-HUB-02-2156-fb-graph-api-svoi-posty-s-lichnogo-profilya-chitayutsya-legalno-i-bez/prompt.md)
+- All sources (50 links): [DR26-08-05-HUB-02-2156-fb-graph-api-svoi-posty-s-lichnogo-profilya-chitayutsya-legalno-i-bez/sources.md](DR26-08-05-HUB-02-2156-fb-graph-api-svoi-posty-s-lichnogo-profilya-chitayutsya-legalno-i-bez/sources.md)
+
 ## Raw model reports
 
 4 reports delivered, synthesis used 4 of 6. [DR26-08-05-HUB-02-2156-fb-graph-api-svoi-posty-s-lichnogo-profilya-chitayutsya-legalno-i-bez/](DR26-08-05-HUB-02-2156-fb-graph-api-svoi-posty-s-lichnogo-profilya-chitayutsya-legalno-i-bez/README.md)

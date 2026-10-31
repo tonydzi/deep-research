@@ -51,6 +51,9 @@ source: Palo Alto AI Research Lab — deep research programme
 **Следующий кирпич:** пилот сезона + Participation Charter → это первые 2 публичных артефакта, которые одновременно стартуют шоу и портфолио.
 
 
+## Check it yourself: prompt, sources, raw reports
+
+
 ## Raw model reports
 
 3 reports delivered, synthesis used not recorded. [DR26-07-05-HUB-05-dr26-07-05-hub-05-sintez-interaktiv-auditorii-konversiya-build-in-publ/](DR26-07-05-HUB-05-dr26-07-05-hub-05-sintez-interaktiv-auditorii-konversiya-build-in-publ/README.md)

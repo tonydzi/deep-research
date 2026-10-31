@@ -10,6 +10,9 @@
 | glm | 2026-10-08 05:57 |
 | grok | 2026-10-07 16:22 |
 
+- [prompt](./prompt.md): the exact question every model got
+- [sources](./sources.md): 65 unique links cited by the models
+
 Reports below are published as delivered, after an automatic privacy scrub.
 
 - [gemini](./gemini.md)

@@ -103,6 +103,10 @@ Gemini: 66,5% OpenAI / 25,5% AmazonBot / 8% Perplexity. ChatGPT со ссылк�
 - Verbatim-правила площадки с датой: `_originals/Hackernoon/2026-07-27-hackernoon-rules-capture.md`
 
 
+## Check it yourself: prompt, sources, raw reports
+
+- All sources (112 links): [DR26-07-27-ZB-04-2349-hackernoon-kak-rabochaya-ploschadka-sintez-3-vendorov-razvilka-hn-firs/sources.md](DR26-07-27-ZB-04-2349-hackernoon-kak-rabochaya-ploschadka-sintez-3-vendorov-razvilka-hn-firs/sources.md)
+
 ## Raw model reports
 
 1 reports delivered, synthesis used not recorded. [DR26-07-27-ZB-04-2349-hackernoon-kak-rabochaya-ploschadka-sintez-3-vendorov-razvilka-hn-firs/](DR26-07-27-ZB-04-2349-hackernoon-kak-rabochaya-ploschadka-sintez-3-vendorov-razvilka-hn-firs/README.md)

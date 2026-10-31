@@ -1,0 +1,17 @@
+# DR26-08-26-HUB-03-0935 — the exact prompt sent to every model
+
+Deep research request. Context: we run a fleet of Claude Code agent sessions. We already ship two public mechanisms (github.com/tonydzi/compact-canon, github.com/tonydzi/claw-retro): (1) a 7-header paste-block format for Claude Code's /compact command (DECISIONS / TODO / NOW / PATHS & VALUES / COUNTERS / OPEN / TOOLS & CONTRACTS), backed by measurements: 354/354 bare compactions ignored CLAUDE.md instructions, inline paste-block verified live with 7/7 headers and 15/15 seeded facts surviving, 54,358 -> 2,522 tokens; (2) an end-of-session retrospective ritual: recall/reconcile -> deterministic inventory (git) -> classify keep/one-off/promote -> route durable rules to exactly one home with a "door audit" (every rule needs an executable invocation path) -> archive note -> print the ready compact block. We have already mapped the GitHub neighborhood (Cline Memory Bank, cursor-memory-bank, AGENTS.md, claude-handoff, netresearch/retro-skill, magic-compact, agentops, self-learning-skills). Do NOT re-survey that list.
+
+Research questions — go BEYOND the GitHub hobbyist corner:
+
+1. STATE OF THE ART IN CONTEXT COMPRESSION FOR AGENTS. What do MemGPT/Letta, LangGraph (checkpointing + LangMem), OpenAI Assistants/AgentKit, AutoGen/AG2 (teachability), CrewAI, Devin/Factory/Cognition, Aider, and published research (e.g. "agentic context engineering", hierarchical summarization, KV-cache-aware summarization, recursive summarization evals) actually do to survive context limits? For each: what is preserved verbatim vs summarized, what triggers compression, and any PUBLISHED quality numbers (fact-retention benchmarks, task-completion deltas after compression).
+
+2. EVALUATION: how do serious teams MEASURE summary/compaction quality? Fact-survival probes, needle-in-haystack variants, LongMemEval, downstream-task success. What would a credible public benchmark for "session compaction fact survival" look like, and does one already exist that we could adopt or contribute to?
+
+3. RETRO / SELF-IMPROVEMENT LOOPS IN PRODUCTION. Beyond Reflexion papers: documented industrial practice of agents writing durable rules back into their own configuration (Anthropic's own guidance, OpenAI cookbook patterns, Cursor/Windsurf memories architecture, Devin's knowledge feature, any postmortem-driven rule capture). What guardrails do they use against rule bloat and stale rules (expiry, usage counters, verification)?
+
+4. OPTIMIZATION IDEAS FOR US: given our two mechanisms above, what are the 5-10 highest-leverage upgrades? Candidates to evaluate: per-section confidence/freshness tags, DO-NOT-TOUCH sections, cumulative multi-cycle preservation rules, outcome-mode retro (did past rules survive?), automatic rule expiry, compaction quality self-test after each compact. Rank by effort vs payoff for a small team.
+
+5. WHERE THE CONVERSATION LIVES. The specific high-traffic venues where context-compaction and agent-memory pain is actively discussed in 2025-2026: exact GitHub issues (anthropics/claude-code and neighbors), HN threads, Discord/forum spaces, arXiv clusters, newsletters. For each: link + why it matters + what a useful contribution there would look like.
+
+Output: structured report with sources for every claim, explicit confidence levels (established / emerging / speculative), and a final "what we would change in our two repos next week" section.

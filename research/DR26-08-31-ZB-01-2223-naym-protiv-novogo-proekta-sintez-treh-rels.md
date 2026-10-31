@@ -329,6 +329,11 @@ Grok не нашёл публичного реестра компаний с ф�
 - mission-llm-hire-weekly-plan — same_cluster: миссия найма, которую кормит эта развилка
 
 
+## Check it yourself: prompt, sources, raw reports
+
+- Prompt: [DR26-08-31-ZB-01-2223-naym-protiv-novogo-proekta-sintez-treh-rels/prompt.md](DR26-08-31-ZB-01-2223-naym-protiv-novogo-proekta-sintez-treh-rels/prompt.md)
+- All sources (282 links): [DR26-08-31-ZB-01-2223-naym-protiv-novogo-proekta-sintez-treh-rels/sources.md](DR26-08-31-ZB-01-2223-naym-protiv-novogo-proekta-sintez-treh-rels/sources.md)
+
 ## Raw model reports
 
 4 reports delivered, synthesis used 3 of 6. Note: 1 report(s) arrived after the synthesis was written; they are attached raw and were not reconciled. [DR26-08-31-ZB-01-2223-naym-protiv-novogo-proekta-sintez-treh-rels/](DR26-08-31-ZB-01-2223-naym-protiv-novogo-proekta-sintez-treh-rels/README.md)

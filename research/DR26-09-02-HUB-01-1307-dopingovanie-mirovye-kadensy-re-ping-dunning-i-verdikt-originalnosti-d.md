@@ -119,6 +119,11 @@ Gong на 304 174 письмах: пустые «поднимаю наверх»
 - Соседние правила: self-serving-conclusion-needs-stronger-proof, prichina-kak-claim, fake-it-courage-not-fake-numbers
 
 
+## Check it yourself: prompt, sources, raw reports
+
+- Prompt: [DR26-09-02-HUB-01-1307-dopingovanie-mirovye-kadensy-re-ping-dunning-i-verdikt-originalnosti-d/prompt.md](DR26-09-02-HUB-01-1307-dopingovanie-mirovye-kadensy-re-ping-dunning-i-verdikt-originalnosti-d/prompt.md)
+- All sources (89 links): [DR26-09-02-HUB-01-1307-dopingovanie-mirovye-kadensy-re-ping-dunning-i-verdikt-originalnosti-d/sources.md](DR26-09-02-HUB-01-1307-dopingovanie-mirovye-kadensy-re-ping-dunning-i-verdikt-originalnosti-d/sources.md)
+
 ## Raw model reports
 
 3 reports delivered, synthesis used 3 of 6. [DR26-09-02-HUB-01-1307-dopingovanie-mirovye-kadensy-re-ping-dunning-i-verdikt-originalnosti-d/](DR26-09-02-HUB-01-1307-dopingovanie-mirovye-kadensy-re-ping-dunning-i-verdikt-originalnosti-d/README.md)

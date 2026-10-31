@@ -60,6 +60,11 @@ source: Palo Alto AI Research Lab — deep research programme
 Проверено 2026-10-21 через gh: 0 ссылок · ✅ 0 · ⚠️ 0 · ❓ 0 · ⚪ 0 · 🤷 0.
 
 
+## Check it yourself: prompt, sources, raw reports
+
+- Prompt: [DR26-10-19-HUB-05-2154-kak-llm-servis-obsluzhivaet-mnogo-polzovateley-filtruet-vrednye-zapros/prompt.md](DR26-10-19-HUB-05-2154-kak-llm-servis-obsluzhivaet-mnogo-polzovateley-filtruet-vrednye-zapros/prompt.md)
+- All sources (34 links): [DR26-10-19-HUB-05-2154-kak-llm-servis-obsluzhivaet-mnogo-polzovateley-filtruet-vrednye-zapros/sources.md](DR26-10-19-HUB-05-2154-kak-llm-servis-obsluzhivaet-mnogo-polzovateley-filtruet-vrednye-zapros/sources.md)
+
 ## Raw model reports
 
 1 reports delivered, synthesis used 1 of 6. [DR26-10-19-HUB-05-2154-kak-llm-servis-obsluzhivaet-mnogo-polzovateley-filtruet-vrednye-zapros/](DR26-10-19-HUB-05-2154-kak-llm-servis-obsluzhivaet-mnogo-polzovateley-filtruet-vrednye-zapros/README.md)

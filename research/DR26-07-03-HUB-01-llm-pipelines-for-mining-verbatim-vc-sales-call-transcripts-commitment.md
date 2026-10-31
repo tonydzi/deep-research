@@ -62,6 +62,10 @@ source: Palo Alto AI Research Lab — deep research programme
 - model-routing-sonnet-grunt
 
 
+## Check it yourself: prompt, sources, raw reports
+
+- All sources (1 links): [DR26-07-03-HUB-01-llm-pipelines-for-mining-verbatim-vc-sales-call-transcripts-commitment/sources.md](DR26-07-03-HUB-01-llm-pipelines-for-mining-verbatim-vc-sales-call-transcripts-commitment/sources.md)
+
 ## Raw model reports
 
 3 reports delivered, synthesis used not recorded. [DR26-07-03-HUB-01-llm-pipelines-for-mining-verbatim-vc-sales-call-transcripts-commitment/](DR26-07-03-HUB-01-llm-pipelines-for-mining-verbatim-vc-sales-call-transcripts-commitment/README.md)

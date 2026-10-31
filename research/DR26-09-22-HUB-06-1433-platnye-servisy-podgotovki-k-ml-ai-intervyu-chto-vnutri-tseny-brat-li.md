@@ -52,6 +52,11 @@ source: Palo Alto AI Research Lab — deep research programme
 - insight-DR-DR26-09-22-HUB-03-1433-интервью-лупы-топ-лабораторий-ии-для-research-scie
 
 
+## Check it yourself: prompt, sources, raw reports
+
+- Prompt: [DR26-09-22-HUB-06-1433-platnye-servisy-podgotovki-k-ml-ai-intervyu-chto-vnutri-tseny-brat-li/prompt.md](DR26-09-22-HUB-06-1433-platnye-servisy-podgotovki-k-ml-ai-intervyu-chto-vnutri-tseny-brat-li/prompt.md)
+- All sources (78 links): [DR26-09-22-HUB-06-1433-platnye-servisy-podgotovki-k-ml-ai-intervyu-chto-vnutri-tseny-brat-li/sources.md](DR26-09-22-HUB-06-1433-platnye-servisy-podgotovki-k-ml-ai-intervyu-chto-vnutri-tseny-brat-li/sources.md)
+
 ## Raw model reports
 
 5 reports delivered, synthesis used 1 of 6. Note: 4 report(s) arrived after the synthesis was written; they are attached raw and were not reconciled. [DR26-09-22-HUB-06-1433-platnye-servisy-podgotovki-k-ml-ai-intervyu-chto-vnutri-tseny-brat-li/](DR26-09-22-HUB-06-1433-platnye-servisy-podgotovki-k-ml-ai-intervyu-chto-vnutri-tseny-brat-li/README.md)

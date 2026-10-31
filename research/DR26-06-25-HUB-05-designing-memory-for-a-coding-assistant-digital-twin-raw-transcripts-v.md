@@ -54,6 +54,9 @@ source: Palo Alto AI Research Lab — deep research programme
 - session-machine-tagging
 
 
+## Check it yourself: prompt, sources, raw reports
+
+
 ## Raw model reports
 
 1 reports delivered, synthesis used not recorded. [DR26-06-25-HUB-05-designing-memory-for-a-coding-assistant-digital-twin-raw-transcripts-v/](DR26-06-25-HUB-05-designing-memory-for-a-coding-assistant-digital-twin-raw-transcripts-v/README.md)

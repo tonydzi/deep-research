@@ -65,6 +65,11 @@ source: Palo Alto AI Research Lab — deep research programme
 - zombie-schedule-detection
 
 
+## Check it yourself: prompt, sources, raw reports
+
+- Prompt: [DR26-08-20-MACANTON-02-2259-n8n-2-x-nedoispolzuemye-fichi-i-antipatterny-pod-arhitekturu-sobytiyny/prompt.md](DR26-08-20-MACANTON-02-2259-n8n-2-x-nedoispolzuemye-fichi-i-antipatterny-pod-arhitekturu-sobytiyny/prompt.md)
+- All sources (31 links): [DR26-08-20-MACANTON-02-2259-n8n-2-x-nedoispolzuemye-fichi-i-antipatterny-pod-arhitekturu-sobytiyny/sources.md](DR26-08-20-MACANTON-02-2259-n8n-2-x-nedoispolzuemye-fichi-i-antipatterny-pod-arhitekturu-sobytiyny/sources.md)
+
 ## Raw model reports
 
 3 reports delivered, synthesis used 3 of 6. [DR26-08-20-MACANTON-02-2259-n8n-2-x-nedoispolzuemye-fichi-i-antipatterny-pod-arhitekturu-sobytiyny/](DR26-08-20-MACANTON-02-2259-n8n-2-x-nedoispolzuemye-fichi-i-antipatterny-pod-arhitekturu-sobytiyny/README.md)

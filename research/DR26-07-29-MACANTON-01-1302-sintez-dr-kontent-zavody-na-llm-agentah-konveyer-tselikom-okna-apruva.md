@@ -154,6 +154,10 @@ source: Palo Alto AI Research Lab — deep research programme
 **Связано:** spec-content-factory-architecture · spec-anti-slop-content-pipeline · content-approval-24h-timeout · tg-slop-markers-measured · content-factory-architecture · gemini-subscription-is-not-api-quota · prichina-kak-claim · fake-it-courage-not-fake-numbers
 
 
+## Check it yourself: prompt, sources, raw reports
+
+- All sources (160 links): [DR26-07-29-MACANTON-01-1302-sintez-dr-kontent-zavody-na-llm-agentah-konveyer-tselikom-okna-apruva/sources.md](DR26-07-29-MACANTON-01-1302-sintez-dr-kontent-zavody-na-llm-agentah-konveyer-tselikom-okna-apruva/sources.md)
+
 ## Raw model reports
 
 4 reports delivered, synthesis used not recorded. [DR26-07-29-MACANTON-01-1302-sintez-dr-kontent-zavody-na-llm-agentah-konveyer-tselikom-okna-apruva/](DR26-07-29-MACANTON-01-1302-sintez-dr-kontent-zavody-na-llm-agentah-konveyer-tselikom-okna-apruva/README.md)

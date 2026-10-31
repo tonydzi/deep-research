@@ -94,6 +94,11 @@ Source-of-hire компании не публикуют — поэтому лю�
 - insight-DR-DR26-09-24-HUB-03-1604-идеальное-cv-2026-для-capital-formation-investor-r — earlier DR on the same COO/Chief of Staff/IR role, detailed further here
 
 
+## Check it yourself: prompt, sources, raw reports
+
+- Prompt: [DR26-09-14-ZB-12-2009-coo-chief-of-staff-ir-capital-formation-zapolnyayutsya-li-eti-roli-pub/prompt.md](DR26-09-14-ZB-12-2009-coo-chief-of-staff-ir-capital-formation-zapolnyayutsya-li-eti-roli-pub/prompt.md)
+- All sources (216 links): [DR26-09-14-ZB-12-2009-coo-chief-of-staff-ir-capital-formation-zapolnyayutsya-li-eti-roli-pub/sources.md](DR26-09-14-ZB-12-2009-coo-chief-of-staff-ir-capital-formation-zapolnyayutsya-li-eti-roli-pub/sources.md)
+
 ## Raw model reports
 
 3 reports delivered, synthesis used 5 of 8. [DR26-09-14-ZB-12-2009-coo-chief-of-staff-ir-capital-formation-zapolnyayutsya-li-eti-roli-pub/](DR26-09-14-ZB-12-2009-coo-chief-of-staff-ir-capital-formation-zapolnyayutsya-li-eti-roli-pub/README.md)

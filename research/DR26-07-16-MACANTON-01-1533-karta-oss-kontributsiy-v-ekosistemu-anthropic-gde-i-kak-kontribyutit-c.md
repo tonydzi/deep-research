@@ -74,6 +74,10 @@ source: Palo Alto AI Research Lab — deep research programme
 - insight-DR-DR26-08-25-MACANTON-07-0740-как-некодер-лоу-код-контрибьютор-строит-карьеру-и- — оба про OSS-вклад как путь к заметности и офферу
 
 
+## Check it yourself: prompt, sources, raw reports
+
+- All sources (3 links): [DR26-07-16-MACANTON-01-1533-karta-oss-kontributsiy-v-ekosistemu-anthropic-gde-i-kak-kontribyutit-c/sources.md](DR26-07-16-MACANTON-01-1533-karta-oss-kontributsiy-v-ekosistemu-anthropic-gde-i-kak-kontribyutit-c/sources.md)
+
 ## Raw model reports
 
 3 reports delivered, synthesis used not recorded. [DR26-07-16-MACANTON-01-1533-karta-oss-kontributsiy-v-ekosistemu-anthropic-gde-i-kak-kontribyutit-c/](DR26-07-16-MACANTON-01-1533-karta-oss-kontributsiy-v-ekosistemu-anthropic-gde-i-kak-kontribyutit-c/README.md)

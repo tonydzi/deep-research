@@ -58,6 +58,9 @@ source: Palo Alto AI Research Lab — deep research programme
 - insight-DR-DR26-07-04-HUB-11-multi-session-multi-agent-orchestration-patterns-f — более ранний DR по тому же вопросу, который этот расширяет
 
 
+## Check it yourself: prompt, sources, raw reports
+
+
 ## Raw model reports
 
 1 reports delivered, synthesis used not recorded. [DR26-06-25-HUB-04-claude-code-agent-teams-for-an-individual-power-user/](DR26-06-25-HUB-04-claude-code-agent-teams-for-an-individual-power-user/README.md)

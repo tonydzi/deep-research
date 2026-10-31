@@ -60,6 +60,9 @@ source: Palo Alto AI Research Lab — deep research programme
 - ak47-simplicity
 
 
+## Check it yourself: prompt, sources, raw reports
+
+
 ## Raw model reports
 
 3 reports delivered, synthesis used not recorded. [DR26-07-05-HUB-04-high-quality-ai-task-decomposition-for-parallel-llm-sessions-cut-quali/](DR26-07-05-HUB-04-high-quality-ai-task-decomposition-for-parallel-llm-sessions-cut-quali/README.md)

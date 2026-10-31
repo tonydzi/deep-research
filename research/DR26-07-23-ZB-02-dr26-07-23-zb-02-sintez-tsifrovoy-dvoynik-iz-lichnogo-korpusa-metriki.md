@@ -55,6 +55,10 @@ source: Palo Alto AI Research Lab — deep research programme
 - Статус: applied — зонтик concept-second-brain обогащён до v2 этим синтезом; действия №1–2 (Life Interview, Decision Ledger поля) — в бэклог Антону на «+».
 
 
+## Check it yourself: prompt, sources, raw reports
+
+- All sources (82 links): [DR26-07-23-ZB-02-dr26-07-23-zb-02-sintez-tsifrovoy-dvoynik-iz-lichnogo-korpusa-metriki/sources.md](DR26-07-23-ZB-02-dr26-07-23-zb-02-sintez-tsifrovoy-dvoynik-iz-lichnogo-korpusa-metriki/sources.md)
+
 ## Raw model reports
 
 1 reports delivered, synthesis used not recorded. [DR26-07-23-ZB-02-dr26-07-23-zb-02-sintez-tsifrovoy-dvoynik-iz-lichnogo-korpusa-metriki/](DR26-07-23-ZB-02-dr26-07-23-zb-02-sintez-tsifrovoy-dvoynik-iz-lichnogo-korpusa-metriki/README.md)

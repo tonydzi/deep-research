@@ -55,6 +55,9 @@ source: Palo Alto AI Research Lab — deep research programme
 - worktree-isolation
 
 
+## Check it yourself: prompt, sources, raw reports
+
+
 ## Raw model reports
 
 1 reports delivered, synthesis used not recorded. [DR26-07-28-HUB-14-2339-approval-fatigue-i-task-drift-v-agentnom-ai-kodinge-kak-ih-lechat-v-20/](DR26-07-28-HUB-14-2339-approval-fatigue-i-task-drift-v-agentnom-ai-kodinge-kak-ih-lechat-v-20/README.md)

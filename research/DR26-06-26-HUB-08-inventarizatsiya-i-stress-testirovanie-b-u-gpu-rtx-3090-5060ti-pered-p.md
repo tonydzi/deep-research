@@ -49,6 +49,10 @@ source: Palo Alto AI Research Lab — deep research programme
 - insight-DR-DR26-06-26-HUB-09-рейтинг-бесшумности-и-надёжности-видеокарт-rtx-506 — прямое пересечение: обе про модель RTX 5060 Ti в рамках одного и того же решения о покупке GPU (шум vs надёжность/тестирование)
 
 
+## Check it yourself: prompt, sources, raw reports
+
+- All sources (13 links): [DR26-06-26-HUB-08-inventarizatsiya-i-stress-testirovanie-b-u-gpu-rtx-3090-5060ti-pered-p/sources.md](DR26-06-26-HUB-08-inventarizatsiya-i-stress-testirovanie-b-u-gpu-rtx-3090-5060ti-pered-p/sources.md)
+
 ## Raw model reports
 
 1 reports delivered, synthesis used not recorded. [DR26-06-26-HUB-08-inventarizatsiya-i-stress-testirovanie-b-u-gpu-rtx-3090-5060ti-pered-p/](DR26-06-26-HUB-08-inventarizatsiya-i-stress-testirovanie-b-u-gpu-rtx-3090-5060ti-pered-p/README.md)

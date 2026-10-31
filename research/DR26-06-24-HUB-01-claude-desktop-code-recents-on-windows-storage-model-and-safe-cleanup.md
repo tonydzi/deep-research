@@ -52,6 +52,10 @@ source: Palo Alto AI Research Lab — deep research programme
 - deterministic-script-gotchas
 
 
+## Check it yourself: prompt, sources, raw reports
+
+- All sources (1 links): [DR26-06-24-HUB-01-claude-desktop-code-recents-on-windows-storage-model-and-safe-cleanup/sources.md](DR26-06-24-HUB-01-claude-desktop-code-recents-on-windows-storage-model-and-safe-cleanup/sources.md)
+
 ## Raw model reports
 
 1 reports delivered, synthesis used not recorded. [DR26-06-24-HUB-01-claude-desktop-code-recents-on-windows-storage-model-and-safe-cleanup/](DR26-06-24-HUB-01-claude-desktop-code-recents-on-windows-storage-model-and-safe-cleanup/README.md)

@@ -51,6 +51,11 @@ source: Palo Alto AI Research Lab — deep research programme
 - insight-2026-09-05-github-target-universe — that insight's recommendation (target by repo class, not vendor cookbooks) is exactly the strategy this orphan's kill-criteria/AI-policy fun
 
 
+## Check it yourself: prompt, sources, raw reports
+
+- Prompt: [DR26-08-11-HUB-02-2212-asimmetriya-sliyaniya-pr-pochemu-mid-size-infra-oss-merzhit-autsaydero/prompt.md](DR26-08-11-HUB-02-2212-asimmetriya-sliyaniya-pr-pochemu-mid-size-infra-oss-merzhit-autsaydero/prompt.md)
+- All sources (43 links): [DR26-08-11-HUB-02-2212-asimmetriya-sliyaniya-pr-pochemu-mid-size-infra-oss-merzhit-autsaydero/sources.md](DR26-08-11-HUB-02-2212-asimmetriya-sliyaniya-pr-pochemu-mid-size-infra-oss-merzhit-autsaydero/sources.md)
+
 ## Raw model reports
 
 4 reports delivered, synthesis used not recorded. [DR26-08-11-HUB-02-2212-asimmetriya-sliyaniya-pr-pochemu-mid-size-infra-oss-merzhit-autsaydero/](DR26-08-11-HUB-02-2212-asimmetriya-sliyaniya-pr-pochemu-mid-size-infra-oss-merzhit-autsaydero/README.md)

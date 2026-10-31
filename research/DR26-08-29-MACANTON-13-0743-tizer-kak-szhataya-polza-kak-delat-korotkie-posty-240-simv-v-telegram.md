@@ -57,6 +57,9 @@ source: Palo Alto AI Research Lab — deep research programme
 - voice-verbatim-no-sanitizing
 
 
+## Check it yourself: prompt, sources, raw reports
+
+
 ## Raw model reports
 
 1 reports delivered, synthesis used not recorded. [DR26-08-29-MACANTON-13-0743-tizer-kak-szhataya-polza-kak-delat-korotkie-posty-240-simv-v-telegram/](DR26-08-29-MACANTON-13-0743-tizer-kak-szhataya-polza-kak-delat-korotkie-posty-240-simv-v-telegram/README.md)

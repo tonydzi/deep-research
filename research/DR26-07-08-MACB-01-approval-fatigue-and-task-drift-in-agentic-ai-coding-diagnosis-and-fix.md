@@ -58,6 +58,9 @@ source: Palo Alto AI Research Lab — deep research programme
 - insight-DR-DR26-07-28-HUB-14-2339-approval-fatigue-и-task-drift-в-агентном-ai-кодинг — тот же топик DR — approval fatigue и task drift, самый ранний отчёт серии
 
 
+## Check it yourself: prompt, sources, raw reports
+
+
 ## Raw model reports
 
 1 reports delivered, synthesis used not recorded. [DR26-07-08-MACB-01-approval-fatigue-and-task-drift-in-agentic-ai-coding-diagnosis-and-fix/](DR26-07-08-MACB-01-approval-fatigue-and-task-drift-in-agentic-ai-coding-diagnosis-and-fix/README.md)

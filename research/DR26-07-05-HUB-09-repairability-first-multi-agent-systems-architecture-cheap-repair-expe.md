@@ -57,6 +57,10 @@ source: Palo Alto AI Research Lab — deep research programme
 - agent-teams-scoped-adoption
 
 
+## Check it yourself: prompt, sources, raw reports
+
+- All sources (27 links): [DR26-07-05-HUB-09-repairability-first-multi-agent-systems-architecture-cheap-repair-expe/sources.md](DR26-07-05-HUB-09-repairability-first-multi-agent-systems-architecture-cheap-repair-expe/sources.md)
+
 ## Raw model reports
 
 1 reports delivered, synthesis used not recorded. [DR26-07-05-HUB-09-repairability-first-multi-agent-systems-architecture-cheap-repair-expe/](DR26-07-05-HUB-09-repairability-first-multi-agent-systems-architecture-cheap-repair-expe/README.md)

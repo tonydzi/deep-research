@@ -57,6 +57,9 @@ source: Palo Alto AI Research Lab — deep research programme
 - second-brain-northstar
 
 
+## Check it yourself: prompt, sources, raw reports
+
+
 ## Raw model reports
 
 1 reports delivered, synthesis used not recorded. [DR26-07-06-HUB-05-building-a-deterministic-daily-activity-ledger-from-ai-agent-logs-comm/](DR26-07-06-HUB-05-building-a-deterministic-daily-activity-ledger-from-ai-agent-logs-comm/README.md)

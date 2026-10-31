@@ -68,6 +68,11 @@ ChatGPT принёс конкретные живые issues (номера НЕ �
 insight-2026-08-26-compact-retro-landscape-github · task-2026-08-26-distribute-compact-canon-claw-retro · task-2026-08-26-compact-canon-v11-pin-spans-probe · task-2026-08-26-scfs-multi-cycle-benchmark · compact-anton-prefers-zero-touch · compact-format-delivery-gotcha · repos: github.com/tonydzi/compact-canon · github.com/tonydzi/claw-retro
 
 
+## Check it yourself: prompt, sources, raw reports
+
+- Prompt: [DR26-08-26-HUB-03-0935-dr-sintez-optimizatsiya-retro-i-kompakta-sota-szhatiya-konteksta-bench/prompt.md](DR26-08-26-HUB-03-0935-dr-sintez-optimizatsiya-retro-i-kompakta-sota-szhatiya-konteksta-bench/prompt.md)
+- All sources (99 links): [DR26-08-26-HUB-03-0935-dr-sintez-optimizatsiya-retro-i-kompakta-sota-szhatiya-konteksta-bench/sources.md](DR26-08-26-HUB-03-0935-dr-sintez-optimizatsiya-retro-i-kompakta-sota-szhatiya-konteksta-bench/sources.md)
+
 ## Raw model reports
 
 2 reports delivered, synthesis used 2 of 6. [DR26-08-26-HUB-03-0935-dr-sintez-optimizatsiya-retro-i-kompakta-sota-szhatiya-konteksta-bench/](DR26-08-26-HUB-03-0935-dr-sintez-optimizatsiya-retro-i-kompakta-sota-szhatiya-konteksta-bench/README.md)

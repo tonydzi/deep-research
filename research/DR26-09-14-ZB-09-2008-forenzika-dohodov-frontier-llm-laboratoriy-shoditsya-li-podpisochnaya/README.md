@@ -10,6 +10,9 @@
 | gemini | 2026-09-14 20:44 |
 | glm | 2026-09-14 20:44 |
 
+- [prompt](./prompt.md): the exact question every model got
+- [sources](./sources.md): 17 unique links cited by the models
+
 Reports below are published as delivered, after an automatic privacy scrub.
 
 - [claudecli](./claudecli.md)

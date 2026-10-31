@@ -56,6 +56,11 @@ source: Palo Alto AI Research Lab — deep research programme
 - knowledge-base ingestion
 
 
+## Check it yourself: prompt, sources, raw reports
+
+- Prompt: [DR26-10-16-HUB-08-2027-audio-only-always-on-capture-and-transcription-pipeline-on-windows-vs/prompt.md](DR26-10-16-HUB-08-2027-audio-only-always-on-capture-and-transcription-pipeline-on-windows-vs/prompt.md)
+- All sources (55 links): [DR26-10-16-HUB-08-2027-audio-only-always-on-capture-and-transcription-pipeline-on-windows-vs/sources.md](DR26-10-16-HUB-08-2027-audio-only-always-on-capture-and-transcription-pipeline-on-windows-vs/sources.md)
+
 ## Raw model reports
 
 1 reports delivered, synthesis used 1 of 6. [DR26-10-16-HUB-08-2027-audio-only-always-on-capture-and-transcription-pipeline-on-windows-vs/](DR26-10-16-HUB-08-2027-audio-only-always-on-capture-and-transcription-pipeline-on-windows-vs/README.md)

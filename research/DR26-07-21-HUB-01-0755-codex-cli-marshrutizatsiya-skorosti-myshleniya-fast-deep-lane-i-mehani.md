@@ -41,6 +41,9 @@ Deep Research формально завершился (7 мин), но **0 citat
 > 🧒 Простыми словами: спросили трёх роботов, как правильно пользоваться платным помощником-программистом. Двое хорошо покопались и сошлись: у помощника есть кошелёк, который тратится тем быстрее, чем глубже он думает; думать «на максимум» почти никогда не выгодно — хватает «сильно»; и нельзя оставлять его работать совсем без человека — за это банят. Третий робот схалтурил (ничего не искал) — его ответ мы положили на полку с пометкой «не проверено».
 
 
+## Check it yourself: prompt, sources, raw reports
+
+
 ## Raw model reports
 
 3 reports delivered, synthesis used not recorded. [DR26-07-21-HUB-01-0755-codex-cli-marshrutizatsiya-skorosti-myshleniya-fast-deep-lane-i-mehani/](DR26-07-21-HUB-01-0755-codex-cli-marshrutizatsiya-skorosti-myshleniya-fast-deep-lane-i-mehani/README.md)

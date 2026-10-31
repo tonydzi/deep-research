@@ -54,6 +54,10 @@ source: Palo Alto AI Research Lab — deep research programme
 - synthetic-cofounder
 
 
+## Check it yourself: prompt, sources, raw reports
+
+- All sources (2 links): [DR26-06-27-HUB-02-competitive-landscape-for-a-unified-second-brain-agent-memory-crm-for/sources.md](DR26-06-27-HUB-02-competitive-landscape-for-a-unified-second-brain-agent-memory-crm-for/sources.md)
+
 ## Raw model reports
 
 1 reports delivered, synthesis used not recorded. [DR26-06-27-HUB-02-competitive-landscape-for-a-unified-second-brain-agent-memory-crm-for/](DR26-06-27-HUB-02-competitive-landscape-for-a-unified-second-brain-agent-memory-crm-for/README.md)

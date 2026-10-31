@@ -62,6 +62,11 @@ source: Palo Alto AI Research Lab — deep research programme
 Проверено 2026-10-23 через gh: 0 ссылок · ✅ 0 · ⚠️ 0 · ❓ 0 · ⚪ 0 · 🤷 0.
 
 
+## Check it yourself: prompt, sources, raw reports
+
+- Prompt: [DR26-10-22-ZB-01-2030-handwriting-mechanics-of-successful-ai-builder-x-accounts-for-short-pa/prompt.md](DR26-10-22-ZB-01-2030-handwriting-mechanics-of-successful-ai-builder-x-accounts-for-short-pa/prompt.md)
+- All sources (54 links): [DR26-10-22-ZB-01-2030-handwriting-mechanics-of-successful-ai-builder-x-accounts-for-short-pa/sources.md](DR26-10-22-ZB-01-2030-handwriting-mechanics-of-successful-ai-builder-x-accounts-for-short-pa/sources.md)
+
 ## Raw model reports
 
 2 reports delivered, synthesis used 2 of 6. [DR26-10-22-ZB-01-2030-handwriting-mechanics-of-successful-ai-builder-x-accounts-for-short-pa/](DR26-10-22-ZB-01-2030-handwriting-mechanics-of-successful-ai-builder-x-accounts-for-short-pa/README.md)

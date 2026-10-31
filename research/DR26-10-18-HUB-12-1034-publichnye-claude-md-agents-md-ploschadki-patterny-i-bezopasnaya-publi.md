@@ -62,6 +62,11 @@ source: Palo Alto AI Research Lab — deep research programme
 - безопасность и границы доверия в agent instructions
 
 
+## Check it yourself: prompt, sources, raw reports
+
+- Prompt: [DR26-10-18-HUB-12-1034-publichnye-claude-md-agents-md-ploschadki-patterny-i-bezopasnaya-publi/prompt.md](DR26-10-18-HUB-12-1034-publichnye-claude-md-agents-md-ploschadki-patterny-i-bezopasnaya-publi/prompt.md)
+- All sources (459 links): [DR26-10-18-HUB-12-1034-publichnye-claude-md-agents-md-ploschadki-patterny-i-bezopasnaya-publi/sources.md](DR26-10-18-HUB-12-1034-publichnye-claude-md-agents-md-ploschadki-patterny-i-bezopasnaya-publi/sources.md)
+
 ## Raw model reports
 
 4 reports delivered, synthesis used 1 of 6. Note: 3 report(s) arrived after the synthesis was written; they are attached raw and were not reconciled. [DR26-10-18-HUB-12-1034-publichnye-claude-md-agents-md-ploschadki-patterny-i-bezopasnaya-publi/](DR26-10-18-HUB-12-1034-publichnye-claude-md-agents-md-ploschadki-patterny-i-bezopasnaya-publi/README.md)

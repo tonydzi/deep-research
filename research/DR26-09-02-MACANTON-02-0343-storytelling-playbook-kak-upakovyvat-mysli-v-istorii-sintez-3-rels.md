@@ -86,6 +86,11 @@ source: Palo Alto AI Research Lab — deep research programme
 - insight-DR-DR26-09-03-HUB-01-2037-бульварное-чтиво-как-метод-перенос-таблоидных-real — тот же DR-кластер: синтез playbook'ов storytelling, который эта заметка расширяет таблоидными приёмами
 
 
+## Check it yourself: prompt, sources, raw reports
+
+- Prompt: [DR26-09-02-MACANTON-02-0343-storytelling-playbook-kak-upakovyvat-mysli-v-istorii-sintez-3-rels/prompt.md](DR26-09-02-MACANTON-02-0343-storytelling-playbook-kak-upakovyvat-mysli-v-istorii-sintez-3-rels/prompt.md)
+- All sources (175 links): [DR26-09-02-MACANTON-02-0343-storytelling-playbook-kak-upakovyvat-mysli-v-istorii-sintez-3-rels/sources.md](DR26-09-02-MACANTON-02-0343-storytelling-playbook-kak-upakovyvat-mysli-v-istorii-sintez-3-rels/sources.md)
+
 ## Raw model reports
 
 6 reports delivered, synthesis used 2 of 6. Note: 4 report(s) arrived after the synthesis was written; they are attached raw and were not reconciled. [DR26-09-02-MACANTON-02-0343-storytelling-playbook-kak-upakovyvat-mysli-v-istorii-sintez-3-rels/](DR26-09-02-MACANTON-02-0343-storytelling-playbook-kak-upakovyvat-mysli-v-istorii-sintez-3-rels/README.md)

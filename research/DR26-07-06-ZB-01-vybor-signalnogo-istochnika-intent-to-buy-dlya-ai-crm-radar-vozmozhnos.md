@@ -56,6 +56,10 @@ source: Palo Alto AI Research Lab — deep research programme
 - insight-DR-DR26-07-28-HUB-16-2339-выбор-источника-сигнала-intent-to-buy-для-ai-crm-р — практически идентичный DR (тот же вопрос, тот же рекомендованный источник) на 3 недели раньше
 
 
+## Check it yourself: prompt, sources, raw reports
+
+- All sources (1 links): [DR26-07-06-ZB-01-vybor-signalnogo-istochnika-intent-to-buy-dlya-ai-crm-radar-vozmozhnos/sources.md](DR26-07-06-ZB-01-vybor-signalnogo-istochnika-intent-to-buy-dlya-ai-crm-radar-vozmozhnos/sources.md)
+
 ## Raw model reports
 
 1 reports delivered, synthesis used not recorded. [DR26-07-06-ZB-01-vybor-signalnogo-istochnika-intent-to-buy-dlya-ai-crm-radar-vozmozhnos/](DR26-07-06-ZB-01-vybor-signalnogo-istochnika-intent-to-buy-dlya-ai-crm-radar-vozmozhnos/README.md)

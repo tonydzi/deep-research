@@ -77,6 +77,11 @@ Lenses CE полезна нам как **предмет разбора и обр
 Machine: хаб (Хаб) · Agent: Claude Fable 5.1 (session H70985) · Operator: Anton · 2026-10-09
 
 
+## Check it yourself: prompt, sources, raw reports
+
+- Prompt: [DR26-10-09-HUB-03-2112-lenses-io-community-edition-chem-polezna-laboratorii-kafka-kak-log-flo/prompt.md](DR26-10-09-HUB-03-2112-lenses-io-community-edition-chem-polezna-laboratorii-kafka-kak-log-flo/prompt.md)
+- All sources (236 links): [DR26-10-09-HUB-03-2112-lenses-io-community-edition-chem-polezna-laboratorii-kafka-kak-log-flo/sources.md](DR26-10-09-HUB-03-2112-lenses-io-community-edition-chem-polezna-laboratorii-kafka-kak-log-flo/sources.md)
+
 ## Raw model reports
 
 4 reports delivered, synthesis used 4 of 6. [DR26-10-09-HUB-03-2112-lenses-io-community-edition-chem-polezna-laboratorii-kafka-kak-log-flo/](DR26-10-09-HUB-03-2112-lenses-io-community-edition-chem-polezna-laboratorii-kafka-kak-log-flo/README.md)

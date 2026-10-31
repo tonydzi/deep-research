@@ -48,6 +48,11 @@ RU/CIS-специфика реактивации в мессенджерах —
 - DR26-08-23-HUB-02-2226-synthesis — evidence_for: полный консенсус-синтез рельс этого ДР
 
 
+## Check it yourself: prompt, sources, raw reports
+
+- Prompt: [DR26-08-23-HUB-02-2226-touch-base-ledokol-dlya-spyaschego-teplogo-kontakta-yakor-i-no-delta-s/prompt.md](DR26-08-23-HUB-02-2226-touch-base-ledokol-dlya-spyaschego-teplogo-kontakta-yakor-i-no-delta-s/prompt.md)
+- All sources (114 links): [DR26-08-23-HUB-02-2226-touch-base-ledokol-dlya-spyaschego-teplogo-kontakta-yakor-i-no-delta-s/sources.md](DR26-08-23-HUB-02-2226-touch-base-ledokol-dlya-spyaschego-teplogo-kontakta-yakor-i-no-delta-s/sources.md)
+
 ## Raw model reports
 
 4 reports delivered, synthesis used 4 of 6. [DR26-08-23-HUB-02-2226-touch-base-ledokol-dlya-spyaschego-teplogo-kontakta-yakor-i-no-delta-s/](DR26-08-23-HUB-02-2226-touch-base-ledokol-dlya-spyaschego-teplogo-kontakta-yakor-i-no-delta-s/README.md)

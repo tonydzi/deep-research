@@ -437,6 +437,11 @@ execution boundary для MCP tool calls».
 - reglament-fandrayz-po-tipu-gonki — операционализация корзины (в): полное журналистское досье фандрайз-машины Gonka с вердиктами берём/адаптируем/запрещено; дверь = скилл `/gonka-fundraise`
 
 
+## Check it yourself: prompt, sources, raw reports
+
+- Prompt: [DR26-08-24-HUB-06-2040-pleybuk-upakovki-kak-podnimayut-krupno-pri-slabom-adoption-i-chto-iz-e/prompt.md](DR26-08-24-HUB-06-2040-pleybuk-upakovki-kak-podnimayut-krupno-pri-slabom-adoption-i-chto-iz-e/prompt.md)
+- All sources (45 links): [DR26-08-24-HUB-06-2040-pleybuk-upakovki-kak-podnimayut-krupno-pri-slabom-adoption-i-chto-iz-e/sources.md](DR26-08-24-HUB-06-2040-pleybuk-upakovki-kak-podnimayut-krupno-pri-slabom-adoption-i-chto-iz-e/sources.md)
+
 ## Raw model reports
 
 4 reports delivered, synthesis used 4 of 6. [DR26-08-24-HUB-06-2040-pleybuk-upakovki-kak-podnimayut-krupno-pri-slabom-adoption-i-chto-iz-e/](DR26-08-24-HUB-06-2040-pleybuk-upakovki-kak-podnimayut-krupno-pri-slabom-adoption-i-chto-iz-e/README.md)

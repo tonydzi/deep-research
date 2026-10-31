@@ -72,6 +72,11 @@ source: Palo Alto AI Research Lab — deep research programme
 Связано: insight-omniroute-sandbox-test-2026-07-31, insight-omniroute-router-recon-2026-07-31, prefer-included-limits-before-paid-api, dead-claim-needs-sweep-of-all-surfaces, dr-originals-deleted-not-undelivered.
 
 
+## Check it yourself: prompt, sources, raw reports
+
+- Prompt: [DR26-07-31-MACANTON-03-2122-omniroute-konsensus-treh-rels-nashi-zamery-svod-04-08-2026/prompt.md](DR26-07-31-MACANTON-03-2122-omniroute-konsensus-treh-rels-nashi-zamery-svod-04-08-2026/prompt.md)
+- All sources (23 links): [DR26-07-31-MACANTON-03-2122-omniroute-konsensus-treh-rels-nashi-zamery-svod-04-08-2026/sources.md](DR26-07-31-MACANTON-03-2122-omniroute-konsensus-treh-rels-nashi-zamery-svod-04-08-2026/sources.md)
+
 ## Raw model reports
 
 2 reports delivered, synthesis used not recorded. [DR26-07-31-MACANTON-03-2122-omniroute-konsensus-treh-rels-nashi-zamery-svod-04-08-2026/](DR26-07-31-MACANTON-03-2122-omniroute-konsensus-treh-rels-nashi-zamery-svod-04-08-2026/README.md)

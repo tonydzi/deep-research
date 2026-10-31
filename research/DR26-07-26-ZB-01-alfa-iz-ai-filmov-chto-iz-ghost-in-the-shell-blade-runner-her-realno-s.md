@@ -127,6 +127,9 @@ source: Palo Alto AI Research Lab — deep research programme
 **Источники:** `_originals/deep-research/DR26-07-26-ZB-01-scifi-alpha-gemini.md`, `_originals/deep-research/DR26-07-26-ZB-01-scifi-alpha-grok.md`, промпт `DR26-07-26-ZB-01-PROMPT.md`, леджер `_drafts/DR-FANOUT-DR26-07-26-ZB-01-scifi-alpha.md`.
 
 
+## Check it yourself: prompt, sources, raw reports
+
+
 ## Raw model reports
 
 1 reports delivered, synthesis used not recorded. [DR26-07-26-ZB-01-alfa-iz-ai-filmov-chto-iz-ghost-in-the-shell-blade-runner-her-realno-s/](DR26-07-26-ZB-01-alfa-iz-ai-filmov-chto-iz-ghost-in-the-shell-blade-runner-her-realno-s/README.md)

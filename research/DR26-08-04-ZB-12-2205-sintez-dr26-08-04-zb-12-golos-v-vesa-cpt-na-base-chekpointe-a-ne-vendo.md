@@ -237,6 +237,11 @@ chatgpt прямо ставит `[no source found]`, остальные повт
 - decision-2026-08-05-voice-twin-cpt-on-base-budget-order — decision cites this DR synthesis as its research basis
 
 
+## Check it yourself: prompt, sources, raw reports
+
+- Prompt: [DR26-08-04-ZB-12-2205-sintez-dr26-08-04-zb-12-golos-v-vesa-cpt-na-base-chekpointe-a-ne-vendo/prompt.md](DR26-08-04-ZB-12-2205-sintez-dr26-08-04-zb-12-golos-v-vesa-cpt-na-base-chekpointe-a-ne-vendo/prompt.md)
+- All sources (104 links): [DR26-08-04-ZB-12-2205-sintez-dr26-08-04-zb-12-golos-v-vesa-cpt-na-base-chekpointe-a-ne-vendo/sources.md](DR26-08-04-ZB-12-2205-sintez-dr26-08-04-zb-12-golos-v-vesa-cpt-na-base-chekpointe-a-ne-vendo/sources.md)
+
 ## Raw model reports
 
 4 reports delivered, synthesis used 3 of 5. Note: 1 report(s) arrived after the synthesis was written; they are attached raw and were not reconciled. [DR26-08-04-ZB-12-2205-sintez-dr26-08-04-zb-12-golos-v-vesa-cpt-na-base-chekpointe-a-ne-vendo/](DR26-08-04-ZB-12-2205-sintez-dr26-08-04-zb-12-golos-v-vesa-cpt-na-base-chekpointe-a-ne-vendo/README.md)

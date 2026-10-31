@@ -74,6 +74,9 @@ source: Palo Alto AI Research Lab — deep research programme
 - Один робот говорит «проси деньги прямо сейчас», другой «сначала пару месяцев собери доказательства». Мы возьмём среднее: собираем доказательства быстро и громко.
 
 
+## Check it yourself: prompt, sources, raw reports
+
+
 ## Raw model reports
 
 3 reports delivered, synthesis used not recorded. [DR26-07-14-MACANTON-01-fandreyz-strategiya-2026-dlya-ai-native-faundera-digital-twin-second-b/](DR26-07-14-MACANTON-01-fandreyz-strategiya-2026-dlya-ai-native-faundera-digital-twin-second-b/README.md)

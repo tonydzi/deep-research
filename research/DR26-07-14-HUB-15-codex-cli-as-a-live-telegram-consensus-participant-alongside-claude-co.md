@@ -59,6 +59,9 @@ source: Palo Alto AI Research Lab — deep research programme
 - single-writer-review-pattern
 
 
+## Check it yourself: prompt, sources, raw reports
+
+
 ## Raw model reports
 
 3 reports delivered, synthesis used not recorded. [DR26-07-14-HUB-15-codex-cli-as-a-live-telegram-consensus-participant-alongside-claude-co/](DR26-07-14-HUB-15-codex-cli-as-a-live-telegram-consensus-participant-alongside-claude-co/README.md)

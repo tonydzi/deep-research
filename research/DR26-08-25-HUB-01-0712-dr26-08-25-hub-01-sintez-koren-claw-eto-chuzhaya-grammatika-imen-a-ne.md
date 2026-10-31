@@ -96,6 +96,11 @@ insight-2026-08-24-github-namescan-claw-digits (замеры кандидато�
 insight-2026-08-26-compact-retro-landscape-github (карта соседей compact/retro; claw-retro занял место в семействе 26.08).
 
 
+## Check it yourself: prompt, sources, raw reports
+
+- Prompt: [DR26-08-25-HUB-01-0712-dr26-08-25-hub-01-sintez-koren-claw-eto-chuzhaya-grammatika-imen-a-ne/prompt.md](DR26-08-25-HUB-01-0712-dr26-08-25-hub-01-sintez-koren-claw-eto-chuzhaya-grammatika-imen-a-ne/prompt.md)
+- All sources (56 links): [DR26-08-25-HUB-01-0712-dr26-08-25-hub-01-sintez-koren-claw-eto-chuzhaya-grammatika-imen-a-ne/sources.md](DR26-08-25-HUB-01-0712-dr26-08-25-hub-01-sintez-koren-claw-eto-chuzhaya-grammatika-imen-a-ne/sources.md)
+
 ## Raw model reports
 
 2 reports delivered, synthesis used 1 of 6. Note: 1 report(s) arrived after the synthesis was written; they are attached raw and were not reconciled. [DR26-08-25-HUB-01-0712-dr26-08-25-hub-01-sintez-koren-claw-eto-chuzhaya-grammatika-imen-a-ne/](DR26-08-25-HUB-01-0712-dr26-08-25-hub-01-sintez-koren-claw-eto-chuzhaya-grammatika-imen-a-ne/README.md)

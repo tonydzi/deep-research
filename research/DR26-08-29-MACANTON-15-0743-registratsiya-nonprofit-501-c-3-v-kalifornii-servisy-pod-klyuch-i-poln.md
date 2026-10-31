@@ -57,6 +57,9 @@ source: Palo Alto AI Research Lab — deep research programme
 - charitable-registration-ca-ag
 
 
+## Check it yourself: prompt, sources, raw reports
+
+
 ## Raw model reports
 
 1 reports delivered, synthesis used not recorded. [DR26-08-29-MACANTON-15-0743-registratsiya-nonprofit-501-c-3-v-kalifornii-servisy-pod-klyuch-i-poln/](DR26-08-29-MACANTON-15-0743-registratsiya-nonprofit-501-c-3-v-kalifornii-servisy-pod-klyuch-i-poln/README.md)

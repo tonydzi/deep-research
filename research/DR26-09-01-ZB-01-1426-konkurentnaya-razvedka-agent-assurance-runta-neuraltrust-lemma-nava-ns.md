@@ -48,6 +48,11 @@ source: Palo Alto AI Research Lab — deep research programme
 - policy proof / replay для AI-агентов
 
 
+## Check it yourself: prompt, sources, raw reports
+
+- Prompt: [DR26-09-01-ZB-01-1426-konkurentnaya-razvedka-agent-assurance-runta-neuraltrust-lemma-nava-ns/prompt.md](DR26-09-01-ZB-01-1426-konkurentnaya-razvedka-agent-assurance-runta-neuraltrust-lemma-nava-ns/prompt.md)
+- All sources (207 links): [DR26-09-01-ZB-01-1426-konkurentnaya-razvedka-agent-assurance-runta-neuraltrust-lemma-nava-ns/sources.md](DR26-09-01-ZB-01-1426-konkurentnaya-razvedka-agent-assurance-runta-neuraltrust-lemma-nava-ns/sources.md)
+
 ## Raw model reports
 
 4 reports delivered, synthesis used not recorded. [DR26-09-01-ZB-01-1426-konkurentnaya-razvedka-agent-assurance-runta-neuraltrust-lemma-nava-ns/](DR26-09-01-ZB-01-1426-konkurentnaya-razvedka-agent-assurance-runta-neuraltrust-lemma-nava-ns/README.md)

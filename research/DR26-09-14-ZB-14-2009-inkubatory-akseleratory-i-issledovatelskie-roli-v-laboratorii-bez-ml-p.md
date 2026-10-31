@@ -80,6 +80,11 @@ source: Palo Alto AI Research Lab — deep research programme
 🧒 Простыми словами: в школы для стартапов берут в наставники только тех, кто сам вырастил стартап и уже немного поработал там на подхвате — с улицы туда не заходят. А в исследовательские лаборатории без специальной учёной степени попасть можно, и это не сказка: нашли четверых вообще без степени и пятерых со степенью из совсем другой науки — физики, философии, экономики. Но есть жёсткое правило: говорить «я не программист, за меня пишет робот» нельзя — на собеседовании в Anthropic просят написать код руками, без помощника. И всем нужна одна вещь: не рассказ, а ссылка на что-то работающее.
 
 
+## Check it yourself: prompt, sources, raw reports
+
+- Prompt: [DR26-09-14-ZB-14-2009-inkubatory-akseleratory-i-issledovatelskie-roli-v-laboratorii-bez-ml-p/prompt.md](DR26-09-14-ZB-14-2009-inkubatory-akseleratory-i-issledovatelskie-roli-v-laboratorii-bez-ml-p/prompt.md)
+- All sources (138 links): [DR26-09-14-ZB-14-2009-inkubatory-akseleratory-i-issledovatelskie-roli-v-laboratorii-bez-ml-p/sources.md](DR26-09-14-ZB-14-2009-inkubatory-akseleratory-i-issledovatelskie-roli-v-laboratorii-bez-ml-p/sources.md)
+
 ## Raw model reports
 
 3 reports delivered, synthesis used 5 of 8. [DR26-09-14-ZB-14-2009-inkubatory-akseleratory-i-issledovatelskie-roli-v-laboratorii-bez-ml-p/](DR26-09-14-ZB-14-2009-inkubatory-akseleratory-i-issledovatelskie-roli-v-laboratorii-bez-ml-p/README.md)

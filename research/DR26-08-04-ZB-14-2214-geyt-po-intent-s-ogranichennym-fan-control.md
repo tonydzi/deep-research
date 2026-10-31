@@ -102,6 +102,11 @@ shadow_ablation:
 - «внутренний архив лаборатории»
 
 
+## Check it yourself: prompt, sources, raw reports
+
+- Prompt: [DR26-08-04-ZB-14-2214-geyt-po-intent-s-ogranichennym-fan-control/prompt.md](DR26-08-04-ZB-14-2214-geyt-po-intent-s-ogranichennym-fan-control/prompt.md)
+- All sources (71 links): [DR26-08-04-ZB-14-2214-geyt-po-intent-s-ogranichennym-fan-control/sources.md](DR26-08-04-ZB-14-2214-geyt-po-intent-s-ogranichennym-fan-control/sources.md)
+
 ## Raw model reports
 
 4 reports delivered, synthesis used 4 of 6. [DR26-08-04-ZB-14-2214-geyt-po-intent-s-ogranichennym-fan-control/](DR26-08-04-ZB-14-2214-geyt-po-intent-s-ogranichennym-fan-control/README.md)

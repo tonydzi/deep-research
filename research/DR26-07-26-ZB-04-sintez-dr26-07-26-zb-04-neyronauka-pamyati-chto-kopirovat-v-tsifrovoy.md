@@ -137,6 +137,10 @@ ZB-03 пришёл к этому от паттернов Карпаты и Гв�
 - insight-DR-DR26-08-04-ZB-14-2214-graph-expansion-fan-penalty — ZB-04 разобрал ACT-R time-decay за feature flag — ZB-14 тестирует и отклоняет его для той же системы
 
 
+## Check it yourself: prompt, sources, raw reports
+
+- All sources (85 links): [DR26-07-26-ZB-04-sintez-dr26-07-26-zb-04-neyronauka-pamyati-chto-kopirovat-v-tsifrovoy/sources.md](DR26-07-26-ZB-04-sintez-dr26-07-26-zb-04-neyronauka-pamyati-chto-kopirovat-v-tsifrovoy/sources.md)
+
 ## Raw model reports
 
 1 reports delivered, synthesis used not recorded. [DR26-07-26-ZB-04-sintez-dr26-07-26-zb-04-neyronauka-pamyati-chto-kopirovat-v-tsifrovoy/](DR26-07-26-ZB-04-sintez-dr26-07-26-zb-04-neyronauka-pamyati-chto-kopirovat-v-tsifrovoy/README.md)

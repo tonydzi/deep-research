@@ -38,6 +38,11 @@ source: Palo Alto AI Research Lab — deep research programme
 - Полная сверка: `E:\!CLAUDE-PaloAltoPC-June26\docs\dr-prompts\DR26-10-11-HUB-03-0732-synthesis-2legs.md`; оригиналы ног в `_originals/deep-research/DR26-10-11-HUB-03-0732-{chatgpt,claudeai}.md`; дашборд Sheets `1RPrXHh4Be9cUmlKjDeEyObG0mNP408-iWdxk6pV_Ev4`.
 
 
+## Check it yourself: prompt, sources, raw reports
+
+- Prompt: [DR26-10-11-HUB-03-0732-roi-agentov-na-odnom-pk-rynok-koordinatsii-agent-agent-vs-nash-stek-cl/prompt.md](DR26-10-11-HUB-03-0732-roi-agentov-na-odnom-pk-rynok-koordinatsii-agent-agent-vs-nash-stek-cl/prompt.md)
+- All sources (139 links): [DR26-10-11-HUB-03-0732-roi-agentov-na-odnom-pk-rynok-koordinatsii-agent-agent-vs-nash-stek-cl/sources.md](DR26-10-11-HUB-03-0732-roi-agentov-na-odnom-pk-rynok-koordinatsii-agent-agent-vs-nash-stek-cl/sources.md)
+
 ## Raw model reports
 
 2 reports delivered, synthesis used 4 of 6. [DR26-10-11-HUB-03-0732-roi-agentov-na-odnom-pk-rynok-koordinatsii-agent-agent-vs-nash-stek-cl/](DR26-10-11-HUB-03-0732-roi-agentov-na-odnom-pk-rynok-koordinatsii-agent-agent-vs-nash-stek-cl/README.md)

@@ -61,6 +61,11 @@ source: Palo Alto AI Research Lab — deep research programme
 Сырьё: «внутренний архив лаборатории» (chatgpt 68 КБ, grok 57 КБ, gemini 21 КБ).
 
 
+## Check it yourself: prompt, sources, raw reports
+
+- Prompt: [DR26-09-22-ZB-01-1143-dr-zb-01-1143-ai-compute-provaydery-neocloud-kak-rabotodateli-sintez/prompt.md](DR26-09-22-ZB-01-1143-dr-zb-01-1143-ai-compute-provaydery-neocloud-kak-rabotodateli-sintez/prompt.md)
+- All sources (77 links): [DR26-09-22-ZB-01-1143-dr-zb-01-1143-ai-compute-provaydery-neocloud-kak-rabotodateli-sintez/sources.md](DR26-09-22-ZB-01-1143-dr-zb-01-1143-ai-compute-provaydery-neocloud-kak-rabotodateli-sintez/sources.md)
+
 ## Raw model reports
 
 2 reports delivered, synthesis used 2 of 6. Note: 1 report(s) arrived after the synthesis was written; they are attached raw and were not reconciled. [DR26-09-22-ZB-01-1143-dr-zb-01-1143-ai-compute-provaydery-neocloud-kak-rabotodateli-sintez/](DR26-09-22-ZB-01-1143-dr-zb-01-1143-ai-compute-provaydery-neocloud-kak-rabotodateli-sintez/README.md)

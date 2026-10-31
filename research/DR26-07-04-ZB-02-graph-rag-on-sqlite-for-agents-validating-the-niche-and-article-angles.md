@@ -62,6 +62,10 @@ source: Palo Alto AI Research Lab — deep research programme
 - insight-DR-DR26-09-28-HUB-01-0455-критика-михаила-савченко-о-битемпоральности-и-репу — тот же пилот sqlite-graph-memory / graph RAG, прямая предыстория темы битемпоральности и репутации источника
 
 
+## Check it yourself: prompt, sources, raw reports
+
+- All sources (2 links): [DR26-07-04-ZB-02-graph-rag-on-sqlite-for-agents-validating-the-niche-and-article-angles/sources.md](DR26-07-04-ZB-02-graph-rag-on-sqlite-for-agents-validating-the-niche-and-article-angles/sources.md)
+
 ## Raw model reports
 
 1 reports delivered, synthesis used not recorded. [DR26-07-04-ZB-02-graph-rag-on-sqlite-for-agents-validating-the-niche-and-article-angles/](DR26-07-04-ZB-02-graph-rag-on-sqlite-for-agents-validating-the-niche-and-article-angles/README.md)

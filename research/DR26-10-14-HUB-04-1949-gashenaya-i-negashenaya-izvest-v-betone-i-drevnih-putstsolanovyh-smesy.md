@@ -78,6 +78,11 @@ source: Palo Alto AI Research Lab — deep research programme
 - Щелочно-кремнезёмная реакция (ASR)
 
 
+## Check it yourself: prompt, sources, raw reports
+
+- Prompt: [DR26-10-14-HUB-04-1949-gashenaya-i-negashenaya-izvest-v-betone-i-drevnih-putstsolanovyh-smesy/prompt.md](DR26-10-14-HUB-04-1949-gashenaya-i-negashenaya-izvest-v-betone-i-drevnih-putstsolanovyh-smesy/prompt.md)
+- All sources (165 links): [DR26-10-14-HUB-04-1949-gashenaya-i-negashenaya-izvest-v-betone-i-drevnih-putstsolanovyh-smesy/sources.md](DR26-10-14-HUB-04-1949-gashenaya-i-negashenaya-izvest-v-betone-i-drevnih-putstsolanovyh-smesy/sources.md)
+
 ## Raw model reports
 
 4 reports delivered, synthesis used 2 of 6. Note: 2 report(s) arrived after the synthesis was written; they are attached raw and were not reconciled. [DR26-10-14-HUB-04-1949-gashenaya-i-negashenaya-izvest-v-betone-i-drevnih-putstsolanovyh-smesy/](DR26-10-14-HUB-04-1949-gashenaya-i-negashenaya-izvest-v-betone-i-drevnih-putstsolanovyh-smesy/README.md)

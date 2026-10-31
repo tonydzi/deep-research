@@ -62,6 +62,10 @@ source: Palo Alto AI Research Lab — deep research programme
 - verify-existing-before-proposing
 
 
+## Check it yourself: prompt, sources, raw reports
+
+- All sources (55 links): [DR26-07-14-HUB-01-troyanskaya-alfa-prizma-karantina-dlya-otravlennogo-znaniya/sources.md](DR26-07-14-HUB-01-troyanskaya-alfa-prizma-karantina-dlya-otravlennogo-znaniya/sources.md)
+
 ## Raw model reports
 
 1 reports delivered, synthesis used not recorded. [DR26-07-14-HUB-01-troyanskaya-alfa-prizma-karantina-dlya-otravlennogo-znaniya/](DR26-07-14-HUB-01-troyanskaya-alfa-prizma-karantina-dlya-otravlennogo-znaniya/README.md)

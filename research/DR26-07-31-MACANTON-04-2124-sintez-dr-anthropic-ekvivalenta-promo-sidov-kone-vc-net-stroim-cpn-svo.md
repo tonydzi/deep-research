@@ -60,6 +60,11 @@ ai-audit-before-call-offer · mission-get-noticed-hired-by-llm-company · anton-
 **Решение (кофаундер, постфактум):** заявку НЕ подаём — она ушла бы в отказ и сожгла первое касание. Возвращаемся к CPN при 10+ оформленных людях либо под юрлицом партнёра. Пока: оффер offer-claude-launch-sprint + публичный продукт на Claude (Powered by Claude / ecosystem) + первая customer story. Лид-магнит без изменений — наш аудит.
 
 
+## Check it yourself: prompt, sources, raw reports
+
+- Prompt: [DR26-07-31-MACANTON-04-2124-sintez-dr-anthropic-ekvivalenta-promo-sidov-kone-vc-net-stroim-cpn-svo/prompt.md](DR26-07-31-MACANTON-04-2124-sintez-dr-anthropic-ekvivalenta-promo-sidov-kone-vc-net-stroim-cpn-svo/prompt.md)
+- All sources (44 links): [DR26-07-31-MACANTON-04-2124-sintez-dr-anthropic-ekvivalenta-promo-sidov-kone-vc-net-stroim-cpn-svo/sources.md](DR26-07-31-MACANTON-04-2124-sintez-dr-anthropic-ekvivalenta-promo-sidov-kone-vc-net-stroim-cpn-svo/sources.md)
+
 ## Raw model reports
 
 2 reports delivered, synthesis used 2 of 2. [DR26-07-31-MACANTON-04-2124-sintez-dr-anthropic-ekvivalenta-promo-sidov-kone-vc-net-stroim-cpn-svo/](DR26-07-31-MACANTON-04-2124-sintez-dr-anthropic-ekvivalenta-promo-sidov-kone-vc-net-stroim-cpn-svo/README.md)

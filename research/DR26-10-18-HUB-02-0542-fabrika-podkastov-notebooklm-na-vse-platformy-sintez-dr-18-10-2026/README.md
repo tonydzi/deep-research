@@ -12,6 +12,9 @@
 | grok | 2026-10-18 07:34 |
 | mistral | 2026-10-18 07:12 |
 
+- [prompt](./prompt.md): the exact question every model got
+- [sources](./sources.md): 262 unique links cited by the models
+
 Reports below are published as delivered, after an automatic privacy scrub.
 
 - [chatgpt](./chatgpt.md)

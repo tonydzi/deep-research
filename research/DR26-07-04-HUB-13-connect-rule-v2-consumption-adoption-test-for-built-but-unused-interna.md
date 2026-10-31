@@ -62,6 +62,9 @@ source: Palo Alto AI Research Lab — deep research programme
 - goodharts-law
 
 
+## Check it yourself: prompt, sources, raw reports
+
+
 ## Raw model reports
 
 3 reports delivered, synthesis used not recorded. [DR26-07-04-HUB-13-connect-rule-v2-consumption-adoption-test-for-built-but-unused-interna/](DR26-07-04-HUB-13-connect-rule-v2-consumption-adoption-test-for-built-but-unused-interna/README.md)

@@ -53,6 +53,9 @@ source: Palo Alto AI Research Lab — deep research programme
 - insight-DR-DR26-08-29-MACANTON-20-0743-почему-у-древних-статуй-по-всему-миру-часто-отбит- — обратная ссылка на сиблинг-DR той же темы
 
 
+## Check it yourself: prompt, sources, raw reports
+
+
 ## Raw model reports
 
 1 reports delivered, synthesis used not recorded. [DR26-08-29-MACANTON-19-0743-pochemu-u-drevnih-statuy-otbity-nosy-i-litsa-eroziya-vs-namerennoe-raz/](DR26-08-29-MACANTON-19-0743-pochemu-u-drevnih-statuy-otbity-nosy-i-litsa-eroziya-vs-namerennoe-raz/README.md)

@@ -77,3 +77,13 @@ ChatGPT частично закрыл пробел исторических ок
 4. **Собрать Claude plugin и подготовить Cline-заявку.** Использовать общий проверенный MCP-сценарий, но отдельные форматы площадок; перед подачей разрешить расхождение старого и нового процесса Cline.
 
 5. **Начать измерение и подать точечные заявки в punkpeye и TeleAI.** Сохранять трафик/referrers, звёзды, PyPI и даты внешних событий. Критерии недели: принятая карточка, рабочая чужая установка и первый подтверждённый пользователь. Show HN готовить вокруг этого сценария, без обещания заданного числа звёзд.
+
+
+## Check it yourself: prompt, sources, raw reports
+
+- Prompt: [DR26-10-22-MACANTON-02-1416-dr26-10-22-macanton-02-1416-chuzhaya-distributsiya-sgm-i-put-k-1000-zv/prompt.md](DR26-10-22-MACANTON-02-1416-dr26-10-22-macanton-02-1416-chuzhaya-distributsiya-sgm-i-put-k-1000-zv/prompt.md)
+- All sources (304 links): [DR26-10-22-MACANTON-02-1416-dr26-10-22-macanton-02-1416-chuzhaya-distributsiya-sgm-i-put-k-1000-zv/sources.md](DR26-10-22-MACANTON-02-1416-dr26-10-22-macanton-02-1416-chuzhaya-distributsiya-sgm-i-put-k-1000-zv/sources.md)
+
+## Raw model reports
+
+4 reports delivered, synthesis used 1 of 6. Note: 3 report(s) arrived after the synthesis was written; they are attached raw and were not reconciled. [DR26-10-22-MACANTON-02-1416-dr26-10-22-macanton-02-1416-chuzhaya-distributsiya-sgm-i-put-k-1000-zv/](DR26-10-22-MACANTON-02-1416-dr26-10-22-macanton-02-1416-chuzhaya-distributsiya-sgm-i-put-k-1000-zv/README.md)

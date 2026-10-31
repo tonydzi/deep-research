@@ -240,6 +240,11 @@ AK-идеальность = (проверенные полезные эффек�
 
 
 
+## Check it yourself: prompt, sources, raw reports
+
+- Prompt: [DR26-08-06-HUB-01-1055-dr26-08-06-hub-01-1055-triz-chto-brat-chto-otkazat-i-gde-ona-pryamo-pr/prompt.md](DR26-08-06-HUB-01-1055-dr26-08-06-hub-01-1055-triz-chto-brat-chto-otkazat-i-gde-ona-pryamo-pr/prompt.md)
+- All sources (83 links): [DR26-08-06-HUB-01-1055-dr26-08-06-hub-01-1055-triz-chto-brat-chto-otkazat-i-gde-ona-pryamo-pr/sources.md](DR26-08-06-HUB-01-1055-dr26-08-06-hub-01-1055-triz-chto-brat-chto-otkazat-i-gde-ona-pryamo-pr/sources.md)
+
 ## Raw model reports
 
 4 reports delivered, synthesis used 4 of 6. [DR26-08-06-HUB-01-1055-dr26-08-06-hub-01-1055-triz-chto-brat-chto-otkazat-i-gde-ona-pryamo-pr/](DR26-08-06-HUB-01-1055-dr26-08-06-hub-01-1055-triz-chto-brat-chto-otkazat-i-gde-ona-pryamo-pr/README.md)

@@ -8,6 +8,8 @@
 |---|---|
 | glm | unknown |
 
+- prompt: not preserved (this research ran before we kept a prompt registry)
+
 Reports below are published as delivered, after an automatic privacy scrub.
 
 - [glm](./glm.md)

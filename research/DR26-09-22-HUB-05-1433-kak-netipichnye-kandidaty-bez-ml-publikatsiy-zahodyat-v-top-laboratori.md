@@ -55,6 +55,11 @@ source: Palo Alto AI Research Lab — deep research programme
 - compensation-benchmarks-ai-labs
 
 
+## Check it yourself: prompt, sources, raw reports
+
+- Prompt: [DR26-09-22-HUB-05-1433-kak-netipichnye-kandidaty-bez-ml-publikatsiy-zahodyat-v-top-laboratori/prompt.md](DR26-09-22-HUB-05-1433-kak-netipichnye-kandidaty-bez-ml-publikatsiy-zahodyat-v-top-laboratori/prompt.md)
+- All sources (26 links): [DR26-09-22-HUB-05-1433-kak-netipichnye-kandidaty-bez-ml-publikatsiy-zahodyat-v-top-laboratori/sources.md](DR26-09-22-HUB-05-1433-kak-netipichnye-kandidaty-bez-ml-publikatsiy-zahodyat-v-top-laboratori/sources.md)
+
 ## Raw model reports
 
 3 reports delivered, synthesis used 1 of 6. Note: 2 report(s) arrived after the synthesis was written; they are attached raw and were not reconciled. [DR26-09-22-HUB-05-1433-kak-netipichnye-kandidaty-bez-ml-publikatsiy-zahodyat-v-top-laboratori/](DR26-09-22-HUB-05-1433-kak-netipichnye-kandidaty-bez-ml-publikatsiy-zahodyat-v-top-laboratori/README.md)

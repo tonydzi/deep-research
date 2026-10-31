@@ -57,6 +57,10 @@ source: Palo Alto AI Research Lab — deep research programme
 - session-telemetry-ingest
 
 
+## Check it yourself: prompt, sources, raw reports
+
+- All sources (1 links): [DR26-07-28-HUB-25-2339-nua-rudel-kak-sloy-skill-intelligence-dlya-claude-code-i-codex-demo-st/sources.md](DR26-07-28-HUB-25-2339-nua-rudel-kak-sloy-skill-intelligence-dlya-claude-code-i-codex-demo-st/sources.md)
+
 ## Raw model reports
 
 1 reports delivered, synthesis used not recorded. [DR26-07-28-HUB-25-2339-nua-rudel-kak-sloy-skill-intelligence-dlya-claude-code-i-codex-demo-st/](DR26-07-28-HUB-25-2339-nua-rudel-kak-sloy-skill-intelligence-dlya-claude-code-i-codex-demo-st/README.md)

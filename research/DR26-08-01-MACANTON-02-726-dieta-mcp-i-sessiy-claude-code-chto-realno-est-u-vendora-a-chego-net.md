@@ -70,6 +70,11 @@ source: Palo Alto AI Research Lab — deep research programme
 Связано: proc-patrol-robot · dr-headless-rails-codex-grok
 
 
+## Check it yourself: prompt, sources, raw reports
+
+- Prompt: [DR26-08-01-MACANTON-02-726-dieta-mcp-i-sessiy-claude-code-chto-realno-est-u-vendora-a-chego-net/prompt.md](DR26-08-01-MACANTON-02-726-dieta-mcp-i-sessiy-claude-code-chto-realno-est-u-vendora-a-chego-net/prompt.md)
+- All sources (11 links): [DR26-08-01-MACANTON-02-726-dieta-mcp-i-sessiy-claude-code-chto-realno-est-u-vendora-a-chego-net/sources.md](DR26-08-01-MACANTON-02-726-dieta-mcp-i-sessiy-claude-code-chto-realno-est-u-vendora-a-chego-net/sources.md)
+
 ## Raw model reports
 
 1 reports delivered, synthesis used not recorded. [DR26-08-01-MACANTON-02-726-dieta-mcp-i-sessiy-claude-code-chto-realno-est-u-vendora-a-chego-net/](DR26-08-01-MACANTON-02-726-dieta-mcp-i-sessiy-claude-code-chto-realno-est-u-vendora-a-chego-net/README.md)

@@ -53,6 +53,10 @@ source: Palo Alto AI Research Lab — deep research programme
 - insight-DR-DR26-08-02-ZB-05-2357-cursor-anysphere-как-имплементер-3-в-мульти-llm-ко — same SpaceX/xAI/Grok/Cursor merger fact central to this DR
 
 
+## Check it yourself: prompt, sources, raw reports
+
+- All sources (1 links): [DR26-07-28-HUB-10-2339-grok-coding-grok-4-5-grok-build-ot-spacexai-vozmozhnosti-sliyanie-s-cu/sources.md](DR26-07-28-HUB-10-2339-grok-coding-grok-4-5-grok-build-ot-spacexai-vozmozhnosti-sliyanie-s-cu/sources.md)
+
 ## Raw model reports
 
 1 reports delivered, synthesis used not recorded. [DR26-07-28-HUB-10-2339-grok-coding-grok-4-5-grok-build-ot-spacexai-vozmozhnosti-sliyanie-s-cu/](DR26-07-28-HUB-10-2339-grok-coding-grok-4-5-grok-build-ot-spacexai-vozmozhnosti-sliyanie-s-cu/README.md)

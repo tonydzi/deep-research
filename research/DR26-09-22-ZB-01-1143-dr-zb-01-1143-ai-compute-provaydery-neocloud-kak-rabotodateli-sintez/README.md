@@ -9,6 +9,9 @@
 | chatgpt | 2026-09-22 12:39 |
 | gemini | 2026-09-23 05:31 |
 
+- [prompt](./prompt.md): the exact question every model got
+- [sources](./sources.md): 77 unique links cited by the models
+
 Reports below are published as delivered, after an automatic privacy scrub.
 
 - [chatgpt](./chatgpt.md)

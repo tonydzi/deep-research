@@ -11,6 +11,9 @@
 | glm | 2026-09-23 00:36 |
 | grok | 2026-09-22 14:41 |
 
+- [prompt](./prompt.md): the exact question every model got
+- [sources](./sources.md): 60 unique links cited by the models
+
 Reports below are published as delivered, after an automatic privacy scrub.
 
 - [claudeai](./claudeai.md)

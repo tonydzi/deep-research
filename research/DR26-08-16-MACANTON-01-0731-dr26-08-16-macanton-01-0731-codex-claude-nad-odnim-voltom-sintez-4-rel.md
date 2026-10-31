@@ -75,6 +75,11 @@ Codex читает свои правила стопкой: сначала общ
 - insight-DR-DR26-08-28-MACANTON-01-1114-dual-agent-codex-cli-claude-code-над-общим-волтом- — прямой предшественник — тот же DR-тред Codex+Claude dual-agent над волтом
 
 
+## Check it yourself: prompt, sources, raw reports
+
+- Prompt: [DR26-08-16-MACANTON-01-0731-dr26-08-16-macanton-01-0731-codex-claude-nad-odnim-voltom-sintez-4-rel/prompt.md](DR26-08-16-MACANTON-01-0731-dr26-08-16-macanton-01-0731-codex-claude-nad-odnim-voltom-sintez-4-rel/prompt.md)
+- All sources (98 links): [DR26-08-16-MACANTON-01-0731-dr26-08-16-macanton-01-0731-codex-claude-nad-odnim-voltom-sintez-4-rel/sources.md](DR26-08-16-MACANTON-01-0731-dr26-08-16-macanton-01-0731-codex-claude-nad-odnim-voltom-sintez-4-rel/sources.md)
+
 ## Raw model reports
 
 4 reports delivered, synthesis used 4 of 6. [DR26-08-16-MACANTON-01-0731-dr26-08-16-macanton-01-0731-codex-claude-nad-odnim-voltom-sintez-4-rel/](DR26-08-16-MACANTON-01-0731-dr26-08-16-macanton-01-0731-codex-claude-nad-odnim-voltom-sintez-4-rel/README.md)

@@ -57,6 +57,11 @@ source: Palo Alto AI Research Lab — deep research programme
 - china-oss-export-control-risk
 
 
+## Check it yourself: prompt, sources, raw reports
+
+- Prompt: [DR26-10-01-MACANTON-01-0726-matching-oss-vklada-s-offerami-v-ii-laboratoriyah-vostok-dver-vs-zapad/prompt.md](DR26-10-01-MACANTON-01-0726-matching-oss-vklada-s-offerami-v-ii-laboratoriyah-vostok-dver-vs-zapad/prompt.md)
+- All sources (19 links): [DR26-10-01-MACANTON-01-0726-matching-oss-vklada-s-offerami-v-ii-laboratoriyah-vostok-dver-vs-zapad/sources.md](DR26-10-01-MACANTON-01-0726-matching-oss-vklada-s-offerami-v-ii-laboratoriyah-vostok-dver-vs-zapad/sources.md)
+
 ## Raw model reports
 
 2 reports delivered, synthesis used 1 of 6. Note: 1 report(s) arrived after the synthesis was written; they are attached raw and were not reconciled. [DR26-10-01-MACANTON-01-0726-matching-oss-vklada-s-offerami-v-ii-laboratoriyah-vostok-dver-vs-zapad/](DR26-10-01-MACANTON-01-0726-matching-oss-vklada-s-offerami-v-ii-laboratoriyah-vostok-dver-vs-zapad/README.md)

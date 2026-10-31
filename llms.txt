@@ -1,10 +1,11 @@
 # Palo Alto AI Research Lab — deep research corpus
 
-361 distilled deep-research reports. Machine-readable index: index.json
+355 distilled deep-research reports. Machine-readable index: index.json
 Each file: frontmatter (dr_id, title, date, lang) + summary + key findings + recommendations.
 Multi-model methodology: every question fanned out to several frontier models, then reconciled.
 License: CC BY 4.0. Cite as: Palo Alto AI Research Lab, deep research <dr_id>.
 
+- DR26-10-30-HUB-05-1533 (2026-10-30, ru): Рептилии в Лиссабоне и Португалии: где подержать, купить, устроить ивент
 - DR26-10-28-HUB-01 (2026-10-28, ru): Альтернативы Screenpipe: аудит непрерывной аудиозаписи, исходников и ремонтопригодности
 - DR26-10-28-HUB-05 (2026-10-28, ru): SeeRay11/OpenFlow и визуальные конструкторы агентных workflow для AI-лаборатории
 - DR26-10-26-HUB-01-0658 (2026-10-26, ru): Replit: что это сегодня и какая польза Palo Alto AI Research Lab (ДР 4 рельсы, 26.10.2026)
@@ -15,7 +16,6 @@ License: CC BY 4.0. Cite as: Palo Alto AI Research Lab, deep research <dr_id>.
 - DR26-10-24-HUB-04-0512 (2026-10-24, ru): Nautilus про LSD, быстрые ритмы и фрактальность мозга: проверка по первоисточнику (MEG, N=
 - DR26-10-24-HUB-07-0721 (2026-10-24, en): CodeIndexer companion: semantic-search and LSP canary selection (Oct 2026 delta)
 - DR26-10-22-MACANTON-01-1334 (2026-10-23, ru): браузерные агент-харнессы для подачи форм и загрузки CV
-- DR26-10-23-HUB-01 (2026-10-23, ru): Лучшие русские аудиокниги для детей 3–15 лет: ТОП-10 исполнений (23.10.2026)
 - DR26-10-22-ZB-01-2030 (2026-10-22, en): Handwriting mechanics of successful AI-builder X accounts for short pain posts
 - DR26-10-19-MACPRO192-03-1044 (2026-10-20, ru): ДР: одна сессия агента на несколько компьютеров и людей (синтез 4 ног)
 - DR26-10-20-HUB-03-2232 (2026-10-20, mixed): Ремонтопригодная слоистая память сессий: инкрементальная индексация, релинкинг, оценка
@@ -60,7 +60,6 @@ License: CC BY 4.0. Cite as: Palo Alto AI Research Lab, deep research <dr_id>.
 - DR26-09-02-HUB-01-1307 (2026-09-02, ru): Допингование — мировые каденсы re-ping, dunning и вердикт оригинальности delete-and-resend
 - DR26-09-01-HUB-02-1604 (2026-09-01, ru): Приток розницы в TON, реальная доходность стейблкоин-стратегий и находимость smart-money-ф
 - DR26-09-01-ZB-01-1426 (2026-09-01, ru): Конкурентная разведка agent-assurance (Runta, NeuralTrust, Lemma, Nava) + NSF Phase I elig
-- DR26-08-30-MACANTON-01 (2026-08-30, en): AAA GitBook — история Platinum Engineering и AI CRM C(H+A)RM (не по теме реестра)
 - DR26-08-30-MACANTON-02 (2026-08-30, en): Несовпадение содержания: файл озаглавлен «Успех на GitHub без кода», но текст — история ко
 - DR26-08-29-MACANTON-01-0742 (2026-08-29, en): Meta: reusable deep-research methodology template, applied to urban heat islands & public
 - DR26-08-29-MACANTON-02-0742 (2026-08-29, en): Deep Research scoping report: no topic specified — ranking of 5 candidate longevity/health
@@ -100,7 +99,6 @@ License: CC BY 4.0. Cite as: Palo Alto AI Research Lab, deep research <dr_id>.
 - DR26-08-25-MACANTON-15-0740 (2026-08-25, ru): Venice.ai vs Fanvue: сравнение финансирования, оценки и рисков (авг. 2026)
 - DR26-08-25-MACANTON-16-0740 (2026-08-25, ru): Google Antigravity 2.0: архитектура, интерфейсы (Desktop/CLI/headless/SDK/Managed API), пр
 - DR26-08-25-MACANTON-17-0742 (2026-08-25, en): HuggingFace/vendor cookbook contributions as a hiring lever into frontier LLM labs
-- DR26-08-25-MACANTON-18-0745 (2026-08-25, ru): CatchClub/Connectli: рынок, конкуренция и фандрайзинг в США 2026
 - DR26-07-23-MACANTON-01-1118 (2026-08-24, ru): HuggingFace/вендорские cookbooks как рычаг найма в frontier-LLM — синтез + Decision Memo
 - DR26-08-24-HUB-01-0830 (2026-08-24, ru): NSFW/adult AI как moat — синтез 4 вендоров (moat реален, но операционный; победил угол OF-copilot)
 - DR26-08-24-MACANTON-01-0007 (2026-08-24, ru): Заметность в топ-10 LLM: второе касание, а не объём — синтез DR-0007
@@ -115,7 +113,6 @@ License: CC BY 4.0. Cite as: Palo Alto AI Research Lab, deep research <dr_id>.
 - DR26-08-11-HUB-02-2212 (2026-08-11, mixed): Асимметрия слияния PR: почему mid-size инфра-OSS мержит аутсайдеров, а вендорские cookbook
 - DR26-08-04-ZB-14-2214 (2026-08-10, ru): гейт по intent с ограниченным fan-control
 - DR26-08-10-HUB-01-1449 (2026-08-10, ru): онлайн-платформы регистрации 501(c)(3) — Foundation Group Core, Калифорния остаётся, HCB закрылся для взрослых
-- DR26-08-05-ZB-03-1621 (2026-08-06, ru): DR26-08-05-ZB-03 Синтез: нейминг лаборатории — QQQ отбит, третий путь = неологизм
 - DR26-08-06-HUB-01-1055 (2026-08-06, ru): DR26-08-06-HUB-01-1055 — ТРИЗ: что брать, что отказать, и где она прямо противоречит АК-47
 - DR26-08-06-HUB-02-1055 (2026-08-06, ru): DR26-08-06-HUB-02-1055 — «5 почему» по серии: что подтвердилось в нашем ТЗ и две дыры, которых там не было
 - DR26-08-05-HUB-02-2156 (2026-08-05, ru): FB Graph API — свои посты с личного профиля читаются легально и без браузера, App Review не нужен
@@ -335,7 +332,6 @@ License: CC BY 4.0. Cite as: Palo Alto AI Research Lab, deep research <dr_id>.
 - DR26-08-21-HUB-02-1609 (, ru): Экономика синтетических сотрудников — что из тезиса «90% на токены» можно публиковать
 - DR26-08-23-HUB-02-2226 (, ru): Touch base — ледокол для спящего тёплого контакта, якорь и no-delta спор
 - DR26-08-24-HUB-03-1747 (, ru): Механика найма во frontier-LLM-компаниях — доска, визы, OSS-двери и спека монитора
-- DR26-08-24-HUB-05-1830 (, ru): Аудит свежих раундов в крипте июнь-август 2026: реестр, кластеры, BD-адреса
 - DR26-08-24-HUB-06-2040 (, ru): Плейбук упаковки: как поднимают крупно при слабом adoption — и что из этого наше
 - DR26-08-25-HUB-02-0712 (, ru): Лёгкость фандрейза по трём витринам: аудит легче всего, Сиренка — красный океан, сила в комбо
 - DR26-08-26-HUB-01-0727 (, ru): SMB/mid-market AI: гипотеза «<1%» опровергнута, горизонтальный «второй мозг для SMB» — слабейшая упаковка
@@ -350,7 +346,6 @@ License: CC BY 4.0. Cite as: Palo Alto AI Research Lab, deep research <dr_id>.
 - DR26-09-14-ZB-12-2009 (, ru): COO / Chief of Staff / IR / Capital Formation: заполняются ли эти роли публично
 - DR26-09-14-ZB-13-2009 (, ru): Стейблкоины vs криптобиржи vs хедж-фонды: где профиль крипто-фаундера заходит легче
 - DR26-09-14-ZB-14-2009 (, ru): Инкубаторы/акселераторы и исследовательские роли в лаборатории без ML-PhD
-- DR26-09-14-ZB-20-2206 (, ru): FDE: какой реальный уровень кодинга спрашивают на интервью
 - DR26-09-15-HUB-01-1111 (, ru): Стоит ли непрерывная запись экрана своей цены, если звук и текст уже есть
 - DR26-09-15-HUB-05-1826 (, ru): Как ВЕСТИ СЕБЯ в семи комнатах интервью: поведенческая механика (DR26-09-15-HUB-05-1826)
 - DR26-09-15-MACANTON-02-1229 (, ru): Синтез DR26-09-15-MACANTON-02-1229 — AI-визионеры: слова против ставок, прогноз 2026-2030, двери для внешнего билдера

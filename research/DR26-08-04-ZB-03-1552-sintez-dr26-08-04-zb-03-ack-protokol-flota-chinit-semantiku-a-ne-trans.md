@@ -142,6 +142,11 @@ ACP (arXiv:2602.15055), «advisory concurrency» MTPO. Два других ве�
   Blob + `<a download>` из JS страницы, но Chrome даёт ОДНУ авто-загрузку на свежую вкладку.
 
 
+## Check it yourself: prompt, sources, raw reports
+
+- Prompt: [DR26-08-04-ZB-03-1552-sintez-dr26-08-04-zb-03-ack-protokol-flota-chinit-semantiku-a-ne-trans/prompt.md](DR26-08-04-ZB-03-1552-sintez-dr26-08-04-zb-03-ack-protokol-flota-chinit-semantiku-a-ne-trans/prompt.md)
+- All sources (55 links): [DR26-08-04-ZB-03-1552-sintez-dr26-08-04-zb-03-ack-protokol-flota-chinit-semantiku-a-ne-trans/sources.md](DR26-08-04-ZB-03-1552-sintez-dr26-08-04-zb-03-ack-protokol-flota-chinit-semantiku-a-ne-trans/sources.md)
+
 ## Raw model reports
 
 3 reports delivered, synthesis used 3 of 3. [DR26-08-04-ZB-03-1552-sintez-dr26-08-04-zb-03-ack-protokol-flota-chinit-semantiku-a-ne-trans/](DR26-08-04-ZB-03-1552-sintez-dr26-08-04-zb-03-ack-protokol-flota-chinit-semantiku-a-ne-trans/README.md)

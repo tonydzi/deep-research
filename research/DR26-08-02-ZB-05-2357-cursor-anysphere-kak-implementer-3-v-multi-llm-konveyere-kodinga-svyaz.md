@@ -57,6 +57,10 @@ source: Palo Alto AI Research Lab — deep research programme
 - claude-code-orchestrator
 
 
+## Check it yourself: prompt, sources, raw reports
+
+- All sources (105 links): [DR26-08-02-ZB-05-2357-cursor-anysphere-kak-implementer-3-v-multi-llm-konveyere-kodinga-svyaz/sources.md](DR26-08-02-ZB-05-2357-cursor-anysphere-kak-implementer-3-v-multi-llm-konveyere-kodinga-svyaz/sources.md)
+
 ## Raw model reports
 
 2 reports delivered, synthesis used not recorded. [DR26-08-02-ZB-05-2357-cursor-anysphere-kak-implementer-3-v-multi-llm-konveyere-kodinga-svyaz/](DR26-08-02-ZB-05-2357-cursor-anysphere-kak-implementer-3-v-multi-llm-konveyere-kodinga-svyaz/README.md)

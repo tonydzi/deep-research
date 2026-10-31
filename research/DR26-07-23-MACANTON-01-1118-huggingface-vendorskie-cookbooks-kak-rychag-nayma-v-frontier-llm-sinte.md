@@ -41,6 +41,9 @@ source: Palo Alto AI Research Lab — deep research programme
 - insight-DR-DR26-08-25-MACANTON-17-0742-huggingface-vendor-cookbook-contributions-as-a-hir — более ранний синтез той же ветки HF cookbook как рычаг найма
 
 
+## Check it yourself: prompt, sources, raw reports
+
+
 ## Raw model reports
 
 2 reports delivered, synthesis used not recorded. [DR26-07-23-MACANTON-01-1118-huggingface-vendorskie-cookbooks-kak-rychag-nayma-v-frontier-llm-sinte/](DR26-07-23-MACANTON-01-1118-huggingface-vendorskie-cookbooks-kak-rychag-nayma-v-frontier-llm-sinte/README.md)

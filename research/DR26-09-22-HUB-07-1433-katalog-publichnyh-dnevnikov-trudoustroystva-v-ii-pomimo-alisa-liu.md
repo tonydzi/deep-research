@@ -75,6 +75,11 @@ source: Palo Alto AI Research Lab — deep research programme
 - MOC-Deep-Research-2026-09
 
 
+## Check it yourself: prompt, sources, raw reports
+
+- Prompt: [DR26-09-22-HUB-07-1433-katalog-publichnyh-dnevnikov-trudoustroystva-v-ii-pomimo-alisa-liu/prompt.md](DR26-09-22-HUB-07-1433-katalog-publichnyh-dnevnikov-trudoustroystva-v-ii-pomimo-alisa-liu/prompt.md)
+- All sources (107 links): [DR26-09-22-HUB-07-1433-katalog-publichnyh-dnevnikov-trudoustroystva-v-ii-pomimo-alisa-liu/sources.md](DR26-09-22-HUB-07-1433-katalog-publichnyh-dnevnikov-trudoustroystva-v-ii-pomimo-alisa-liu/sources.md)
+
 ## Raw model reports
 
 5 reports delivered, synthesis used 1 of 6. Note: 4 report(s) arrived after the synthesis was written; they are attached raw and were not reconciled. [DR26-09-22-HUB-07-1433-katalog-publichnyh-dnevnikov-trudoustroystva-v-ii-pomimo-alisa-liu/](DR26-09-22-HUB-07-1433-katalog-publichnyh-dnevnikov-trudoustroystva-v-ii-pomimo-alisa-liu/README.md)

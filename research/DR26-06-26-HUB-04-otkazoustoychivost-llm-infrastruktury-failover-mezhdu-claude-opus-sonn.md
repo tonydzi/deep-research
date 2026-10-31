@@ -55,6 +55,10 @@ source: Palo Alto AI Research Lab — deep research programme
 - vault-data-architecture
 
 
+## Check it yourself: prompt, sources, raw reports
+
+- All sources (2 links): [DR26-06-26-HUB-04-otkazoustoychivost-llm-infrastruktury-failover-mezhdu-claude-opus-sonn/sources.md](DR26-06-26-HUB-04-otkazoustoychivost-llm-infrastruktury-failover-mezhdu-claude-opus-sonn/sources.md)
+
 ## Raw model reports
 
 1 reports delivered, synthesis used not recorded. [DR26-06-26-HUB-04-otkazoustoychivost-llm-infrastruktury-failover-mezhdu-claude-opus-sonn/](DR26-06-26-HUB-04-otkazoustoychivost-llm-infrastruktury-failover-mezhdu-claude-opus-sonn/README.md)

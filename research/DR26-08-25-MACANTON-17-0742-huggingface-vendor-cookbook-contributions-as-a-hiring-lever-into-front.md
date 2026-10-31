@@ -67,6 +67,9 @@ source: Palo Alto AI Research Lab — deep research programme
 - 🤷 cited-only `QwenLM/Qwen-Agent#927` — реально: «feat(examples): RAG with verifiable citations for the Assistant»; в тексте только ссылка без описания сути («- **Продукты/инструменты:** huggingface/cookbook, smolagents, lighteva») → не судим (ни ✅, ни ⚠️).
 
 
+## Check it yourself: prompt, sources, raw reports
+
+
 ## Raw model reports
 
 1 reports delivered, synthesis used not recorded. [DR26-08-25-MACANTON-17-0742-huggingface-vendor-cookbook-contributions-as-a-hiring-lever-into-front/](DR26-08-25-MACANTON-17-0742-huggingface-vendor-cookbook-contributions-as-a-hiring-lever-into-front/README.md)

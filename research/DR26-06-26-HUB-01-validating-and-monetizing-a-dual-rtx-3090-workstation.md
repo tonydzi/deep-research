@@ -51,6 +51,10 @@ source: Palo Alto AI Research Lab — deep research programme
 - gpu-hardware-validation-toolchain
 
 
+## Check it yourself: prompt, sources, raw reports
+
+- All sources (11 links): [DR26-06-26-HUB-01-validating-and-monetizing-a-dual-rtx-3090-workstation/sources.md](DR26-06-26-HUB-01-validating-and-monetizing-a-dual-rtx-3090-workstation/sources.md)
+
 ## Raw model reports
 
 1 reports delivered, synthesis used not recorded. [DR26-06-26-HUB-01-validating-and-monetizing-a-dual-rtx-3090-workstation/](DR26-06-26-HUB-01-validating-and-monetizing-a-dual-rtx-3090-workstation/README.md)

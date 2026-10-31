@@ -54,6 +54,9 @@ source: Palo Alto AI Research Lab — deep research programme
 - verify-existing-before-proposing
 
 
+## Check it yourself: prompt, sources, raw reports
+
+
 ## Raw model reports
 
 1 reports delivered, synthesis used not recorded. [DR26-06-27-HUB-04-memory-architecture-patterns-for-long-running-ai-agents-working-vs-lon/](DR26-06-27-HUB-04-memory-architecture-patterns-for-long-running-ai-agents-working-vs-lon/README.md)

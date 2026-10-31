@@ -66,6 +66,11 @@ source: Palo Alto AI Research Lab — deep research programme
 - apply-strategy-100-interviews
 
 
+## Check it yourself: prompt, sources, raw reports
+
+- Prompt: [DR26-10-03-ZB-01-0157-ats-2026-kak-realno-prohodyat-filtry-nayma-v-ai-laboratoriyah/prompt.md](DR26-10-03-ZB-01-0157-ats-2026-kak-realno-prohodyat-filtry-nayma-v-ai-laboratoriyah/prompt.md)
+- All sources (34 links): [DR26-10-03-ZB-01-0157-ats-2026-kak-realno-prohodyat-filtry-nayma-v-ai-laboratoriyah/sources.md](DR26-10-03-ZB-01-0157-ats-2026-kak-realno-prohodyat-filtry-nayma-v-ai-laboratoriyah/sources.md)
+
 ## Raw model reports
 
 2 reports delivered, synthesis used 2 of 6. [DR26-10-03-ZB-01-0157-ats-2026-kak-realno-prohodyat-filtry-nayma-v-ai-laboratoriyah/](DR26-10-03-ZB-01-0157-ats-2026-kak-realno-prohodyat-filtry-nayma-v-ai-laboratoriyah/README.md)

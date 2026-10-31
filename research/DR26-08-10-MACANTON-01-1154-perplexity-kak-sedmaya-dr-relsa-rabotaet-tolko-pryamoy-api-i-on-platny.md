@@ -54,6 +54,11 @@ source: Palo Alto AI Research Lab — deep research programme
 **Рельса НЕ включена. Решение за Антоном (Tier-2).**
 
 
+## Check it yourself: prompt, sources, raw reports
+
+- Prompt: [DR26-08-10-MACANTON-01-1154-perplexity-kak-sedmaya-dr-relsa-rabotaet-tolko-pryamoy-api-i-on-platny/prompt.md](DR26-08-10-MACANTON-01-1154-perplexity-kak-sedmaya-dr-relsa-rabotaet-tolko-pryamoy-api-i-on-platny/prompt.md)
+- All sources (95 links): [DR26-08-10-MACANTON-01-1154-perplexity-kak-sedmaya-dr-relsa-rabotaet-tolko-pryamoy-api-i-on-platny/sources.md](DR26-08-10-MACANTON-01-1154-perplexity-kak-sedmaya-dr-relsa-rabotaet-tolko-pryamoy-api-i-on-platny/sources.md)
+
 ## Raw model reports
 
 4 reports delivered, synthesis used 4 of 4. [DR26-08-10-MACANTON-01-1154-perplexity-kak-sedmaya-dr-relsa-rabotaet-tolko-pryamoy-api-i-on-platny/](DR26-08-10-MACANTON-01-1154-perplexity-kak-sedmaya-dr-relsa-rabotaet-tolko-pryamoy-api-i-on-platny/README.md)

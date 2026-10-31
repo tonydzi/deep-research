@@ -68,6 +68,11 @@ VC **не отвергает SMB, но фондирует вертикали, н
 - insight-DR-DR26-10-05-HUB-05-2152-ai-стартапы-для-smb-в-сша-типы-moat-риск-смыва-пла — более ранний DR того же потока «AI для SMB в США», прямой предшественник
 
 
+## Check it yourself: prompt, sources, raw reports
+
+- Prompt: [DR26-08-26-HUB-01-0727-smb-mid-market-ai-gipoteza-1-oprovergnuta-gorizontalnyy-vtoroy-mozg-dl/prompt.md](DR26-08-26-HUB-01-0727-smb-mid-market-ai-gipoteza-1-oprovergnuta-gorizontalnyy-vtoroy-mozg-dl/prompt.md)
+- All sources (83 links): [DR26-08-26-HUB-01-0727-smb-mid-market-ai-gipoteza-1-oprovergnuta-gorizontalnyy-vtoroy-mozg-dl/sources.md](DR26-08-26-HUB-01-0727-smb-mid-market-ai-gipoteza-1-oprovergnuta-gorizontalnyy-vtoroy-mozg-dl/sources.md)
+
 ## Raw model reports
 
 2 reports delivered, synthesis used 2 of 6. [DR26-08-26-HUB-01-0727-smb-mid-market-ai-gipoteza-1-oprovergnuta-gorizontalnyy-vtoroy-mozg-dl/](DR26-08-26-HUB-01-0727-smb-mid-market-ai-gipoteza-1-oprovergnuta-gorizontalnyy-vtoroy-mozg-dl/README.md)

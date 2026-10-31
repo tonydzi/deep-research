@@ -59,6 +59,11 @@ source: Palo Alto AI Research Lab — deep research programme
 - insight-DR-DR26-09-14-ZB-08-2007-фандрейзинг-глазами-фаундеров-ai-лабораторий-под-какие
 
 
+## Check it yourself: prompt, sources, raw reports
+
+- Prompt: [DR26-09-14-ZB-07-2007-kartina-mira-faunderov-frontier-ai-laboratoriy-teh-faundery-vs-ideolog/prompt.md](DR26-09-14-ZB-07-2007-kartina-mira-faunderov-frontier-ai-laboratoriy-teh-faundery-vs-ideolog/prompt.md)
+- All sources (138 links): [DR26-09-14-ZB-07-2007-kartina-mira-faunderov-frontier-ai-laboratoriy-teh-faundery-vs-ideolog/sources.md](DR26-09-14-ZB-07-2007-kartina-mira-faunderov-frontier-ai-laboratoriy-teh-faundery-vs-ideolog/sources.md)
+
 ## Raw model reports
 
 4 reports delivered, synthesis used 4 of 6. [DR26-09-14-ZB-07-2007-kartina-mira-faunderov-frontier-ai-laboratoriy-teh-faundery-vs-ideolog/](DR26-09-14-ZB-07-2007-kartina-mira-faunderov-frontier-ai-laboratoriy-teh-faundery-vs-ideolog/README.md)

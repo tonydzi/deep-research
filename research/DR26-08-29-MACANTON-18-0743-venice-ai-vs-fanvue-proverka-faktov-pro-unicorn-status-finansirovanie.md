@@ -53,6 +53,9 @@ source: Palo Alto AI Research Lab — deep research programme
 - deep-research-fact-check
 
 
+## Check it yourself: prompt, sources, raw reports
+
+
 ## Raw model reports
 
 1 reports delivered, synthesis used not recorded. [DR26-08-29-MACANTON-18-0743-venice-ai-vs-fanvue-proverka-faktov-pro-unicorn-status-finansirovanie/](DR26-08-29-MACANTON-18-0743-venice-ai-vs-fanvue-proverka-faktov-pro-unicorn-status-finansirovanie/README.md)

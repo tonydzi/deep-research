@@ -54,6 +54,11 @@ source: Palo Alto AI Research Lab — deep research programme
 - insight-DR-DR26-09-06-MACANTON-01-0753-cloakbrowser-claude-интеграция-mcp-mcr-неоднозначн — карта браузерных MCP-серверов — тот же ландшафт альтернатив, что разбирает сирота для CloakBrowser
 
 
+## Check it yourself: prompt, sources, raw reports
+
+- Prompt: [DR26-08-04-ZB-13-2207-brauzernye-mcp-servery-sverh-firefox-karta-agentskih-dverey-avg-2026/prompt.md](DR26-08-04-ZB-13-2207-brauzernye-mcp-servery-sverh-firefox-karta-agentskih-dverey-avg-2026/prompt.md)
+- All sources (26 links): [DR26-08-04-ZB-13-2207-brauzernye-mcp-servery-sverh-firefox-karta-agentskih-dverey-avg-2026/sources.md](DR26-08-04-ZB-13-2207-brauzernye-mcp-servery-sverh-firefox-karta-agentskih-dverey-avg-2026/sources.md)
+
 ## Raw model reports
 
 4 reports delivered, synthesis used not recorded. [DR26-08-04-ZB-13-2207-brauzernye-mcp-servery-sverh-firefox-karta-agentskih-dverey-avg-2026/](DR26-08-04-ZB-13-2207-brauzernye-mcp-servery-sverh-firefox-karta-agentskih-dverey-avg-2026/README.md)

@@ -133,6 +133,11 @@ Signal и подобные приложения ставят `WDA_EXCLUDEFROMCAP
 🧒 Простыми словами: три независимых умных помощника посмотрели на нашу камеру, которая круглые сутки снимает четыре монитора, и все трое сказали одно и то же — камера в основном снимает то, что мы и так записали словами (переписку, разговор с Клодом), а диктофон работает по-настоящему. Оставить диктофон, камеру сильно урезать: писать только то, чего больше нигде нет, и не хранить это долго.
 
 
+## Check it yourself: prompt, sources, raw reports
+
+- Prompt: [DR26-09-15-HUB-01-1111-stoit-li-nepreryvnaya-zapis-ekrana-svoey-tseny-esli-zvuk-i-tekst-uzhe/prompt.md](DR26-09-15-HUB-01-1111-stoit-li-nepreryvnaya-zapis-ekrana-svoey-tseny-esli-zvuk-i-tekst-uzhe/prompt.md)
+- All sources (86 links): [DR26-09-15-HUB-01-1111-stoit-li-nepreryvnaya-zapis-ekrana-svoey-tseny-esli-zvuk-i-tekst-uzhe/sources.md](DR26-09-15-HUB-01-1111-stoit-li-nepreryvnaya-zapis-ekrana-svoey-tseny-esli-zvuk-i-tekst-uzhe/sources.md)
+
 ## Raw model reports
 
 4 reports delivered, synthesis used 3 of 6. Note: 1 report(s) arrived after the synthesis was written; they are attached raw and were not reconciled. [DR26-09-15-HUB-01-1111-stoit-li-nepreryvnaya-zapis-ekrana-svoey-tseny-esli-zvuk-i-tekst-uzhe/](DR26-09-15-HUB-01-1111-stoit-li-nepreryvnaya-zapis-ekrana-svoey-tseny-esli-zvuk-i-tekst-uzhe/README.md)

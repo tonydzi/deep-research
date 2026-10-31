@@ -53,6 +53,9 @@ source: Palo Alto AI Research Lab — deep research programme
 - vault-data-architecture
 
 
+## Check it yourself: prompt, sources, raw reports
+
+
 ## Raw model reports
 
 1 reports delivered, synthesis used not recorded. [DR26-06-28-HUB-07-comparative-table-workflow-orchestration-engines-n8n-vs-windmill-vs-te/](DR26-06-28-HUB-07-comparative-table-workflow-orchestration-engines-n8n-vs-windmill-vs-te/README.md)

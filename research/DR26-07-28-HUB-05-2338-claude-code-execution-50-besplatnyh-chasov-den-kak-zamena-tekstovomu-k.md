@@ -49,6 +49,9 @@ source: Palo Alto AI Research Lab — deep research programme
 - plan-code-test-review-workflow
 
 
+## Check it yourself: prompt, sources, raw reports
+
+
 ## Raw model reports
 
 1 reports delivered, synthesis used not recorded. [DR26-07-28-HUB-05-2338-claude-code-execution-50-besplatnyh-chasov-den-kak-zamena-tekstovomu-k/](DR26-07-28-HUB-05-2338-claude-code-execution-50-besplatnyh-chasov-den-kak-zamena-tekstovomu-k/README.md)

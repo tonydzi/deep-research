@@ -57,6 +57,11 @@ source: Palo Alto AI Research Lab — deep research programme
 - insight-DR-DR26-10-05-HUB-05-2152-ai-стартапы-для-smb-в-сша-типы-moat-риск-смыва-пла — тот же вопрос раньше: unit-экономика SMB AI-агентств на ретейнерах
 
 
+## Check it yourself: prompt, sources, raw reports
+
+- Prompt: [DR26-09-30-HUB-01-1422-unit-economics-of-ai-native-smb-automation-agencies-on-retainers/prompt.md](DR26-09-30-HUB-01-1422-unit-economics-of-ai-native-smb-automation-agencies-on-retainers/prompt.md)
+- All sources (69 links): [DR26-09-30-HUB-01-1422-unit-economics-of-ai-native-smb-automation-agencies-on-retainers/sources.md](DR26-09-30-HUB-01-1422-unit-economics-of-ai-native-smb-automation-agencies-on-retainers/sources.md)
+
 ## Raw model reports
 
 1 reports delivered, synthesis used not recorded. [DR26-09-30-HUB-01-1422-unit-economics-of-ai-native-smb-automation-agencies-on-retainers/](DR26-09-30-HUB-01-1422-unit-economics-of-ai-native-smb-automation-agencies-on-retainers/README.md)

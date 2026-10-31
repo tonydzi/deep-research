@@ -60,6 +60,9 @@ source: Palo Alto AI Research Lab — deep research programme
 - insight-DR-DR26-07-17-HUB-02-prior-art-защита-4-узлового-консенсуса-от-split-br — twin DR report on the identical split-brain/fencing/epoch topic for the same fleet
 
 
+## Check it yourself: prompt, sources, raw reports
+
+
 ## Raw model reports
 
 4 reports delivered, synthesis used 3 of 3. [DR26-07-16-HUB-02-split-brain-hardening-dlya-roaming-leader-arbiter-poverh-syncthing-4-n/](DR26-07-16-HUB-02-split-brain-hardening-dlya-roaming-leader-arbiter-poverh-syncthing-4-n/README.md)

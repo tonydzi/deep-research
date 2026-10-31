@@ -167,6 +167,11 @@ source: Palo Alto AI Research Lab — deep research programme
 4. **CTA «уволь сотрудников» из рекламы убираем, из органики смягчаем** до «убрать переработки», «перестань платить за один и тот же отчёт».
 
 
+## Check it yourself: prompt, sources, raw reports
+
+- Prompt: [DR26-08-21-HUB-02-1609-ekonomika-sinteticheskih-sotrudnikov-chto-iz-tezisa-90-na-tokeny-mozhn/prompt.md](DR26-08-21-HUB-02-1609-ekonomika-sinteticheskih-sotrudnikov-chto-iz-tezisa-90-na-tokeny-mozhn/prompt.md)
+- All sources (80 links): [DR26-08-21-HUB-02-1609-ekonomika-sinteticheskih-sotrudnikov-chto-iz-tezisa-90-na-tokeny-mozhn/sources.md](DR26-08-21-HUB-02-1609-ekonomika-sinteticheskih-sotrudnikov-chto-iz-tezisa-90-na-tokeny-mozhn/sources.md)
+
 ## Raw model reports
 
 2 reports delivered, synthesis used 1 of 6. Note: 1 report(s) arrived after the synthesis was written; they are attached raw and were not reconciled. [DR26-08-21-HUB-02-1609-ekonomika-sinteticheskih-sotrudnikov-chto-iz-tezisa-90-na-tokeny-mozhn/](DR26-08-21-HUB-02-1609-ekonomika-sinteticheskih-sotrudnikov-chto-iz-tezisa-90-na-tokeny-mozhn/README.md)

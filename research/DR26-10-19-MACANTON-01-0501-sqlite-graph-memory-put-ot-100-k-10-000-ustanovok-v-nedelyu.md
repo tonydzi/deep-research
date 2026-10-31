@@ -84,6 +84,11 @@ source: Palo Alto AI Research Lab — deep research programme
 - insight-2026-10-19-sgm-growth-neighbours-and-fundraise-memo — сирота заказывает этот ДР как консьюмер, ДР не ссылается обратно
 
 
+## Check it yourself: prompt, sources, raw reports
+
+- Prompt: [DR26-10-19-MACANTON-01-0501-sqlite-graph-memory-put-ot-100-k-10-000-ustanovok-v-nedelyu/prompt.md](DR26-10-19-MACANTON-01-0501-sqlite-graph-memory-put-ot-100-k-10-000-ustanovok-v-nedelyu/prompt.md)
+- All sources (301 links): [DR26-10-19-MACANTON-01-0501-sqlite-graph-memory-put-ot-100-k-10-000-ustanovok-v-nedelyu/sources.md](DR26-10-19-MACANTON-01-0501-sqlite-graph-memory-put-ot-100-k-10-000-ustanovok-v-nedelyu/sources.md)
+
 ## Raw model reports
 
 4 reports delivered, synthesis used 4 of 6. [DR26-10-19-MACANTON-01-0501-sqlite-graph-memory-put-ot-100-k-10-000-ustanovok-v-nedelyu/](DR26-10-19-MACANTON-01-0501-sqlite-graph-memory-put-ot-100-k-10-000-ustanovok-v-nedelyu/README.md)

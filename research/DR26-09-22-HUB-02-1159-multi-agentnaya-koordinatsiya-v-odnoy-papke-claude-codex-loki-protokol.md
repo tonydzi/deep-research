@@ -56,6 +56,11 @@ source: Palo Alto AI Research Lab — deep research programme
 - PACT-PARITY-20260922
 
 
+## Check it yourself: prompt, sources, raw reports
+
+- Prompt: [DR26-09-22-HUB-02-1159-multi-agentnaya-koordinatsiya-v-odnoy-papke-claude-codex-loki-protokol/prompt.md](DR26-09-22-HUB-02-1159-multi-agentnaya-koordinatsiya-v-odnoy-papke-claude-codex-loki-protokol/prompt.md)
+- All sources (141 links): [DR26-09-22-HUB-02-1159-multi-agentnaya-koordinatsiya-v-odnoy-papke-claude-codex-loki-protokol/sources.md](DR26-09-22-HUB-02-1159-multi-agentnaya-koordinatsiya-v-odnoy-papke-claude-codex-loki-protokol/sources.md)
+
 ## Raw model reports
 
 4 reports delivered, synthesis used 4 of 6. [DR26-09-22-HUB-02-1159-multi-agentnaya-koordinatsiya-v-odnoy-papke-claude-codex-loki-protokol/](DR26-09-22-HUB-02-1159-multi-agentnaya-koordinatsiya-v-odnoy-papke-claude-codex-loki-protokol/README.md)

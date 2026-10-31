@@ -57,6 +57,9 @@ source: Palo Alto AI Research Lab — deep research programme
 - everything-becomes-content
 
 
+## Check it yourself: prompt, sources, raw reports
+
+
 ## Raw model reports
 
 1 reports delivered, synthesis used not recorded. [DR26-07-04-ZB-01-zero-trust-security-wave-in-agent-platforms-product-positioning-for-a/](DR26-07-04-ZB-01-zero-trust-security-wave-in-agent-platforms-product-positioning-for-a/README.md)

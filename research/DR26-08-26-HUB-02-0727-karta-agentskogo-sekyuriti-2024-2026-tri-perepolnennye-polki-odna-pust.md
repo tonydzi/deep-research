@@ -73,6 +73,11 @@ source: Palo Alto AI Research Lab — deep research programme
 *Провенанс: синтез из 2 DR-легов (chatgpt/codex ~116 ссылок + grok), субагент 27.08.2026. Кворум 2/6, браузерные рельсы не добраны. Оригиналы: «внутренний архив лаборатории».*
 
 
+## Check it yourself: prompt, sources, raw reports
+
+- Prompt: [DR26-08-26-HUB-02-0727-karta-agentskogo-sekyuriti-2024-2026-tri-perepolnennye-polki-odna-pust/prompt.md](DR26-08-26-HUB-02-0727-karta-agentskogo-sekyuriti-2024-2026-tri-perepolnennye-polki-odna-pust/prompt.md)
+- All sources (126 links): [DR26-08-26-HUB-02-0727-karta-agentskogo-sekyuriti-2024-2026-tri-perepolnennye-polki-odna-pust/sources.md](DR26-08-26-HUB-02-0727-karta-agentskogo-sekyuriti-2024-2026-tri-perepolnennye-polki-odna-pust/sources.md)
+
 ## Raw model reports
 
 2 reports delivered, synthesis used 2 of 6. [DR26-08-26-HUB-02-0727-karta-agentskogo-sekyuriti-2024-2026-tri-perepolnennye-polki-odna-pust/](DR26-08-26-HUB-02-0727-karta-agentskogo-sekyuriti-2024-2026-tri-perepolnennye-polki-odna-pust/README.md)

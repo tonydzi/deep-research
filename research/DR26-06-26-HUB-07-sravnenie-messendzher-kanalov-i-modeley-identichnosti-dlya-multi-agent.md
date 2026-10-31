@@ -51,6 +51,9 @@ source: Palo Alto AI Research Lab — deep research programme
 - multi-agent-role-discipline
 
 
+## Check it yourself: prompt, sources, raw reports
+
+
 ## Raw model reports
 
 1 reports delivered, synthesis used not recorded. [DR26-06-26-HUB-07-sravnenie-messendzher-kanalov-i-modeley-identichnosti-dlya-multi-agent/](DR26-06-26-HUB-07-sravnenie-messendzher-kanalov-i-modeley-identichnosti-dlya-multi-agent/README.md)

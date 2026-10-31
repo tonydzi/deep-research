@@ -97,6 +97,11 @@ source: Palo Alto AI Research Lab — deep research programme
 | Выбор первой услуги | high | Три отчёта независимо рекомендуют узкое банковское досье; четвёртый рекомендует близкий, но более рискованный вариант с разблокировкой. |
 
 
+## Check it yourself: prompt, sources, raw reports
+
+- Prompt: [DR26-08-14-ZB-01-0159-synthesis-ai-native-premium-servisy-dlya-sostoyatelnoy-russkoyazychnoy/prompt.md](DR26-08-14-ZB-01-0159-synthesis-ai-native-premium-servisy-dlya-sostoyatelnoy-russkoyazychnoy/prompt.md)
+- All sources (255 links): [DR26-08-14-ZB-01-0159-synthesis-ai-native-premium-servisy-dlya-sostoyatelnoy-russkoyazychnoy/sources.md](DR26-08-14-ZB-01-0159-synthesis-ai-native-premium-servisy-dlya-sostoyatelnoy-russkoyazychnoy/sources.md)
+
 ## Raw model reports
 
 5 reports delivered, synthesis used 4 of 6. Note: 1 report(s) arrived after the synthesis was written; they are attached raw and were not reconciled. [DR26-08-14-ZB-01-0159-synthesis-ai-native-premium-servisy-dlya-sostoyatelnoy-russkoyazychnoy/](DR26-08-14-ZB-01-0159-synthesis-ai-native-premium-servisy-dlya-sostoyatelnoy-russkoyazychnoy/README.md)

@@ -59,6 +59,11 @@ source: Palo Alto AI Research Lab — deep research programme
 - Оригинал: `_originals/deep-research/DR26-08-01-MACANTON-01-558-oss-first-contributors-chatgpt.md`
 
 
+## Check it yourself: prompt, sources, raw reports
+
+- Prompt: [DR26-08-01-MACANTON-01-558-kak-prihodyat-pervye-kontribyutory-v-neizvestnyy-oss-repo/prompt.md](DR26-08-01-MACANTON-01-558-kak-prihodyat-pervye-kontribyutory-v-neizvestnyy-oss-repo/prompt.md)
+- All sources (26 links): [DR26-08-01-MACANTON-01-558-kak-prihodyat-pervye-kontribyutory-v-neizvestnyy-oss-repo/sources.md](DR26-08-01-MACANTON-01-558-kak-prihodyat-pervye-kontribyutory-v-neizvestnyy-oss-repo/sources.md)
+
 ## Raw model reports
 
 2 reports delivered, synthesis used not recorded. [DR26-08-01-MACANTON-01-558-kak-prihodyat-pervye-kontribyutory-v-neizvestnyy-oss-repo/](DR26-08-01-MACANTON-01-558-kak-prihodyat-pervye-kontribyutory-v-neizvestnyy-oss-repo/README.md)

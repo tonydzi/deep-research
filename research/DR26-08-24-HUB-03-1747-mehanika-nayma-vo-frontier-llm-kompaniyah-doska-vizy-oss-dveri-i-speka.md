@@ -752,6 +752,11 @@ DeepMind как DevRel-дверь (замер: 10 вакансий, всё resea
   Заказ закрыт в потребителей: mission2-top10-matrix и `10-Tasks\task-2026-07-17-anthropic-job-track.md`.
 
 
+## Check it yourself: prompt, sources, raw reports
+
+- Prompt: [DR26-08-24-HUB-03-1747-mehanika-nayma-vo-frontier-llm-kompaniyah-doska-vizy-oss-dveri-i-speka/prompt.md](DR26-08-24-HUB-03-1747-mehanika-nayma-vo-frontier-llm-kompaniyah-doska-vizy-oss-dveri-i-speka/prompt.md)
+- All sources (207 links): [DR26-08-24-HUB-03-1747-mehanika-nayma-vo-frontier-llm-kompaniyah-doska-vizy-oss-dveri-i-speka/sources.md](DR26-08-24-HUB-03-1747-mehanika-nayma-vo-frontier-llm-kompaniyah-doska-vizy-oss-dveri-i-speka/sources.md)
+
 ## Raw model reports
 
 2 reports delivered, synthesis used 2 of 6. [DR26-08-24-HUB-03-1747-mehanika-nayma-vo-frontier-llm-kompaniyah-doska-vizy-oss-dveri-i-speka/](DR26-08-24-HUB-03-1747-mehanika-nayma-vo-frontier-llm-kompaniyah-doska-vizy-oss-dveri-i-speka/README.md)

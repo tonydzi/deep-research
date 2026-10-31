@@ -57,6 +57,10 @@ source: Palo Alto AI Research Lab — deep research programme
 - deep-research-registry
 
 
+## Check it yourself: prompt, sources, raw reports
+
+- All sources (24 links): [DR26-08-29-MACANTON-02-0742-deep-research-scoping-report-no-topic-specified-ranking-of-5-candidate/sources.md](DR26-08-29-MACANTON-02-0742-deep-research-scoping-report-no-topic-specified-ranking-of-5-candidate/sources.md)
+
 ## Raw model reports
 
 1 reports delivered, synthesis used not recorded. [DR26-08-29-MACANTON-02-0742-deep-research-scoping-report-no-topic-specified-ranking-of-5-candidate/](DR26-08-29-MACANTON-02-0742-deep-research-scoping-report-no-topic-specified-ranking-of-5-candidate/README.md)

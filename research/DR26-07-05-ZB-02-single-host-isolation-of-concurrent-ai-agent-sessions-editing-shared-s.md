@@ -48,6 +48,9 @@ source: Palo Alto AI Research Lab — deep research programme
 - coordinate-sessions-before-sensitive-edit · consensus-active-session-marking · one-system-propagate · verify-existing-before-proposing · ak47-simplicity · machine-bus-telegram-rail
 
 
+## Check it yourself: prompt, sources, raw reports
+
+
 ## Raw model reports
 
 1 reports delivered, synthesis used not recorded. [DR26-07-05-ZB-02-single-host-isolation-of-concurrent-ai-agent-sessions-editing-shared-s/](DR26-07-05-ZB-02-single-host-isolation-of-concurrent-ai-agent-sessions-editing-shared-s/README.md)

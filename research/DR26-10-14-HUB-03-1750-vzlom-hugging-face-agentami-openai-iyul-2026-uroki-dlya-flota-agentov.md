@@ -61,6 +61,11 @@ source: Palo Alto AI Research Lab — deep research programme
 - MCP process diet
 
 
+## Check it yourself: prompt, sources, raw reports
+
+- Prompt: [DR26-10-14-HUB-03-1750-vzlom-hugging-face-agentami-openai-iyul-2026-uroki-dlya-flota-agentov/prompt.md](DR26-10-14-HUB-03-1750-vzlom-hugging-face-agentami-openai-iyul-2026-uroki-dlya-flota-agentov/prompt.md)
+- All sources (24 links): [DR26-10-14-HUB-03-1750-vzlom-hugging-face-agentami-openai-iyul-2026-uroki-dlya-flota-agentov/sources.md](DR26-10-14-HUB-03-1750-vzlom-hugging-face-agentami-openai-iyul-2026-uroki-dlya-flota-agentov/sources.md)
+
 ## Raw model reports
 
 1 reports delivered, synthesis used 1 of 6. [DR26-10-14-HUB-03-1750-vzlom-hugging-face-agentami-openai-iyul-2026-uroki-dlya-flota-agentov/](DR26-10-14-HUB-03-1750-vzlom-hugging-face-agentami-openai-iyul-2026-uroki-dlya-flota-agentov/README.md)

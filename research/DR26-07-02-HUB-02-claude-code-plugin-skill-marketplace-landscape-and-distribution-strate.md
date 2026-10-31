@@ -51,6 +51,9 @@ source: Palo Alto AI Research Lab — deep research programme
 - plugin submission schema (marketplace.json / SKILL.md)
 
 
+## Check it yourself: prompt, sources, raw reports
+
+
 ## Raw model reports
 
 1 reports delivered, synthesis used not recorded. [DR26-07-02-HUB-02-claude-code-plugin-skill-marketplace-landscape-and-distribution-strate/](DR26-07-02-HUB-02-claude-code-plugin-skill-marketplace-landscape-and-distribution-strate/README.md)

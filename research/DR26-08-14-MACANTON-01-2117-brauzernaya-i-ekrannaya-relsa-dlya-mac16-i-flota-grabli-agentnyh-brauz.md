@@ -520,6 +520,11 @@ Firefox оставляем рабочей лошадкой для простых
 - insight-DR-DR26-08-15-HUB-03-real-world-failure-modes-of-agent-driven-browsers- — тот же исходный DR-документ, параллельный синтез другим вендором того же сырья
 
 
+## Check it yourself: prompt, sources, raw reports
+
+- Prompt: [DR26-08-14-MACANTON-01-2117-brauzernaya-i-ekrannaya-relsa-dlya-mac16-i-flota-grabli-agentnyh-brauz/prompt.md](DR26-08-14-MACANTON-01-2117-brauzernaya-i-ekrannaya-relsa-dlya-mac16-i-flota-grabli-agentnyh-brauz/prompt.md)
+- All sources (145 links): [DR26-08-14-MACANTON-01-2117-brauzernaya-i-ekrannaya-relsa-dlya-mac16-i-flota-grabli-agentnyh-brauz/sources.md](DR26-08-14-MACANTON-01-2117-brauzernaya-i-ekrannaya-relsa-dlya-mac16-i-flota-grabli-agentnyh-brauz/sources.md)
+
 ## Raw model reports
 
 3 reports delivered, synthesis used 4 of 6. Note: 1 report(s) arrived after the synthesis was written; they are attached raw and were not reconciled. [DR26-08-14-MACANTON-01-2117-brauzernaya-i-ekrannaya-relsa-dlya-mac16-i-flota-grabli-agentnyh-brauz/](DR26-08-14-MACANTON-01-2117-brauzernaya-i-ekrannaya-relsa-dlya-mac16-i-flota-grabli-agentnyh-brauz/README.md)

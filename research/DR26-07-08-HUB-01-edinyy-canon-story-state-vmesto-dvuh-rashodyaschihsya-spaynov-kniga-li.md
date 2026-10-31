@@ -56,6 +56,9 @@ source: Palo Alto AI Research Lab — deep research programme
 - no-orphan-notes-rule
 
 
+## Check it yourself: prompt, sources, raw reports
+
+
 ## Raw model reports
 
 1 reports delivered, synthesis used not recorded. [DR26-07-08-HUB-01-edinyy-canon-story-state-vmesto-dvuh-rashodyaschihsya-spaynov-kniga-li/](DR26-07-08-HUB-01-edinyy-canon-story-state-vmesto-dvuh-rashodyaschihsya-spaynov-kniga-li/README.md)

@@ -56,6 +56,9 @@ source: Palo Alto AI Research Lab — deep research programme
 - ak47-simplicity
 
 
+## Check it yourself: prompt, sources, raw reports
+
+
 ## Raw model reports
 
 1 reports delivered, synthesis used not recorded. [DR26-07-07-MACB-04-adopt-framework-dokazatelnoe-testirovanie-i-vnedrenie-vneshney-alfy-id/](DR26-07-07-MACB-04-adopt-framework-dokazatelnoe-testirovanie-i-vnedrenie-vneshney-alfy-id/README.md)

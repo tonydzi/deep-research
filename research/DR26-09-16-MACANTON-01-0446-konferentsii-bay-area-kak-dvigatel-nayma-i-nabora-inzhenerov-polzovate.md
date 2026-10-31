@@ -190,6 +190,11 @@ P.S. Да, нас можно нанять. Двух кофаундеров, би
 🔗 Все наши каналы и контакты в одном месте: https://linktr.ee/paloaltoailab
 
 
+## Check it yourself: prompt, sources, raw reports
+
+- Prompt: [DR26-09-16-MACANTON-01-0446-konferentsii-bay-area-kak-dvigatel-nayma-i-nabora-inzhenerov-polzovate/prompt.md](DR26-09-16-MACANTON-01-0446-konferentsii-bay-area-kak-dvigatel-nayma-i-nabora-inzhenerov-polzovate/prompt.md)
+- All sources (61 links): [DR26-09-16-MACANTON-01-0446-konferentsii-bay-area-kak-dvigatel-nayma-i-nabora-inzhenerov-polzovate/sources.md](DR26-09-16-MACANTON-01-0446-konferentsii-bay-area-kak-dvigatel-nayma-i-nabora-inzhenerov-polzovate/sources.md)
+
 ## Raw model reports
 
 3 reports delivered, synthesis used 4 of 7. [DR26-09-16-MACANTON-01-0446-konferentsii-bay-area-kak-dvigatel-nayma-i-nabora-inzhenerov-polzovate/](DR26-09-16-MACANTON-01-0446-konferentsii-bay-area-kak-dvigatel-nayma-i-nabora-inzhenerov-polzovate/README.md)

@@ -59,6 +59,9 @@ source: Palo Alto AI Research Lab — deep research programme
 - португальское налогообложение самозанятых
 
 
+## Check it yourself: prompt, sources, raw reports
+
+
 ## Raw model reports
 
 1 reports delivered, synthesis used not recorded. [DR26-06-26-HUB-02-katalog-ai-servisov-dlya-monetizatsii-domashnih-gpu-2x-rtx-3090-v-2026/](DR26-06-26-HUB-02-katalog-ai-servisov-dlya-monetizatsii-domashnih-gpu-2x-rtx-3090-v-2026/README.md)

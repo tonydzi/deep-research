@@ -61,6 +61,11 @@ source: Palo Alto AI Research Lab — deep research programme
 - API ToS и защита от дистилляции
 
 
+## Check it yourself: prompt, sources, raw reports
+
+- Prompt: [DR26-10-16-HUB-02-0652-distillyatsiya-llm-i-izvlechenie-modeley-chto-perenositsya-chto-net-i/prompt.md](DR26-10-16-HUB-02-0652-distillyatsiya-llm-i-izvlechenie-modeley-chto-perenositsya-chto-net-i/prompt.md)
+- All sources (74 links): [DR26-10-16-HUB-02-0652-distillyatsiya-llm-i-izvlechenie-modeley-chto-perenositsya-chto-net-i/sources.md](DR26-10-16-HUB-02-0652-distillyatsiya-llm-i-izvlechenie-modeley-chto-perenositsya-chto-net-i/sources.md)
+
 ## Raw model reports
 
 2 reports delivered, synthesis used 2 of 6. [DR26-10-16-HUB-02-0652-distillyatsiya-llm-i-izvlechenie-modeley-chto-perenositsya-chto-net-i/](DR26-10-16-HUB-02-0652-distillyatsiya-llm-i-izvlechenie-modeley-chto-perenositsya-chto-net-i/README.md)

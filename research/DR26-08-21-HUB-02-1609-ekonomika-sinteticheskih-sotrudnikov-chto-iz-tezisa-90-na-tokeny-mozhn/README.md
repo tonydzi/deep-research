@@ -9,6 +9,9 @@
 | chatgpt | 2026-08-21 19:17 |
 | grok | 2026-08-24 22:10 |
 
+- [prompt](./prompt.md): the exact question every model got
+- [sources](./sources.md): 80 unique links cited by the models
+
 Reports below are published as delivered, after an automatic privacy scrub.
 
 - [chatgpt](./chatgpt.md)

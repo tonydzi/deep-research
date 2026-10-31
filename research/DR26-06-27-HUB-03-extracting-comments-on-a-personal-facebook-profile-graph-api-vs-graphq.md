@@ -52,6 +52,10 @@ source: Palo Alto AI Research Lab — deep research programme
 - credential-store
 
 
+## Check it yourself: prompt, sources, raw reports
+
+- All sources (2 links): [DR26-06-27-HUB-03-extracting-comments-on-a-personal-facebook-profile-graph-api-vs-graphq/sources.md](DR26-06-27-HUB-03-extracting-comments-on-a-personal-facebook-profile-graph-api-vs-graphq/sources.md)
+
 ## Raw model reports
 
 1 reports delivered, synthesis used not recorded. [DR26-06-27-HUB-03-extracting-comments-on-a-personal-facebook-profile-graph-api-vs-graphq/](DR26-06-27-HUB-03-extracting-comments-on-a-personal-facebook-profile-graph-api-vs-graphq/README.md)

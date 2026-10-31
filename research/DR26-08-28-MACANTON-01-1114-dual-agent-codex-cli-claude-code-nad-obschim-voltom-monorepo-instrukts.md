@@ -57,6 +57,9 @@ source: Palo Alto AI Research Lab — deep research programme
 - task-2026-08-03-pilot-konveyera-autsorsa-kodinga
 
 
+## Check it yourself: prompt, sources, raw reports
+
+
 ## Raw model reports
 
 1 reports delivered, synthesis used 4 of 6. [DR26-08-28-MACANTON-01-1114-dual-agent-codex-cli-claude-code-nad-obschim-voltom-monorepo-instrukts/](DR26-08-28-MACANTON-01-1114-dual-agent-codex-cli-claude-code-nad-obschim-voltom-monorepo-instrukts/README.md)

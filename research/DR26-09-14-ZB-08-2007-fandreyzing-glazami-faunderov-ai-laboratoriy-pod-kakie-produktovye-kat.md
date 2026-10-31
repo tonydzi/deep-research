@@ -53,6 +53,11 @@ source: Palo Alto AI Research Lab — deep research programme
 - synthetic-cofounder
 
 
+## Check it yourself: prompt, sources, raw reports
+
+- Prompt: [DR26-09-14-ZB-08-2007-fandreyzing-glazami-faunderov-ai-laboratoriy-pod-kakie-produktovye-kat/prompt.md](DR26-09-14-ZB-08-2007-fandreyzing-glazami-faunderov-ai-laboratoriy-pod-kakie-produktovye-kat/prompt.md)
+- All sources (90 links): [DR26-09-14-ZB-08-2007-fandreyzing-glazami-faunderov-ai-laboratoriy-pod-kakie-produktovye-kat/sources.md](DR26-09-14-ZB-08-2007-fandreyzing-glazami-faunderov-ai-laboratoriy-pod-kakie-produktovye-kat/sources.md)
+
 ## Raw model reports
 
 4 reports delivered, synthesis used 4 of 6. [DR26-09-14-ZB-08-2007-fandreyzing-glazami-faunderov-ai-laboratoriy-pod-kakie-produktovye-kat/](DR26-09-14-ZB-08-2007-fandreyzing-glazami-faunderov-ai-laboratoriy-pod-kakie-produktovye-kat/README.md)

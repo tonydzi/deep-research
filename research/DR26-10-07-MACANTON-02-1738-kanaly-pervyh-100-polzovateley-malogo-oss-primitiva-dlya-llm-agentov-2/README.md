@@ -8,6 +8,9 @@
 |---|---|
 | grok | 2026-10-08 03:48 |
 
+- [prompt](./prompt.md): the exact question every model got
+- [sources](./sources.md): 42 unique links cited by the models
+
 Reports below are published as delivered, after an automatic privacy scrub.
 
 - [grok](./grok.md)

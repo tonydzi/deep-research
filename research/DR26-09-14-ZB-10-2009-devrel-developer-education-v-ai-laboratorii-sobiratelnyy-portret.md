@@ -94,6 +94,11 @@ Mistral держит **две параллельные** вакансии: Senio
 🧒 Простыми словами: в AI-компании на работу «объяснять разработчикам наш продукт» берут не отличников с учёной степенью, а тех, кто уже это делает на людях бесплатно: ведёт канал, пишет уроки, выложил код. Дверей две: «адвокат» — там надо лучше программировать, и «учитель» — там надо лучше объяснять. Вторая дверь Антону ближе, но её редко подписывают такой табличкой, поэтому искать надо внутри обычных вакансий. И главное правило от всех сразу: начни делать эту работу публично ДО того, как тебе дали должность.
 
 
+## Check it yourself: prompt, sources, raw reports
+
+- Prompt: [DR26-09-14-ZB-10-2009-devrel-developer-education-v-ai-laboratorii-sobiratelnyy-portret/prompt.md](DR26-09-14-ZB-10-2009-devrel-developer-education-v-ai-laboratorii-sobiratelnyy-portret/prompt.md)
+- All sources (150 links): [DR26-09-14-ZB-10-2009-devrel-developer-education-v-ai-laboratorii-sobiratelnyy-portret/sources.md](DR26-09-14-ZB-10-2009-devrel-developer-education-v-ai-laboratorii-sobiratelnyy-portret/sources.md)
+
 ## Raw model reports
 
 3 reports delivered, synthesis used 4 of 8. [DR26-09-14-ZB-10-2009-devrel-developer-education-v-ai-laboratorii-sobiratelnyy-portret/](DR26-09-14-ZB-10-2009-devrel-developer-education-v-ai-laboratorii-sobiratelnyy-portret/README.md)

@@ -73,6 +73,11 @@ source: Palo Alto AI Research Lab — deep research programme
 - insight-DR-DR26-08-01-MACANTON-02-659-steward-hire-pattern — уже пытается ссылаться на сироту («steward-hire»), но ссылка битая — не совпадает с именем файла/алиасами сир
 
 
+## Check it yourself: prompt, sources, raw reports
+
+- Prompt: [DR26-08-01-MACANTON-02-658-ekonomika-udalennogo-ofera-ot-amerikanskoy-kompanii-cheloveku-v-lissab/prompt.md](DR26-08-01-MACANTON-02-658-ekonomika-udalennogo-ofera-ot-amerikanskoy-kompanii-cheloveku-v-lissab/prompt.md)
+- All sources (65 links): [DR26-08-01-MACANTON-02-658-ekonomika-udalennogo-ofera-ot-amerikanskoy-kompanii-cheloveku-v-lissab/sources.md](DR26-08-01-MACANTON-02-658-ekonomika-udalennogo-ofera-ot-amerikanskoy-kompanii-cheloveku-v-lissab/sources.md)
+
 ## Raw model reports
 
 2 reports delivered, synthesis used 2 of 2. [DR26-08-01-MACANTON-02-658-ekonomika-udalennogo-ofera-ot-amerikanskoy-kompanii-cheloveku-v-lissab/](DR26-08-01-MACANTON-02-658-ekonomika-udalennogo-ofera-ot-amerikanskoy-kompanii-cheloveku-v-lissab/README.md)

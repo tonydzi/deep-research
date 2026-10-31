@@ -64,6 +64,10 @@ source: Palo Alto AI Research Lab — deep research programme
 - system-architect
 
 
+## Check it yourself: prompt, sources, raw reports
+
+- All sources (42 links): [DR26-07-05-HUB-03-repairability-first-multi-agent-llm-systems-can-cheap-models-build-and/sources.md](DR26-07-05-HUB-03-repairability-first-multi-agent-llm-systems-can-cheap-models-build-and/sources.md)
+
 ## Raw model reports
 
 4 reports delivered, synthesis used not recorded. [DR26-07-05-HUB-03-repairability-first-multi-agent-llm-systems-can-cheap-models-build-and/](DR26-07-05-HUB-03-repairability-first-multi-agent-llm-systems-can-cheap-models-build-and/README.md)

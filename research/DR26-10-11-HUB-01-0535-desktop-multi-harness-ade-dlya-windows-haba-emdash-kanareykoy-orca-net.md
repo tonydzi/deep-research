@@ -69,6 +69,11 @@ Hands-on ни одного продукта (ни одна нога не ста�
 рельса: ноги claudeai (bb@, Fable 5.1 Max + Research), gemini a@ (Deep Research), glm (Deep Think Max + Advanced Search), mistral (Deep research) через Chrome; web-проверка `llm_ask --class web` (gemini мимо, ответил claude); синтез Fable 5.1 на хабе.
 
 
+## Check it yourself: prompt, sources, raw reports
+
+- Prompt: [DR26-10-11-HUB-01-0535-desktop-multi-harness-ade-dlya-windows-haba-emdash-kanareykoy-orca-net/prompt.md](DR26-10-11-HUB-01-0535-desktop-multi-harness-ade-dlya-windows-haba-emdash-kanareykoy-orca-net/prompt.md)
+- All sources (411 links): [DR26-10-11-HUB-01-0535-desktop-multi-harness-ade-dlya-windows-haba-emdash-kanareykoy-orca-net/sources.md](DR26-10-11-HUB-01-0535-desktop-multi-harness-ade-dlya-windows-haba-emdash-kanareykoy-orca-net/sources.md)
+
 ## Raw model reports
 
 4 reports delivered, synthesis used 4 of 6. [DR26-10-11-HUB-01-0535-desktop-multi-harness-ade-dlya-windows-haba-emdash-kanareykoy-orca-net/](DR26-10-11-HUB-01-0535-desktop-multi-harness-ade-dlya-windows-haba-emdash-kanareykoy-orca-net/README.md)

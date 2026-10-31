@@ -57,6 +57,11 @@ source: Palo Alto AI Research Lab — deep research programme
 - done-is-a-claim-recheck-twice
 
 
+## Check it yourself: prompt, sources, raw reports
+
+- Prompt: [DR26-09-16-HUB-01-1924-iterativnye-tsikly-dozhima-ralph-loop-metaloop-dlya-agentnogo-kodinga/prompt.md](DR26-09-16-HUB-01-1924-iterativnye-tsikly-dozhima-ralph-loop-metaloop-dlya-agentnogo-kodinga/prompt.md)
+- All sources (166 links): [DR26-09-16-HUB-01-1924-iterativnye-tsikly-dozhima-ralph-loop-metaloop-dlya-agentnogo-kodinga/sources.md](DR26-09-16-HUB-01-1924-iterativnye-tsikly-dozhima-ralph-loop-metaloop-dlya-agentnogo-kodinga/sources.md)
+
 ## Raw model reports
 
 3 reports delivered, synthesis used 4 of 5. [DR26-09-16-HUB-01-1924-iterativnye-tsikly-dozhima-ralph-loop-metaloop-dlya-agentnogo-kodinga/](DR26-09-16-HUB-01-1924-iterativnye-tsikly-dozhima-ralph-loop-metaloop-dlya-agentnogo-kodinga/README.md)

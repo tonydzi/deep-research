@@ -53,6 +53,9 @@ source: Palo Alto AI Research Lab — deep research programme
 - peer-liveness-live-signal
 
 
+## Check it yourself: prompt, sources, raw reports
+
+
 ## Raw model reports
 
 1 reports delivered, synthesis used not recorded. [DR26-06-26-HUB-03-sravnenie-kanalov-svyazi-i-nadezhnost-mezhagentnoy-kommunikatsii-mezhd/](DR26-06-26-HUB-03-sravnenie-kanalov-svyazi-i-nadezhnost-mezhagentnoy-kommunikatsii-mezhd/README.md)

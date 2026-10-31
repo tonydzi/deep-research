@@ -55,6 +55,11 @@ source: Palo Alto AI Research Lab — deep research programme
 - тест, который никогда не краснел, фальшив
 
 
+## Check it yourself: prompt, sources, raw reports
+
+- Prompt: [DR26-10-07-HUB-07-1720-chto-takoe-red-test-probe-prompt-body-zond-telo-prompta-i-krasnyy-test/prompt.md](DR26-10-07-HUB-07-1720-chto-takoe-red-test-probe-prompt-body-zond-telo-prompta-i-krasnyy-test/prompt.md)
+- All sources (14 links): [DR26-10-07-HUB-07-1720-chto-takoe-red-test-probe-prompt-body-zond-telo-prompta-i-krasnyy-test/sources.md](DR26-10-07-HUB-07-1720-chto-takoe-red-test-probe-prompt-body-zond-telo-prompta-i-krasnyy-test/sources.md)
+
 ## Raw model reports
 
 1 reports delivered, synthesis used 1 of 5. [DR26-10-07-HUB-07-1720-chto-takoe-red-test-probe-prompt-body-zond-telo-prompta-i-krasnyy-test/](DR26-10-07-HUB-07-1720-chto-takoe-red-test-probe-prompt-body-zond-telo-prompta-i-krasnyy-test/README.md)

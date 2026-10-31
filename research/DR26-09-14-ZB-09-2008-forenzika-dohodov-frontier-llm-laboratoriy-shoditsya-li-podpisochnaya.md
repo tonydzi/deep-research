@@ -57,6 +57,11 @@ source: Palo Alto AI Research Lab — deep research programme
 - ai-lab-ipo-s1-disclosure
 
 
+## Check it yourself: prompt, sources, raw reports
+
+- Prompt: [DR26-09-14-ZB-09-2008-forenzika-dohodov-frontier-llm-laboratoriy-shoditsya-li-podpisochnaya/prompt.md](DR26-09-14-ZB-09-2008-forenzika-dohodov-frontier-llm-laboratoriy-shoditsya-li-podpisochnaya/prompt.md)
+- All sources (17 links): [DR26-09-14-ZB-09-2008-forenzika-dohodov-frontier-llm-laboratoriy-shoditsya-li-podpisochnaya/sources.md](DR26-09-14-ZB-09-2008-forenzika-dohodov-frontier-llm-laboratoriy-shoditsya-li-podpisochnaya/sources.md)
+
 ## Raw model reports
 
 3 reports delivered, synthesis used 3 of 6. [DR26-09-14-ZB-09-2008-forenzika-dohodov-frontier-llm-laboratoriy-shoditsya-li-podpisochnaya/](DR26-09-14-ZB-09-2008-forenzika-dohodov-frontier-llm-laboratoriy-shoditsya-li-podpisochnaya/README.md)

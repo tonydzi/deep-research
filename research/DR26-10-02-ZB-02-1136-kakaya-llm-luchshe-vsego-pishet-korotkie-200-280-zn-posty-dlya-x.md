@@ -51,6 +51,11 @@ source: Palo Alto AI Research Lab — deep research programme
 - critique-then-rewrite pipeline
 
 
+## Check it yourself: prompt, sources, raw reports
+
+- Prompt: [DR26-10-02-ZB-02-1136-kakaya-llm-luchshe-vsego-pishet-korotkie-200-280-zn-posty-dlya-x/prompt.md](DR26-10-02-ZB-02-1136-kakaya-llm-luchshe-vsego-pishet-korotkie-200-280-zn-posty-dlya-x/prompt.md)
+- All sources (28 links): [DR26-10-02-ZB-02-1136-kakaya-llm-luchshe-vsego-pishet-korotkie-200-280-zn-posty-dlya-x/sources.md](DR26-10-02-ZB-02-1136-kakaya-llm-luchshe-vsego-pishet-korotkie-200-280-zn-posty-dlya-x/sources.md)
+
 ## Raw model reports
 
 2 reports delivered, synthesis used 1 of 6. Note: 1 report(s) arrived after the synthesis was written; they are attached raw and were not reconciled. [DR26-10-02-ZB-02-1136-kakaya-llm-luchshe-vsego-pishet-korotkie-200-280-zn-posty-dlya-x/](DR26-10-02-ZB-02-1136-kakaya-llm-luchshe-vsego-pishet-korotkie-200-280-zn-posty-dlya-x/README.md)

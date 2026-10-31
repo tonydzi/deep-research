@@ -55,6 +55,10 @@ source: Palo Alto AI Research Lab — deep research programme
 - headless-browser-detection-navigator-webdriver
 
 
+## Check it yourself: prompt, sources, raw reports
+
+- All sources (1 links): [DR26-07-17-HUB-03-reliable-headless-firefox-chromium-automation-with-a-persistent-logged/sources.md](DR26-07-17-HUB-03-reliable-headless-firefox-chromium-automation-with-a-persistent-logged/sources.md)
+
 ## Raw model reports
 
 1 reports delivered, synthesis used not recorded. [DR26-07-17-HUB-03-reliable-headless-firefox-chromium-automation-with-a-persistent-logged/](DR26-07-17-HUB-03-reliable-headless-firefox-chromium-automation-with-a-persistent-logged/README.md)

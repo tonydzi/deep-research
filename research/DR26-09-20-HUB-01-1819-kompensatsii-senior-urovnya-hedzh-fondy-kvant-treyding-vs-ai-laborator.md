@@ -57,6 +57,11 @@ source: Palo Alto AI Research Lab — deep research programme
 - cv-forge-cluster-resumes
 
 
+## Check it yourself: prompt, sources, raw reports
+
+- Prompt: [DR26-09-20-HUB-01-1819-kompensatsii-senior-urovnya-hedzh-fondy-kvant-treyding-vs-ai-laborator/prompt.md](DR26-09-20-HUB-01-1819-kompensatsii-senior-urovnya-hedzh-fondy-kvant-treyding-vs-ai-laborator/prompt.md)
+- All sources (200 links): [DR26-09-20-HUB-01-1819-kompensatsii-senior-urovnya-hedzh-fondy-kvant-treyding-vs-ai-laborator/sources.md](DR26-09-20-HUB-01-1819-kompensatsii-senior-urovnya-hedzh-fondy-kvant-treyding-vs-ai-laborator/sources.md)
+
 ## Raw model reports
 
 4 reports delivered, synthesis used 4 of 6. [DR26-09-20-HUB-01-1819-kompensatsii-senior-urovnya-hedzh-fondy-kvant-treyding-vs-ai-laborator/](DR26-09-20-HUB-01-1819-kompensatsii-senior-urovnya-hedzh-fondy-kvant-treyding-vs-ai-laborator/README.md)

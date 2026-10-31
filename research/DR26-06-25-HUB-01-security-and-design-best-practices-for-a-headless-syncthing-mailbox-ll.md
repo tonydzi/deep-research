@@ -54,6 +54,9 @@ source: Palo Alto AI Research Lab — deep research programme
 - multi-agent-role-discipline
 
 
+## Check it yourself: prompt, sources, raw reports
+
+
 ## Raw model reports
 
 1 reports delivered, synthesis used not recorded. [DR26-06-25-HUB-01-security-and-design-best-practices-for-a-headless-syncthing-mailbox-ll/](DR26-06-25-HUB-01-security-and-design-best-practices-for-a-headless-syncthing-mailbox-ll/README.md)

@@ -58,6 +58,9 @@ source: Palo Alto AI Research Lab — deep research programme
 - ak47-simplicity
 
 
+## Check it yourself: prompt, sources, raw reports
+
+
 ## Raw model reports
 
 1 reports delivered, synthesis used not recorded. [DR26-07-28-HUB-18-2339-sota-architecture-for-shared-local-first-agent-memory-across-claude-co/](DR26-07-28-HUB-18-2339-sota-architecture-for-shared-local-first-agent-memory-across-claude-co/README.md)

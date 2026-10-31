@@ -67,6 +67,11 @@ source: Palo Alto AI Research Lab — deep research programme
 - insight-DR-DR26-08-29-MACANTON-22-0759-eu-entity-для-non-dilutive-funding-eic-horizon-выб — тот же вопрос EIC/Horizon EU-юрлица, follow-up DR с противоположной рекомендацией
 
 
+## Check it yourself: prompt, sources, raw reports
+
+- Prompt: [DR26-08-24-MACANTON-02-1025-vybor-eu-yurisdiktsii-ne-portugaliya-dlya-vtorogo-yurlitsa-pod-eic-gra/prompt.md](DR26-08-24-MACANTON-02-1025-vybor-eu-yurisdiktsii-ne-portugaliya-dlya-vtorogo-yurlitsa-pod-eic-gra/prompt.md)
+- All sources (55 links): [DR26-08-24-MACANTON-02-1025-vybor-eu-yurisdiktsii-ne-portugaliya-dlya-vtorogo-yurlitsa-pod-eic-gra/sources.md](DR26-08-24-MACANTON-02-1025-vybor-eu-yurisdiktsii-ne-portugaliya-dlya-vtorogo-yurlitsa-pod-eic-gra/sources.md)
+
 ## Raw model reports
 
 4 reports delivered, synthesis used 4 of 6. [DR26-08-24-MACANTON-02-1025-vybor-eu-yurisdiktsii-ne-portugaliya-dlya-vtorogo-yurlitsa-pod-eic-gra/](DR26-08-24-MACANTON-02-1025-vybor-eu-yurisdiktsii-ne-portugaliya-dlya-vtorogo-yurlitsa-pod-eic-gra/README.md)

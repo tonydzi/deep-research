@@ -609,6 +609,11 @@ Think-aloud = список НЕИЗВЕСТНЫХ, а не поток проду
 - mission-llm-hire-weekly-plan
 
 
+## Check it yourself: prompt, sources, raw reports
+
+- Prompt: [DR26-09-15-HUB-05-1826-kak-vesti-sebya-v-semi-komnatah-intervyu-povedencheskaya-mehanika-dr26/prompt.md](DR26-09-15-HUB-05-1826-kak-vesti-sebya-v-semi-komnatah-intervyu-povedencheskaya-mehanika-dr26/prompt.md)
+- All sources (137 links): [DR26-09-15-HUB-05-1826-kak-vesti-sebya-v-semi-komnatah-intervyu-povedencheskaya-mehanika-dr26/sources.md](DR26-09-15-HUB-05-1826-kak-vesti-sebya-v-semi-komnatah-intervyu-povedencheskaya-mehanika-dr26/sources.md)
+
 ## Raw model reports
 
 4 reports delivered, synthesis used 4 of 6. [DR26-09-15-HUB-05-1826-kak-vesti-sebya-v-semi-komnatah-intervyu-povedencheskaya-mehanika-dr26/](DR26-09-15-HUB-05-1826-kak-vesti-sebya-v-semi-komnatah-intervyu-povedencheskaya-mehanika-dr26/README.md)

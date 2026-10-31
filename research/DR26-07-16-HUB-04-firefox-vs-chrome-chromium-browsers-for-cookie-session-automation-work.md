@@ -60,6 +60,10 @@ source: Palo Alto AI Research Lab — deep research programme
 - insight-DR-DR26-07-17-HUB-03-reliable-headless-firefox-chromium-automation-with — directly related prior DR comparing Firefox vs Chrome for the same automation problem
 
 
+## Check it yourself: prompt, sources, raw reports
+
+- All sources (47 links): [DR26-07-16-HUB-04-firefox-vs-chrome-chromium-browsers-for-cookie-session-automation-work/sources.md](DR26-07-16-HUB-04-firefox-vs-chrome-chromium-browsers-for-cookie-session-automation-work/sources.md)
+
 ## Raw model reports
 
 3 reports delivered, synthesis used not recorded. [DR26-07-16-HUB-04-firefox-vs-chrome-chromium-browsers-for-cookie-session-automation-work/](DR26-07-16-HUB-04-firefox-vs-chrome-chromium-browsers-for-cookie-session-automation-work/README.md)

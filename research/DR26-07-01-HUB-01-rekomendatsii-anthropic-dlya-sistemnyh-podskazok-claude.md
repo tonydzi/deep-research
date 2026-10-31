@@ -56,6 +56,9 @@ source: Palo Alto AI Research Lab — deep research programme
 - 2026-08-31-dmitrii-zhdanov-1-on-1-with-tony-Y0tFRA — Dmitrii's exact claim that model reasoning degrades sharply above 100-200K context tokens matches this Anthropic-prompting insight
 
 
+## Check it yourself: prompt, sources, raw reports
+
+
 ## Raw model reports
 
 1 reports delivered, synthesis used not recorded. [DR26-07-01-HUB-01-rekomendatsii-anthropic-dlya-sistemnyh-podskazok-claude/](DR26-07-01-HUB-01-rekomendatsii-anthropic-dlya-sistemnyh-podskazok-claude/README.md)

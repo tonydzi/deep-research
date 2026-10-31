@@ -64,6 +64,10 @@ source: Palo Alto AI Research Lab — deep research programme
 - knowledge-graph
 
 
+## Check it yourself: prompt, sources, raw reports
+
+- All sources (1 links): [DR26-07-28-HUB-09-2338-ispolzovanie-obsidian-kak-vtoroy-mozg-arhitektura-pamyati-mozga-tsifro/sources.md](DR26-07-28-HUB-09-2338-ispolzovanie-obsidian-kak-vtoroy-mozg-arhitektura-pamyati-mozga-tsifro/sources.md)
+
 ## Raw model reports
 
 1 reports delivered, synthesis used not recorded. [DR26-07-28-HUB-09-2338-ispolzovanie-obsidian-kak-vtoroy-mozg-arhitektura-pamyati-mozga-tsifro/](DR26-07-28-HUB-09-2338-ispolzovanie-obsidian-kak-vtoroy-mozg-arhitektura-pamyati-mozga-tsifro/README.md)

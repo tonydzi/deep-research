@@ -45,6 +45,9 @@ source: Palo Alto AI Research Lab — deep research programme
 - credential-store
 
 
+## Check it yourself: prompt, sources, raw reports
+
+
 ## Raw model reports
 
 1 reports delivered, synthesis used not recorded. [DR26-07-04-HUB-06-x-api-v2-posting-fb-graph-reading-own-posts-july-2026-setup-automatabl/](DR26-07-04-HUB-06-x-api-v2-posting-fb-graph-reading-own-posts-july-2026-setup-automatabl/README.md)

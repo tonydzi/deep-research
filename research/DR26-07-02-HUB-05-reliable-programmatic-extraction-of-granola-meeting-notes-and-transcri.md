@@ -54,6 +54,9 @@ source: Palo Alto AI Research Lab — deep research programme
 - mcp-oauth-token-refresh-limitations
 
 
+## Check it yourself: prompt, sources, raw reports
+
+
 ## Raw model reports
 
 1 reports delivered, synthesis used not recorded. [DR26-07-02-HUB-05-reliable-programmatic-extraction-of-granola-meeting-notes-and-transcri/](DR26-07-02-HUB-05-reliable-programmatic-extraction-of-granola-meeting-notes-and-transcri/README.md)

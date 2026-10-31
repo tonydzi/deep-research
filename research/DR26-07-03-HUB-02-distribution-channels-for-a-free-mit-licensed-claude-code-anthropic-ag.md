@@ -58,6 +58,9 @@ source: Palo Alto AI Research Lab — deep research programme
 - claude-code-ecosystem
 
 
+## Check it yourself: prompt, sources, raw reports
+
+
 ## Raw model reports
 
 1 reports delivered, synthesis used not recorded. [DR26-07-03-HUB-02-distribution-channels-for-a-free-mit-licensed-claude-code-anthropic-ag/](DR26-07-03-HUB-02-distribution-channels-for-a-free-mit-licensed-claude-code-anthropic-ag/README.md)

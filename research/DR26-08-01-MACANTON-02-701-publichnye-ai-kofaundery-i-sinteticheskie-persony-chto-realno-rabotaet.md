@@ -99,6 +99,11 @@ source: Palo Alto AI Research Lab — deep research programme
 Связано: voice-mycroft · mycroft-voice-disclosure · first-person-posts-anton-or-mycroft · platform-matrix-gate · ai-coauthor-trailers-policy · mission-get-noticed-hired-by-llm-company
 
 
+## Check it yourself: prompt, sources, raw reports
+
+- Prompt: [DR26-08-01-MACANTON-02-701-publichnye-ai-kofaundery-i-sinteticheskie-persony-chto-realno-rabotaet/prompt.md](DR26-08-01-MACANTON-02-701-publichnye-ai-kofaundery-i-sinteticheskie-persony-chto-realno-rabotaet/prompt.md)
+- All sources (80 links): [DR26-08-01-MACANTON-02-701-publichnye-ai-kofaundery-i-sinteticheskie-persony-chto-realno-rabotaet/sources.md](DR26-08-01-MACANTON-02-701-publichnye-ai-kofaundery-i-sinteticheskie-persony-chto-realno-rabotaet/sources.md)
+
 ## Raw model reports
 
 2 reports delivered, synthesis used 2 of 2. [DR26-08-01-MACANTON-02-701-publichnye-ai-kofaundery-i-sinteticheskie-persony-chto-realno-rabotaet/](DR26-08-01-MACANTON-02-701-publichnye-ai-kofaundery-i-sinteticheskie-persony-chto-realno-rabotaet/README.md)

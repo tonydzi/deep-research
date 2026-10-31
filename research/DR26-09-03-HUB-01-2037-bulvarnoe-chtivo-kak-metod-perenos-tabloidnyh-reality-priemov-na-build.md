@@ -54,6 +54,11 @@ source: Palo Alto AI Research Lab — deep research programme
 - ai-slop
 
 
+## Check it yourself: prompt, sources, raw reports
+
+- Prompt: [DR26-09-03-HUB-01-2037-bulvarnoe-chtivo-kak-metod-perenos-tabloidnyh-reality-priemov-na-build/prompt.md](DR26-09-03-HUB-01-2037-bulvarnoe-chtivo-kak-metod-perenos-tabloidnyh-reality-priemov-na-build/prompt.md)
+- All sources (372 links): [DR26-09-03-HUB-01-2037-bulvarnoe-chtivo-kak-metod-perenos-tabloidnyh-reality-priemov-na-build/sources.md](DR26-09-03-HUB-01-2037-bulvarnoe-chtivo-kak-metod-perenos-tabloidnyh-reality-priemov-na-build/sources.md)
+
 ## Raw model reports
 
 5 reports delivered, synthesis used 4 of 6. Note: 1 report(s) arrived after the synthesis was written; they are attached raw and were not reconciled. [DR26-09-03-HUB-01-2037-bulvarnoe-chtivo-kak-metod-perenos-tabloidnyh-reality-priemov-na-build/](DR26-09-03-HUB-01-2037-bulvarnoe-chtivo-kak-metod-perenos-tabloidnyh-reality-priemov-na-build/README.md)

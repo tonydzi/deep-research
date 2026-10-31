@@ -9,6 +9,9 @@
 | chatgpt | 2026-10-14 21:32 |
 | claudeai | 2026-10-14 21:32 |
 
+- [prompt](./prompt.md): the exact question every model got
+- [sources](./sources.md): 139 unique links cited by the models
+
 Reports below are published as delivered, after an automatic privacy scrub.
 
 - [chatgpt](./chatgpt.md)

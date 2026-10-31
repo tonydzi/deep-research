@@ -147,6 +147,11 @@ ChatGPT (`deep-research-mini`) утверждал три вещи, которы�
 🏛H · Opus 5.5 · 99142
 
 
+## Check it yourself: prompt, sources, raw reports
+
+- Prompt: [DR26-10-18-HUB-02-0542-fabrika-podkastov-notebooklm-na-vse-platformy-sintez-dr-18-10-2026/prompt.md](DR26-10-18-HUB-02-0542-fabrika-podkastov-notebooklm-na-vse-platformy-sintez-dr-18-10-2026/prompt.md)
+- All sources (262 links): [DR26-10-18-HUB-02-0542-fabrika-podkastov-notebooklm-na-vse-platformy-sintez-dr-18-10-2026/sources.md](DR26-10-18-HUB-02-0542-fabrika-podkastov-notebooklm-na-vse-platformy-sintez-dr-18-10-2026/sources.md)
+
 ## Raw model reports
 
 5 reports delivered, synthesis used 5 of 6. [DR26-10-18-HUB-02-0542-fabrika-podkastov-notebooklm-na-vse-platformy-sintez-dr-18-10-2026/](DR26-10-18-HUB-02-0542-fabrika-podkastov-notebooklm-na-vse-platformy-sintez-dr-18-10-2026/README.md)

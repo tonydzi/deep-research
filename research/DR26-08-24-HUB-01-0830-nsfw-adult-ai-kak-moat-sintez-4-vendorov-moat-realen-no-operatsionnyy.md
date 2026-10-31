@@ -50,6 +50,10 @@ nsfw-ai-dr-post-series-2026-08-24 (5 черновиков постов по эт
 - **Против нашей же гипотезы (не сглаживаю):** если моат сводится к «готовности терпеть банковскую боль» — это барьер, а не монополия, повторяемый любым упрямым; и «indefinitely paused» у OpenAI ≠ «навсегда».
 
 
+## Check it yourself: prompt, sources, raw reports
+
+- All sources (125 links): [DR26-08-24-HUB-01-0830-nsfw-adult-ai-kak-moat-sintez-4-vendorov-moat-realen-no-operatsionnyy/sources.md](DR26-08-24-HUB-01-0830-nsfw-adult-ai-kak-moat-sintez-4-vendorov-moat-realen-no-operatsionnyy/sources.md)
+
 ## Raw model reports
 
 5 reports delivered, synthesis used 4 of 6. Note: 1 report(s) arrived after the synthesis was written; they are attached raw and were not reconciled. [DR26-08-24-HUB-01-0830-nsfw-adult-ai-kak-moat-sintez-4-vendorov-moat-realen-no-operatsionnyy/](DR26-08-24-HUB-01-0830-nsfw-adult-ai-kak-moat-sintez-4-vendorov-moat-realen-no-operatsionnyy/README.md)

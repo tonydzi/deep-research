@@ -57,6 +57,11 @@ source: Palo Alto AI Research Lab — deep research programme
 - burn-the-limits-utilization
 
 
+## Check it yourself: prompt, sources, raw reports
+
+- Prompt: [DR26-09-22-HUB-01-1118-grok-build-cli-protiv-cursor-kak-chetvertyy-agent-v-sisteme-iz-treh-ag/prompt.md](DR26-09-22-HUB-01-1118-grok-build-cli-protiv-cursor-kak-chetvertyy-agent-v-sisteme-iz-treh-ag/prompt.md)
+- All sources (126 links): [DR26-09-22-HUB-01-1118-grok-build-cli-protiv-cursor-kak-chetvertyy-agent-v-sisteme-iz-treh-ag/sources.md](DR26-09-22-HUB-01-1118-grok-build-cli-protiv-cursor-kak-chetvertyy-agent-v-sisteme-iz-treh-ag/sources.md)
+
 ## Raw model reports
 
 4 reports delivered, synthesis used 4 of 5. [DR26-09-22-HUB-01-1118-grok-build-cli-protiv-cursor-kak-chetvertyy-agent-v-sisteme-iz-treh-ag/](DR26-09-22-HUB-01-1118-grok-build-cli-protiv-cursor-kak-chetvertyy-agent-v-sisteme-iz-treh-ag/README.md)

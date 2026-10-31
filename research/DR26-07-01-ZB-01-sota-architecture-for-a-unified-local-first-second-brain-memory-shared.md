@@ -47,6 +47,9 @@ source: Palo Alto AI Research Lab — deep research programme
 - insight-DR-DR26-07-28-HUB-18-2339-sota-architecture-for-shared-local-first-agent-mem — тот же вопрос unified local-first memory; ранняя заметка сама пишет что вывод нужно перезабрать
 
 
+## Check it yourself: prompt, sources, raw reports
+
+
 ## Raw model reports
 
 1 reports delivered, synthesis used not recorded. [DR26-07-01-ZB-01-sota-architecture-for-a-unified-local-first-second-brain-memory-shared/](DR26-07-01-ZB-01-sota-architecture-for-a-unified-local-first-second-brain-memory-shared/README.md)

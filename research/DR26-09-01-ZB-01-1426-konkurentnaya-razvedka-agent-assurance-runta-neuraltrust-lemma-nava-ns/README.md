@@ -11,6 +11,9 @@
 | gemini | 2026-09-01 15:41 |
 | grok | 2026-09-01 15:38 |
 
+- [prompt](./prompt.md): the exact question every model got
+- [sources](./sources.md): 207 unique links cited by the models
+
 Reports below are published as delivered, after an automatic privacy scrub.
 
 - [chatgpt](./chatgpt.md)

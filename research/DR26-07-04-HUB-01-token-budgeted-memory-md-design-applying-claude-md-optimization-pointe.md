@@ -60,6 +60,9 @@ source: Palo Alto AI Research Lab — deep research programme
 - capture-rules-into-bible
 
 
+## Check it yourself: prompt, sources, raw reports
+
+
 ## Raw model reports
 
 1 reports delivered, synthesis used not recorded. [DR26-07-04-HUB-01-token-budgeted-memory-md-design-applying-claude-md-optimization-pointe/](DR26-07-04-HUB-01-token-budgeted-memory-md-design-applying-claude-md-optimization-pointe/README.md)
