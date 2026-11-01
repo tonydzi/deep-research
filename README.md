@@ -1,6 +1,6 @@
 # Deep Research — Palo Alto AI Research Lab
 
-355 deep-research reports, distilled. Every entry answers two questions: why we ran this research, and what we got out of it.
+358 deep-research reports, distilled. Every entry answers two questions: why we ran this research, and what we got out of it.
 
 Each report was run across several frontier models (ChatGPT, Gemini, Grok, Claude, GLM, Mistral), then reconciled into the distilled note you see here. Findings are the reconciled ones, not a single model's opinion.
 
@@ -20,6 +20,7 @@ Raw model transcripts stay in our vault. What is published here is the distilled
 
 | ID | Topic | Date |
 |---|---|---|
+| [DR26-10-30-HUB-03-0946](research/DR26-10-30-HUB-03-0946-kak-llm-uchat-posle-pretraining-rlhf-nagrada-rlvr-model-uchit-model.md) | Как LLM учат после pretraining: RLHF, награда/RLVR, модель учит модель | 2026-10-30 |
 | [DR26-10-26-HUB-02](research/DR26-10-26-HUB-02-instrumenty-semanticheskogo-strukturnogo-poiska-po-kodu-i-obuchenie-ch.md) | Инструменты семантического/структурного поиска по коду и обучение через подкасты (два отчё | 2026-10-26 |
 | [DR26-10-26-HUB-03-1338](research/DR26-10-26-HUB-03-1338-layerwise-computation-i-causal-interpretability-llm-zakaz-deep-researc.md) | Layerwise computation и causal interpretability LLM: заказ Deep Research и recall | 2026-10-26 |
 | [DR26-10-24-HUB-01](research/DR26-10-24-HUB-01-windows-low-overhead-continuous-monitoring-and-on-demand-tracing-perfm.md) | Windows low-overhead continuous monitoring and on-demand tracing (PerfMon, ETW/WPR, Sysmon | 2026-10-24 |
@@ -182,6 +183,8 @@ Raw model transcripts stay in our vault. What is published here is the distilled
 
 | ID | Тема | Дата |
 |---|---|---|
+| [DR26-10-30-HUB-01](research/DR26-10-30-HUB-01-tesla-i-globalnaya-elektrifikatsiya-avto-uskoritel-passazhir-ili-siste.md) | Tesla и глобальная электрификация авто: ускоритель, пассажир или система | 2026-10-30 |
+| [DR26-10-30-HUB-02](research/DR26-10-30-HUB-02-bezopasnost-tesla-i-sistem-avtomatizatsii-vozhdeniya-autopilot-fsd-rob.md) | Безопасность Tesla и систем автоматизации вождения (Autopilot, FSD, Robotaxi) | 2026-10-30 |
 | [DR26-10-30-HUB-05-1533](research/DR26-10-30-HUB-05-1533-reptilii-v-lissabone-i-portugalii-gde-poderzhat-kupit-ustroit-ivent.md) | Рептилии в Лиссабоне и Португалии: где подержать, купить, устроить ивент | 2026-10-30 |
 | [DR26-10-28-HUB-01](research/DR26-10-28-HUB-01-alternativy-screenpipe-audit-nepreryvnoy-audiozapisi-ishodnikov-i-remo.md) | Альтернативы Screenpipe: аудит непрерывной аудиозаписи, исходников и ремонтопригодности | 2026-10-28 |
 | [DR26-10-28-HUB-05](research/DR26-10-28-HUB-05-seeray11-openflow-i-vizualnye-konstruktory-agentnyh-workflow-dlya-ai-l.md) | SeeRay11/OpenFlow и визуальные конструкторы агентных workflow для AI-лаборатории | 2026-10-28 |

@@ -68,3 +68,13 @@ source: Palo Alto AI Research Lab — deep research programme
 
 ## ⚠️ Корректировка судьи DR (25.10.2026)
 Опора на одну ногу из шести (только Grok), независимой проверки нет. Потребитель не назван; применимо как фактчек для поста по LSD. Входящая ссылка: MOC-Deep-Research-2026-09.
+
+
+## Check it yourself: prompt, sources, raw reports
+
+- Prompt: [DR26-10-24-HUB-04-0512-nautilus-pro-lsd-bystrye-ritmy-i-fraktalnost-mozga-proverka-po-pervois/prompt.md](DR26-10-24-HUB-04-0512-nautilus-pro-lsd-bystrye-ritmy-i-fraktalnost-mozga-proverka-po-pervois/prompt.md)
+- All sources (36 links): [DR26-10-24-HUB-04-0512-nautilus-pro-lsd-bystrye-ritmy-i-fraktalnost-mozga-proverka-po-pervois/sources.md](DR26-10-24-HUB-04-0512-nautilus-pro-lsd-bystrye-ritmy-i-fraktalnost-mozga-proverka-po-pervois/sources.md)
+
+## Raw model reports
+
+1 reports delivered, synthesis used 1 of 6. [DR26-10-24-HUB-04-0512-nautilus-pro-lsd-bystrye-ritmy-i-fraktalnost-mozga-proverka-po-pervois/](DR26-10-24-HUB-04-0512-nautilus-pro-lsd-bystrye-ritmy-i-fraktalnost-mozga-proverka-po-pervois/README.md)

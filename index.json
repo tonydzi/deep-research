@@ -1,6 +1,6 @@
 {
- "generated": "2026-10-31",
- "count": 355,
+ "generated": "2026-11-01",
+ "count": 358,
  "repo": "https://github.com/tonydzi/deep-research",
  "research": [
   {
@@ -3188,6 +3188,33 @@
    "date": "2026-10-28",
    "slug": "DR26-10-28-HUB-05-seeray11-openflow-i-vizualnye-konstruktory-agentnyh-workflow-dlya-ai-l",
    "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-10-28-HUB-05-seeray11-openflow-i-vizualnye-konstruktory-agentnyh-workflow-dlya-ai-l.md"
+  },
+  {
+   "dr_id": "DR26-10-30-HUB-01",
+   "title": "Tesla и глобальная электрификация авто: ускоритель, пассажир или система",
+   "summary": "Была ли Tesla решающим глобальным ускорителем электрификации автомобилей, пассажиром структурного перехода или одним из элементов взаимодействующей системы факторов.",
+   "lang": "ru",
+   "date": "2026-10-30",
+   "slug": "DR26-10-30-HUB-01-tesla-i-globalnaya-elektrifikatsiya-avto-uskoritel-passazhir-ili-siste",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-10-30-HUB-01-tesla-i-globalnaya-elektrifikatsiya-avto-uskoritel-passazhir-ili-siste.md"
+  },
+  {
+   "dr_id": "DR26-10-30-HUB-02",
+   "title": "Безопасность Tesla и систем автоматизации вождения (Autopilot, FSD, Robotaxi)",
+   "summary": "Насколько безопасны автомобили Tesla и их системы автоматизации вождения: пассивная безопасность, надёжность, пожары, двери, Autopilot, FSD и Robotaxi, по состоянию на 30.10.2026.",
+   "lang": "ru",
+   "date": "2026-10-30",
+   "slug": "DR26-10-30-HUB-02-bezopasnost-tesla-i-sistem-avtomatizatsii-vozhdeniya-autopilot-fsd-rob",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-10-30-HUB-02-bezopasnost-tesla-i-sistem-avtomatizatsii-vozhdeniya-autopilot-fsd-rob.md"
+  },
+  {
+   "dr_id": "DR26-10-30-HUB-03-0946",
+   "title": "Как LLM учат после pretraining: RLHF, награда/RLVR, модель учит модель",
+   "summary": "Какие механизмы, цифры, режимы отказа и открытые проблемы стоят за тремя линзами пост-обучения LLM: человеческий RLHF, дизайн награды (RLVR/GRPO) и «модель учит модель» (RLAIF, LLM-судья, дистилляция), как основа серии из 3 подкастов.",
+   "lang": "mixed",
+   "date": "2026-10-30",
+   "slug": "DR26-10-30-HUB-03-0946-kak-llm-uchat-posle-pretraining-rlhf-nagrada-rlvr-model-uchit-model",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-10-30-HUB-03-0946-kak-llm-uchat-posle-pretraining-rlhf-nagrada-rlvr-model-uchit-model.md"
   },
   {
    "dr_id": "DR26-10-30-HUB-05-1533",
