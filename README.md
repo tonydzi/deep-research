@@ -1,6 +1,6 @@
 # Deep Research — Palo Alto AI Research Lab
 
-358 deep-research reports, distilled. Every entry answers two questions: why we ran this research, and what we got out of it.
+357 deep-research reports, distilled. Every entry answers two questions: why we ran this research, and what we got out of it.
 
 Each report was run across several frontier models (ChatGPT, Gemini, Grok, Claude, GLM, Mistral), then reconciled into the distilled note you see here. Findings are the reconciled ones, not a single model's opinion.
 
@@ -185,7 +185,6 @@ Raw model transcripts stay in our vault. What is published here is the distilled
 |---|---|---|
 | [DR26-10-30-HUB-01](research/DR26-10-30-HUB-01-tesla-i-globalnaya-elektrifikatsiya-avto-uskoritel-passazhir-ili-siste.md) | Tesla и глобальная электрификация авто: ускоритель, пассажир или система | 2026-10-30 |
 | [DR26-10-30-HUB-02](research/DR26-10-30-HUB-02-bezopasnost-tesla-i-sistem-avtomatizatsii-vozhdeniya-autopilot-fsd-rob.md) | Безопасность Tesla и систем автоматизации вождения (Autopilot, FSD, Robotaxi) | 2026-10-30 |
-| [DR26-10-30-HUB-05-1533](research/DR26-10-30-HUB-05-1533-reptilii-v-lissabone-i-portugalii-gde-poderzhat-kupit-ustroit-ivent.md) | Рептилии в Лиссабоне и Португалии: где подержать, купить, устроить ивент | 2026-10-30 |
 | [DR26-10-28-HUB-01](research/DR26-10-28-HUB-01-alternativy-screenpipe-audit-nepreryvnoy-audiozapisi-ishodnikov-i-remo.md) | Альтернативы Screenpipe: аудит непрерывной аудиозаписи, исходников и ремонтопригодности | 2026-10-28 |
 | [DR26-10-28-HUB-05](research/DR26-10-28-HUB-05-seeray11-openflow-i-vizualnye-konstruktory-agentnyh-workflow-dlya-ai-l.md) | SeeRay11/OpenFlow и визуальные конструкторы агентных workflow для AI-лаборатории | 2026-10-28 |
 | [DR26-10-26-HUB-01-0658](research/DR26-10-26-HUB-01-0658-replit-chto-eto-segodnya-i-kakaya-polza-palo-alto-ai-research-lab-dr-4.md) | Replit: что это сегодня и какая польза Palo Alto AI Research Lab (ДР 4 рельсы, 26.10.2026) | 2026-10-26 |

@@ -5,7 +5,6 @@
 | ID | date | topic | reports delivered | used in synthesis | dev.to |
 |---|---|---|---|---|---|
 | [DR26-10-30-HUB-03-0946](https://github.com/tonydzi/deep-research/blob/main/research/DR26-10-30-HUB-03-0946-kak-llm-uchat-posle-pretraining-rlhf-nagrada-rlvr-model-uchit-model.md) | 2026-10-30 | Как учат LLM: RLHF человек, награда и RLVR, модель учит модель — основа серии из 3 подкастов | 6 | 6/6 |  |
-| [DR26-10-30-HUB-05-1533](https://github.com/tonydzi/deep-research/blob/main/research/DR26-10-30-HUB-05-1533-reptilii-v-lissabone-i-portugalii-gde-poderzhat-kupit-ustroit-ivent.md) | 2026-10-30 | Рептилии и экзотика в Лиссабоне/Португалии: контакт, мастер-классы, выезды, покупка, организация своего ивента | 3 | ? |  |
 | [DR26-10-30-HUB-01](https://github.com/tonydzi/deep-research/blob/main/research/DR26-10-30-HUB-01-tesla-i-globalnaya-elektrifikatsiya-avto-uskoritel-passazhir-ili-siste.md) | 2026-10-30 | Tesla и глобальная электрификация автомобилей: ускоритель, пассажир ст | ? | ? |  |
 | [DR26-10-30-HUB-02](https://github.com/tonydzi/deep-research/blob/main/research/DR26-10-30-HUB-02-bezopasnost-tesla-i-sistem-avtomatizatsii-vozhdeniya-autopilot-fsd-rob.md) | 2026-10-30 | Насколько безопасны автомобили Tesla и их системы автоматизации вожден | ? | ? |  |
 | [DR26-10-28-HUB-01](https://github.com/tonydzi/deep-research/blob/main/research/DR26-10-28-HUB-01-alternativy-screenpipe-audit-nepreryvnoy-audiozapisi-ishodnikov-i-remo.md) | 2026-10-28 | DR26-10-16-HUB-08-2027 — Screenpipe alternatives: аудит непрерывной ау | ? | ? |  |
