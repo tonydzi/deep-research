@@ -1,6 +1,6 @@
 # Deep Research — Palo Alto AI Research Lab
 
-357 deep-research reports, distilled. Every entry answers two questions: why we ran this research, and what we got out of it.
+355 deep-research reports, distilled. Every entry answers two questions: why we ran this research, and what we got out of it.
 
 Each report was run across several frontier models (ChatGPT, Gemini, Grok, Claude, GLM, Mistral), then reconciled into the distilled note you see here. Findings are the reconciled ones, not a single model's opinion.
 
@@ -140,7 +140,6 @@ Raw model transcripts stay in our vault. What is published here is the distilled
 | [DR26-07-02-HUB-04](research/DR26-07-02-HUB-04-quorum-design-for-a-sleeping-personal-fleet.md) | Quorum Design for a Sleeping Personal Fleet | 2026-07-02 |
 | [DR26-07-02-HUB-05](research/DR26-07-02-HUB-05-reliable-programmatic-extraction-of-granola-meeting-notes-and-transcri.md) | Reliable programmatic extraction of Granola meeting notes and transcripts | 2026-07-02 |
 | [DR26-07-02-HUB-06](research/DR26-07-02-HUB-06-authentic-narrative-engineering-for-solo-build-in-public.md) | Authentic Narrative Engineering for Solo Build in Public | 2026-07-02 |
-| [DR26-07-02-HUB-07](research/DR26-07-02-HUB-07-beyond-canton-fastest-accessible-non-canton-crypto-fintech-money-pools.md) | Beyond Canton: fastest-accessible non-Canton crypto/fintech money pools for a fund-less BD | 2026-07-02 |
 | [DR26-07-02-HUB-08](research/DR26-07-02-HUB-08-where-accessible-crypto-money-flows-really-are-in-july-2026.md) | Where Accessible Crypto Money Flows Really Are in July 2026 | 2026-07-02 |
 | [DR26-07-02-HUB-09](research/DR26-07-02-HUB-09-monetizing-a-curated-community-of-ai-native-engineers-in-2026.md) | Monetizing a Curated Community of AI-Native Engineers in 2026 | 2026-07-02 |
 | [DR26-07-02-HUB-10](research/DR26-07-02-HUB-10-building-a-role-tailored-starter-pkm-kit-obsidian-claude-code-plugin-m.md) | Building a role-tailored starter PKM kit (Obsidian + Claude Code plugin marketplace) for o | 2026-07-02 |
@@ -184,6 +183,7 @@ Raw model transcripts stay in our vault. What is published here is the distilled
 | ID | Тема | Дата |
 |---|---|---|
 | [DR26-10-30-HUB-01](research/DR26-10-30-HUB-01-tesla-i-globalnaya-elektrifikatsiya-avto-uskoritel-passazhir-ili-siste.md) | Tesla и глобальная электрификация авто: ускоритель, пассажир или система | 2026-10-30 |
+| [DR26-10-30-HUB-01-0915](research/DR26-10-30-HUB-01-0915-rynok-netsenzurirovannyh-otkrytyh-llm-60b-100b-modeli-hostingi-polzova.md) | Рынок нецензурированных открытых LLM 60B-100B+: модели, хостинги, пользователи, регулятори | 2026-10-30 |
 | [DR26-10-30-HUB-02](research/DR26-10-30-HUB-02-bezopasnost-tesla-i-sistem-avtomatizatsii-vozhdeniya-autopilot-fsd-rob.md) | Безопасность Tesla и систем автоматизации вождения (Autopilot, FSD, Robotaxi) | 2026-10-30 |
 | [DR26-10-28-HUB-01](research/DR26-10-28-HUB-01-alternativy-screenpipe-audit-nepreryvnoy-audiozapisi-ishodnikov-i-remo.md) | Альтернативы Screenpipe: аудит непрерывной аудиозаписи, исходников и ремонтопригодности | 2026-10-28 |
 | [DR26-10-28-HUB-05](research/DR26-10-28-HUB-05-seeray11-openflow-i-vizualnye-konstruktory-agentnyh-workflow-dlya-ai-l.md) | SeeRay11/OpenFlow и визуальные конструкторы агентных workflow для AI-лаборатории | 2026-10-28 |
@@ -257,7 +257,6 @@ Raw model transcripts stay in our vault. What is published here is the distilled
 | [DR26-08-14-MACANTON-01-2117](research/DR26-08-14-MACANTON-01-2117-brauzernaya-i-ekrannaya-relsa-dlya-mac16-i-flota-grabli-agentnyh-brauz.md) | браузерная и экранная рельса для Mac16 и флота — грабли агентных браузеров и экранного контроля | 2026-08-14 |
 | [DR26-08-10-MACANTON-01-1154](research/DR26-08-10-MACANTON-01-1154-perplexity-kak-sedmaya-dr-relsa-rabotaet-tolko-pryamoy-api-i-on-platny.md) | Perplexity как седьмая DR-рельса — работает только прямой API, и он платный отдельно от подписки | 2026-08-12 |
 | [DR26-08-04-ZB-14-2214](research/DR26-08-04-ZB-14-2214-geyt-po-intent-s-ogranichennym-fan-control.md) | гейт по intent с ограниченным fan-control | 2026-08-10 |
-| [DR26-08-10-HUB-01-1449](research/DR26-08-10-HUB-01-1449-onlayn-platformy-registratsii-501-c-3-foundation-group-core-kaliforniy.md) | онлайн-платформы регистрации 501(c)(3) — Foundation Group Core, Калифорния остаётся, HCB закрылся для взрослых | 2026-08-10 |
 | [DR26-08-06-HUB-01-1055](research/DR26-08-06-HUB-01-1055-dr26-08-06-hub-01-1055-triz-chto-brat-chto-otkazat-i-gde-ona-pryamo-pr.md) | DR26-08-06-HUB-01-1055 — ТРИЗ: что брать, что отказать, и где она прямо противоречит АК-47 | 2026-08-06 |
 | [DR26-08-06-HUB-02-1055](research/DR26-08-06-HUB-02-1055-dr26-08-06-hub-02-1055-5-pochemu-po-serii-chto-podtverdilos-v-nashem-t.md) | DR26-08-06-HUB-02-1055 — «5 почему» по серии: что подтвердилось в нашем ТЗ и две дыры, которых там не было | 2026-08-06 |
 | [DR26-08-05-HUB-02-2156](research/DR26-08-05-HUB-02-2156-fb-graph-api-svoi-posty-s-lichnogo-profilya-chitayutsya-legalno-i-bez.md) | FB Graph API — свои посты с личного профиля читаются легально и без браузера, App Review не нужен | 2026-08-05 |
@@ -292,7 +291,6 @@ Raw model transcripts stay in our vault. What is published here is the distilled
 | [DR26-07-14-HUB-12](research/DR26-07-14-HUB-12-rynok-i-postavschiki-vokrug-openclaw-setapy-integratory-riski-i-altern.md) | Рынок и поставщики вокруг OpenClaw: сетапы, интеграторы, риски и альтернативы | 2026-07-14 |
 | [DR26-07-11-HUB-03](research/DR26-07-11-HUB-03-bezopasnost-llm-agentov-ishodyaschie-artefakty-prompt-inektsii-huki-pr.md) | Безопасность LLM-агентов: исходящие артефакты, промпт-инъекции, хуки, протокол A2A | 2026-07-11 |
 | [DR26-07-11-HUB-04](research/DR26-07-11-HUB-04-bezopasnost-publikatsii-for-robots-md-agents-md-i-zaschita-flota-claud.md) | Безопасность публикации FOR-ROBOTS.md/AGENTS.md и защита флота Claude Code агентов от prom | 2026-07-11 |
-| [DR26-07-11-MACANTON-01](research/DR26-07-11-MACANTON-01-publichnyy-job-hunt-kak-edinoe-shou-faundera-fonda-metyaschego-v-offer.md) | Публичный job-hunt как единое шоу фаундера фонда, метящего в оффер от LLM-компании | 2026-07-11 |
 | [DR26-07-11-MAYAK-01](research/DR26-07-11-MAYAK-01-dr26-07-11-mayak-01-telegram-relsy-dlya-agent-flota-karta-optsiy-ban-r.md) | DR26-07-11-MAYAK-01 — Telegram-рельсы для агент-флота: карта опций, бан-риск, вердикт | 2026-07-11 |
 | [DR26-07-10-MACB-01](research/DR26-07-10-MACB-01-flot-syncthing-chinit-tyuningom-ili-drobit-na-3-sloya-dannye-konfig-sh.md) | Флот Syncthing: чинить тюнингом или дробить на 3 слоя (данные/конфиг/шина) | 2026-07-10 |
 | [DR26-07-05-HUB-05](research/DR26-07-05-HUB-05-dr26-07-05-hub-05-sintez-interaktiv-auditorii-konversiya-build-in-publ.md) | DR26-07-05-HUB-05 — Синтез: интерактив аудитории + конверсия build-in-public в найм DevRel (Anthropic/OpenAI) | 2026-07-07 |
@@ -355,7 +353,6 @@ Raw model transcripts stay in our vault. What is published here is the distilled
 | [DR26-08-23-HUB-02-2226](research/DR26-08-23-HUB-02-2226-touch-base-ledokol-dlya-spyaschego-teplogo-kontakta-yakor-i-no-delta-s.md) | Touch base — ледокол для спящего тёплого контакта, якорь и no-delta спор |  |
 | [DR26-08-24-HUB-03-1747](research/DR26-08-24-HUB-03-1747-mehanika-nayma-vo-frontier-llm-kompaniyah-doska-vizy-oss-dveri-i-speka.md) | Механика найма во frontier-LLM-компаниях — доска, визы, OSS-двери и спека монитора |  |
 | [DR26-08-24-HUB-06-2040](research/DR26-08-24-HUB-06-2040-pleybuk-upakovki-kak-podnimayut-krupno-pri-slabom-adoption-i-chto-iz-e.md) | Плейбук упаковки: как поднимают крупно при слабом adoption — и что из этого наше |  |
-| [DR26-08-25-HUB-02-0712](research/DR26-08-25-HUB-02-0712-legkost-fandreyza-po-trem-vitrinam-audit-legche-vsego-sirenka-krasnyy.md) | Лёгкость фандрейза по трём витринам: аудит легче всего, Сиренка — красный океан, сила в комбо |  |
 | [DR26-08-26-HUB-01-0727](research/DR26-08-26-HUB-01-0727-smb-mid-market-ai-gipoteza-1-oprovergnuta-gorizontalnyy-vtoroy-mozg-dl.md) | SMB/mid-market AI: гипотеза «<1%» опровергнута, горизонтальный «второй мозг для SMB» — слабейшая упаковка |  |
 | [DR26-08-26-HUB-02-0727](research/DR26-08-26-HUB-02-0727-karta-agentskogo-sekyuriti-2024-2026-tri-perepolnennye-polki-odna-pust.md) | Карта агентского секюрити 2024-2026: три переполненные полки + одна пустая (fleet control plane) — наш клин |  |
 | [DR26-08-26-HUB-03-0935](research/DR26-08-26-HUB-03-0935-dr-sintez-optimizatsiya-retro-i-kompakta-sota-szhatiya-konteksta-bench.md) | ДР-синтез: оптимизация ретро и компакта (SOTA сжатия контекста, бенчмарки, апгрейды) |  |
@@ -382,6 +379,7 @@ Raw model transcripts stay in our vault. What is published here is the distilled
 | [DR26-10-22-MACANTON-02-1416](research/DR26-10-22-MACANTON-02-1416-dr26-10-22-macanton-02-1416-chuzhaya-distributsiya-sgm-i-put-k-1000-zv.md) | DR26-10-22-MACANTON-02-1416: чужая дистрибуция sgm и путь к 1000 звёздам (синтез 4 ног) |  |
 | [DR26-10-23-ZB-01-2006](research/DR26-10-23-ZB-01-2006-chto-flot-mozhet-dostich-cherez-ssh-sintez-5-vendorov.md) | Что флот может достичь через SSH: синтез 5 вендоров |  |
 | [DR26-10-25-HUB-02-1107](research/DR26-10-25-HUB-02-1107-svyazka-claude-code-codex-na-odnoy-mashine-sintez-dr-dr26-10-25-hub-02.md) | Связка Claude Code + Codex на одной машине: синтез ДР DR26-10-25-HUB-02-1107 |  |
+| [DR26-11-01-MACPRO192-01-1537](research/DR26-11-01-MACPRO192-01-1537-monitoring-nagruzki-flota-pod-llm-agentami-sintez-dr26-11-01-macpro192.md) | Мониторинг нагрузки флота под LLM-агентами: синтез DR26-11-01-MACPRO192-01-1537 |  |
 
 ---
 

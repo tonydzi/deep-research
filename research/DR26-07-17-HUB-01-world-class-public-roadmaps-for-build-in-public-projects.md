@@ -56,6 +56,7 @@ source: Palo Alto AI Research Lab — deep research programme
 - developer-trust-signals
 - product-roadmapping-volatility
 - insight-DR-DR26-07-17-HUB-05-world-class-public-roadmaps-for-build-in-public-pr — near-duplicate DR report on the exact same topic, same case studies
+- roadmap-generated — example_of: Конкретный публичный роадмап с уверенностью вместо обещаний сроков (codex; ✓grok+glm+mistral)
 
 
 ## Check it yourself: prompt, sources, raw reports

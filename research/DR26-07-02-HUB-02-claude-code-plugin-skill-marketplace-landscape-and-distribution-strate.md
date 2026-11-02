@@ -49,6 +49,7 @@ source: Palo Alto AI Research Lab — deep research programme
 - developer tool discoverability
 - open vs curated ecosystem governance
 - plugin submission schema (marketplace.json / SKILL.md)
+- plugin-directory-submission-2026-09-10 — example_of: Практическое применение стратегии распространения через официальный каталог плагинов (codex; ✓glm+mistral)
 
 
 ## Check it yourself: prompt, sources, raw reports

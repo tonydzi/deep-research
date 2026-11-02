@@ -62,3 +62,4 @@ source: Palo Alto AI Research Lab — deep research programme
 - session-machine-tagging
 - credential-store
 - insight-DR-DR26-07-07-HUB-07-канон-дистрибуция-скриптов-на-гетерогенном-флоте-w — сиблинг-дистилляция того же DR (ChatGPT-версия того же MACANTON-02 canon-dist)
+- canon_fact_probe — method_for: Даёт инструмент проверки доставки канона в неоднородном флоте (codex; ✓grok+glm)

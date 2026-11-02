@@ -57,6 +57,7 @@ source: Palo Alto AI Research Lab — deep research programme
 - one-system-propagate
 - node-doctrine-thin-anchor
 - blast-radius-analysis
+- teaser-en — see_also: Тизер обсуждает применение графа символов как памяти кодового агента. (codex; ✓glm+mistral)
 
 
 ## Check it yourself: prompt, sources, raw reports

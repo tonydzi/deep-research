@@ -54,3 +54,4 @@ source: Palo Alto AI Research Lab — deep research programme
 - claude-plugins-official
 - ak47-simplicity
 - insight-DR-DR26-07-02-HUB-02-discovery-and-distribution-channels-for-claude-cod — почти-дубликат инсайта из того же DR-B, тот же список каналов и выводы
+- plugin-directory-submission-2026-09-10 — example_of: Конкретная подача плагина через исследованный канал распространения (codex; ✓glm+mistral)

@@ -1,6 +1,6 @@
 {
- "generated": "2026-11-01",
- "count": 357,
+ "generated": "2026-11-02",
+ "count": 355,
  "repo": "https://github.com/tonydzi/deep-research",
  "research": [
   {
@@ -256,15 +256,6 @@
    "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-08-24-HUB-06-2040-pleybuk-upakovki-kak-podnimayut-krupno-pri-slabom-adoption-i-chto-iz-e.md"
   },
   {
-   "dr_id": "DR26-08-25-HUB-02-0712",
-   "title": "Лёгкость фандрейза по трём витринам: аудит легче всего, Сиренка — красный океан, сила в комбо",
-   "summary": "[!success] Продолжение → полный инвест-мемо на кворуме 4/6 Этот insight (HUB-02, 2/6) уточнён и углублён в **[[decision-DR26-08-25-HUB-03-control-plane-raise-memo]]** (DR26-08-25-HUB-03, кворум 4/6: grok+codex+mistral+glm). Там: точный размер чека (~$5M seed), победившая формулировка «zero-trust execution boundary для флота агентов», разбор 4 моатов, WOW-артефакт (которого сейчас НЕТ) и 7 возражений со снятием. Главный сдвиг: «30 CVE + 21k» — это слайд, а не ров, пока нет независимого воспроизведения.",
-   "lang": "ru",
-   "date": "",
-   "slug": "DR26-08-25-HUB-02-0712-legkost-fandreyza-po-trem-vitrinam-audit-legche-vsego-sirenka-krasnyy",
-   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-08-25-HUB-02-0712-legkost-fandreyza-po-trem-vitrinam-audit-legche-vsego-sirenka-krasnyy.md"
-  },
-  {
    "dr_id": "DR26-08-26-HUB-01-0727",
    "title": "SMB/mid-market AI: гипотеза «<1%» опровергнута, горизонтальный «второй мозг для SMB» — слабейшая упаковка",
    "summary": "Потребитель: решение о сегментации двух бизнесов. Связано: [[decision-DR26-08-25-HUB-03-control-plane-raise-memo]], [[two-storefronts-raise-and-acquihire]], [[insight-DR-DR26-08-25-HUB-02-0712-fundraise-ease-three-storefronts]], [[second-brain-northstar]], [[fake-it-courage-not-fake-numbers]].",
@@ -497,6 +488,15 @@
    "date": "",
    "slug": "DR26-10-25-HUB-02-1107-svyazka-claude-code-codex-na-odnoy-mashine-sintez-dr-dr26-10-25-hub-02",
    "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-10-25-HUB-02-1107-svyazka-claude-code-codex-na-odnoy-mashine-sintez-dr-dr26-10-25-hub-02.md"
+  },
+  {
+   "dr_id": "DR26-11-01-MACPRO192-01-1537",
+   "title": "Мониторинг нагрузки флота под LLM-агентами: синтез DR26-11-01-MACPRO192-01-1537",
+   "summary": "Повод: 01.11.2026 MacPro192 «жёстко тормозит»: load 24 на 32 ядра (пик 47), виноваты два кодирования x265 без приоритета (860% CPU), забытый `evidence.py` из сессии 27.10 (112 CPU-часов) и scp 2,2 ГБ индекса книги чатов через Tailscale (расширение сети 264% CPU). Screenpipe в топе не было. Память не проблема (95% свободно). Связь: [[hub-infra-ops]], [[perf]] (скилл), [[mcp-server-costs-ram-in-every-session]], [[never-archive-sessions-stop-them]].",
+   "lang": "ru",
+   "date": "",
+   "slug": "DR26-11-01-MACPRO192-01-1537-monitoring-nagruzki-flota-pod-llm-agentami-sintez-dr26-11-01-macpro192",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-11-01-MACPRO192-01-1537-monitoring-nagruzki-flota-pod-llm-agentami-sintez-dr26-11-01-macpro192.md"
   },
   {
    "dr_id": "DR26-05-01-HUB-01",
@@ -974,15 +974,6 @@
    "date": "2026-07-02",
    "slug": "DR26-07-02-HUB-06-authentic-narrative-engineering-for-solo-build-in-public",
    "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-07-02-HUB-06-authentic-narrative-engineering-for-solo-build-in-public.md"
-  },
-  {
-   "dr_id": "DR26-07-02-HUB-07",
-   "title": "Beyond Canton: fastest-accessible non-Canton crypto/fintech money pools for a fund-less BD",
-   "summary": "Which crypto/fintech money pools outside Canton Network are richest, fastest to access (60-90 days), and best-fit for a fund-less team selling distribution/BD/AI-enabled execution rather than regulated intermediation, and how should effort be allocated across them.",
-   "lang": "en",
-   "date": "2026-07-02",
-   "slug": "DR26-07-02-HUB-07-beyond-canton-fastest-accessible-non-canton-crypto-fintech-money-pools",
-   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-07-02-HUB-07-beyond-canton-fastest-accessible-non-canton-crypto-fintech-money-pools.md"
   },
   {
    "dr_id": "DR26-07-02-HUB-08",
@@ -1559,15 +1550,6 @@
    "date": "2026-07-11",
    "slug": "DR26-07-11-HUB-04-bezopasnost-publikatsii-for-robots-md-agents-md-i-zaschita-flota-claud",
    "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-07-11-HUB-04-bezopasnost-publikatsii-for-robots-md-agents-md-i-zaschita-flota-claud.md"
-  },
-  {
-   "dr_id": "DR26-07-11-MACANTON-01",
-   "title": "Публичный job-hunt как единое шоу фаундера фонда, метящего в оффер от LLM-компании",
-   "summary": "Исследование отвечает, может ли фаундер фонда вести уязвимый публичный поиск работы как контент без урона институциональному доверию Platinum, и какие форматы/прецеденты реально дают входящий сигнал от LLM-лабораторий.",
-   "lang": "ru",
-   "date": "2026-07-11",
-   "slug": "DR26-07-11-MACANTON-01-publichnyy-job-hunt-kak-edinoe-shou-faundera-fonda-metyaschego-v-offer",
-   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-07-11-MACANTON-01-publichnyy-job-hunt-kak-edinoe-shou-faundera-fonda-metyaschego-v-offer.md"
   },
   {
    "dr_id": "DR26-07-11-MAYAK-01",
@@ -2234,15 +2216,6 @@
    "date": "2026-08-10",
    "slug": "DR26-08-04-ZB-14-2214-geyt-po-intent-s-ogranichennym-fan-control",
    "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-08-04-ZB-14-2214-geyt-po-intent-s-ogranichennym-fan-control.md"
-  },
-  {
-   "dr_id": "DR26-08-10-HUB-01-1449",
-   "title": "онлайн-платформы регистрации 501(c)(3) — Foundation Group Core, Калифорния остаётся, HCB закрылся для взрослых",
-   "summary": "**⚠️ База — ДВА вендора, а не веер.** Заказаны 6 рельс, ответили 2: `codex` (ChatGPT Pro CLI, gpt-5.4, 97 веб-поисков, 90 уникальных URL) и `grok-4.5` (30 URL). Четыре рельсы (gemini, claude.ai, GLM, mistral) не открылись — Chrome-MCP на хабе не подключён, запасная дверь через экран закрыта политикой scheduled-run. **Кворум 4/6 не достигнут, словом «консенсус» это называть нельзя** — там, где два вендора сошлись, это «сошлись двое», а не «сошёлся веер». Оригиналы: `_originals\\deep-research\\DR26-08-10-HUB-01-1449-nonprofit-online-platforms-{codex,grok}.md`.",
-   "lang": "ru",
-   "date": "2026-08-10",
-   "slug": "DR26-08-10-HUB-01-1449-onlayn-platformy-registratsii-501-c-3-foundation-group-core-kaliforniy",
-   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-08-10-HUB-01-1449-onlayn-platformy-registratsii-501-c-3-foundation-group-core-kaliforniy.md"
   },
   {
    "dr_id": "DR26-08-11-HUB-02-2212",
@@ -3197,6 +3170,15 @@
    "date": "2026-10-30",
    "slug": "DR26-10-30-HUB-01-tesla-i-globalnaya-elektrifikatsiya-avto-uskoritel-passazhir-ili-siste",
    "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-10-30-HUB-01-tesla-i-globalnaya-elektrifikatsiya-avto-uskoritel-passazhir-ili-siste.md"
+  },
+  {
+   "dr_id": "DR26-10-30-HUB-01-0915",
+   "title": "Рынок нецензурированных открытых LLM 60B-100B+: модели, хостинги, пользователи, регулятори",
+   "summary": "Какие abliterated/uncensored открытые LLM класса 60B-100B+ существуют на 30.10.2026, как их снимают, где взять платный доступ без своей GPU и что с этим по рискам и регуляции.",
+   "lang": "ru",
+   "date": "2026-10-30",
+   "slug": "DR26-10-30-HUB-01-0915-rynok-netsenzurirovannyh-otkrytyh-llm-60b-100b-modeli-hostingi-polzova",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-10-30-HUB-01-0915-rynok-netsenzurirovannyh-otkrytyh-llm-60b-100b-modeli-hostingi-polzova.md"
   },
   {
    "dr_id": "DR26-10-30-HUB-02",

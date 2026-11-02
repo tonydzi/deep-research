@@ -53,6 +53,7 @@ source: Palo Alto AI Research Lab — deep research programme
 - approval-fatigue
 - agent-sandboxing
 - tool-poisoning
+- action-layer-contribution-plan — same_cluster: Планирует контрибьют в том же домене слоя контроля действий агентов. (codex; ✓grok+glm+mistral)
 
 
 ## Check it yourself: prompt, sources, raw reports

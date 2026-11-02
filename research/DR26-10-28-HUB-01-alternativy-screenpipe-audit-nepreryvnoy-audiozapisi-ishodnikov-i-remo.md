@@ -56,6 +56,7 @@ source: Palo Alto AI Research Lab — deep research programme
 - system loopback audio
 - VAD и сохранение non-speech
 - WAL/SQLite нагрузка
+- screenpipe-mac-vs-win-2026-10 — evidence_for: Установка на Mac даёт практические данные для аудита Screenpipe (codex; ✓glm+mistral)
 
 ## 🤔 Факт-линт (dr_fact_lint)
 <!-- авто-секция dr_fact_lint.py: перезаписывается при каждом прогоне, при разборе вырезается -->

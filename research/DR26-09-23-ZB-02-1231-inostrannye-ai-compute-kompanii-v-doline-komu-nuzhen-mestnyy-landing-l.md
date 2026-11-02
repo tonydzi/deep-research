@@ -91,6 +91,9 @@ source: Palo Alto AI Research Lab — deep research programme
 - Именных прецедентов провала «Head of US Ecosystem» не нашла ни одна рельса — это отсутствие данных, не отсутствие провалов.
 - Цифры о комьюнити Антона (500+) во всех четырёх отчётах взяты из брифа, не проверялись.
 
+## Связано
+- sv-landing-outreach-drafts — evidence_for: Черновики и отметки отправки показывают практическую реализацию направления landing lead (codex; ✓grok+glm+mistral)
+
 
 ## Check it yourself: prompt, sources, raw reports
 

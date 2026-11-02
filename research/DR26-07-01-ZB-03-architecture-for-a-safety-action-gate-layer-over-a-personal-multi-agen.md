@@ -42,6 +42,7 @@ _нет_
 - MCP security (tool-poisoning, prompt-injection)
 - agent-stack safety architecture (DR-C bundle)
 - insight-DR-DR26-07-28-HUB-17-2339-safety-action-gate-architecture-for-a-solo-operato — тот же исходный DR-брифинг (safety/action-gate), наш сирота — его завершённый ответ
+- action-layer-contribution-plan — same_cluster: Связывает архитектуру слоя контроля действий с планом внешнего контрибьюта. (codex; ✓grok+glm+mistral)
 
 
 ## Check it yourself: prompt, sources, raw reports

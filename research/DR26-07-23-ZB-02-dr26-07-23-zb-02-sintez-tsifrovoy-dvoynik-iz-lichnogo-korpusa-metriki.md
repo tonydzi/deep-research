@@ -54,6 +54,10 @@ source: Palo Alto AI Research Lab — deep research programme
 - Собрано 3/3 вендора с доказательствами работы (543 src · 20 сайтов DR · 104 запроса/78 страниц/41м54с).
 - Статус: applied — зонтик concept-second-brain обогащён до v2 этим синтезом; действия №1–2 (Life Interview, Decision Ledger поля) — в бэклог Антону на «+».
 
+## Связано
+- protocol-life-interview-v1 — method_for: Структурированное интервью служит методом повышения точности цифрового двойника (codex; ✓grok+glm+mistral)
+- BET-2026-08-08-digital-twin-corpus — same_cluster: Обе заметки посвящены качеству двойника из личного корпуса (codex; ✓grok+glm+mistral)
+
 
 ## Check it yourself: prompt, sources, raw reports
 

@@ -53,6 +53,7 @@ source: Palo Alto AI Research Lab — deep research programme
 - false-confidence risk in index accounting
 - reversible canary and rollback
 - local-only embeddings and telemetry
+- insight-DR-DR26-10-26-HUB-02-инструменты-семантического-структурного-поиска-по- — extends: Продолжает сравнение семантического поиска и LSP для выбора инструментов (codex; ✓grok+glm+mistral)
 
 ## 🤔 Факт-линт (dr_fact_lint)
 <!-- авто-секция dr_fact_lint.py: перезаписывается при каждом прогоне, при разборе вырезается -->

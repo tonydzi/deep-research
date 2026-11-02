@@ -56,3 +56,4 @@ source: Palo Alto AI Research Lab — deep research programme
 - credential-store
 - apply-deliverables-immediately
 - insight-DR-DR26-07-07-HUB-06-declarative-canon-distribution-architecture-for-a- — later duplicate/refined DR on the identical canon-distribution architecture question
+- canon_fact_probe — method_for: Проверяет фактическую доставку опубликованного канона на узлы флота (codex; ✓grok+glm+mistral)

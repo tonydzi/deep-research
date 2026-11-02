@@ -297,3 +297,7 @@ source: Palo Alto AI Research Lab — deep research programme
 - Zhihu/CSDN за 403/521 — нужен живой браузер, curl'ом не судимы.
 
 Прибор: `curl -sSL --max-time 20` с браузерным User-Agent + `api.github.com/repos/<n>`. Сырьё замера: 161 адрес, 21 репозиторий; выборка = все URL, встречающиеся в четырёх отчётах и синтезе.
+
+## Связано
+- DR26-08-14-NAT-03-1248.en — same_cluster: Английский тизер передаёт выводы этого исследования неанглоязычных площадок. (codex; ✓grok+glm+mistral)
+- DR26-08-14-NAT-03-1248.ru — same_cluster: Русский тизер передаёт выводы этого исследования неанглоязычных площадок. (codex; ✓grok+glm+mistral)

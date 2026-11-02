@@ -54,6 +54,7 @@ source: Palo Alto AI Research Lab — deep research programme
 - Software-defined vehicle и OTA
 - Стандарт зарядки NACS/CCS
 - Dieselgate и регуляторное давление
+- insight-DR-DR26-10-30-HUB-02-безопасность-tesla-и-систем-автоматизации-вождения — see_also: Дополняет разбор влияния Tesla отдельной оценкой безопасности автомобилей и автоматизации (codex; ✓glm+mistral)
 
 ## 🤔 Факт-линт (dr_fact_lint)
 <!-- авто-секция dr_fact_lint.py: перезаписывается при каждом прогоне, при разборе вырезается -->

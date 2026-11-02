@@ -223,6 +223,8 @@ codex→chatgpt: **поправил премиссу самого заказа**
 
 ## Связано
 - insight-DR-DR26-09-29-HUB-01-0839-bb-get-bb-как-оркестратор-мульти-агентного-флота-п — предыдущий ДР по тому же bb/get-bb харнесу для того же флота
+- DR26-09-04-HUB-02-2326.en — same_cluster: Английский тизер передаёт выводы исследования харнеса Browserbase. (codex; ✓grok+glm+mistral)
+- DR26-09-04-HUB-02-2326.ru — same_cluster: Русский тизер передаёт выводы исследования харнеса Browserbase. (codex; ✓grok+glm+mistral)
 
 
 ## Check it yourself: prompt, sources, raw reports
