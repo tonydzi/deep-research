@@ -1,6 +1,6 @@
 {
- "generated": "2026-11-02",
- "count": 355,
+ "generated": "2026-11-03",
+ "count": 354,
  "repo": "https://github.com/tonydzi/deep-research",
  "research": [
   {
@@ -92,24 +92,6 @@
    "date": "",
    "slug": "DR26-08-01-MACANTON-01-0631-brauzernaya-relsa-agenta-chemu-uchat-openclaw-i-hermes-sintez-dr26-08",
    "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-08-01-MACANTON-01-0631-brauzernaya-relsa-agenta-chemu-uchat-openclaw-i-hermes-sintez-dr26-08.md"
-  },
-  {
-   "dr_id": "DR26-08-01-MACANTON-02-658",
-   "title": "Экономика удалённого офера от американской компании человеку в Лиссабоне — вердикт",
-   "summary": "**Вердикт (обе рельсы сходятся): механика найма существует, но «американский payroll по US-вилке дистанционно из Лиссабона» — не дефолт и ни у одной frontier-лаборатории публично не подтверждён.** Реальная сделка = португальская занятость через EOR либо B2B-контракт, почти всегда без employee-equity. `[консенсус 2/2 рельс]`",
-   "lang": "ru",
-   "date": "",
-   "slug": "DR26-08-01-MACANTON-02-658-ekonomika-udalennogo-ofera-ot-amerikanskoy-kompanii-cheloveku-v-lissab",
-   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-08-01-MACANTON-02-658-ekonomika-udalennogo-ofera-ot-amerikanskoy-kompanii-cheloveku-v-lissab.md"
-  },
-  {
-   "dr_id": "DR26-08-01-MACANTON-02-659",
-   "title": "Steward-hire: как лаборатории нанимают мейнтейнера вместе с проектом — вердикт",
-   "summary": "**Вердикт: это не воспроизводимая карьерная воронка, а редкий стратегический исход — вероятность можно поднять, но нельзя запланировать.** Порога в звёздах не существует. Настоящий порог формулируется так: «если этот проект исчезнет, форкнется к конкуренту или сменит направление — нам придётся срочно строить замену». `[основной источник — chatgpt-рельса; grok-рельса гейт не прошла]`",
-   "lang": "ru",
-   "date": "",
-   "slug": "DR26-08-01-MACANTON-02-659-steward-hire-kak-laboratorii-nanimayut-meynteynera-vmeste-s-proektom-v",
-   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-08-01-MACANTON-02-659-steward-hire-kak-laboratorii-nanimayut-meynteynera-vmeste-s-proektom-v.md"
   },
   {
    "dr_id": "DR26-08-01-MACANTON-02-701",
@@ -238,24 +220,6 @@
    "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-08-23-HUB-02-2226-touch-base-ledokol-dlya-spyaschego-teplogo-kontakta-yakor-i-no-delta-s.md"
   },
   {
-   "dr_id": "DR26-08-24-HUB-03-1747",
-   "title": "Механика найма во frontier-LLM-компаниях — доска, визы, OSS-двери и спека монитора",
-   "summary": "Две рельсы — **grok Heavy** (77 КБ, по памяти, без веб-инструментов) и **codex/GPT-5.6** (72 КБ, **177 уникальных источников**, живой веб-поиск, 23 минуты) — **плюс собственный детерминированный замер** этой сессии: 30 публичных job-board API дёрнуты живьём 24.08.2026. Оригиналы: `_originals\\deep-research\\DR26-08-24-HUB-03-1747-llm-hiring-mechanics-{grok,chatgpt}.md`",
-   "lang": "ru",
-   "date": "",
-   "slug": "DR26-08-24-HUB-03-1747-mehanika-nayma-vo-frontier-llm-kompaniyah-doska-vizy-oss-dveri-i-speka",
-   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-08-24-HUB-03-1747-mehanika-nayma-vo-frontier-llm-kompaniyah-doska-vizy-oss-dveri-i-speka.md"
-  },
-  {
-   "dr_id": "DR26-08-24-HUB-06-2040",
-   "title": "Плейбук упаковки: как поднимают крупно при слабом adoption — и что из этого наше",
-   "summary": "Потребитель: решение, как упаковать наш продукт и наш рейз. Связано: [[insight-DR-DR26-08-20-MACANTON-01-1327-предмет-подъёма-при-нулевом-adoption-продукт-vs-ау]], [[insight-DR-DR26-08-24-HUB-04-1830-gonka-gnk-revision]], [[insight-DR-DR26-08-24-HUB-05-1830-crypto-rounds-audit]], [[zero-trust-product-line]], [[agent-security-funding-2026]], [[false-corroboration-two-sources-agreeing]], [[check-all-places-not-one]], [[fake-it-courage-not-fake-numbers]], [[hub-dr-research]].",
-   "lang": "ru",
-   "date": "",
-   "slug": "DR26-08-24-HUB-06-2040-pleybuk-upakovki-kak-podnimayut-krupno-pri-slabom-adoption-i-chto-iz-e",
-   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-08-24-HUB-06-2040-pleybuk-upakovki-kak-podnimayut-krupno-pri-slabom-adoption-i-chto-iz-e.md"
-  },
-  {
    "dr_id": "DR26-08-26-HUB-01-0727",
    "title": "SMB/mid-market AI: гипотеза «<1%» опровергнута, горизонтальный «второй мозг для SMB» — слабейшая упаковка",
    "summary": "Потребитель: решение о сегментации двух бизнесов. Связано: [[decision-DR26-08-25-HUB-03-control-plane-raise-memo]], [[two-storefronts-raise-and-acquihire]], [[insight-DR-DR26-08-25-HUB-02-0712-fundraise-ease-three-storefronts]], [[second-brain-northstar]], [[fake-it-courage-not-fake-numbers]].",
@@ -326,24 +290,6 @@
    "date": "",
    "slug": "DR26-09-14-ZB-10-2009-devrel-developer-education-v-ai-laboratorii-sobiratelnyy-portret",
    "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-09-14-ZB-10-2009-devrel-developer-education-v-ai-laboratorii-sobiratelnyy-portret.md"
-  },
-  {
-   "dr_id": "DR26-09-14-ZB-11-2009",
-   "title": "BD / Partnerships / Forward-Deployed / EIR: как читается бывший фаундер",
-   "summary": "Обе сильные ноги независимо дали **ноль подтверждённых EIR-наймов** во всём скоупе (Anthropic, OpenAI, DeepMind, Mistral, Cohere, xAI, Scale, Palantir, Sierra, Harvey, Glean, Databricks, Together) за 24 месяца. Формулировка chatgpt: «создавать фиктивную выборку EIR было бы вводящим в заблуждение».",
-   "lang": "ru",
-   "date": "",
-   "slug": "DR26-09-14-ZB-11-2009-bd-partnerships-forward-deployed-eir-kak-chitaetsya-byvshiy-faunder",
-   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-09-14-ZB-11-2009-bd-partnerships-forward-deployed-eir-kak-chitaetsya-byvshiy-faunder.md"
-  },
-  {
-   "dr_id": "DR26-09-14-ZB-12-2009",
-   "title": "COO / Chief of Staff / IR / Capital Formation: заполняются ли эти роли публично",
-   "summary": "**Чем стратегичнее роль, тем меньше она постится публично.** COO, Chief of Staff-to-CEO и Head of IR закрывают через сеть, инвесторов и retained search ДО появления вакансии. А Head of Ops / BizOps / VP Ops — наоборот, висят открыто на Ashby/Greenhouse/Wellfound. «Raised $80M through a global ICO community in six weeks.» «Led a cross-border primary financing process from investor segmentation and data-room preparation through counsel-led securities analysis, KYC/AML, disclosure, treasury setup and close; generated $X net cash proceeds from Y verified investors and extended operating runway by Z months.» «Capital formation under regulatory and reputational uncertainty: built compliant process, controlled disclosures, coordinated counsel, closed institutional capital and maintained treasury/investor reporting.»",
-   "lang": "ru",
-   "date": "",
-   "slug": "DR26-09-14-ZB-12-2009-coo-chief-of-staff-ir-capital-formation-zapolnyayutsya-li-eti-roli-pub",
-   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-09-14-ZB-12-2009-coo-chief-of-staff-ir-capital-formation-zapolnyayutsya-li-eti-roli-pub.md"
   },
   {
    "dr_id": "DR26-09-14-ZB-13-2009",
@@ -418,24 +364,6 @@
    "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-09-22-ZB-01-1143-dr-zb-01-1143-ai-compute-provaydery-neocloud-kak-rabotodateli-sintez.md"
   },
   {
-   "dr_id": "DR26-09-23-ZB-01-0631",
-   "title": "Китайские LLM-лаборатории и Долина — нужен ли им местный ecosystem/DevRel-оператор, и где именно дверь",
-   "summary": "Заказ: Антон, 23.09.2026 06:26, голосом в чат. Гипотеза: китайские лаборатории (GLM, DeepSeek и др.) хотят быть сильнее представлены в Долине, и Антон как живущий там инженер с сетью «всех инженеров Долины и умных ИИ-инвесторов» им нужен. Рельсы: **Grok** (headless, DeeperSearch, 49 КБ, 65 URL, 8 мин) · **GLM-5.3** (Deep Think Max + Advanced Search, ~28 КБ) · **claude.ai Fable 5.1 Max + Research** (381 источник, 50 КБ, артефакт на русском). Gemini Deep Research запущен, доедет добором. ChatGPT выпал: разлогинен в обоих браузерах. Оригиналы: `_machine-bus\\_dr\\queue\\DR26-09-23-ZB-01-0631\\results\\{grok,glm,claudeai}.md`, ноги и ссылки на чаты в `legs.md` рядом.",
-   "lang": "ru",
-   "date": "",
-   "slug": "DR26-09-23-ZB-01-0631-kitayskie-llm-laboratorii-i-dolina-nuzhen-li-im-mestnyy-ecosystem-devr",
-   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-09-23-ZB-01-0631-kitayskie-llm-laboratorii-i-dolina-nuzhen-li-im-mestnyy-ecosystem-devr.md"
-  },
-  {
-   "dr_id": "DR26-09-23-ZB-02-1231",
-   "title": "Иностранные AI/compute-компании в Долине — кому нужен местный landing lead с комьюнити, и где открытые двери",
-   "summary": "Заказ: Антон, 23.09.2026 12:31, голосом. Расширение ДР №1 (китайские лабы) на ЛЮБЫЕ иностранные супербогатые AI/compute-компании (тип «Lambda, но иностранная»): Корея, Япония, Индия, Сингапур, Залив, Израиль, Европа. Потребитель: отдельный CV-кластер `sv-landing` + максимально активный apply. Рельсы: **Grok** (headless DeeperSearch, 60 КБ, 71 URL) · **claude.ai Fable 5.1 Max + Research** (44 КБ, 429+ источников, артефакт на русском) · **Mistral Vibe deep-research** (канвас, ~40 компаний, 47 источников) · **ChatGPT Deep Research** (18 мин, 53 цитаты, 556 поисков, 67 КБ). Gemini и GLM не доехали. Оригиналы: `_machine-bus\\_dr\\queue\\DR26-09-23-ZB-02-1231\\results\\{grok,claudeai,mistral,chatgpt}.md` + `_originals\\deep-research\\DR26-09-23-ZB-02-1231-*`; ноги и чаты в `legs.md` рядом.",
-   "lang": "ru",
-   "date": "",
-   "slug": "DR26-09-23-ZB-02-1231-inostrannye-ai-compute-kompanii-v-doline-komu-nuzhen-mestnyy-landing-l",
-   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-09-23-ZB-02-1231-inostrannye-ai-compute-kompanii-v-doline-komu-nuzhen-mestnyy-landing-l.md"
-  },
-  {
    "dr_id": "DR26-10-02-HUB-02-1811",
    "title": "DR26-10-02-HUB-02: GitHub как вторая шина + разделение волта + событийное пробуждение — синтез 4/6 (кворум)",
    "summary": "Заказ: голосовая Антона 02.10 (tg:-5275713242:7719). Прошлый prior art: DR26-07-10 (Syncthing 180k → разнести склад/конфиг/рацию), DR26-07-29 (доставка сообщения в идущую сессию). Rail #5 (git_bus.py + репо tonydzi/machine-bus) построен 28.06, одно сообщение, мёртв.",
@@ -443,15 +371,6 @@
    "date": "",
    "slug": "DR26-10-02-HUB-02-1811-dr26-10-02-hub-02-github-kak-vtoraya-shina-razdelenie-volta-sobytiynoe",
    "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-10-02-HUB-02-1811-dr26-10-02-hub-02-github-kak-vtoraya-shina-razdelenie-volta-sobytiynoe.md"
-  },
-  {
-   "dr_id": "DR26-10-05-HUB-06-2203",
-   "title": "Спокойное уверенное поведение на конференциях, митапах и хакатонах — что подтверждено, что опровергнуто",
-   "summary": "Оригиналы: `_originals/deep-research/DR26-10-05-HUB-06-2203-calm-room-{grok2,glm,orouter,mistral}.md` Промпт: тот же каталог, `-PROMPT.md`. Проверенные источники: `-sources-verified.txt`. Заказ: голосовая Антона 05.10.2026, рельса 001 — «коуч-сессия, обрести уверенность и спокойное уверенное поведение на конференциях, митапах, хакатонах; провести глубокое исследование; сделать подкасты».",
-   "lang": "ru",
-   "date": "",
-   "slug": "DR26-10-05-HUB-06-2203-spokoynoe-uverennoe-povedenie-na-konferentsiyah-mitapah-i-hakatonah-ch",
-   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-10-05-HUB-06-2203-spokoynoe-uverennoe-povedenie-na-konferentsiyah-mitapah-i-hakatonah-ch.md"
   },
   {
    "dr_id": "DR26-10-18-HUB-02-0542",
@@ -497,6 +416,15 @@
    "date": "",
    "slug": "DR26-11-01-MACPRO192-01-1537-monitoring-nagruzki-flota-pod-llm-agentami-sintez-dr26-11-01-macpro192",
    "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-11-01-MACPRO192-01-1537-monitoring-nagruzki-flota-pod-llm-agentami-sintez-dr26-11-01-macpro192.md"
+  },
+  {
+   "dr_id": "DR26-11-02-HUB-03-1727",
+   "title": "DR26-11-02-HUB-03-1727: стук в обшивке сдвижной двери Lexus LM / Alphard 40",
+   "summary": "Потребитель: [[lexus-lm-bp22sl-claim-2026-11]] (второе письмо дилеру).",
+   "lang": "ru",
+   "date": "",
+   "slug": "DR26-11-02-HUB-03-1727-dr26-11-02-hub-03-1727-stuk-v-obshivke-sdvizhnoy-dveri-lexus-lm-alphar",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-11-02-HUB-03-1727-dr26-11-02-hub-03-1727-stuk-v-obshivke-sdvizhnoy-dveri-lexus-lm-alphar.md"
   },
   {
    "dr_id": "DR26-05-01-HUB-01",
@@ -1669,15 +1597,6 @@
    "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-07-14-HUB-13-personal-site-strategy-for-an-ai-builder-targeting-frontier-labs.md"
   },
   {
-   "dr_id": "DR26-07-14-HUB-14",
-   "title": "Personal Site Strategy for an AI Builder Targeting Frontier Labs",
-   "summary": "What should a personal website look like for someone targeting DevRel, Applied AI, Developer Education, or Forward-Deployed roles at frontier AI labs (OpenAI, Anthropic, Google)?",
-   "lang": "en",
-   "date": "2026-07-14",
-   "slug": "DR26-07-14-HUB-14-personal-site-strategy-for-an-ai-builder-targeting-frontier-labs",
-   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-07-14-HUB-14-personal-site-strategy-for-an-ai-builder-targeting-frontier-labs.md"
-  },
-  {
    "dr_id": "DR26-07-14-HUB-15",
    "title": "Codex CLI as a live Telegram consensus participant alongside Claude Code",
    "summary": "Whether and how OpenAI Codex CLI can function as a live, stateful peer to Claude Code in a shared Telegram consensus chat, covering statefulness, subscription quotas, ToS risk, turn-taking design, and injection/spoofing defenses.",
@@ -2686,15 +2605,6 @@
    "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-09-01-HUB-02-1604-pritok-roznitsy-v-ton-realnaya-dohodnost-steyblkoin-strategiy-i-nahodi.md"
   },
   {
-   "dr_id": "DR26-09-01-ZB-01-1426",
-   "title": "Конкурентная разведка agent-assurance (Runta, NeuralTrust, Lemma, Nava) + NSF Phase I elig",
-   "summary": "Отчёт картирует рынок agent-assurance/financial-agent-verification (4 прямых конкурента + широкая категория) и проверяет, может ли фаундер на визе O-1 претендовать на NSF SBIR Phase I, чтобы решить go/no-go по запуску Flight Recorder перед 45-дневным customer discovery.",
-   "lang": "ru",
-   "date": "2026-09-01",
-   "slug": "DR26-09-01-ZB-01-1426-konkurentnaya-razvedka-agent-assurance-runta-neuraltrust-lemma-nava-ns",
-   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-09-01-ZB-01-1426-konkurentnaya-razvedka-agent-assurance-runta-neuraltrust-lemma-nava-ns.md"
-  },
-  {
    "dr_id": "DR26-09-02-HUB-01-1307",
    "title": "Допингование — мировые каденсы re-ping, dunning и вердикт оригинальности delete-and-resend",
    "summary": "Заказ проверял, изобрёл ли Антон delete-and-resend как способ взыскания обещаний, и насколько наша схема «7 дней подряд + 3 недели + стоп 31» жёстче мировой практики. Потребитель — дизайн `doping.py` v2 (приоритетная очередь) и решение, публиковать ли пост «Гори, ублюдок, в аду».",
@@ -3163,6 +3073,15 @@
    "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-10-28-HUB-05-seeray11-openflow-i-vizualnye-konstruktory-agentnyh-workflow-dlya-ai-l.md"
   },
   {
+   "dr_id": "DR26-10-29-ZB-01-1017",
+   "title": "Agent CAPTCHA/HITL products and official agent-payment rails, 2025-2026 delta",
+   "summary": "Which human-in-the-loop browser products and official agent-payment rails now exist for autonomous agents, what they cost, and what legal and ToS risk comes with CAPTCHA handling.",
+   "lang": "en",
+   "date": "2026-10-29",
+   "slug": "DR26-10-29-ZB-01-1017-agent-captcha-hitl-products-and-official-agent-payment-rails-2025-2026",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-10-29-ZB-01-1017-agent-captcha-hitl-products-and-official-agent-payment-rails-2025-2026.md"
+  },
+  {
    "dr_id": "DR26-10-30-HUB-01",
    "title": "Tesla и глобальная электрификация авто: ускоритель, пассажир или система",
    "summary": "Была ли Tesla решающим глобальным ускорителем электрификации автомобилей, пассажиром структурного перехода или одним из элементов взаимодействующей системы факторов.",
@@ -3197,6 +3116,78 @@
    "date": "2026-10-30",
    "slug": "DR26-10-30-HUB-03-0946-kak-llm-uchat-posle-pretraining-rlhf-nagrada-rlvr-model-uchit-model",
    "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-10-30-HUB-03-0946-kak-llm-uchat-posle-pretraining-rlhf-nagrada-rlvr-model-uchit-model.md"
+  },
+  {
+   "dr_id": "DR26-11-01-HUB-01",
+   "title": "Рынок нецензурированных открытых LLM 60B–100B+: модели, доступ, пользователи, регуляторика",
+   "summary": "Какие «нецензурированные» открытые LLM размером 60B–100B+ существуют на 30.10.2026, как к ним получить доступ без своей GPU, кто ими пользуется и как это регулируется.",
+   "lang": "ru",
+   "date": "2026-11-01",
+   "slug": "DR26-11-01-HUB-01-rynok-netsenzurirovannyh-otkrytyh-llm-60b-100b-modeli-dostup-polzovate",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-11-01-HUB-01-rynok-netsenzurirovannyh-otkrytyh-llm-60b-100b-modeli-dostup-polzovate.md"
+  },
+  {
+   "dr_id": "DR26-11-01-HUB-02-1433",
+   "title": "CodeIndexer (codeindexer.dev): свежесть индекса, флот и решение KEEP/TRY/PARK",
+   "summary": "Внешнее исследование продукта Code Indexer от NetTechnologys s.r.o. на 2026-11-01: идентичность и лицензия, свежесть индекса, ресурсная архитектура (HTTP против stdio), безопасность 0.11.0 против 0.12.0 и решение по использованию на трёх хостах (Windows-хаб, Intel Mac Pro, ARM Mac Studio).",
+   "lang": "mixed",
+   "date": "2026-11-01",
+   "slug": "DR26-11-01-HUB-02-1433-codeindexer-codeindexer-dev-svezhest-indeksa-flot-i-reshenie-keep-try",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-11-01-HUB-02-1433-codeindexer-codeindexer-dev-svezhest-indeksa-flot-i-reshenie-keep-try.md"
+  },
+  {
+   "dr_id": "DR26-11-01-HUB-03",
+   "title": "grepai v1.2.0: удалённые эмбеддинги, пилот рядом с CodeIndexer",
+   "summary": "Можно ли и как безопасно и дёшево пилотировать yoanbernabeu/grepai v1.2.0 с удалёнными эмбеддингами как дополнительный (не заменяющий) семантический поиск к CodeIndexer на Windows Hub, Intel Mac Pro и Mac Studio.",
+   "lang": "ru",
+   "date": "2026-11-01",
+   "slug": "DR26-11-01-HUB-03-grepai-v1-2-0-udalennye-embeddingi-pilot-ryadom-s-codeindexer",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-11-01-HUB-03-grepai-v1-2-0-udalennye-embeddingi-pilot-ryadom-s-codeindexer.md"
+  },
+  {
+   "dr_id": "DR26-11-01-HUB-04",
+   "title": "Hilum (local MCP code-intelligence tool): fleet-rollout suitability and canary plan",
+   "summary": "Is Hilum (hilum-tools, v0.1.0-rc.4, SAKIVA-related) worth deploying across a Windows/Mac fleet already using CodeIndexer + rg + LSP/tree-sitter, or should it be parked or trialed in a bounded canary?",
+   "lang": "en",
+   "date": "2026-11-01",
+   "slug": "DR26-11-01-HUB-04-hilum-local-mcp-code-intelligence-tool-fleet-rollout-suitability-and-c",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-11-01-HUB-04-hilum-local-mcp-code-intelligence-tool-fleet-rollout-suitability-and-c.md"
+  },
+  {
+   "dr_id": "DR26-11-01-HUB-05-1439",
+   "title": "grepai с удалёнными эмбеддингами: архитектура, свежесть, ресурсы, канарейка",
+   "summary": "Стоит ли добавить grepai v1.2.0 (yoanbernabeu/grepai) с удалёнными облачными эмбеддингами как опциональный инструмент по запросу в рабочий процесс CodeIndexer-first на Windows Hub, Intel Mac Pro и Mac Studio.",
+   "lang": "mixed",
+   "date": "2026-11-01",
+   "slug": "DR26-11-01-HUB-05-1439-grepai-s-udalennymi-embeddingami-arhitektura-svezhest-resursy-kanareyk",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-11-01-HUB-05-1439-grepai-s-udalennymi-embeddingami-arhitektura-svezhest-resursy-kanareyk.md"
+  },
+  {
+   "dr_id": "DR26-11-01-HUB-06-1441",
+   "title": "Mixedbread mgrep как переносимый облачный fallback к CodeIndexer (Windows/Mac)",
+   "summary": "Можно ли использовать @mixedbread/mgrep 0.1.13 / Mixedbread Search как ограниченный приватный облачный семантический fallback к CodeIndexer на Windows, Intel Mac и Apple Silicon, не ломая точность, свежесть, приватность и стоимость.",
+   "lang": "ru",
+   "date": "2026-11-01",
+   "slug": "DR26-11-01-HUB-06-1441-mixedbread-mgrep-kak-perenosimyy-oblachnyy-fallback-k-codeindexer-wind",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-11-01-HUB-06-1441-mixedbread-mgrep-kak-perenosimyy-oblachnyy-fallback-k-codeindexer-wind.md"
+  },
+  {
+   "dr_id": "DR26-11-01-HUB-07",
+   "title": "CodeIndexer (NetTechnologys): использование во флоте, свежесть индекса, эксплуатация",
+   "summary": "Стоит ли оставить CodeIndexer 0.11.0 основным индексатором на трёх хостах, как обеспечить и доказать свежесть индекса и безопасно ли переходить на 0.12.0.",
+   "lang": "ru",
+   "date": "2026-11-01",
+   "slug": "DR26-11-01-HUB-07-codeindexer-nettechnologys-ispolzovanie-vo-flote-svezhest-indeksa-eksp",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-11-01-HUB-07-codeindexer-nettechnologys-ispolzovanie-vo-flote-svezhest-indeksa-eksp.md"
+  },
+  {
+   "dr_id": "DR26-11-01-HUB-08-1444",
+   "title": "CocoIndex Code (ccc) slim/cloud embeddings as an on-demand add-on to CodeIndexer",
+   "summary": "Can CocoIndex Code 0.2.42 in slim (base) mode with cloud embeddings be added on demand next to the existing CodeIndexer on Windows Hub, Intel Mac Pro and Apple Silicon Mac Studio to cut total local RAM/CPU/GPU without losing correctness or freshness, and under what trial and cost conditions.",
+   "lang": "mixed",
+   "date": "2026-11-01",
+   "slug": "DR26-11-01-HUB-08-1444-cocoindex-code-ccc-slim-cloud-embeddings-as-an-on-demand-add-on-to-cod",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-11-01-HUB-08-1444-cocoindex-code-ccc-slim-cloud-embeddings-as-an-on-demand-add-on-to-cod.md"
   }
  ]
 }
