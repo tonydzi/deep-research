@@ -1,6 +1,6 @@
 {
  "generated": "2026-11-03",
- "count": 354,
+ "count": 342,
  "repo": "https://github.com/tonydzi/deep-research",
  "research": [
   {
@@ -92,15 +92,6 @@
    "date": "",
    "slug": "DR26-08-01-MACANTON-01-0631-brauzernaya-relsa-agenta-chemu-uchat-openclaw-i-hermes-sintez-dr26-08",
    "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-08-01-MACANTON-01-0631-brauzernaya-relsa-agenta-chemu-uchat-openclaw-i-hermes-sintez-dr26-08.md"
-  },
-  {
-   "dr_id": "DR26-08-01-MACANTON-02-701",
-   "title": "Публичные AI-кофаундеры и синтетические персоны — что реально работает (вердикт по Майкрофту)",
-   "summary": "**Вердикт (консенсус 2/2 рельс): строить Майкрофта не как «почти человека», а как публичный AI-инструмент с характером и ВИДИМЫМ оператором.** Все долгоживущие кейсы (Neuro-sama, Truth Terminal) никогда не скрывали нечеловеческую природу; доверие держится на понятной роли человека и наблюдаемом процессе, а не на реализме. **Майкрофт** Синтетический кофаундер Palo Alto AI Research Lab. Я анализирую, пишу, предлагаю решения и выполняю ограниченные действия. Я не человек. Антон Дятковский управляет системой и несёт ответственность за публикации.",
-   "lang": "ru",
-   "date": "",
-   "slug": "DR26-08-01-MACANTON-02-701-publichnye-ai-kofaundery-i-sinteticheskie-persony-chto-realno-rabotaet",
-   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-08-01-MACANTON-02-701-publichnye-ai-kofaundery-i-sinteticheskie-persony-chto-realno-rabotaet.md"
   },
   {
    "dr_id": "DR26-08-01-MACANTON-02-726",
@@ -256,15 +247,6 @@
    "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-08-29-ZB-01-0856-korporativnyy-vtoroy-mozg-vozrazhenie-oprovergnuto-po-suti-verno-tolko.md"
   },
   {
-   "dr_id": "DR26-08-31-MACANTON-02-0655",
-   "title": "DR DR26-08-31-MACANTON-02-0655 · Hyperliquid: карта раундов, найма и дверей (август 2026)",
-   "summary": "Синтез трёх НЕЗАВИСИМЫХ рельс. Каждый факт несёт число согласившихся рельс. Оригиналы verbatim: `_originals/deep-research/DR26-08-31-MACANTON-02-0655-hyperliquid-ecosystem-hiring-funding-map-{grok,chatgpt,claudeai}.md`",
-   "lang": "ru",
-   "date": "",
-   "slug": "DR26-08-31-MACANTON-02-0655-dr-dr26-08-31-macanton-02-0655-hyperliquid-karta-raundov-nayma-i-dvere",
-   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-08-31-MACANTON-02-0655-dr-dr26-08-31-macanton-02-0655-hyperliquid-karta-raundov-nayma-i-dvere.md"
-  },
-  {
    "dr_id": "DR26-08-31-ZB-01-2223",
    "title": "Найм против нового проекта: синтез трёх рельс",
    "summary": "Кворум: 3 из 6 рельс. В синтез вошли Grok, Codex и Gemini. Claude.ai Research к моменту синтеза ещё считал. GLM и Mistral не стартовали из-за разлогина и гейта ToS.",
@@ -337,15 +319,6 @@
    "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-09-15-MACANTON-02-1229-sintez-dr26-09-15-macanton-02-1229-ai-vizionery-slova-protiv-stavok-pr.md"
   },
   {
-   "dr_id": "DR26-09-16-MACANTON-01-0446",
-   "title": "Конференции Bay Area как двигатель найма и набора инженеров-пользователей — плейбук",
-   "summary": "Оригиналы: `_originals/deep-research/DR26-09-16-MACANTON-01-0446-conference-playbook-{grok,chatgpt,chatgpt-a2,glm}.md`. Потребитель: [[task-2026-09-16-conference-playbook-sf]]. Убеждение, которое проверяем: [[insight-konferentsii-bessmyslenny-bez-raboty-s-lidami]]. \"I'm Anton, Palo Alto. I build and run agent tooling in production — agent memory and a multi-machine Claude fleet — and I ship it in public: about 15 open-source repos and open PRs into Anthropic's cookbook. I'm looking for a developer-community or DevRel role where turning power-user workflows into adoption is the job. I'll send one page and the repo tonight.\" \"I build agent memory and multi-machine orchestration for Claude — I specify, test and ship through coding agents and own the eval and feedback loop. I'm looking for engineers who'll tell me where it breaks on a real stack. Sixty-second demo?\"",
-   "lang": "ru",
-   "date": "",
-   "slug": "DR26-09-16-MACANTON-01-0446-konferentsii-bay-area-kak-dvigatel-nayma-i-nabora-inzhenerov-polzovate",
-   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-09-16-MACANTON-01-0446-konferentsii-bay-area-kak-dvigatel-nayma-i-nabora-inzhenerov-polzovate.md"
-  },
-  {
    "dr_id": "DR26-09-16-MACANTON-02-0453",
    "title": "Синтез DR26-09-16-MACANTON-02-0453 — вторая память: какие репо взять в Graph RAG над волтом, какие тесты ставить, и почему это «память», а не «мозг»",
    "summary": "**Собрано 3/6:** ChatGPT/codex (43 источника, 33 КБ) · claude.ai CLI (103 источника, 48 КБ) · Grok (58 источников, 39 КБ). **Не собрано:** Gemini (CLI пустое тело; Firefox «не нашёл пункт Deep Research»), GLM (слайдер-капча, эхо промпта), Mistral (двери на Mac16 нет). Кворум 4/6 не добран, пол «3 разные LLM» выполнен; недобор докупает `dr_latecomer_sweep.py`. Отчёты: `_machine-bus/_dr/queue/DR26-09-16-MACANTON-02-0453/results/`. Промпт: там же, `queue/DR26-09-16-MACANTON-02-0453.md`. Заказ: голосовая Антона 16.09 04:47 («прошу Claude провести глубокое исследование… репозитории на GitHub… тесты для второго мозга… второй мозг — это вторая память»). Связи: [[sqlite-graph-memory]] · [[second-brain-starter-kit]] · [[vault-data-architecture]] · [[always-on-memory-pilot]] · [[memory-records-close-by-fields-not-rewrite]] · [[watchdog-must-verify-the-item]] · [[MOC-AI-Agents]] · [[mission-get-noticed-hired-by-llm-company]]",
@@ -416,15 +389,6 @@
    "date": "",
    "slug": "DR26-11-01-MACPRO192-01-1537-monitoring-nagruzki-flota-pod-llm-agentami-sintez-dr26-11-01-macpro192",
    "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-11-01-MACPRO192-01-1537-monitoring-nagruzki-flota-pod-llm-agentami-sintez-dr26-11-01-macpro192.md"
-  },
-  {
-   "dr_id": "DR26-11-02-HUB-03-1727",
-   "title": "DR26-11-02-HUB-03-1727: стук в обшивке сдвижной двери Lexus LM / Alphard 40",
-   "summary": "Потребитель: [[lexus-lm-bp22sl-claim-2026-11]] (второе письмо дилеру).",
-   "lang": "ru",
-   "date": "",
-   "slug": "DR26-11-02-HUB-03-1727-dr26-11-02-hub-03-1727-stuk-v-obshivke-sdvizhnoy-dveri-lexus-lm-alphar",
-   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-11-02-HUB-03-1727-dr26-11-02-hub-03-1727-stuk-v-obshivke-sdvizhnoy-dveri-lexus-lm-alphar.md"
   },
   {
    "dr_id": "DR26-05-01-HUB-01",
@@ -1111,15 +1075,6 @@
    "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-07-04-HUB-13-connect-rule-v2-consumption-adoption-test-for-built-but-unused-interna.md"
   },
   {
-   "dr_id": "DR26-07-04-HUB-14",
-   "title": "Voice recipe for 'The Journey': blending AI-world writers + blockbuster sci-fi authors for",
-   "summary": "How should the book 'The Journey' blend reputable AI-world writers (Karpathy, Graham, Willison, Swyx, patio11, Altman/Amodei) and blockbuster sci-fi authors (Ghost in the Shell, Matrix, Blade Runner, Chiang, Adams, Scalzi, Weir, Stephenson, Gibson) into a credible, funny, page-turning two-narrator voice (Tony/Mike)?",
-   "lang": "en",
-   "date": "2026-07-04",
-   "slug": "DR26-07-04-HUB-14-voice-recipe-for-the-journey-blending-ai-world-writers-blockbuster-sci",
-   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-07-04-HUB-14-voice-recipe-for-the-journey-blending-ai-world-writers-blockbuster-sci.md"
-  },
-  {
    "dr_id": "DR26-07-04-ZB-01",
    "title": "Zero-trust security wave in agent platforms: product/positioning for a small agent-farm op",
    "summary": "Assesses whether the 2026 zero-trust/agent-security wave is monetizable for a 2-3 person agent-farm operator, and if so, what product and positioning to use.",
@@ -1759,15 +1714,6 @@
    "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-07-07-MACB-02-onbording-pitch-vtorogo-mozga-dlya-netehnichnyh-rol-identichnost-claud.md"
   },
   {
-   "dr_id": "DR26-07-14-MACANTON-01",
-   "title": "Фандрейз-стратегия 2026 для AI-native фаундера (digital twin / second brain)",
-   "summary": "Синтез двух Deep Research отчётов (ChatGPT Deep Research + Grok Expert, 85 источников) по вопросу: как в 2026 поднимать раунд под продукт «цифровой двойник / второй мозг + автономные агенты», построенный на личных данных одного фаундера. Контекст: Антон, фаундер Platinum, PhD-физик; цель №2 — оффер от LLM-компании; стратегия «всё = контент».",
-   "lang": "ru",
-   "date": "2026-07-21",
-   "slug": "DR26-07-14-MACANTON-01-fandreyz-strategiya-2026-dlya-ai-native-faundera-digital-twin-second-b",
-   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-07-14-MACANTON-01-fandreyz-strategiya-2026-dlya-ai-native-faundera-digital-twin-second-b.md"
-  },
-  {
    "dr_id": "DR26-07-14-MACB-01",
    "title": "«Не ждать хаб»: расщепление 3 ролей хаба (GPU-реиндекс / control-plane / single-writer-мёрдж) на 3 дома",
    "summary": "Два независимых внешних вендора (ChatGPT DR, 34 источника; Grok Expert, 97 источников) отвечали на вопрос: как ~600 Python-движков (`_imports`, ~3 МБ) должны жить в peer-equal флоте из 4-7 машин (Win+Mac+Linux, ноуты спят, хаб может встать), чтобы никто не ждал хаб. Родственный DR26-07-10-MACB-01 уже постановил: Syncthing для ДАННЫХ чиним и оставляем. Этот DR — про слой КОДА и власти.",
@@ -2209,24 +2155,6 @@
    "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-08-23-HUB-01-2221-ayauaska-agressiya-styd-privykanie-riski-dekriminalizatsiya-verifikats.md"
   },
   {
-   "dr_id": "DR26-07-23-MACANTON-01-1118",
-   "title": "HuggingFace/вендорские cookbooks как рычаг найма в frontier-LLM — синтез + Decision Memo",
-   "summary": "⛔ SUPERSEDED 2026-09-04 → канон [[insight-DR-DR26-08-25-MACANTON-17-0742-huggingface-vendor-cookbook-contributions-as-a-hir]] (тот же ChatGPT-чат, полное тело). Decision Memo ниже остаётся как компаньон. ⚠️ В 0742 цель «smolagents #2656 = governance hooks» — фабрикация DR (реальный #2656 = баг AgentImage inverts pixels); в работу НЕ брать.",
-   "lang": "ru",
-   "date": "2026-08-24",
-   "slug": "DR26-07-23-MACANTON-01-1118-huggingface-vendorskie-cookbooks-kak-rychag-nayma-v-frontier-llm-sinte",
-   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-07-23-MACANTON-01-1118-huggingface-vendorskie-cookbooks-kak-rychag-nayma-v-frontier-llm-sinte.md"
-  },
-  {
-   "dr_id": "DR26-08-24-HUB-01-0830",
-   "title": "NSFW/adult AI как moat — синтез 4 вендоров (moat реален, но операционный; победил угол OF-copilot)",
-   "summary": "Гипотеза Антона (24.08, голосом): NSFW = защитный moat для AI-стартапа, потому что крупные вендоры туда структурно не пойдут. Веер: ChatGPT (gpt-5-6-pro, 69 источников) · Gemini (Deep Research) · Grok (116 источников, через Firefox) · GLM-5.2 (Advanced Search). claude.ai — ран шёл >1ч, добор ночным `dr_collect`. Кворум 4/6 закрыт.",
-   "lang": "ru",
-   "date": "2026-08-24",
-   "slug": "DR26-08-24-HUB-01-0830-nsfw-adult-ai-kak-moat-sintez-4-vendorov-moat-realen-no-operatsionnyy",
-   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-08-24-HUB-01-0830-nsfw-adult-ai-kak-moat-sintez-4-vendorov-moat-realen-no-operatsionnyy.md"
-  },
-  {
    "dr_id": "DR26-08-24-MACANTON-01-0007",
    "title": "Заметность в топ-10 LLM: второе касание, а не объём — синтез DR-0007",
    "summary": "Полный синтез + Decision Memo: `_machine-bus/_dr/queue/DR26-08-24-MACANTON-01-0007/SYNTHESIS.md`. Сырьё verbatim: `_originals/DR26-08-24-MACANTON-01-0007/`.",
@@ -2252,15 +2180,6 @@
    "date": "2026-08-25",
    "slug": "DR26-08-25-HUB-01-0712-dr26-08-25-hub-01-sintez-koren-claw-eto-chuzhaya-grammatika-imen-a-ne",
    "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-08-25-HUB-01-0712-dr26-08-25-hub-01-sintez-koren-claw-eto-chuzhaya-grammatika-imen-a-ne.md"
-  },
-  {
-   "dr_id": "DR26-08-25-MACANTON-01-0740",
-   "title": "Deep-research template (no topic given) applied to urban heat islands & public health in E",
-   "summary": "Ресёрч не содержал заданной темы, поэтому ChatGPT построил универсальный шаблон deep-research методологии и применил его на примере урбанистических тепловых островов и здоровья населения в европейских городах.",
-   "lang": "en",
-   "date": "2026-08-25",
-   "slug": "DR26-08-25-MACANTON-01-0740-deep-research-template-no-topic-given-applied-to-urban-heat-islands-pu",
-   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-08-25-MACANTON-01-0740-deep-research-template-no-topic-given-applied-to-urban-heat-islands-pu.md"
   },
   {
    "dr_id": "DR26-08-25-MACANTON-02-0740",
@@ -2387,15 +2306,6 @@
    "date": "2026-08-25",
    "slug": "DR26-08-25-MACANTON-17-0742-huggingface-vendor-cookbook-contributions-as-a-hiring-lever-into-front",
    "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-08-25-MACANTON-17-0742-huggingface-vendor-cookbook-contributions-as-a-hiring-lever-into-front.md"
-  },
-  {
-   "dr_id": "DR26-08-25-HUB-03-2301",
-   "title": "DR26-08-25-HUB-03: аудит рельс — из кворума 4/6 подтверждающих рельс ДВЕ, и часть списка инвесторов опирается на рельсу без единой ссылки",
-   "summary": "Это **не второй синтез**. Синтез уже собран утром 26.08: [[decision-DR26-08-25-HUB-03-control-plane-raise-memo]] — он полный и по существу верный. Эта заметка — поправка к его доказательной базе, найденная при повторном чтении сырья.",
-   "lang": "ru",
-   "date": "2026-08-26",
-   "slug": "DR26-08-25-HUB-03-2301-dr26-08-25-hub-03-audit-rels-iz-kvoruma-4-6-podtverzhdayuschih-rels-dv",
-   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-08-25-HUB-03-2301-dr26-08-25-hub-03-audit-rels-iz-kvoruma-4-6-podtverzhdayuschih-rels-dv.md"
   },
   {
    "dr_id": "DR26-08-28-MACANTON-01-1114",
@@ -2585,15 +2495,6 @@
    "date": "2026-08-29",
    "slug": "DR26-08-29-MACANTON-22-0759-eu-entity-dlya-non-dilutive-funding-eic-horizon-vybor-yurisdiktsii-pod",
    "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-08-29-MACANTON-22-0759-eu-entity-dlya-non-dilutive-funding-eic-horizon-vybor-yurisdiktsii-pod.md"
-  },
-  {
-   "dr_id": "DR26-08-30-MACANTON-02",
-   "title": "Несовпадение содержания: файл озаглавлен «Успех на GitHub без кода», но текст — история ко",
-   "summary": "Отчёт не отвечает на вопрос об «успехе на GitHub без кода» — вместо этого это выдержка из GitBook-презентации Platinum Engineering (2015-2026: инкубатор, VC, блокчейн-консалтинг, CRM C(H+A)RM, AI-агенты).",
-   "lang": "en",
-   "date": "2026-08-30",
-   "slug": "DR26-08-30-MACANTON-02-nesovpadenie-soderzhaniya-fayl-ozaglavlen-uspeh-na-github-bez-koda-no",
-   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-08-30-MACANTON-02-nesovpadenie-soderzhaniya-fayl-ozaglavlen-uspeh-na-github-bez-koda-no.md"
   },
   {
    "dr_id": "DR26-09-01-HUB-02-1604",
@@ -3055,6 +2956,15 @@
    "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-10-26-HUB-04-1338-kak-llm-dumaet-po-sloyam-i-chto-proishodit-v-glubine-sintez-dr-dr26-10.md"
   },
   {
+   "dr_id": "DR26-10-27-HUB-06-1703",
+   "title": "Расширение AI Creator Watcher: события, первичные доказательства, карточки знаний и радар",
+   "summary": "Как расширить существующий ночной AI Creator Watcher (Telegram, HN, Reddit, X, GitHub, официальные блоги) до событийного конвейера с карточками знаний и релевантностью проектам, и что разрешают условия источников.",
+   "lang": "ru",
+   "date": "2026-10-27",
+   "slug": "DR26-10-27-HUB-06-1703-rasshirenie-ai-creator-watcher-sobytiya-pervichnye-dokazatelstva-karto",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-10-27-HUB-06-1703-rasshirenie-ai-creator-watcher-sobytiya-pervichnye-dokazatelstva-karto.md"
+  },
+  {
    "dr_id": "DR26-10-28-HUB-01",
    "title": "Альтернативы Screenpipe: аудит непрерывной аудиозаписи, исходников и ремонтопригодности",
    "summary": "Есть ли open-source замена Screenpipe для 24/7 audio-only записи (mic + system) на macOS Intel/ARM и Windows, и стоит ли чинить или заменять Screenpipe.",
@@ -3091,15 +3001,6 @@
    "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-10-30-HUB-01-tesla-i-globalnaya-elektrifikatsiya-avto-uskoritel-passazhir-ili-siste.md"
   },
   {
-   "dr_id": "DR26-10-30-HUB-01-0915",
-   "title": "Рынок нецензурированных открытых LLM 60B-100B+: модели, хостинги, пользователи, регулятори",
-   "summary": "Какие abliterated/uncensored открытые LLM класса 60B-100B+ существуют на 30.10.2026, как их снимают, где взять платный доступ без своей GPU и что с этим по рискам и регуляции.",
-   "lang": "ru",
-   "date": "2026-10-30",
-   "slug": "DR26-10-30-HUB-01-0915-rynok-netsenzurirovannyh-otkrytyh-llm-60b-100b-modeli-hostingi-polzova",
-   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-10-30-HUB-01-0915-rynok-netsenzurirovannyh-otkrytyh-llm-60b-100b-modeli-hostingi-polzova.md"
-  },
-  {
    "dr_id": "DR26-10-30-HUB-02",
    "title": "Безопасность Tesla и систем автоматизации вождения (Autopilot, FSD, Robotaxi)",
    "summary": "Насколько безопасны автомобили Tesla и их системы автоматизации вождения: пассивная безопасность, надёжность, пожары, двери, Autopilot, FSD и Robotaxi, по состоянию на 30.10.2026.",
@@ -3116,15 +3017,6 @@
    "date": "2026-10-30",
    "slug": "DR26-10-30-HUB-03-0946-kak-llm-uchat-posle-pretraining-rlhf-nagrada-rlvr-model-uchit-model",
    "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-10-30-HUB-03-0946-kak-llm-uchat-posle-pretraining-rlhf-nagrada-rlvr-model-uchit-model.md"
-  },
-  {
-   "dr_id": "DR26-11-01-HUB-01",
-   "title": "Рынок нецензурированных открытых LLM 60B–100B+: модели, доступ, пользователи, регуляторика",
-   "summary": "Какие «нецензурированные» открытые LLM размером 60B–100B+ существуют на 30.10.2026, как к ним получить доступ без своей GPU, кто ими пользуется и как это регулируется.",
-   "lang": "ru",
-   "date": "2026-11-01",
-   "slug": "DR26-11-01-HUB-01-rynok-netsenzurirovannyh-otkrytyh-llm-60b-100b-modeli-dostup-polzovate",
-   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-11-01-HUB-01-rynok-netsenzurirovannyh-otkrytyh-llm-60b-100b-modeli-dostup-polzovate.md"
   },
   {
    "dr_id": "DR26-11-01-HUB-02-1433",

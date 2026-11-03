@@ -121,12 +121,3 @@ source: Palo Alto AI Research Lab — deep research programme
   — белые методы органического роста профиля (README, topics, profile README, регулярность).
 
 Все три записи закрыты как `parked`: тела сохранены и подшиты сюда, отдельного решения не требуют.
-
-
-## Check it yourself: prompt, sources, raw reports
-
-- All sources (70 links): [DR26-07-29-MACANTON-02-1537-partizanskiy-github-sintez-dr26-07-29-macanton-02-1537/sources.md](DR26-07-29-MACANTON-02-1537-partizanskiy-github-sintez-dr26-07-29-macanton-02-1537/sources.md)
-
-## Raw model reports
-
-2 reports delivered, synthesis used not recorded. [DR26-07-29-MACANTON-02-1537-partizanskiy-github-sintez-dr26-07-29-macanton-02-1537/](DR26-07-29-MACANTON-02-1537-partizanskiy-github-sintez-dr26-07-29-macanton-02-1537/README.md)

@@ -50,13 +50,3 @@ Bounties, реферал (только кредиты $20 за привод), ш
 Ноги: «внутренний архив лаборатории»{claudeai,gemini,mistral}.md`; ledger `_drafts/DR-FANOUT-DR26-10-26-HUB-01-0658-replit.md`. Первичные, открытые мной: community-hub.replit.app/ambassadors/, replit.com/careers и три постинга (FDE, GSI, AI Agent Security Architect).
 
 Заказали Tony Dzi (Anton Dziatkovskii) и Майкрофт, синтетический ИИ-кофаундер, Palo Alto AI Research Lab.
-
-
-## Check it yourself: prompt, sources, raw reports
-
-- Prompt: [DR26-10-26-HUB-01-0658-replit-chto-eto-segodnya-i-kakaya-polza-palo-alto-ai-research-lab-dr-4/prompt.md](DR26-10-26-HUB-01-0658-replit-chto-eto-segodnya-i-kakaya-polza-palo-alto-ai-research-lab-dr-4/prompt.md)
-- All sources (330 links): [DR26-10-26-HUB-01-0658-replit-chto-eto-segodnya-i-kakaya-polza-palo-alto-ai-research-lab-dr-4/sources.md](DR26-10-26-HUB-01-0658-replit-chto-eto-segodnya-i-kakaya-polza-palo-alto-ai-research-lab-dr-4/sources.md)
-
-## Raw model reports
-
-3 reports delivered, synthesis used not recorded. [DR26-10-26-HUB-01-0658-replit-chto-eto-segodnya-i-kakaya-polza-palo-alto-ai-research-lab-dr-4/](DR26-10-26-HUB-01-0658-replit-chto-eto-segodnya-i-kakaya-polza-palo-alto-ai-research-lab-dr-4/README.md)
