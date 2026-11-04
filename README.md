@@ -369,7 +369,6 @@ Raw model transcripts stay in our vault. What is published here is the distilled
 | [DR26-11-01-MACPRO192-01-1537](research/DR26-11-01-MACPRO192-01-1537-monitoring-nagruzki-flota-pod-llm-agentami-sintez-dr26-11-01-macpro192.md) | Мониторинг нагрузки флота под LLM-агентами: синтез DR26-11-01-MACPRO192-01-1537 |  |
 | [DR26-11-03-HUB-01-0950](research/DR26-11-03-HUB-01-0950-dr-0950-karta-rynka-vtorogo-mozga-i-obschey-pamyati-sravnenie-s-zep-ai.md) | ДР 0950: карта рынка второго мозга и общей памяти, сравнение с Zep AI |  |
 | [DR26-11-03-HUB-03-1102](research/DR26-11-03-HUB-03-1102-dr-chto-konkretno-delaet-anima-labs-v-pamyati-agentov.md) | ДР: что конкретно делает Anima Labs в памяти агентов |  |
-| [DR26-11-03-HUB-04-2132](research/DR26-11-03-HUB-04-2132-ii-dlya-adult-biznesa-razrabotka-politiki-i-proverka-keysov-yaroslava.md) | ИИ для adult-бизнеса: разработка, политики и проверка кейсов Ярослава |  |
 
 ---
 

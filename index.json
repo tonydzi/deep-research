@@ -1,6 +1,6 @@
 {
  "generated": "2026-11-04",
- "count": 345,
+ "count": 344,
  "repo": "https://github.com/tonydzi/deep-research",
  "research": [
   {
@@ -407,15 +407,6 @@
    "date": "",
    "slug": "DR26-11-03-HUB-03-1102-dr-chto-konkretno-delaet-anima-labs-v-pamyati-agentov",
    "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-11-03-HUB-03-1102-dr-chto-konkretno-delaet-anima-labs-v-pamyati-agentov.md"
-  },
-  {
-   "dr_id": "DR26-11-03-HUB-04-2132",
-   "title": "ИИ для adult-бизнеса: разработка, политики и проверка кейсов Ярослава",
-   "summary": "Machine: A-2022BAYAREA (Хаб) · Agent: Codex · Operator: Anton · 2026-11-03",
-   "lang": "ru",
-   "date": "",
-   "slug": "DR26-11-03-HUB-04-2132-ii-dlya-adult-biznesa-razrabotka-politiki-i-proverka-keysov-yaroslava",
-   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-11-03-HUB-04-2132-ii-dlya-adult-biznesa-razrabotka-politiki-i-proverka-keysov-yaroslava.md"
   },
   {
    "dr_id": "DR26-05-01-HUB-01",
