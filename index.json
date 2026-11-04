@@ -1,6 +1,6 @@
 {
- "generated": "2026-11-03",
- "count": 342,
+ "generated": "2026-11-04",
+ "count": 345,
  "repo": "https://github.com/tonydzi/deep-research",
  "research": [
   {
@@ -389,6 +389,33 @@
    "date": "",
    "slug": "DR26-11-01-MACPRO192-01-1537-monitoring-nagruzki-flota-pod-llm-agentami-sintez-dr26-11-01-macpro192",
    "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-11-01-MACPRO192-01-1537-monitoring-nagruzki-flota-pod-llm-agentami-sintez-dr26-11-01-macpro192.md"
+  },
+  {
+   "dr_id": "DR26-11-03-HUB-01-0950",
+   "title": "ДР 0950: карта рынка второго мозга и общей памяти, сравнение с Zep AI",
+   "summary": "Заказ Антона из чата 001 (сессия-мать H21133). Потребитель: собеседование Антона с CEO Zep AI 04.11.2026 21:00 Лиссабон (роль Head of Forward Deployed Engineering) и решение, где строить наш продукт (Obsidian + SQLite graph RAG + 8 машин + Claude/Codex/Grok).",
+   "lang": "ru",
+   "date": "",
+   "slug": "DR26-11-03-HUB-01-0950-dr-0950-karta-rynka-vtorogo-mozga-i-obschey-pamyati-sravnenie-s-zep-ai",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-11-03-HUB-01-0950-dr-0950-karta-rynka-vtorogo-mozga-i-obschey-pamyati-sravnenie-s-zep-ai.md"
+  },
+  {
+   "dr_id": "DR26-11-03-HUB-03-1102",
+   "title": "ДР: что конкретно делает Anima Labs в памяти агентов",
+   "summary": "Machine: A-2022BAYAREA (Хаб) · Agent: Claude · Operator: Anton · 2026-11-03",
+   "lang": "ru",
+   "date": "",
+   "slug": "DR26-11-03-HUB-03-1102-dr-chto-konkretno-delaet-anima-labs-v-pamyati-agentov",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-11-03-HUB-03-1102-dr-chto-konkretno-delaet-anima-labs-v-pamyati-agentov.md"
+  },
+  {
+   "dr_id": "DR26-11-03-HUB-04-2132",
+   "title": "ИИ для adult-бизнеса: разработка, политики и проверка кейсов Ярослава",
+   "summary": "Machine: A-2022BAYAREA (Хаб) · Agent: Codex · Operator: Anton · 2026-11-03",
+   "lang": "ru",
+   "date": "",
+   "slug": "DR26-11-03-HUB-04-2132-ii-dlya-adult-biznesa-razrabotka-politiki-i-proverka-keysov-yaroslava",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-11-03-HUB-04-2132-ii-dlya-adult-biznesa-razrabotka-politiki-i-proverka-keysov-yaroslava.md"
   },
   {
    "dr_id": "DR26-05-01-HUB-01",
@@ -2903,12 +2930,12 @@
   },
   {
    "dr_id": "DR26-10-24-HUB-04-0512",
-   "title": "Nautilus про LSD, быстрые ритмы и фрактальность мозга: проверка по первоисточнику (MEG, N=",
-   "summary": "Проверка статьи Nautilus (22.10.2026) по первичной работе Subramani/Jerbi et al. (Communications Biology, 7.10.2026) и контексту литературы о «приглушении» контрольных центров под психоделиками.",
+   "title": "LSD ускоряет ритмы мозга и делает его фрактальным: проверка Nautilus по статье Communicati",
+   "summary": "Проверка журналистского материала Nautilus (22.10.2026) против первичной статьи Subramani/Jerbi et al. (Communications Biology, MEG, N=17, реанализ данных Imperial College 2016): что подтверждается, а где пресса преувеличивает.",
    "lang": "ru",
    "date": "2026-10-24",
-   "slug": "DR26-10-24-HUB-04-0512-nautilus-pro-lsd-bystrye-ritmy-i-fraktalnost-mozga-proverka-po-pervois",
-   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-10-24-HUB-04-0512-nautilus-pro-lsd-bystrye-ritmy-i-fraktalnost-mozga-proverka-po-pervois.md"
+   "slug": "DR26-10-24-HUB-04-0512-lsd-uskoryaet-ritmy-mozga-i-delaet-ego-fraktalnym-proverka-nautilus-po",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-10-24-HUB-04-0512-lsd-uskoryaet-ritmy-mozga-i-delaet-ego-fraktalnym-proverka-nautilus-po.md"
   },
   {
    "dr_id": "DR26-10-24-HUB-07-0721",

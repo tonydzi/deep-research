@@ -56,3 +56,11 @@ source: Palo Alto AI Research Lab — deep research programme
 - MCP security and tool poisoning
 - browser-use agent safety
 - algorithmic management and surveillance trust
+
+
+## Check it yourself: prompt, sources, raw reports
+
+
+## Raw model reports
+
+1 reports delivered, synthesis used not recorded. [DR26-06-21-HUB-01-designing-a-safe-and-helpful-in-chat-ai-team-assistant/](DR26-06-21-HUB-01-designing-a-safe-and-helpful-in-chat-ai-team-assistant/README.md)

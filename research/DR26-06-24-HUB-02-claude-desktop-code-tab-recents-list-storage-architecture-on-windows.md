@@ -53,3 +53,12 @@ source: Palo Alto AI Research Lab — deep research programme
 - turnstate-ledger
 - machine-bus-telegram-rail
 - deterministic-script-gotchas
+
+
+## Check it yourself: prompt, sources, raw reports
+
+- All sources (1 links): [DR26-06-24-HUB-02-claude-desktop-code-tab-recents-list-storage-architecture-on-windows/sources.md](DR26-06-24-HUB-02-claude-desktop-code-tab-recents-list-storage-architecture-on-windows/sources.md)
+
+## Raw model reports
+
+1 reports delivered, synthesis used not recorded. [DR26-06-24-HUB-02-claude-desktop-code-tab-recents-list-storage-architecture-on-windows/](DR26-06-24-HUB-02-claude-desktop-code-tab-recents-list-storage-architecture-on-windows/README.md)

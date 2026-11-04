@@ -48,3 +48,12 @@ source: Palo Alto AI Research Lab — deep research programme
 - PRISMA-GRADE-evidence-review
 - alpha-protocol-recall-plus-dr
 - research-protocol-preregistration
+
+
+## Check it yourself: prompt, sources, raw reports
+
+- All sources (22 links): [DR26-08-29-MACANTON-12-0743-universalnyy-freymvork-dlya-deep-research-pri-neukazannoy-teme-klienta/sources.md](DR26-08-29-MACANTON-12-0743-universalnyy-freymvork-dlya-deep-research-pri-neukazannoy-teme-klienta/sources.md)
+
+## Raw model reports
+
+1 reports delivered, synthesis used not recorded. [DR26-08-29-MACANTON-12-0743-universalnyy-freymvork-dlya-deep-research-pri-neukazannoy-teme-klienta/](DR26-08-29-MACANTON-12-0743-universalnyy-freymvork-dlya-deep-research-pri-neukazannoy-teme-klienta/README.md)

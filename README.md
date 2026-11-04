@@ -1,6 +1,6 @@
 # Deep Research — Palo Alto AI Research Lab
 
-342 deep-research reports, distilled. Every entry answers two questions: why we ran this research, and what we got out of it.
+345 deep-research reports, distilled. Every entry answers two questions: why we ran this research, and what we got out of it.
 
 Each report was run across several frontier models (ChatGPT, Gemini, Grok, Claude, GLM, Mistral), then reconciled into the distilled note you see here. Findings are the reconciled ones, not a single model's opinion.
 
@@ -193,7 +193,7 @@ Raw model transcripts stay in our vault. What is published here is the distilled
 | [DR26-10-27-HUB-06-1703](research/DR26-10-27-HUB-06-1703-rasshirenie-ai-creator-watcher-sobytiya-pervichnye-dokazatelstva-karto.md) | Расширение AI Creator Watcher: события, первичные доказательства, карточки знаний и радар | 2026-10-27 |
 | [DR26-10-26-HUB-01-0658](research/DR26-10-26-HUB-01-0658-replit-chto-eto-segodnya-i-kakaya-polza-palo-alto-ai-research-lab-dr-4.md) | Replit: что это сегодня и какая польза Palo Alto AI Research Lab (ДР 4 рельсы, 26.10.2026) | 2026-10-26 |
 | [DR26-10-26-HUB-04-1338](research/DR26-10-26-HUB-04-1338-kak-llm-dumaet-po-sloyam-i-chto-proishodit-v-glubine-sintez-dr-dr26-10.md) | Как LLM думает по слоям и что происходит в глубине: синтез ДР DR26-10-26-HUB-04-1338 (5 ног из 6) | 2026-10-26 |
-| [DR26-10-24-HUB-04-0512](research/DR26-10-24-HUB-04-0512-nautilus-pro-lsd-bystrye-ritmy-i-fraktalnost-mozga-proverka-po-pervois.md) | Nautilus про LSD, быстрые ритмы и фрактальность мозга: проверка по первоисточнику (MEG, N= | 2026-10-24 |
+| [DR26-10-24-HUB-04-0512](research/DR26-10-24-HUB-04-0512-lsd-uskoryaet-ritmy-mozga-i-delaet-ego-fraktalnym-proverka-nautilus-po.md) | LSD ускоряет ритмы мозга и делает его фрактальным: проверка Nautilus по статье Communicati | 2026-10-24 |
 | [DR26-10-22-MACANTON-01-1334](research/DR26-10-22-MACANTON-01-1334-brauzernye-agent-harnessy-dlya-podachi-form-i-zagruzki-cv.md) | браузерные агент-харнессы для подачи форм и загрузки CV | 2026-10-23 |
 | [DR26-10-19-MACPRO192-03-1044](research/DR26-10-19-MACPRO192-03-1044-dr-odna-sessiya-agenta-na-neskolko-kompyuterov-i-lyudey-sintez-4-nog.md) | ДР: одна сессия агента на несколько компьютеров и людей (синтез 4 ног) | 2026-10-20 |
 | [DR26-10-19-HUB-05-2154](research/DR26-10-19-HUB-05-2154-kak-llm-servis-obsluzhivaet-mnogo-polzovateley-filtruet-vrednye-zapros.md) | Как LLM-сервис обслуживает много пользователей, фильтрует вредные запросы и хранит контекс | 2026-10-19 |
@@ -367,6 +367,9 @@ Raw model transcripts stay in our vault. What is published here is the distilled
 | [DR26-10-23-ZB-01-2006](research/DR26-10-23-ZB-01-2006-chto-flot-mozhet-dostich-cherez-ssh-sintez-5-vendorov.md) | Что флот может достичь через SSH: синтез 5 вендоров |  |
 | [DR26-10-25-HUB-02-1107](research/DR26-10-25-HUB-02-1107-svyazka-claude-code-codex-na-odnoy-mashine-sintez-dr-dr26-10-25-hub-02.md) | Связка Claude Code + Codex на одной машине: синтез ДР DR26-10-25-HUB-02-1107 |  |
 | [DR26-11-01-MACPRO192-01-1537](research/DR26-11-01-MACPRO192-01-1537-monitoring-nagruzki-flota-pod-llm-agentami-sintez-dr26-11-01-macpro192.md) | Мониторинг нагрузки флота под LLM-агентами: синтез DR26-11-01-MACPRO192-01-1537 |  |
+| [DR26-11-03-HUB-01-0950](research/DR26-11-03-HUB-01-0950-dr-0950-karta-rynka-vtorogo-mozga-i-obschey-pamyati-sravnenie-s-zep-ai.md) | ДР 0950: карта рынка второго мозга и общей памяти, сравнение с Zep AI |  |
+| [DR26-11-03-HUB-03-1102](research/DR26-11-03-HUB-03-1102-dr-chto-konkretno-delaet-anima-labs-v-pamyati-agentov.md) | ДР: что конкретно делает Anima Labs в памяти агентов |  |
+| [DR26-11-03-HUB-04-2132](research/DR26-11-03-HUB-04-2132-ii-dlya-adult-biznesa-razrabotka-politiki-i-proverka-keysov-yaroslava.md) | ИИ для adult-бизнеса: разработка, политики и проверка кейсов Ярослава |  |
 
 ---
 
