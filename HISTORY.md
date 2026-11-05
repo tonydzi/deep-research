@@ -1,6 +1,6 @@
 # Research history
 
-344 deep-research runs, newest first. Each run is sent to several frontier models in parallel ("rails"); models finish at different times, so a synthesis may be built from fewer reports than were finally delivered. The two columns show both numbers honestly; `?` means we do not know.
+343 deep-research runs, newest first. Each run is sent to several frontier models in parallel ("rails"); models finish at different times, so a synthesis may be built from fewer reports than were finally delivered. The two columns show both numbers honestly; `?` means we do not know.
 
 | ID | date | topic | reports delivered | used in synthesis | dev.to |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [DR26-10-29-ZB-01-1017](https://github.com/tonydzi/deep-research/blob/main/research/DR26-10-29-ZB-01-1017-agent-captcha-hitl-products-and-official-agent-payment-rails-2025-2026.md) | 2026-10-29 | Агенты: капча HITL-продукты и официальные платёжные рельсы (дельта 2025-2026, Q2+Q3 добор к ZB-01-1315) | 4 | 1/6 |  |
 | [DR26-10-28-HUB-01](https://github.com/tonydzi/deep-research/blob/main/research/DR26-10-28-HUB-01-alternativy-screenpipe-audit-nepreryvnoy-audiozapisi-ishodnikov-i-remo.md) | 2026-10-28 | DR26-10-16-HUB-08-2027 — Screenpipe alternatives: аудит непрерывной ау | ? | ? |  |
 | [DR26-10-28-HUB-05](https://github.com/tonydzi/deep-research/blob/main/research/DR26-10-28-HUB-05-seeray11-openflow-i-vizualnye-konstruktory-agentnyh-workflow-dlya-ai-l.md) | 2026-10-28 | SeeRay11/OpenFlow и визуальные конструкторы агентных workflow: исследо | ? | ? |  |
-| [DR26-10-27-HUB-06-1703](https://github.com/tonydzi/deep-research/blob/main/research/DR26-10-27-HUB-06-1703-rasshirenie-ai-creator-watcher-sobytiya-pervichnye-dokazatelstva-karto.md) | 2026-10-27 | Engineering AI alpha monitor delta: multi-source evidence cards, retrieval and relevance radar | ? | ? |  |
+| [DR26-10-27-HUB-06-1703](https://github.com/tonydzi/deep-research/blob/main/research/DR26-10-27-HUB-06-1703-rasshirenie-ai-creator-watcher-sobytiya-pervichnye-dokazatelstva-karto.md) | 2026-10-27 | Engineering AI alpha monitor delta: multi-source evidence cards, retrieval and relevance radar (судья 03.11: з | ? | ? |  |
 | [DR26-10-26-HUB-01-0658](https://github.com/tonydzi/deep-research/blob/main/research/DR26-10-26-HUB-01-0658-replit-chto-eto-segodnya-i-kakaya-polza-palo-alto-ai-research-lab-dr-4.md) | 2026-10-26 | Replit: что это сегодня, двери для малой лаборатории, польза для нас | 4 | ? |  |
 | [DR26-10-26-HUB-03-1338](https://github.com/tonydzi/deep-research/blob/main/research/DR26-10-26-HUB-03-1338-layerwise-computation-i-causal-interpretability-llm-zakaz-deep-researc.md) | 2026-10-26 | Как LLM думает на разных слоях, особенно глубоких: layerwise computation и causal interpretability | 1 | 1/6 |  |
 | [DR26-10-26-HUB-04-1338](https://github.com/tonydzi/deep-research/blob/main/research/DR26-10-26-HUB-04-1338-kak-llm-dumaet-po-sloyam-i-chto-proishodit-v-glubine-sintez-dr-dr26-10.md) | 2026-10-26 | Как LLM думает на разных слоях, особенно на глубоких: анатомия слоёв, скрытое рассуждение, надёжность приборов | 5 | 5/6 |  |

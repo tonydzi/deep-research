@@ -1,6 +1,6 @@
 # Palo Alto AI Research Lab — deep research corpus
 
-345 distilled deep-research reports. Machine-readable index: index.json
+344 distilled deep-research reports. Machine-readable index: index.json
 Each file: frontmatter (dr_id, title, date, lang) + summary + key findings + recommendations.
 Multi-model methodology: every question fanned out to several frontier models, then reconciled.
 License: CC BY 4.0. Cite as: Palo Alto AI Research Lab, deep research <dr_id>.

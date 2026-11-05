@@ -1,6 +1,6 @@
 # Deep Research — Palo Alto AI Research Lab
 
-345 deep-research reports, distilled. Every entry answers two questions: why we ran this research, and what we got out of it.
+344 deep-research reports, distilled. Every entry answers two questions: why we ran this research, and what we got out of it.
 
 Each report was run across several frontier models (ChatGPT, Gemini, Grok, Claude, GLM, Mistral), then reconciled into the distilled note you see here. Findings are the reconciled ones, not a single model's opinion.
 
