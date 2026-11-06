@@ -1,6 +1,6 @@
 # Deep Research — Palo Alto AI Research Lab
 
-344 deep-research reports, distilled. Every entry answers two questions: why we ran this research, and what we got out of it.
+345 deep-research reports, distilled. Every entry answers two questions: why we ran this research, and what we got out of it.
 
 Each report was run across several frontier models (ChatGPT, Gemini, Grok, Claude, GLM, Mistral), then reconciled into the distilled note you see here. Findings are the reconciled ones, not a single model's opinion.
 
@@ -183,6 +183,7 @@ Raw model transcripts stay in our vault. What is published here is the distilled
 
 | ID | Тема | Дата |
 |---|---|---|
+| [DR26-11-04-HUB-02-1908](research/DR26-11-04-HUB-02-1908-alternativy-terminum-dlya-brauzernyh-i-mobilnyh-multiagentnyh-sessiy-p.md) | Альтернативы Terminum для браузерных и мобильных мультиагентных сессий по SSH-хостам | 2026-11-04 |
 | [DR26-11-01-HUB-03](research/DR26-11-01-HUB-03-grepai-v1-2-0-udalennye-embeddingi-pilot-ryadom-s-codeindexer.md) | grepai v1.2.0: удалённые эмбеддинги, пилот рядом с CodeIndexer | 2026-11-01 |
 | [DR26-11-01-HUB-06-1441](research/DR26-11-01-HUB-06-1441-mixedbread-mgrep-kak-perenosimyy-oblachnyy-fallback-k-codeindexer-wind.md) | Mixedbread mgrep как переносимый облачный fallback к CodeIndexer (Windows/Mac) | 2026-11-01 |
 | [DR26-11-01-HUB-07](research/DR26-11-01-HUB-07-codeindexer-nettechnologys-ispolzovanie-vo-flote-svezhest-indeksa-eksp.md) | CodeIndexer (NetTechnologys): использование во флоте, свежесть индекса, эксплуатация | 2026-11-01 |

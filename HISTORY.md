@@ -1,9 +1,10 @@
 # Research history
 
-343 deep-research runs, newest first. Each run is sent to several frontier models in parallel ("rails"); models finish at different times, so a synthesis may be built from fewer reports than were finally delivered. The two columns show both numbers honestly; `?` means we do not know.
+344 deep-research runs, newest first. Each run is sent to several frontier models in parallel ("rails"); models finish at different times, so a synthesis may be built from fewer reports than were finally delivered. The two columns show both numbers honestly; `?` means we do not know.
 
 | ID | date | topic | reports delivered | used in synthesis | dev.to |
 |---|---|---|---|---|---|
+| [DR26-11-04-HUB-02-1908](https://github.com/tonydzi/deep-research/blob/main/research/DR26-11-04-HUB-02-1908-alternativy-terminum-dlya-brauzernyh-i-mobilnyh-multiagentnyh-sessiy-p.md) | 2026-11-04 | Terminum alternatives: browser and mobile multi-agent sessions across SSH hosts (втащен в очередь dr_start --a | 5 | 1/6 |  |
 | [DR26-11-03-HUB-01-0950](https://github.com/tonydzi/deep-research/blob/main/research/DR26-11-03-HUB-01-0950-dr-0950-karta-rynka-vtorogo-mozga-i-obschey-pamyati-sravnenie-s-zep-ai.md) | 2026-11-03 | Карта рынка второго мозга и общей памяти: личный, корпоративный, слияние сотрудник+компания, память агентов; с | 6 | 5/6 |  |
 | [DR26-11-03-HUB-03-1102](https://github.com/tonydzi/deep-research/blob/main/research/DR26-11-03-HUB-03-1102-dr-chto-konkretno-delaet-anima-labs-v-pamyati-agentov.md) | 2026-11-03 | Anima Labs (animalabs.ai, anima-research): все технологии памяти агентов: Connectome, Chronicle, Context Manag | 4 | ? |  |
 | [DR26-11-01-HUB-02-1433](https://github.com/tonydzi/deep-research/blob/main/research/DR26-11-01-HUB-02-1433-codeindexer-codeindexer-dev-svezhest-indeksa-flot-i-reshenie-keep-try.md) | 2026-11-01 | CodeIndexer codeindexer.dev exact live product fleet efficiency and freshness 20261101 (втащен в очередь dr_st | 4 | 4/6 |  |

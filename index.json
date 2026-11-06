@@ -1,6 +1,6 @@
 {
- "generated": "2026-11-05",
- "count": 344,
+ "generated": "2026-11-06",
+ "count": 345,
  "repo": "https://github.com/tonydzi/deep-research",
  "research": [
   {
@@ -3098,6 +3098,15 @@
    "date": "2026-11-01",
    "slug": "DR26-11-01-HUB-08-1444-cocoindex-code-ccc-slim-cloud-embeddings-as-an-on-demand-add-on-to-cod",
    "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-11-01-HUB-08-1444-cocoindex-code-ccc-slim-cloud-embeddings-as-an-on-demand-add-on-to-cod.md"
+  },
+  {
+   "dr_id": "DR26-11-04-HUB-02-1908",
+   "title": "Альтернативы Terminum для браузерных и мобильных мультиагентных сессий по SSH-хостам",
+   "summary": "Какое ПО функционально аналогично Terminum (браузерная панель над tmux-сессиями Claude Code/Codex на нескольких SSH-хостах) и стоит ли заменять им Terminum.",
+   "lang": "ru",
+   "date": "2026-11-04",
+   "slug": "DR26-11-04-HUB-02-1908-alternativy-terminum-dlya-brauzernyh-i-mobilnyh-multiagentnyh-sessiy-p",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-11-04-HUB-02-1908-alternativy-terminum-dlya-brauzernyh-i-mobilnyh-multiagentnyh-sessiy-p.md"
   }
  ]
 }
