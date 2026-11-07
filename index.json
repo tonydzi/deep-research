@@ -1,6 +1,6 @@
 {
- "generated": "2026-11-06",
- "count": 345,
+ "generated": "2026-11-07",
+ "count": 346,
  "repo": "https://github.com/tonydzi/deep-research",
  "research": [
   {
@@ -3107,6 +3107,15 @@
    "date": "2026-11-04",
    "slug": "DR26-11-04-HUB-02-1908-alternativy-terminum-dlya-brauzernyh-i-mobilnyh-multiagentnyh-sessiy-p",
    "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-11-04-HUB-02-1908-alternativy-terminum-dlya-brauzernyh-i-mobilnyh-multiagentnyh-sessiy-p.md"
+  },
+  {
+   "dr_id": "DR26-11-05-HUB-01-0805",
+   "title": "Ночной сон ИИ-агента: sleep-time compute, рефлексия дня, заготовки ответов",
+   "summary": "Как другие делают фоновую «ночную» консолидацию памяти и подготовку ответов у ИИ-агентов, что подтверждено исследованиями и стоит ли нам включать ночной запуск.",
+   "lang": "ru",
+   "date": "2026-11-05",
+   "slug": "DR26-11-05-HUB-01-0805-nochnoy-son-ii-agenta-sleep-time-compute-refleksiya-dnya-zagotovki-otv",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-11-05-HUB-01-0805-nochnoy-son-ii-agenta-sleep-time-compute-refleksiya-dnya-zagotovki-otv.md"
   }
  ]
 }
