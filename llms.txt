@@ -1,10 +1,11 @@
 # Palo Alto AI Research Lab — deep research corpus
 
-346 distilled deep-research reports. Machine-readable index: index.json
+347 distilled deep-research reports. Machine-readable index: index.json
 Each file: frontmatter (dr_id, title, date, lang) + summary + key findings + recommendations.
 Multi-model methodology: every question fanned out to several frontier models, then reconciled.
 License: CC BY 4.0. Cite as: Palo Alto AI Research Lab, deep research <dr_id>.
 
+- DR26-11-06-HUB-01 (2026-11-06, ru): Повседневная обувь для здоровых детей 9–12 лет с широкой стопой (HOKA Clifton 10 и альтерн
 - DR26-11-05-HUB-01-0805 (2026-11-05, ru): Ночной сон ИИ-агента: sleep-time compute, рефлексия дня, заготовки ответов
 - DR26-11-04-HUB-02-1908 (2026-11-04, ru): Альтернативы Terminum для браузерных и мобильных мультиагентных сессий по SSH-хостам
 - DR26-11-01-HUB-02-1433 (2026-11-01, mixed): CodeIndexer (codeindexer.dev): свежесть индекса, флот и решение KEEP/TRY/PARK

@@ -1,9 +1,10 @@
 # Research history
 
-345 deep-research runs, newest first. Each run is sent to several frontier models in parallel ("rails"); models finish at different times, so a synthesis may be built from fewer reports than were finally delivered. The two columns show both numbers honestly; `?` means we do not know.
+346 deep-research runs, newest first. Each run is sent to several frontier models in parallel ("rails"); models finish at different times, so a synthesis may be built from fewer reports than were finally delivered. The two columns show both numbers honestly; `?` means we do not know.
 
 | ID | date | topic | reports delivered | used in synthesis | dev.to |
 |---|---|---|---|---|---|
+| [DR26-11-06-HUB-01](https://github.com/tonydzi/deep-research/blob/main/research/DR26-11-06-HUB-01-povsednevnaya-obuv-dlya-zdorovyh-detey-9-12-let-s-shirokoy-stopoy-hoka.md) | 2026-11-06 | DR26-11-06-HUB-01-1402 — дополнение: повседневная обувь для здоровых д | ? | ? |  |
 | [DR26-11-05-HUB-01-0805](https://github.com/tonydzi/deep-research/blob/main/research/DR26-11-05-HUB-01-0805-nochnoy-son-ii-agenta-sleep-time-compute-refleksiya-dnya-zagotovki-otv.md) | 2026-11-05 | Ночной сон ИИ-агента: кто как делает (sleep-time compute, рефлексия дня, предзаготовки ответов), best practice | ? | ? |  |
 | [DR26-11-04-HUB-02-1908](https://github.com/tonydzi/deep-research/blob/main/research/DR26-11-04-HUB-02-1908-alternativy-terminum-dlya-brauzernyh-i-mobilnyh-multiagentnyh-sessiy-p.md) | 2026-11-04 | Terminum alternatives: browser and mobile multi-agent sessions across SSH hosts (втащен в очередь dr_start --a | 5 | 1/6 |  |
 | [DR26-11-03-HUB-01-0950](https://github.com/tonydzi/deep-research/blob/main/research/DR26-11-03-HUB-01-0950-dr-0950-karta-rynka-vtorogo-mozga-i-obschey-pamyati-sravnenie-s-zep-ai.md) | 2026-11-03 | Карта рынка второго мозга и общей памяти: личный, корпоративный, слияние сотрудник+компания, память агентов; с | 6 | 5/6 |  |

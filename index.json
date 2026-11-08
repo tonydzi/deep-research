@@ -1,6 +1,6 @@
 {
- "generated": "2026-11-07",
- "count": 346,
+ "generated": "2026-11-08",
+ "count": 347,
  "repo": "https://github.com/tonydzi/deep-research",
  "research": [
   {
@@ -3116,6 +3116,15 @@
    "date": "2026-11-05",
    "slug": "DR26-11-05-HUB-01-0805-nochnoy-son-ii-agenta-sleep-time-compute-refleksiya-dnya-zagotovki-otv",
    "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-11-05-HUB-01-0805-nochnoy-son-ii-agenta-sleep-time-compute-refleksiya-dnya-zagotovki-otv.md"
+  },
+  {
+   "dr_id": "DR26-11-06-HUB-01",
+   "title": "Повседневная обувь для здоровых детей 9–12 лет с широкой стопой (HOKA Clifton 10 и альтерн",
+   "summary": "Вредна ли ежедневная носка HOKA Clifton 10 здоровому ребёнку 9–12 лет с широкой стопой и чем её заменить: гибкой обычной, минималистичной обувью или чем-то ещё.",
+   "lang": "ru",
+   "date": "2026-11-06",
+   "slug": "DR26-11-06-HUB-01-povsednevnaya-obuv-dlya-zdorovyh-detey-9-12-let-s-shirokoy-stopoy-hoka",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-11-06-HUB-01-povsednevnaya-obuv-dlya-zdorovyh-detey-9-12-let-s-shirokoy-stopoy-hoka.md"
   }
  ]
 }

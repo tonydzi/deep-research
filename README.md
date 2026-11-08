@@ -1,6 +1,6 @@
 # Deep Research — Palo Alto AI Research Lab
 
-346 deep-research reports, distilled. Every entry answers two questions: why we ran this research, and what we got out of it.
+347 deep-research reports, distilled. Every entry answers two questions: why we ran this research, and what we got out of it.
 
 Each report was run across several frontier models (ChatGPT, Gemini, Grok, Claude, GLM, Mistral), then reconciled into the distilled note you see here. Findings are the reconciled ones, not a single model's opinion.
 
@@ -183,6 +183,7 @@ Raw model transcripts stay in our vault. What is published here is the distilled
 
 | ID | Тема | Дата |
 |---|---|---|
+| [DR26-11-06-HUB-01](research/DR26-11-06-HUB-01-povsednevnaya-obuv-dlya-zdorovyh-detey-9-12-let-s-shirokoy-stopoy-hoka.md) | Повседневная обувь для здоровых детей 9–12 лет с широкой стопой (HOKA Clifton 10 и альтерн | 2026-11-06 |
 | [DR26-11-05-HUB-01-0805](research/DR26-11-05-HUB-01-0805-nochnoy-son-ii-agenta-sleep-time-compute-refleksiya-dnya-zagotovki-otv.md) | Ночной сон ИИ-агента: sleep-time compute, рефлексия дня, заготовки ответов | 2026-11-05 |
 | [DR26-11-04-HUB-02-1908](research/DR26-11-04-HUB-02-1908-alternativy-terminum-dlya-brauzernyh-i-mobilnyh-multiagentnyh-sessiy-p.md) | Альтернативы Terminum для браузерных и мобильных мультиагентных сессий по SSH-хостам | 2026-11-04 |
 | [DR26-11-01-HUB-03](research/DR26-11-01-HUB-03-grepai-v1-2-0-udalennye-embeddingi-pilot-ryadom-s-codeindexer.md) | grepai v1.2.0: удалённые эмбеддинги, пилот рядом с CodeIndexer | 2026-11-01 |
