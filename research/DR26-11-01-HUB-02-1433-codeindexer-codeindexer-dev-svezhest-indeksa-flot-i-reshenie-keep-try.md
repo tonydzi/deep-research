@@ -70,3 +70,13 @@ source: Palo Alto AI Research Lab — deep research programme
 ## 🤔 Факт-линт (dr_fact_lint)
 <!-- авто-секция dr_fact_lint.py: перезаписывается при каждом прогоне, при разборе вырезается -->
 Проверено 2026-11-02 через gh: 0 ссылок · ✅ 0 · ⚠️ 0 · ❓ 0 · ⚪ 0 · 🤷 0.
+
+
+## Check it yourself: prompt, sources, raw reports
+
+- Prompt: [DR26-11-01-HUB-02-1433-codeindexer-codeindexer-dev-svezhest-indeksa-flot-i-reshenie-keep-try/prompt.md](DR26-11-01-HUB-02-1433-codeindexer-codeindexer-dev-svezhest-indeksa-flot-i-reshenie-keep-try/prompt.md)
+- All sources (60 links): [DR26-11-01-HUB-02-1433-codeindexer-codeindexer-dev-svezhest-indeksa-flot-i-reshenie-keep-try/sources.md](DR26-11-01-HUB-02-1433-codeindexer-codeindexer-dev-svezhest-indeksa-flot-i-reshenie-keep-try/sources.md)
+
+## Raw model reports
+
+4 reports delivered, synthesis used 4 of 6. [DR26-11-01-HUB-02-1433-codeindexer-codeindexer-dev-svezhest-indeksa-flot-i-reshenie-keep-try/](DR26-11-01-HUB-02-1433-codeindexer-codeindexer-dev-svezhest-indeksa-flot-i-reshenie-keep-try/README.md)

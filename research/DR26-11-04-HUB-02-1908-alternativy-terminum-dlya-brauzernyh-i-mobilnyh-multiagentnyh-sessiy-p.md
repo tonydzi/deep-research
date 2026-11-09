@@ -53,6 +53,9 @@ source: Palo Alto AI Research Lab — deep research programme
 - оригинал: «внутренний архив лаборатории»
 
 ## Связано
+- Решение 08.11: Terminum остаётся, пилот припаркован
+- 04-Projects/2026-11-03-terminum-fleet-setup
+- 01-Conversations/Claude/Retros/retro-2026-11-03-terminum-browser-ide-fleet-h42143
 - tmux-native управление AI-агентами
 - мобильный доступ к CLI-агентам через tailnet
 - Claude Code и Codex на подписках, а не API
@@ -61,6 +64,13 @@ source: Palo Alto AI Research Lab — deep research programme
 - оркестраторы агентов и git worktrees
 - bus-factor молодых OSS-проектов
 - fleet control plane
+
+## Проверка синтеза 08.11.2026 (H81008, Fable 5.1)
+Machine: хаб (Хаб) · Agent: Claude Code (Fable 5.1) · Operator: Anton · 2026-11-08
+
+Сверка опорных утверждений grep'ом по пяти ногам (число ног, где утверждение встречается): «переживает ребут = раскладка + 300 строк, не задача агента» 3/5 (claudeai, grok, mistral); «Not verified: a physical iPhone» 3/5 (claudeai, gemini, mistral); Vibe Kanban sunset (Bloop) 5/5; AGPL 5/5; hooks install = хуки + stdio-MCP 3/5 (claudeai, chatgpt, mistral); herdr авто-resume 2/5 (grok, mistral); Paseo лидер для новой работы 2/5 (claudeai, mistral); HAPI 5/5 упомянут, лидер у grok и chatgpt; Agent Deck 5/5 упомянут, «в рамках одного хоста» только у claudeai (1/5, слабое). Живая проверка gh 08.11: Terminum v0.31.0 (06.11), 10★, push 08.11, issue #8 закрыт 03.11.
+
+⚠️ Ссылок на чаты ног нет, цитаты по месту не проверены; первичные URL внутри отчётов (60–171 на ногу) по живым страницам не открывались. GLM не ответил (5/6 ног). Решение и условия пересмотра: 02-Decisions/decision-2026-11-08-terminum-stays-dr-1908-synthesis.
 
 ## 🤔 Факт-линт (dr_fact_lint)
 <!-- авто-секция dr_fact_lint.py: перезаписывается при каждом прогоне, при разборе вырезается -->

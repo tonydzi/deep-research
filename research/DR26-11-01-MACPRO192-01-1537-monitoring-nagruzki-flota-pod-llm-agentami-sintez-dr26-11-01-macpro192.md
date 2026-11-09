@@ -59,3 +59,15 @@ source: Palo Alto AI Research Lab — deep research programme
 Антон потребовал ответ на «что конкретно в них зависло и глючит». В шести отчётах ДР этого нет: они про нагрузку. Код прошёл панель ломателей 4 из 4 (04.11), правки в версии 1.0.1. Вопрос ушёл Codex, Gemini и GLM (Grok не ответил за 280 с), оригиналы `_originals/deep-research/DR26-11-01-MACPRO192-01-1537-hang-addendum-*.md`.
 Сошлись 3 из 3: на Windows датчик = `Process.Responding`/`IsHungAppWindow`, события 1000 и 1002, причина = `procdump -h` и Wait Chain Traversal; на Mac причина = `sample` с жёстким таймаутом, датчик `CGSEventIsAppUnresponsive` без root (GLM пометил как непроверенный, живой прогон подтвердил). Все трое: датчик видит только главный поток окна, застывший рендерер он не поймает. Готовый CLI для Windows никто не нашёл; для Mac есть `fjh658/hung_detect` (4 звезды, один автор, бинарник не запускали).
 Решение: свой `scripts/app_watch.py` (0 LLM): группы по приложениям с наследованием от родителя, сигналы «не отвечает»/«крутит ядро»/«застрял», снимок стека, отчёты ОС. Проверен на нарочно застывшем окне: вердикт за 13 с, стек показал `time_sleep`. Связь: perf, hub-infra-ops.
+
+## Применение 08.11.2026: живая сверка Parent и тревоги памяти (хаб, H42182)
+- Parent Маяк проверен снаружи: 5 узлов mirrored/reachable, `bind to` только 127.0.0.1 + tailnet, публичный порт молчит, автообновление выключено (`netdata-updater.timer disabled`). Реле `nd_alert_relay.py` работает; чат 03 = `<chat-id>`.
+- Дыра: стоковые тревоги RAM/своп/CPU Netdata помечены `_os=linux`, на Windows и macOS детях их не было. Закрыто файлом `health.d/fleet_system.conf` на Parent: Windows = RAM (3-мин среднее) + commit charge по `mem.committed`; macOS = RAM `percentage of active,wired,compressor`, своп в MiB (6/12 ГиБ), трэш по `mem.swapio` (3/20 МиБ/с), CPU 10 мин. Откат: удалить файл + `netdatacli reload-health`.
+- Грабли Windows в Netdata v2.12.2: `mem.swap` = commit charge, а не pagefile; `mem.swapio.in` считает и файловые страницы; `mem.pgfaults.major` отрицательный. Процент свопа на macOS бессмысленен (файлы подкачки растут по требованию).
+- Первая боевая находка правила: хаб commit charge 98-99% при 57 ГБ занятой физической RAM из 128 (тревога в 03 11:30 UTC). Разбор ушёл в отдельную сессию (`hub-commit-charge-98pct-20261108`).
+- Dead-man снаружи удвоен: кроме MacPro192 (launchd, не подтверждён: ssh закрыт), сторож на хабе `nd_parent_deadman.py`, задача «Netdata Parent Dead-Man» раз в 10 мин, тревога после двух плохих проверок или <3 детей.
+- Проверка пути тревоги: тестовая тревога 11:14:40 → 03 сообщение 2023003 в 11:15:03.
+- API-ключ стрима положен в `secrets
+etdata-stream.env` (в волте его нет и не будет).
+
+Machine: хаб (Хаб) · Agent: Claude Code · Operator: Anton · 2026-11-08 · H42182
