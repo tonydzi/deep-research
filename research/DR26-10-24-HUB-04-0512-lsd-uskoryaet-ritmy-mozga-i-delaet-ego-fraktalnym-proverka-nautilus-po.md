@@ -63,3 +63,13 @@ source: Palo Alto AI Research Lab — deep research programme
 ## 🤔 Факт-линт (dr_fact_lint)
 <!-- авто-секция dr_fact_lint.py: перезаписывается при каждом прогоне, при разборе вырезается -->
 Проверено 2026-11-03 через gh: 0 ссылок · ✅ 0 · ⚠️ 0 · ❓ 0 · ⚪ 0 · 🤷 0.
+
+
+## Check it yourself: prompt, sources, raw reports
+
+- Prompt: [DR26-10-24-HUB-04-0512-lsd-uskoryaet-ritmy-mozga-i-delaet-ego-fraktalnym-proverka-nautilus-po/prompt.md](DR26-10-24-HUB-04-0512-lsd-uskoryaet-ritmy-mozga-i-delaet-ego-fraktalnym-proverka-nautilus-po/prompt.md)
+- All sources (218 links): [DR26-10-24-HUB-04-0512-lsd-uskoryaet-ritmy-mozga-i-delaet-ego-fraktalnym-proverka-nautilus-po/sources.md](DR26-10-24-HUB-04-0512-lsd-uskoryaet-ritmy-mozga-i-delaet-ego-fraktalnym-proverka-nautilus-po/sources.md)
+
+## Raw model reports
+
+5 reports delivered, synthesis used 1 of 6. Note: 4 report(s) arrived after the synthesis was written; they are attached raw and were not reconciled. [DR26-10-24-HUB-04-0512-lsd-uskoryaet-ritmy-mozga-i-delaet-ego-fraktalnym-proverka-nautilus-po/](DR26-10-24-HUB-04-0512-lsd-uskoryaet-ritmy-mozga-i-delaet-ego-fraktalnym-proverka-nautilus-po/README.md)

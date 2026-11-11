@@ -1,9 +1,13 @@
 # Research history
 
-346 deep-research runs, newest first. Each run is sent to several frontier models in parallel ("rails"); models finish at different times, so a synthesis may be built from fewer reports than were finally delivered. The two columns show both numbers honestly; `?` means we do not know.
+350 deep-research runs, newest first. Each run is sent to several frontier models in parallel ("rails"); models finish at different times, so a synthesis may be built from fewer reports than were finally delivered. The two columns show both numbers honestly; `?` means we do not know.
 
 | ID | date | topic | reports delivered | used in synthesis | dev.to |
 |---|---|---|---|---|---|
+| [DR26-11-10-HUB-04-1439](https://github.com/tonydzi/deep-research/blob/main/research/DR26-11-10-HUB-04-1439-web-summit-2026-realno-li-yadernoe-pitanie-tsod-k-2030-i-kak-proveryat.md) | 2026-11-10 | Web Summit 2026: Why nuclear compute cannot wait a decade; Blue Energy, Helical Fusion, Andrew Freedman | 4 | 4/6 |  |
+| [DR26-11-09-HUB-04-1424](https://github.com/tonydzi/deep-research/blob/main/research/DR26-11-09-HUB-04-1424-pokupateli-celebex-v-ai-relizy-byudzhet-x-i-vybor-podryadchika.md) | 2026-11-09 | Покупатели Celebex в AI: релизы, бюджет X и выбор подрядчика | 4 | 4/6 |  |
+| [DR26-11-09-HUB-02](https://github.com/tonydzi/deep-research/blob/main/research/DR26-11-09-HUB-02-verification-of-nov-9-2026-lisbon-build-your-second-brain-with-claude.md) | 2026-11-09 | Public-Evidence Verification of the Nov. 9, 2026 “Build Your Second Br | ? | ? |  |
+| [DR26-11-09-HUB-03](https://github.com/tonydzi/deep-research/blob/main/research/DR26-11-09-HUB-03-workshop-labs-pbc-thinking-machines-lab-sdelka-tehnologii-bezopasnost.md) | 2026-11-09 | Мемо: Workshop Labs PBC × Thinking Machines Lab — сделка, технологии, | ? | ? |  |
 | [DR26-11-06-HUB-01](https://github.com/tonydzi/deep-research/blob/main/research/DR26-11-06-HUB-01-povsednevnaya-obuv-dlya-zdorovyh-detey-9-12-let-s-shirokoy-stopoy-hoka.md) | 2026-11-06 | DR26-11-06-HUB-01-1402 — дополнение: повседневная обувь для здоровых д | ? | ? |  |
 | [DR26-11-05-HUB-01-0805](https://github.com/tonydzi/deep-research/blob/main/research/DR26-11-05-HUB-01-0805-nochnoy-son-ii-agenta-sleep-time-compute-refleksiya-dnya-zagotovki-otv.md) | 2026-11-05 | Ночной сон ИИ-агента: кто как делает (sleep-time compute, рефлексия дня, предзаготовки ответов), best practice | ? | ? |  |
 | [DR26-11-04-HUB-02-1908](https://github.com/tonydzi/deep-research/blob/main/research/DR26-11-04-HUB-02-1908-alternativy-terminum-dlya-brauzernyh-i-mobilnyh-multiagentnyh-sessiy-p.md) | 2026-11-04 | Terminum alternatives: browser and mobile multi-agent sessions across SSH hosts (втащен в очередь dr_start --a | 5 | 1/6 |  |

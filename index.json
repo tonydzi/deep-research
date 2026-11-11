@@ -1,6 +1,6 @@
 {
- "generated": "2026-11-10",
- "count": 347,
+ "generated": "2026-11-11",
+ "count": 351,
  "repo": "https://github.com/tonydzi/deep-research",
  "research": [
   {
@@ -3125,6 +3125,42 @@
    "date": "2026-11-06",
    "slug": "DR26-11-06-HUB-01-povsednevnaya-obuv-dlya-zdorovyh-detey-9-12-let-s-shirokoy-stopoy-hoka",
    "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-11-06-HUB-01-povsednevnaya-obuv-dlya-zdorovyh-detey-9-12-let-s-shirokoy-stopoy-hoka.md"
+  },
+  {
+   "dr_id": "DR26-11-09-HUB-02",
+   "title": "Verification of Nov 9, 2026 Lisbon 'Build Your Second Brain with Claude' workshop and comp",
+   "summary": "Does public evidence confirm that the Nov. 9, 2026 Portugal Tech Week workshop 'Build Your Second Brain with Claude' by Gui Perdrix (Timeback) happened as advertised, how does it compare with other 2026 Claude second-brain workshops, and what would a verifiable 90-minute beginner pilot look like?",
+   "lang": "en",
+   "date": "2026-11-09",
+   "slug": "DR26-11-09-HUB-02-verification-of-nov-9-2026-lisbon-build-your-second-brain-with-claude",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-11-09-HUB-02-verification-of-nov-9-2026-lisbon-build-your-second-brain-with-claude.md"
+  },
+  {
+   "dr_id": "DR26-11-09-HUB-03",
+   "title": "Workshop Labs PBC × Thinking Machines Lab: сделка, технологии, безопасность, benchmark",
+   "summary": "Что публично подтверждено о присоединении Workshop Labs к Thinking Machines Lab (найм основателей и покупка технологии), каковы технологии Workshop (Trellis, Silo) и их threat model, и как проверяемо сравнить LoRA и retrieval для персональных агентов.",
+   "lang": "ru",
+   "date": "2026-11-09",
+   "slug": "DR26-11-09-HUB-03-workshop-labs-pbc-thinking-machines-lab-sdelka-tehnologii-bezopasnost",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-11-09-HUB-03-workshop-labs-pbc-thinking-machines-lab-sdelka-tehnologii-bezopasnost.md"
+  },
+  {
+   "dr_id": "DR26-11-09-HUB-04-1424",
+   "title": "Покупатели Celebex в AI: релизы, бюджет X и выбор подрядчика",
+   "summary": "Потребитель: Антон выбирает знакомые и новые AI-команды, чтобы проверить спрос Кости (Константин Анисимов, NotPeople.ai / Celebex) на «запуск в X» силами сети креаторов. Бриф Кости от 09.11.2026 лежит в промпте ДР. Срез данных: 9 ноября 2026. Синтез 10.11.2026, сессия H22080 на хабе.",
+   "lang": "ru",
+   "date": "2026-11-10",
+   "slug": "DR26-11-09-HUB-04-1424-pokupateli-celebex-v-ai-relizy-byudzhet-x-i-vybor-podryadchika",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-11-09-HUB-04-1424-pokupateli-celebex-v-ai-relizy-byudzhet-x-i-vybor-podryadchika.md"
+  },
+  {
+   "dr_id": "DR26-11-10-HUB-04-1439",
+   "title": "Web Summit 2026: реально ли ядерное питание ЦОД к 2030 и как проверять обещания панели",
+   "summary": "Независимая проверка панели «Why nuclear compute can't wait a decade» (Blue Energy, Helical Fusion, Freedman): что реально может питать ИИ-ЦОД к 2030 году и каков фактический статус проектов спикеров.",
+   "lang": "ru",
+   "date": "2026-11-10",
+   "slug": "DR26-11-10-HUB-04-1439-web-summit-2026-realno-li-yadernoe-pitanie-tsod-k-2030-i-kak-proveryat",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-11-10-HUB-04-1439-web-summit-2026-realno-li-yadernoe-pitanie-tsod-k-2030-i-kak-proveryat.md"
   }
  ]
 }

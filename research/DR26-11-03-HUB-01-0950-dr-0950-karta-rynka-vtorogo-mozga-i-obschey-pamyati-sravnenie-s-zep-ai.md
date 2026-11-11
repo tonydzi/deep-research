@@ -67,3 +67,13 @@ source: Palo Alto AI Research Lab — deep research programme
 - Подкастный/контентный выход (§9.1 пост через 2-3 дня): `dr_post_draft.py --id DR26-11-03-HUB-01-0950`.
 
 Machine: хаб (Хаб) · Agent: Claude · Operator: Anton · 2026-11-03
+
+
+## Check it yourself: prompt, sources, raw reports
+
+- Prompt: [DR26-11-03-HUB-01-0950-dr-0950-karta-rynka-vtorogo-mozga-i-obschey-pamyati-sravnenie-s-zep-ai/prompt.md](DR26-11-03-HUB-01-0950-dr-0950-karta-rynka-vtorogo-mozga-i-obschey-pamyati-sravnenie-s-zep-ai/prompt.md)
+- All sources (1085 links): [DR26-11-03-HUB-01-0950-dr-0950-karta-rynka-vtorogo-mozga-i-obschey-pamyati-sravnenie-s-zep-ai/sources.md](DR26-11-03-HUB-01-0950-dr-0950-karta-rynka-vtorogo-mozga-i-obschey-pamyati-sravnenie-s-zep-ai/sources.md)
+
+## Raw model reports
+
+6 reports delivered, synthesis used 5 of 6. Note: 1 report(s) arrived after the synthesis was written; they are attached raw and were not reconciled. [DR26-11-03-HUB-01-0950-dr-0950-karta-rynka-vtorogo-mozga-i-obschey-pamyati-sravnenie-s-zep-ai/](DR26-11-03-HUB-01-0950-dr-0950-karta-rynka-vtorogo-mozga-i-obschey-pamyati-sravnenie-s-zep-ai/README.md)
