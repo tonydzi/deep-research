@@ -66,3 +66,11 @@ source: Palo Alto AI Research Lab — deep research programme
 ## 🤔 Факт-линт (dr_fact_lint)
 <!-- авто-секция dr_fact_lint.py: перезаписывается при каждом прогоне, при разборе вырезается -->
 Проверено 2026-10-29 через gh: 1 ссылок · ✅ 0 · ⚠️ 0 · ❓ 0 · ⚪ 1 · 🤷 0.
+
+
+## Check it yourself: prompt, sources, raw reports
+
+
+## Raw model reports
+
+2 reports delivered, synthesis used not recorded. [DR26-10-28-HUB-05-seeray11-openflow-i-vizualnye-konstruktory-agentnyh-workflow-dlya-ai-l/](DR26-10-28-HUB-05-seeray11-openflow-i-vizualnye-konstruktory-agentnyh-workflow-dlya-ai-l/README.md)

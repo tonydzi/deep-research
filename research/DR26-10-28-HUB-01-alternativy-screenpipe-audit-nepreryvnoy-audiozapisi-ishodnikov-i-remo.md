@@ -61,3 +61,12 @@ source: Palo Alto AI Research Lab — deep research programme
 ## 🤔 Факт-линт (dr_fact_lint)
 <!-- авто-секция dr_fact_lint.py: перезаписывается при каждом прогоне, при разборе вырезается -->
 Проверено 2026-10-29 через gh: 7 ссылок · ✅ 0 · ⚠️ 0 · ❓ 0 · ⚪ 7 · 🤷 0.
+
+
+## Check it yourself: prompt, sources, raw reports
+
+- All sources (95 links): [DR26-10-28-HUB-01-alternativy-screenpipe-audit-nepreryvnoy-audiozapisi-ishodnikov-i-remo/sources.md](DR26-10-28-HUB-01-alternativy-screenpipe-audit-nepreryvnoy-audiozapisi-ishodnikov-i-remo/sources.md)
+
+## Raw model reports
+
+2 reports delivered, synthesis used not recorded. [DR26-10-28-HUB-01-alternativy-screenpipe-audit-nepreryvnoy-audiozapisi-ishodnikov-i-remo/](DR26-10-28-HUB-01-alternativy-screenpipe-audit-nepreryvnoy-audiozapisi-ishodnikov-i-remo/README.md)

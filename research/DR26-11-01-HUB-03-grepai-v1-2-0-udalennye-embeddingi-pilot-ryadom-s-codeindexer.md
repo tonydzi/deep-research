@@ -63,3 +63,12 @@ source: Palo Alto AI Research Lab — deep research programme
 ## 🤔 Факт-линт (dr_fact_lint)
 <!-- авто-секция dr_fact_lint.py: перезаписывается при каждом прогоне, при разборе вырезается -->
 Проверено 2026-11-02 через gh: 1 ссылок · ✅ 0 · ⚠️ 0 · ❓ 0 · ⚪ 1 · 🤷 0.
+
+
+## Check it yourself: prompt, sources, raw reports
+
+- All sources (39 links): [DR26-11-01-HUB-03-grepai-v1-2-0-udalennye-embeddingi-pilot-ryadom-s-codeindexer/sources.md](DR26-11-01-HUB-03-grepai-v1-2-0-udalennye-embeddingi-pilot-ryadom-s-codeindexer/sources.md)
+
+## Raw model reports
+
+1 reports delivered, synthesis used not recorded. [DR26-11-01-HUB-03-grepai-v1-2-0-udalennye-embeddingi-pilot-ryadom-s-codeindexer/](DR26-11-01-HUB-03-grepai-v1-2-0-udalennye-embeddingi-pilot-ryadom-s-codeindexer/README.md)
