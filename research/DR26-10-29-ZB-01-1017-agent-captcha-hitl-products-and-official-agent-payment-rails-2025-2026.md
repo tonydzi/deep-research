@@ -75,13 +75,3 @@ source: Palo Alto AI Research Lab — deep research programme
 - **ACP + Stripe Shared Payment Tokens**: токен ограничен продавцом, суммой, сроком; ресурсы `SharedPaymentIssuedToken`/`SharedPaymentGrantedToken` в changelog Stripe 22.04.2026.
 - **Stripe «Order Intents»**: живого продукта под этим именем ни одна нога не нашла.
 Документ-решение с тремя шорт-листами: скретчпад сессии ноутбук `decision-agent-unleash-3shortlists.md`.
-
-
-## Check it yourself: prompt, sources, raw reports
-
-- Prompt: [DR26-10-29-ZB-01-1017-agent-captcha-hitl-products-and-official-agent-payment-rails-2025-2026/prompt.md](DR26-10-29-ZB-01-1017-agent-captcha-hitl-products-and-official-agent-payment-rails-2025-2026/prompt.md)
-- All sources (245 links): [DR26-10-29-ZB-01-1017-agent-captcha-hitl-products-and-official-agent-payment-rails-2025-2026/sources.md](DR26-10-29-ZB-01-1017-agent-captcha-hitl-products-and-official-agent-payment-rails-2025-2026/sources.md)
-
-## Raw model reports
-
-4 reports delivered, synthesis used 1 of 6. Note: 3 report(s) arrived after the synthesis was written; they are attached raw and were not reconciled. [DR26-10-29-ZB-01-1017-agent-captcha-hitl-products-and-official-agent-payment-rails-2025-2026/](DR26-10-29-ZB-01-1017-agent-captcha-hitl-products-and-official-agent-payment-rails-2025-2026/README.md)
