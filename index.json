@@ -1,6 +1,6 @@
 {
- "generated": "2026-11-11",
- "count": 349,
+ "generated": "2026-11-12",
+ "count": 351,
  "repo": "https://github.com/tonydzi/deep-research",
  "research": [
   {
@@ -391,15 +391,6 @@
    "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-11-01-MACPRO192-01-1537-monitoring-nagruzki-flota-pod-llm-agentami-sintez-dr26-11-01-macpro192.md"
   },
   {
-   "dr_id": "DR26-11-03-HUB-01-0950",
-   "title": "ДР 0950: карта рынка второго мозга и общей памяти, сравнение с Zep AI",
-   "summary": "Заказ Антона из чата 001 (сессия-мать H21133). Потребитель: собеседование Антона с CEO Zep AI 04.11.2026 21:00 Лиссабон (роль Head of Forward Deployed Engineering) и решение, где строить наш продукт (Obsidian + SQLite graph RAG + 8 машин + Claude/Codex/Grok).",
-   "lang": "ru",
-   "date": "",
-   "slug": "DR26-11-03-HUB-01-0950-dr-0950-karta-rynka-vtorogo-mozga-i-obschey-pamyati-sravnenie-s-zep-ai",
-   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-11-03-HUB-01-0950-dr-0950-karta-rynka-vtorogo-mozga-i-obschey-pamyati-sravnenie-s-zep-ai.md"
-  },
-  {
    "dr_id": "DR26-11-03-HUB-03-1102",
    "title": "ДР: что конкретно делает Anima Labs в памяти агентов",
    "summary": "Machine: A-2022BAYAREA (Хаб) · Agent: Claude · Operator: Anton · 2026-11-03",
@@ -407,6 +398,24 @@
    "date": "",
    "slug": "DR26-11-03-HUB-03-1102-dr-chto-konkretno-delaet-anima-labs-v-pamyati-agentov",
    "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-11-03-HUB-03-1102-dr-chto-konkretno-delaet-anima-labs-v-pamyati-agentov.md"
+  },
+  {
+   "dr_id": "DR26-11-11-ZB-01-1753",
+   "title": "DR26-11-11-ZB-01-1753 — какие MCP-коннекторы брать под наши задачи",
+   "summary": "Заказ Антона 11.11.2026 17:46 через сессию Z82067. Вход: анализ спроса по 9 125 сессиям 27.05–11.11 (`_scratch/connectors-demand-20261111.txt`). Правило флота §7.13: в постоянном конфиге только http-коннекторы.",
+   "lang": "ru",
+   "date": "",
+   "slug": "DR26-11-11-ZB-01-1753-dr26-11-11-zb-01-1753-kakie-mcp-konnektory-brat-pod-nashi-zadachi",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-11-11-ZB-01-1753-dr26-11-11-zb-01-1753-kakie-mcp-konnektory-brat-pod-nashi-zadachi.md"
+  },
+  {
+   "dr_id": "DR26-11-12-HUB-01-0234",
+   "title": "DR26-11-12-HUB-01-0234: коннекторы под дыры флота и вердикт по X API",
+   "summary": "Machine: A-2022BAYAREA (Хаб) · Agent: Claude Code (Opus 5.5) · Operator: Anton · 2026-11-12",
+   "lang": "ru",
+   "date": "",
+   "slug": "DR26-11-12-HUB-01-0234-dr26-11-12-hub-01-0234-konnektory-pod-dyry-flota-i-verdikt-po-x-api",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-11-12-HUB-01-0234-dr26-11-12-hub-01-0234-konnektory-pod-dyry-flota-i-verdikt-po-x-api.md"
   },
   {
    "dr_id": "DR26-05-01-HUB-01",
@@ -3143,6 +3152,15 @@
    "date": "2026-11-10",
    "slug": "DR26-11-10-HUB-04-1439-web-summit-2026-realno-li-yadernoe-pitanie-tsod-k-2030-i-kak-proveryat",
    "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-11-10-HUB-04-1439-web-summit-2026-realno-li-yadernoe-pitanie-tsod-k-2030-i-kak-proveryat.md"
+  },
+  {
+   "dr_id": "DR26-11-11-MACPRO192-01-1546",
+   "title": "Откуда берутся свежебогатые 2010-2026 и где деньги сейчас (сигналы luxury-покупок)",
+   "summary": "⚠️ ПРЕДВАРИТЕЛЬНО: кворум 3 сильные ноги при пороге 4; несущие цифры взяты из отчётов ног и по первоисточникам не сверены. Для решений годится как карта зацепок, для публикации нет. Заказ: голосовая Антона 7732 (09.11.2026), сырьё [[voice-20261109-014939-msg7732]]. ДР `DR26-11-11-MACPRO192-01-1546`, промпт и оригиналы ног: `~/artusha-macPro192Ram/_agents/claude/dr-new-money/`. Соседний старый ДР только про крипто-пулы под BD: [[insight-DR-DR26-07-02-HUB-07-where-the-biggest-crypto-digital-asset-money-pools]].",
+   "lang": "ru",
+   "date": "2026-11-11",
+   "slug": "DR26-11-11-MACPRO192-01-1546-otkuda-berutsya-svezhebogatye-2010-2026-i-gde-dengi-seychas-signaly-lu",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-11-11-MACPRO192-01-1546-otkuda-berutsya-svezhebogatye-2010-2026-i-gde-dengi-seychas-signaly-lu.md"
   }
  ]
 }
