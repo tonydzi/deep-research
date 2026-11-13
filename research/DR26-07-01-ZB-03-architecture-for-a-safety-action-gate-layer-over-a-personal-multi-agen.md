@@ -43,3 +43,11 @@ _нет_
 - agent-stack safety architecture (DR-C bundle)
 - insight-DR-DR26-07-28-HUB-17-2339-safety-action-gate-architecture-for-a-solo-operato — тот же исходный DR-брифинг (safety/action-gate), наш сирота — его завершённый ответ
 - action-layer-contribution-plan — same_cluster: Связывает архитектуру слоя контроля действий с планом внешнего контрибьюта. (codex; ✓grok+glm+mistral)
+
+
+## Check it yourself: prompt, sources, raw reports
+
+
+## Raw model reports
+
+1 reports delivered, synthesis used not recorded. [DR26-07-01-ZB-03-architecture-for-a-safety-action-gate-layer-over-a-personal-multi-agen/](DR26-07-01-ZB-03-architecture-for-a-safety-action-gate-layer-over-a-personal-multi-agen/README.md)

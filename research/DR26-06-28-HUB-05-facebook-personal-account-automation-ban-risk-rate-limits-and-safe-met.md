@@ -54,3 +54,11 @@ source: Palo Alto AI Research Lab — deep research programme
 - fb-reply
 - credential-store
 - facebook-diary-auto
+
+
+## Check it yourself: prompt, sources, raw reports
+
+
+## Raw model reports
+
+1 reports delivered, synthesis used not recorded. [DR26-06-28-HUB-05-facebook-personal-account-automation-ban-risk-rate-limits-and-safe-met/](DR26-06-28-HUB-05-facebook-personal-account-automation-ban-risk-rate-limits-and-safe-met/README.md)

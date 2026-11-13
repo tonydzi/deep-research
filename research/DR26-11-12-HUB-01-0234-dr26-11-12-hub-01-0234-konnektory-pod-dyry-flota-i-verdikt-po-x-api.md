@@ -84,3 +84,7 @@ Machine: хаб (Хаб) · Agent: Claude Code (Opus 5.5) · Operator: Anton · 
   - доступен ли Bookface MCP нашему аккаунту кандидата.
 
 Атрибуция: заказали Tony Dzi (Anton Dziatkovskii) и Майкрофт, Palo Alto AI Research Lab.
+
+## Разнос (applied, 12.11.2026, H34573)
+Блок «Официальная дверь» дописан в 7 скиллов: luma-apply, apply-to-jobs, publish-twitter-post, x-inbox-watch, fb-reply, local-fb-messenger, fb-message-commenters. Пополнение X: аск #6f288cd1 у Антона.
+Machine: хаб (Хаб) · Agent: Claude Code (Opus 5.5) · Operator: Anton · 2026-11-12

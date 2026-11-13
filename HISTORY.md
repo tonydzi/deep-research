@@ -1,10 +1,12 @@
 # Research history
 
-350 deep-research runs, newest first. Each run is sent to several frontier models in parallel ("rails"); models finish at different times, so a synthesis may be built from fewer reports than were finally delivered. The two columns show both numbers honestly; `?` means we do not know.
+352 deep-research runs, newest first. Each run is sent to several frontier models in parallel ("rails"); models finish at different times, so a synthesis may be built from fewer reports than were finally delivered. The two columns show both numbers honestly; `?` means we do not know.
 
 | ID | date | topic | reports delivered | used in synthesis | dev.to |
 |---|---|---|---|---|---|
 | [DR26-11-12-HUB-01-0234](https://github.com/tonydzi/deep-research/blob/main/research/DR26-11-12-HUB-01-0234-dr26-11-12-hub-01-0234-konnektory-pod-dyry-flota-i-verdikt-po-x-api.md) | 2026-11-12 | Коннекторы под дыры флота: Luma, Facebook/Messenger, X API цена, YC WaaS, WhatsApp — официальный API vs браузе | 5 | 5/6 |  |
+| [DR26-11-12-HUB-02-1343](https://github.com/tonydzi/deep-research/blob/main/research/DR26-11-12-HUB-02-1343-tiktok-i-sotsseti-vred-umnoe-ispolzovanie-gde-auditoriya-obucheniya-ii.md) | 2026-11-12 | TikTok и соцсети: вред (RCT vs корреляции), фильтры/MCP поверх лент, аудитория и средний чек обучения ИИ, срав | 4 | 4/6 |  |
+| [DR26-11-12-HUB-04-1433](https://github.com/tonydzi/deep-research/blob/main/research/DR26-11-12-HUB-04-1433-dr-apify-protiv-nashih-ezhednevnyh-zadach-po-dannym-chto-brat-chto-ost.md) | 2026-11-12 | Apify Store/Actors/MCP против наших ежедневных кейсов: купить, оставить своё, построить свой актор | 4 | 4/6 |  |
 | [DR26-11-11-MACPRO192-01-1546](https://github.com/tonydzi/deep-research/blob/main/research/DR26-11-11-MACPRO192-01-1546-otkuda-berutsya-svezhebogatye-2010-2026-i-gde-dengi-seychas-signaly-lu.md) | 2026-11-11 | Свежебогатые: сверхдоходные вертикали 2010-2026 по сигналам luxury-покупок (Дубай, суперкары, часы, яхты, джет | 1 | 3/4 |  |
 | [DR26-11-11-ZB-01-1753](https://github.com/tonydzi/deep-research/blob/main/research/DR26-11-11-ZB-01-1753-dr26-11-11-zb-01-1753-kakie-mcp-konnektory-brat-pod-nashi-zadachi.md) | 2026-11-11 | Выбор MCP-коннекторов под наши задачи: какие есть, какие популярны, что брать (кластеры спроса 9125 сессий) | 4 | 4/6 |  |
 | [DR26-11-10-HUB-04-1439](https://github.com/tonydzi/deep-research/blob/main/research/DR26-11-10-HUB-04-1439-web-summit-2026-realno-li-yadernoe-pitanie-tsod-k-2030-i-kak-proveryat.md) | 2026-11-10 | Web Summit 2026: Why nuclear compute cannot wait a decade; Blue Energy, Helical Fusion, Andrew Freedman | 4 | 4/6 |  |

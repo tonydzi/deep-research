@@ -54,3 +54,12 @@ source: Palo Alto AI Research Lab — deep research programme
 - verification loop
 - permission modes coding agents
 - первый пользовательский опыт (FTUE)
+
+
+## Check it yourself: prompt, sources, raw reports
+
+- All sources (5 links): [DR26-08-29-MACANTON-16-0743-pervye-komandy-i-minimalnyy-onbording-novichkov-v-claude-code-codex-i/sources.md](DR26-08-29-MACANTON-16-0743-pervye-komandy-i-minimalnyy-onbording-novichkov-v-claude-code-codex-i/sources.md)
+
+## Raw model reports
+
+1 reports delivered, synthesis used not recorded. [DR26-08-29-MACANTON-16-0743-pervye-komandy-i-minimalnyy-onbording-novichkov-v-claude-code-codex-i/](DR26-08-29-MACANTON-16-0743-pervye-komandy-i-minimalnyy-onbording-novichkov-v-claude-code-codex-i/README.md)
