@@ -1,6 +1,6 @@
 # Deep Research — Palo Alto AI Research Lab
 
-353 deep-research reports, distilled. Every entry answers two questions: why we ran this research, and what we got out of it.
+352 deep-research reports, distilled. Every entry answers two questions: why we ran this research, and what we got out of it.
 
 Each report was run across several frontier models (ChatGPT, Gemini, Grok, Claude, GLM, Mistral), then reconciled into the distilled note you see here. Findings are the reconciled ones, not a single model's opinion.
 
@@ -377,7 +377,6 @@ Raw model transcripts stay in our vault. What is published here is the distilled
 | [DR26-11-11-ZB-01-1753](research/DR26-11-11-ZB-01-1753-dr26-11-11-zb-01-1753-kakie-mcp-konnektory-brat-pod-nashi-zadachi.md) | DR26-11-11-ZB-01-1753 — какие MCP-коннекторы брать под наши задачи |  |
 | [DR26-11-12-HUB-01-0234](research/DR26-11-12-HUB-01-0234-dr26-11-12-hub-01-0234-konnektory-pod-dyry-flota-i-verdikt-po-x-api.md) | DR26-11-12-HUB-01-0234: коннекторы под дыры флота и вердикт по X API |  |
 | [DR26-11-12-HUB-02-1343](research/DR26-11-12-HUB-02-1343-tiktok-i-sotsseti-vred-umnoe-ispolzovanie-gde-auditoriya-obucheniya-ii.md) | TikTok и соцсети: вред, умное использование, где аудитория обучения ИИ и сколько платят |  |
-| [DR26-11-12-HUB-04-1433](research/DR26-11-12-HUB-04-1433-dr-apify-protiv-nashih-ezhednevnyh-zadach-po-dannym-chto-brat-chto-ost.md) | DR: Apify против наших ежедневных задач по данным. Что брать, что оставить, что строить |  |
 
 ---
 

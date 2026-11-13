@@ -1,6 +1,6 @@
 # Palo Alto AI Research Lab — deep research corpus
 
-353 distilled deep-research reports. Machine-readable index: index.json
+352 distilled deep-research reports. Machine-readable index: index.json
 Each file: frontmatter (dr_id, title, date, lang) + summary + key findings + recommendations.
 Multi-model methodology: every question fanned out to several frontier models, then reconciled.
 License: CC BY 4.0. Cite as: Palo Alto AI Research Lab, deep research <dr_id>.
@@ -357,4 +357,3 @@ License: CC BY 4.0. Cite as: Palo Alto AI Research Lab, deep research <dr_id>.
 - DR26-11-11-ZB-01-1753 (, ru): DR26-11-11-ZB-01-1753 — какие MCP-коннекторы брать под наши задачи
 - DR26-11-12-HUB-01-0234 (, ru): DR26-11-12-HUB-01-0234: коннекторы под дыры флота и вердикт по X API
 - DR26-11-12-HUB-02-1343 (, ru): TikTok и соцсети: вред, умное использование, где аудитория обучения ИИ и сколько платят
-- DR26-11-12-HUB-04-1433 (, ru): DR: Apify против наших ежедневных задач по данным. Что брать, что оставить, что строить

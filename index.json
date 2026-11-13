@@ -1,6 +1,6 @@
 {
  "generated": "2026-11-13",
- "count": 353,
+ "count": 352,
  "repo": "https://github.com/tonydzi/deep-research",
  "research": [
   {
@@ -425,15 +425,6 @@
    "date": "",
    "slug": "DR26-11-12-HUB-02-1343-tiktok-i-sotsseti-vred-umnoe-ispolzovanie-gde-auditoriya-obucheniya-ii",
    "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-11-12-HUB-02-1343-tiktok-i-sotsseti-vred-umnoe-ispolzovanie-gde-auditoriya-obucheniya-ii.md"
-  },
-  {
-   "dr_id": "DR26-11-12-HUB-04-1433",
-   "title": "DR: Apify против наших ежедневных задач по данным. Что брать, что оставить, что строить",
-   "summary": "Machine: A-2022BAYAREA (Хаб) · Agent: Claude Code (Opus 5.5) · Operator: Anton · 2026-11-12",
-   "lang": "ru",
-   "date": "",
-   "slug": "DR26-11-12-HUB-04-1433-dr-apify-protiv-nashih-ezhednevnyh-zadach-po-dannym-chto-brat-chto-ost",
-   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-11-12-HUB-04-1433-dr-apify-protiv-nashih-ezhednevnyh-zadach-po-dannym-chto-brat-chto-ost.md"
   },
   {
    "dr_id": "DR26-05-01-HUB-01",
