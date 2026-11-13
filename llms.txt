@@ -1,6 +1,6 @@
 # Palo Alto AI Research Lab — deep research corpus
 
-352 distilled deep-research reports. Machine-readable index: index.json
+349 distilled deep-research reports. Machine-readable index: index.json
 Each file: frontmatter (dr_id, title, date, lang) + summary + key findings + recommendations.
 Multi-model methodology: every question fanned out to several frontier models, then reconciled.
 License: CC BY 4.0. Cite as: Palo Alto AI Research Lab, deep research <dr_id>.
@@ -8,7 +8,6 @@ License: CC BY 4.0. Cite as: Palo Alto AI Research Lab, deep research <dr_id>.
 - DR26-11-11-MACPRO192-01-1546 (2026-11-11, ru): Откуда берутся свежебогатые 2010-2026 и где деньги сейчас (сигналы luxury-покупок)
 - DR26-11-10-HUB-04-1439 (2026-11-10, ru): Web Summit 2026: реально ли ядерное питание ЦОД к 2030 и как проверять обещания панели
 - DR26-11-09-HUB-03 (2026-11-09, ru): Workshop Labs PBC × Thinking Machines Lab: сделка, технологии, безопасность, benchmark
-- DR26-11-06-HUB-01 (2026-11-06, ru): Повседневная обувь для здоровых детей 9–12 лет с широкой стопой (HOKA Clifton 10 и альтерн
 - DR26-11-05-HUB-01-0805 (2026-11-05, ru): Ночной сон ИИ-агента: sleep-time compute, рефлексия дня, заготовки ответов
 - DR26-11-04-HUB-02-1908 (2026-11-04, ru): Альтернативы Terminum для браузерных и мобильных мультиагентных сессий по SSH-хостам
 - DR26-11-01-HUB-02-1433 (2026-11-01, mixed): CodeIndexer (codeindexer.dev): свежесть индекса, флот и решение KEEP/TRY/PARK
@@ -114,7 +113,6 @@ License: CC BY 4.0. Cite as: Palo Alto AI Research Lab, deep research <dr_id>.
 - DR26-08-25-MACANTON-17-0742 (2026-08-25, en): HuggingFace/vendor cookbook contributions as a hiring lever into frontier LLM labs
 - DR26-08-24-MACANTON-01-0007 (2026-08-24, ru): Заметность в топ-10 LLM: второе касание, а не объём — синтез DR-0007
 - DR26-08-24-MACANTON-02-1025 (2026-08-24, en): Выбор EU-юрисдикции (не Португалия) для второго юрлица под EIC-гранты при живом Delaware C
-- DR26-08-23-HUB-01-2221 (2026-08-23, ru): Аяуаска: агрессия, стыд, привыкание, риски, декриминализация + верификация Хэнкока и Бигли
 - DR26-08-20-MACANTON-02-2259 (2026-08-20, mixed): n8n 2.x: недоиспользуемые фичи и антипаттерны под архитектуру событийных ушей для локальны
 - DR26-08-15-HUB-01 (2026-08-15, ru): Browser rail (CDP/Chrome) и screen automation rail по ОС для безлюдных агентов
 - DR26-08-15-HUB-02 (2026-08-15, ru): Грабли CDP/браузер-рельс и экранного контроля для AI-агентов на Win/Mac/Linux (2025–2026)
@@ -326,7 +324,6 @@ License: CC BY 4.0. Cite as: Palo Alto AI Research Lab, deep research <dr_id>.
 - DR26-08-04-ZB-08-1744 (, ru): Синтез DR26-08-04-ZB-08 — GEO-аналитика по origin-логам: зрелого OSS нет, дом инструмента = свой репо
 - DR26-08-04-ZB-09-1803 (, ru): Синтез DR26-08-04-ZB-09 — путь в ответы AI: узкое место = ИНДЕКС и внешние ссылки, не краул
 - DR26-08-04-ZB-12-2205 (, ru): Синтез DR26-08-04-ZB-12 - голос в веса: CPT на BASE-чекпоинте, а не вендорский fine-tune
-- DR26-08-05-ZB-01-0125 (, ru): почему статья висит на arXiv и что реально делать
 - DR26-08-14-NAT-01-0941 (, ru): Синтез: как маленькой AI-лаборатории заходить на Хабр
 - DR26-08-14-NAT-03-1248 (, ru): SYNTHESIS: неанглоязычная дистрибуция Agent Skills
 - DR26-08-14-ZB-01-0159 (, ru): SYNTHESIS: AI-native премиум-сервисы для состоятельной русскоязычной диаспоры вне РФ

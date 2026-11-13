@@ -1,6 +1,6 @@
 # Deep Research — Palo Alto AI Research Lab
 
-352 deep-research reports, distilled. Every entry answers two questions: why we ran this research, and what we got out of it.
+349 deep-research reports, distilled. Every entry answers two questions: why we ran this research, and what we got out of it.
 
 Each report was run across several frontier models (ChatGPT, Gemini, Grok, Claude, GLM, Mistral), then reconciled into the distilled note you see here. Findings are the reconciled ones, not a single model's opinion.
 
@@ -186,7 +186,6 @@ Raw model transcripts stay in our vault. What is published here is the distilled
 | [DR26-11-11-MACPRO192-01-1546](research/DR26-11-11-MACPRO192-01-1546-otkuda-berutsya-svezhebogatye-2010-2026-i-gde-dengi-seychas-signaly-lu.md) | Откуда берутся свежебогатые 2010-2026 и где деньги сейчас (сигналы luxury-покупок) | 2026-11-11 |
 | [DR26-11-10-HUB-04-1439](research/DR26-11-10-HUB-04-1439-web-summit-2026-realno-li-yadernoe-pitanie-tsod-k-2030-i-kak-proveryat.md) | Web Summit 2026: реально ли ядерное питание ЦОД к 2030 и как проверять обещания панели | 2026-11-10 |
 | [DR26-11-09-HUB-03](research/DR26-11-09-HUB-03-workshop-labs-pbc-thinking-machines-lab-sdelka-tehnologii-bezopasnost.md) | Workshop Labs PBC × Thinking Machines Lab: сделка, технологии, безопасность, benchmark | 2026-11-09 |
-| [DR26-11-06-HUB-01](research/DR26-11-06-HUB-01-povsednevnaya-obuv-dlya-zdorovyh-detey-9-12-let-s-shirokoy-stopoy-hoka.md) | Повседневная обувь для здоровых детей 9–12 лет с широкой стопой (HOKA Clifton 10 и альтерн | 2026-11-06 |
 | [DR26-11-05-HUB-01-0805](research/DR26-11-05-HUB-01-0805-nochnoy-son-ii-agenta-sleep-time-compute-refleksiya-dnya-zagotovki-otv.md) | Ночной сон ИИ-агента: sleep-time compute, рефлексия дня, заготовки ответов | 2026-11-05 |
 | [DR26-11-04-HUB-02-1908](research/DR26-11-04-HUB-02-1908-alternativy-terminum-dlya-brauzernyh-i-mobilnyh-multiagentnyh-sessiy-p.md) | Альтернативы Terminum для браузерных и мобильных мультиагентных сессий по SSH-хостам | 2026-11-04 |
 | [DR26-11-01-HUB-03](research/DR26-11-01-HUB-03-grepai-v1-2-0-udalennye-embeddingi-pilot-ryadom-s-codeindexer.md) | grepai v1.2.0: удалённые эмбеддинги, пилот рядом с CodeIndexer | 2026-11-01 |
@@ -257,7 +256,6 @@ Raw model transcripts stay in our vault. What is published here is the distilled
 | [DR26-08-25-MACANTON-15-0740](research/DR26-08-25-MACANTON-15-0740-venice-ai-vs-fanvue-sravnenie-finansirovaniya-otsenki-i-riskov-avg-202.md) | Venice.ai vs Fanvue: сравнение финансирования, оценки и рисков (авг. 2026) | 2026-08-25 |
 | [DR26-08-25-MACANTON-16-0740](research/DR26-08-25-MACANTON-16-0740-google-antigravity-2-0-arhitektura-interfeysy-desktop-cli-headless-sdk.md) | Google Antigravity 2.0: архитектура, интерфейсы (Desktop/CLI/headless/SDK/Managed API), пр | 2026-08-25 |
 | [DR26-08-24-MACANTON-01-0007](research/DR26-08-24-MACANTON-01-0007-zametnost-v-top-10-llm-vtoroe-kasanie-a-ne-obem-sintez-dr-0007.md) | Заметность в топ-10 LLM: второе касание, а не объём — синтез DR-0007 | 2026-08-24 |
-| [DR26-08-23-HUB-01-2221](research/DR26-08-23-HUB-01-2221-ayauaska-agressiya-styd-privykanie-riski-dekriminalizatsiya-verifikats.md) | Аяуаска: агрессия, стыд, привыкание, риски, декриминализация + верификация Хэнкока и Бигли | 2026-08-23 |
 | [DR26-08-15-HUB-01](research/DR26-08-15-HUB-01-browser-rail-cdp-chrome-i-screen-automation-rail-po-os-dlya-bezlyudnyh.md) | Browser rail (CDP/Chrome) и screen automation rail по ОС для безлюдных агентов | 2026-08-15 |
 | [DR26-08-15-HUB-02](research/DR26-08-15-HUB-02-grabli-cdp-brauzer-rels-i-ekrannogo-kontrolya-dlya-ai-agentov-na-win-m.md) | Грабли CDP/браузер-рельс и экранного контроля для AI-агентов на Win/Mac/Linux (2025–2026) | 2026-08-15 |
 | [DR26-08-14-MACANTON-01-2117](research/DR26-08-14-MACANTON-01-2117-brauzernaya-i-ekrannaya-relsa-dlya-mac16-i-flota-grabli-agentnyh-brauz.md) | браузерная и экранная рельса для Mac16 и флота — грабли агентных браузеров и экранного контроля | 2026-08-14 |
@@ -346,7 +344,6 @@ Raw model transcripts stay in our vault. What is published here is the distilled
 | [DR26-08-04-ZB-08-1744](research/DR26-08-04-ZB-08-1744-sintez-dr26-08-04-zb-08-geo-analitika-po-origin-logam-zrelogo-oss-net.md) | Синтез DR26-08-04-ZB-08 — GEO-аналитика по origin-логам: зрелого OSS нет, дом инструмента = свой репо |  |
 | [DR26-08-04-ZB-09-1803](research/DR26-08-04-ZB-09-1803-sintez-dr26-08-04-zb-09-put-v-otvety-ai-uzkoe-mesto-indeks-i-vneshnie.md) | Синтез DR26-08-04-ZB-09 — путь в ответы AI: узкое место = ИНДЕКС и внешние ссылки, не краул |  |
 | [DR26-08-04-ZB-12-2205](research/DR26-08-04-ZB-12-2205-sintez-dr26-08-04-zb-12-golos-v-vesa-cpt-na-base-chekpointe-a-ne-vendo.md) | Синтез DR26-08-04-ZB-12 - голос в веса: CPT на BASE-чекпоинте, а не вендорский fine-tune |  |
-| [DR26-08-05-ZB-01-0125](research/DR26-08-05-ZB-01-0125-pochemu-statya-visit-na-arxiv-i-chto-realno-delat.md) | почему статья висит на arXiv и что реально делать |  |
 | [DR26-08-14-NAT-01-0941](research/DR26-08-14-NAT-01-0941-sintez-kak-malenkoy-ai-laboratorii-zahodit-na-habr.md) | Синтез: как маленькой AI-лаборатории заходить на Хабр |  |
 | [DR26-08-14-NAT-03-1248](research/DR26-08-14-NAT-03-1248-synthesis-neangloyazychnaya-distributsiya-agent-skills.md) | SYNTHESIS: неанглоязычная дистрибуция Agent Skills |  |
 | [DR26-08-14-ZB-01-0159](research/DR26-08-14-ZB-01-0159-synthesis-ai-native-premium-servisy-dlya-sostoyatelnoy-russkoyazychnoy.md) | SYNTHESIS: AI-native премиум-сервисы для состоятельной русскоязычной диаспоры вне РФ |  |

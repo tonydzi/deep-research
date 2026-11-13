@@ -1,6 +1,6 @@
 {
  "generated": "2026-11-13",
- "count": 352,
+ "count": 349,
  "repo": "https://github.com/tonydzi/deep-research",
  "research": [
   {
@@ -146,15 +146,6 @@
    "date": "",
    "slug": "DR26-08-04-ZB-12-2205-sintez-dr26-08-04-zb-12-golos-v-vesa-cpt-na-base-chekpointe-a-ne-vendo",
    "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-08-04-ZB-12-2205-sintez-dr26-08-04-zb-12-golos-v-vesa-cpt-na-base-chekpointe-a-ne-vendo.md"
-  },
-  {
-   "dr_id": "DR26-08-05-ZB-01-0125",
-   "title": "почему статья висит на arXiv и что реально делать",
-   "summary": "Кормит решение: что предпринять по submit/7825136 («Le Chatelier Tokenomics», on hold с 23.07.2026, 14 дней, писем модератора нет) — и заводить ли второй аккаунт. > **База: 2 рельсы из 6 — кворум НЕ добран.** Но четыре несущих вывода я проверил НЕ по рельсам, а напрямую по живым страницам arXiv 06.08.2026. Это сильнее четвёртого мнения LLM. Причины недобора рельс — замерены, не угаданы (см. §«Состояние вееров»). The author used [tool/model] for language editing and drafting assistance. All scientific claims, analyses, equations, data, and references were independently reviewed and verified by the author, who takes full responsibility for the content.",
-   "lang": "ru",
-   "date": "",
-   "slug": "DR26-08-05-ZB-01-0125-pochemu-statya-visit-na-arxiv-i-chto-realno-delat",
-   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-08-05-ZB-01-0125-pochemu-statya-visit-na-arxiv-i-chto-realno-delat.md"
   },
   {
    "dr_id": "DR26-08-14-NAT-01-0941",
@@ -2182,15 +2173,6 @@
    "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-08-20-MACANTON-02-2259-n8n-2-x-nedoispolzuemye-fichi-i-antipatterny-pod-arhitekturu-sobytiyny.md"
   },
   {
-   "dr_id": "DR26-08-23-HUB-01-2221",
-   "title": "Аяуаска: агрессия, стыд, привыкание, риски, декриминализация + верификация Хэнкока и Бигли",
-   "summary": "ДР проверил шесть публичных утверждений заказчика об аяуаске (снижение агрессии, катарсис-стыд, отсутствие привыкания, риски, открытия на трипах, экономика запрета) и биографические claims про Хэнкока и Биглино — почти все требуют смягчения формулировок, а не снятия целиком.",
-   "lang": "ru",
-   "date": "2026-08-23",
-   "slug": "DR26-08-23-HUB-01-2221-ayauaska-agressiya-styd-privykanie-riski-dekriminalizatsiya-verifikats",
-   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-08-23-HUB-01-2221-ayauaska-agressiya-styd-privykanie-riski-dekriminalizatsiya-verifikats.md"
-  },
-  {
    "dr_id": "DR26-08-24-MACANTON-01-0007",
    "title": "Заметность в топ-10 LLM: второе касание, а не объём — синтез DR-0007",
    "summary": "Полный синтез + Decision Memo: `_machine-bus/_dr/queue/DR26-08-24-MACANTON-01-0007/SYNTHESIS.md`. Сырьё verbatim: `_originals/DR26-08-24-MACANTON-01-0007/`.",
@@ -3134,15 +3116,6 @@
    "date": "2026-11-05",
    "slug": "DR26-11-05-HUB-01-0805-nochnoy-son-ii-agenta-sleep-time-compute-refleksiya-dnya-zagotovki-otv",
    "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-11-05-HUB-01-0805-nochnoy-son-ii-agenta-sleep-time-compute-refleksiya-dnya-zagotovki-otv.md"
-  },
-  {
-   "dr_id": "DR26-11-06-HUB-01",
-   "title": "Повседневная обувь для здоровых детей 9–12 лет с широкой стопой (HOKA Clifton 10 и альтерн",
-   "summary": "Вредна ли ежедневная носка HOKA Clifton 10 здоровому ребёнку 9–12 лет с широкой стопой и чем её заменить: гибкой обычной, минималистичной обувью или чем-то ещё.",
-   "lang": "ru",
-   "date": "2026-11-06",
-   "slug": "DR26-11-06-HUB-01-povsednevnaya-obuv-dlya-zdorovyh-detey-9-12-let-s-shirokoy-stopoy-hoka",
-   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-11-06-HUB-01-povsednevnaya-obuv-dlya-zdorovyh-detey-9-12-let-s-shirokoy-stopoy-hoka.md"
   },
   {
    "dr_id": "DR26-11-09-HUB-03",
