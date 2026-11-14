@@ -4,9 +4,6 @@
 
 | ID | date | topic | reports delivered | used in synthesis | dev.to |
 |---|---|---|---|---|---|
-| [DR26-11-13-HUB-07-2154](https://github.com/tonydzi/deep-research/blob/main/research/DR26-11-13-HUB-07-2154-anton-popovich-eroplay-i-kalma-proverennye-vyvody.md) | 2026-11-13 | Anton Popovich, Калма и EroPlay: OSINT и система личного ИИ (Codex H39066 browser owner; ChatGPT plan c/6af787 | ? | ? |  |
-| [DR26-11-13-HUB-01](https://github.com/tonydzi/deep-research/blob/main/research/DR26-11-13-HUB-01-preventive-self-pay-whole-body-mri-for-a-lisbon-resident-providers-pri.md) | 2026-11-13 | Preventive self-pay whole-body MRI for a Lisbon resident | ? | ? |  |
-| [DR26-11-13-HUB-02](https://github.com/tonydzi/deep-research/blob/main/research/DR26-11-13-HUB-02-dose-anton-popovich-eroplay-ai-i-personalnaya-ai-sistema-kalma-kalma.md) | 2026-11-13 | DR26-11-13-HUB-07-2154 — профессиональное досье: Anton Popovich, EroPl | ? | ? |  |
 | [DR26-11-12-HUB-01-0234](https://github.com/tonydzi/deep-research/blob/main/research/DR26-11-12-HUB-01-0234-dr26-11-12-hub-01-0234-konnektory-pod-dyry-flota-i-verdikt-po-x-api.md) | 2026-11-12 | Коннекторы под дыры флота: Luma, Facebook/Messenger, X API цена, YC WaaS, WhatsApp — официальный API vs браузе | 5 | 5/6 |  |
 | [DR26-11-12-HUB-02-1343](https://github.com/tonydzi/deep-research/blob/main/research/DR26-11-12-HUB-02-1343-tiktok-i-sotsseti-vred-umnoe-ispolzovanie-gde-auditoriya-obucheniya-ii.md) | 2026-11-12 | TikTok и соцсети: вред (RCT vs корреляции), фильтры/MCP поверх лент, аудитория и средний чек обучения ИИ, срав | 4 | 4/6 |  |
 | [DR26-11-11-MACPRO192-01-1546](https://github.com/tonydzi/deep-research/blob/main/research/DR26-11-11-MACPRO192-01-1546-otkuda-berutsya-svezhebogatye-2010-2026-i-gde-dengi-seychas-signaly-lu.md) | 2026-11-11 | Свежебогатые: сверхдоходные вертикали 2010-2026 по сигналам luxury-покупок (Дубай, суперкары, часы, яхты, джет | 1 | 3/4 |  |

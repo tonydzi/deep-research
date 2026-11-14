@@ -75,7 +75,6 @@ Raw model transcripts stay in our vault. What is published here is the distilled
 
 | ID | Topic | Date |
 |---|---|---|
-| [DR26-11-13-HUB-01](research/DR26-11-13-HUB-01-preventive-self-pay-whole-body-mri-for-a-lisbon-resident-providers-pri.md) | Preventive self-pay whole-body MRI for a Lisbon resident: providers, prices, evidence | 2026-11-13 |
 | [DR26-11-01-HUB-02-1433](research/DR26-11-01-HUB-02-1433-codeindexer-codeindexer-dev-svezhest-indeksa-flot-i-reshenie-keep-try.md) | CodeIndexer (codeindexer.dev): свежесть индекса, флот и решение KEEP/TRY/PARK | 2026-11-01 |
 | [DR26-11-01-HUB-04](research/DR26-11-01-HUB-04-hilum-local-mcp-code-intelligence-tool-fleet-rollout-suitability-and-c.md) | Hilum (local MCP code-intelligence tool): fleet-rollout suitability and canary plan | 2026-11-01 |
 | [DR26-11-01-HUB-05-1439](research/DR26-11-01-HUB-05-1439-grepai-s-udalennymi-embeddingami-arhitektura-svezhest-resursy-kanareyk.md) | grepai с удалёнными эмбеддингами: архитектура, свежесть, ресурсы, канарейка | 2026-11-01 |
@@ -239,8 +238,6 @@ Raw model transcripts stay in our vault. What is published here is the distilled
 
 | ID | Тема | Дата |
 |---|---|---|
-| [DR26-11-13-HUB-02](research/DR26-11-13-HUB-02-dose-anton-popovich-eroplay-ai-i-personalnaya-ai-sistema-kalma-kalma.md) | Досье Anton Popovich, EroPlay.ai и персональная AI-система «Калма/Kalma» | 2026-11-13 |
-| [DR26-11-13-HUB-07-2154](research/DR26-11-13-HUB-07-2154-anton-popovich-eroplay-i-kalma-proverennye-vyvody.md) | Антон Попович, EroPlay и «Калма»: проверенные выводы | 2026-11-13 |
 | [DR26-11-11-MACPRO192-01-1546](research/DR26-11-11-MACPRO192-01-1546-otkuda-berutsya-svezhebogatye-2010-2026-i-gde-dengi-seychas-signaly-lu.md) | Откуда берутся свежебогатые 2010-2026 и где деньги сейчас (сигналы luxury-покупок) | 2026-11-11 |
 | [DR26-11-10-HUB-04-1439](research/DR26-11-10-HUB-04-1439-web-summit-2026-realno-li-yadernoe-pitanie-tsod-k-2030-i-kak-proveryat.md) | Web Summit 2026: реально ли ядерное питание ЦОД к 2030 и как проверять обещания панели | 2026-11-10 |
 | [DR26-11-09-HUB-03](research/DR26-11-09-HUB-03-workshop-labs-pbc-thinking-machines-lab-sdelka-tehnologii-bezopasnost.md) | Workshop Labs PBC × Thinking Machines Lab: сделка, технологии, безопасность, benchmark | 2026-11-09 |
