@@ -58,3 +58,11 @@ source: Palo Alto AI Research Lab — deep research programme
 - sleepy-consensus
 - consensus-active-session-marking
 - one-system-propagate
+
+
+## Check it yourself: prompt, sources, raw reports
+
+
+## Raw model reports
+
+1 reports delivered, synthesis used not recorded. [DR26-07-02-HUB-04-quorum-design-for-a-sleeping-personal-fleet/](DR26-07-02-HUB-04-quorum-design-for-a-sleeping-personal-fleet/README.md)

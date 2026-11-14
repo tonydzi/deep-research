@@ -1,60 +1,6 @@
-# deep-research
+# Deep Research — Palo Alto AI Research Lab
 
-A free library of 349 research reports on AI agents, tools and business topics, each one checked across several AI models and boiled down to a short note.
-
-**Who it's for:** engineers, founders and researchers who want a quick, sourced answer to "should we use X?" and an AI agent that wants to search these notes.
-**What you get:** for every report, why we ran it, the key findings, the recommendations and the open questions. Most are in English or Russian. Free to use with credit (CC BY 4.0).
-
-## Quick start
-1. Scroll to "Reports (English)" in the Details section below and pick a topic.
-2. Click its ID to open the report.
-3. Or search all reports at once: download [index.json](index.json) and search the titles and summaries.
-
-**Done when:** you have opened a report and can see its summary, key findings and recommendations.
-
-> Want an AI agent to do it for you? Paste this to Claude Code / Codex / Cursor:
-> "Read the 'For AI agents' section of https://github.com/tonydzi/deep-research and set it up for me."
-
-## For AI agents
-
-### Preconditions
-- Nothing to install. The repo is Markdown plus two index files. Python 3 only for the optional check below.
-- No accounts or keys. Anyone can read it.
-- Ask the human what topic they want, and which language (reports are English, Russian or mixed).
-
-### Use
-Machine-readable entry points:
-- `index.json`: `{generated, count, repo, research:[{dr_id, title, summary, lang, date, slug, url}]}`, 349 entries.
-- `llms.txt`: one line per report: `ID (date, lang): title`.
-- `research/<slug>.md`: the report, with frontmatter (`dr_id`, `title`, `date`, `lang`) then summary, key findings, recommendations.
-- `HISTORY.md`: all runs with how many model reports were delivered and used.
-```bash
-git clone --depth 1 https://github.com/tonydzi/deep-research
-cd deep-research
-python -c "import json;d=json.load(open('index.json',encoding='utf-8'));print([r['title'] for r in d['research'] if 'MCP' in r['title']][:5])"
-```
-Adapt the filter word to the human's topic, then open the matching `research/<slug>.md` and answer from it.
-
-### Configure
-Nothing to configure.
-
-### Verify
-```bash
-python -c "import json,os;d=json.load(open('index.json',encoding='utf-8'));print(d['count'],len(d['research']),sum(not os.path.exists('research/%s.md'%r['slug']) for r in d['research']))"
-```
-Expected today: `349 349 0` (count, entries, missing files). The numbers grow as reports are added; the last must stay `0`.
-
-### Uninstall / rollback
-Delete the cloned folder.
-
-### Rules for the agent
-- Cite the report as "Palo Alto AI Research Lab, deep research <dr_id>" (CC BY 4.0).
-- These are distilled notes, not raw model output. Say when a claim comes from a report that used few models (see `HISTORY.md`: "used in synthesis" such as 4/6), and re-check time-sensitive facts.
-- Do not contact the people, accounts or channels listed in the Details section on the human's behalf.
-
-## Details
-
-349 deep-research reports, distilled. Every entry answers two questions: why we ran this research, and what we got out of it.
+352 deep-research reports, distilled. Every entry answers two questions: why we ran this research, and what we got out of it.
 
 Each report was run across several frontier models (ChatGPT, Gemini, Grok, Claude, GLM, Mistral), then reconciled into the distilled note you see here. Findings are the reconciled ones, not a single model's opinion.
 
@@ -74,6 +20,7 @@ Raw model transcripts stay in our vault. What is published here is the distilled
 
 | ID | Topic | Date |
 |---|---|---|
+| [DR26-11-13-HUB-01](research/DR26-11-13-HUB-01-preventive-self-pay-whole-body-mri-for-a-lisbon-resident-providers-pri.md) | Preventive self-pay whole-body MRI for a Lisbon resident: providers, prices, evidence | 2026-11-13 |
 | [DR26-11-01-HUB-02-1433](research/DR26-11-01-HUB-02-1433-codeindexer-codeindexer-dev-svezhest-indeksa-flot-i-reshenie-keep-try.md) | CodeIndexer (codeindexer.dev): свежесть индекса, флот и решение KEEP/TRY/PARK | 2026-11-01 |
 | [DR26-11-01-HUB-04](research/DR26-11-01-HUB-04-hilum-local-mcp-code-intelligence-tool-fleet-rollout-suitability-and-c.md) | Hilum (local MCP code-intelligence tool): fleet-rollout suitability and canary plan | 2026-11-01 |
 | [DR26-11-01-HUB-05-1439](research/DR26-11-01-HUB-05-1439-grepai-s-udalennymi-embeddingami-arhitektura-svezhest-resursy-kanareyk.md) | grepai с удалёнными эмбеддингами: архитектура, свежесть, ресурсы, канарейка | 2026-11-01 |
@@ -237,6 +184,8 @@ Raw model transcripts stay in our vault. What is published here is the distilled
 
 | ID | Тема | Дата |
 |---|---|---|
+| [DR26-11-13-HUB-02](research/DR26-11-13-HUB-02-dose-anton-popovich-eroplay-ai-i-personalnaya-ai-sistema-kalma-kalma.md) | Досье Anton Popovich, EroPlay.ai и персональная AI-система «Калма/Kalma» | 2026-11-13 |
+| [DR26-11-13-HUB-07-2154](research/DR26-11-13-HUB-07-2154-anton-popovich-eroplay-i-kalma-proverennye-vyvody.md) | Антон Попович, EroPlay и «Калма»: проверенные выводы | 2026-11-13 |
 | [DR26-11-11-MACPRO192-01-1546](research/DR26-11-11-MACPRO192-01-1546-otkuda-berutsya-svezhebogatye-2010-2026-i-gde-dengi-seychas-signaly-lu.md) | Откуда берутся свежебогатые 2010-2026 и где деньги сейчас (сигналы luxury-покупок) | 2026-11-11 |
 | [DR26-11-10-HUB-04-1439](research/DR26-11-10-HUB-04-1439-web-summit-2026-realno-li-yadernoe-pitanie-tsod-k-2030-i-kak-proveryat.md) | Web Summit 2026: реально ли ядерное питание ЦОД к 2030 и как проверять обещания панели | 2026-11-10 |
 | [DR26-11-09-HUB-03](research/DR26-11-09-HUB-03-workshop-labs-pbc-thinking-machines-lab-sdelka-tehnologii-bezopasnost.md) | Workshop Labs PBC × Thinking Machines Lab: сделка, технологии, безопасность, benchmark | 2026-11-09 |

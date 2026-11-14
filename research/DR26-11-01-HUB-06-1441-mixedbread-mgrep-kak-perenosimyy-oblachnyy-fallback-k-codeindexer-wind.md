@@ -66,3 +66,13 @@ source: Palo Alto AI Research Lab — deep research programme
 ## 🤔 Факт-линт (dr_fact_lint)
 <!-- авто-секция dr_fact_lint.py: перезаписывается при каждом прогоне, при разборе вырезается -->
 Проверено 2026-11-02 через gh: 9 ссылок · ✅ 0 · ⚠️ 0 · ❓ 0 · ⚪ 9 · 🤷 0.
+
+
+## Check it yourself: prompt, sources, raw reports
+
+- Prompt: [DR26-11-01-HUB-06-1441-mixedbread-mgrep-kak-perenosimyy-oblachnyy-fallback-k-codeindexer-wind/prompt.md](DR26-11-01-HUB-06-1441-mixedbread-mgrep-kak-perenosimyy-oblachnyy-fallback-k-codeindexer-wind/prompt.md)
+- All sources (105 links): [DR26-11-01-HUB-06-1441-mixedbread-mgrep-kak-perenosimyy-oblachnyy-fallback-k-codeindexer-wind/sources.md](DR26-11-01-HUB-06-1441-mixedbread-mgrep-kak-perenosimyy-oblachnyy-fallback-k-codeindexer-wind/sources.md)
+
+## Raw model reports
+
+5 reports delivered, synthesis used 5 of 6. [DR26-11-01-HUB-06-1441-mixedbread-mgrep-kak-perenosimyy-oblachnyy-fallback-k-codeindexer-wind/](DR26-11-01-HUB-06-1441-mixedbread-mgrep-kak-perenosimyy-oblachnyy-fallback-k-codeindexer-wind/README.md)

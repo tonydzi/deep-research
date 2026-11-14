@@ -75,3 +75,13 @@ Machine: хаб (Хаб) · Agent: Claude Code (Fable 5.1) · Operator: Anton ·
 ## 🤔 Факт-линт (dr_fact_lint)
 <!-- авто-секция dr_fact_lint.py: перезаписывается при каждом прогоне, при разборе вырезается -->
 Проверено 2026-11-05 через gh: 0 ссылок · ✅ 0 · ⚠️ 0 · ❓ 0 · ⚪ 0 · 🤷 0.
+
+
+## Check it yourself: prompt, sources, raw reports
+
+- Prompt: [DR26-11-04-HUB-02-1908-alternativy-terminum-dlya-brauzernyh-i-mobilnyh-multiagentnyh-sessiy-p/prompt.md](DR26-11-04-HUB-02-1908-alternativy-terminum-dlya-brauzernyh-i-mobilnyh-multiagentnyh-sessiy-p/prompt.md)
+- All sources (259 links): [DR26-11-04-HUB-02-1908-alternativy-terminum-dlya-brauzernyh-i-mobilnyh-multiagentnyh-sessiy-p/sources.md](DR26-11-04-HUB-02-1908-alternativy-terminum-dlya-brauzernyh-i-mobilnyh-multiagentnyh-sessiy-p/sources.md)
+
+## Raw model reports
+
+4 reports delivered, synthesis used 1 of 6. Note: 4 report(s) arrived after the synthesis was written; they are attached raw and were not reconciled. [DR26-11-04-HUB-02-1908-alternativy-terminum-dlya-brauzernyh-i-mobilnyh-multiagentnyh-sessiy-p/](DR26-11-04-HUB-02-1908-alternativy-terminum-dlya-brauzernyh-i-mobilnyh-multiagentnyh-sessiy-p/README.md)
