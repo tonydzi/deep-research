@@ -1,4 +1,59 @@
-# Deep Research — Palo Alto AI Research Lab
+# deep-research
+
+A free library of 350+ research reports (new ones added nightly) on AI agents, tools and business topics, each one checked across several AI models and boiled down to a short note.
+
+**Who it's for:** engineers, founders and researchers who want a quick, sourced answer to "should we use X?" and an AI agent that wants to search these notes.
+**What you get:** for every report, why we ran it, the key findings, the recommendations and the open questions. Most are in English or Russian. Free to use with credit (CC BY 4.0).
+
+## Quick start
+1. Scroll to "Reports (English)" in the Details section below and pick a topic (that table holds the English and mixed-language reports; Russian-only ones are in "Отчёты (русский)" further down).
+2. Click its ID to open the report.
+3. Or search all reports at once: download [index.json](index.json) and search the titles and summaries.
+
+**Done when:** you have opened a report and can see its summary, key findings and recommendations. Note that the section headings inside every report are in Russian even when the text is English: "Ключевые выводы" means key findings, "Рекомендации / решения" means recommendations, "Открытые вопросы" means open questions. A few older reports lack some of these sections.
+
+> Want an AI agent to do it for you? Paste this to Claude Code / Codex / Cursor:
+> "Read the 'For AI agents' section of https://github.com/tonydzi/deep-research and set it up for me."
+
+## For AI agents
+
+### Preconditions
+- Nothing to install. The repo is Markdown plus two index files (`index.json`, `llms.txt`). Python 3 only for the optional check below. On Windows type `python` (not `python3`).
+- No accounts or keys. Anyone can read it.
+- Ask the human what topic they want, and which language (reports are English, Russian or mixed).
+
+### Use
+Machine-readable entry points:
+- `index.json`: `{generated, count, repo, research:[{dr_id, title, summary, lang, date, slug, url}]}`, one entry per report.
+- `llms.txt`: one line per report: `ID (date, lang): title`.
+- `research/<slug>.md`: the distilled report, with frontmatter (`dr_id`, `title`, `date`, `lang`) then a summary and sections headed in Russian: `## Ключевые выводы` (key findings), `## Рекомендации / решения` (recommendations), `## Открытые вопросы` (open questions). Not every report has every section.
+- `research/<slug>/` (a folder, present for 282 of the reports): how that run was done (`README.md`) plus the individual model reports (`chatgpt.md`, `grok.md`, `gemini.md` and so on), published as delivered after an automatic privacy scrub. These are model output, not our reconciled conclusions; cite the distilled `research/<slug>.md` note unless the human asks for a specific model's view.
+- `HISTORY.md`: all runs with how many model reports were delivered and used.
+```bash
+git clone --depth 1 https://github.com/tonydzi/deep-research
+cd deep-research
+python -c "import json;d=json.load(open('index.json',encoding='utf-8'));print([r['title'] for r in d['research'] if 'MCP' in r['title']][:5])"
+```
+Adapt the filter word to the human's topic, then open the matching `research/<slug>.md` and answer from it.
+
+### Configure
+Nothing to configure.
+
+### Verify
+```bash
+python -c "import json,os;d=json.load(open('index.json',encoding='utf-8'));print(d['count'],len(d['research']),sum(not os.path.exists('research/%s.md'%r['slug']) for r in d['research']))"
+```
+Expected: three numbers, for example `352 352 0` (count, entries, missing files). The first two must be equal and grow as reports are added; the last must be `0`.
+
+### Uninstall / rollback
+Delete the cloned folder.
+
+### Rules for the agent
+- Cite the report as "Palo Alto AI Research Lab, deep research <dr_id>" (CC BY 4.0).
+- These are distilled notes, not raw model output. Say when a claim comes from a report that used few models (see `HISTORY.md`: "used in synthesis" such as 4/6), and re-check time-sensitive facts.
+- Do not contact the people, accounts or channels listed in the Details section on the human's behalf.
+
+## Details
 
 352 deep-research reports, distilled. Every entry answers two questions: why we ran this research, and what we got out of it.
 
