@@ -1,6 +1,10 @@
 {
  "generated": "2026-11-15",
+<<<<<<< Updated upstream
  "count": 349,
+=======
+ "count": 350,
+>>>>>>> Stashed changes
  "repo": "https://github.com/tonydzi/deep-research",
  "research": [
   {
@@ -3143,6 +3147,15 @@
    "date": "2026-11-11",
    "slug": "DR26-11-11-MACPRO192-01-1546-otkuda-berutsya-svezhebogatye-2010-2026-i-gde-dengi-seychas-signaly-lu",
    "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-11-11-MACPRO192-01-1546-otkuda-berutsya-svezhebogatye-2010-2026-i-gde-dengi-seychas-signaly-lu.md"
+  },
+  {
+   "dr_id": "DR26-11-13-MACANTON-01-0708",
+   "title": "Apple Photos: «embedding revision mismatch», что это и что делать",
+   "summary": "1. Не делать Repair Library, не чистить контейнеры и кэши mediaanalysisd, не отключать демоны. 2. Ограниченный read-only замер логов (затухание всплесков со временем: если не затухают, миграция опровергнута). 3. Один минимальный Feedback Assistant репорт: подпись, точное время, sysdiagnose, замеры CPU, без заявления «доказанный баг».",
+   "lang": "ru",
+   "date": "2026-11-15",
+   "slug": "DR26-11-13-MACANTON-01-0708-apple-photos-embedding-revision-mismatch-chto-eto-i-chto-delat",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-11-13-MACANTON-01-0708-apple-photos-embedding-revision-mismatch-chto-eto-i-chto-delat.md"
   }
  ]
 }

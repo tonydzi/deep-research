@@ -68,13 +68,3 @@ source: Palo Alto AI Research Lab — deep research programme
 ## 🤔 Факт-линт (dr_fact_lint)
 <!-- авто-секция dr_fact_lint.py: перезаписывается при каждом прогоне, при разборе вырезается -->
 Проверено 2026-11-02 через gh: 6 ссылок · ✅ 0 · ⚠️ 0 · ❓ 0 · ⚪ 6 · 🤷 0.
-
-
-## Check it yourself: prompt, sources, raw reports
-
-- Prompt: [DR26-11-01-HUB-08-1444-cocoindex-code-ccc-slim-cloud-embeddings-as-an-on-demand-add-on-to-cod/prompt.md](DR26-11-01-HUB-08-1444-cocoindex-code-ccc-slim-cloud-embeddings-as-an-on-demand-add-on-to-cod/prompt.md)
-- All sources (112 links): [DR26-11-01-HUB-08-1444-cocoindex-code-ccc-slim-cloud-embeddings-as-an-on-demand-add-on-to-cod/sources.md](DR26-11-01-HUB-08-1444-cocoindex-code-ccc-slim-cloud-embeddings-as-an-on-demand-add-on-to-cod/sources.md)
-
-## Raw model reports
-
-5 reports delivered, synthesis used 5 of 6. [DR26-11-01-HUB-08-1444-cocoindex-code-ccc-slim-cloud-embeddings-as-an-on-demand-add-on-to-cod/](DR26-11-01-HUB-08-1444-cocoindex-code-ccc-slim-cloud-embeddings-as-an-on-demand-add-on-to-cod/README.md)
