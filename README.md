@@ -70,7 +70,6 @@ Raw model transcripts stay in our vault. What is published here is the distilled
 
 > We are looking for an engineer-tester who enjoys breaking research pipelines before they quietly produce nonsense.
 
-
 ## Reports (English)
 
 | ID | Topic | Date |
