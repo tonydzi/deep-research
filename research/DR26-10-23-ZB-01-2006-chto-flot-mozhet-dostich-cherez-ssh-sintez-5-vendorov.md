@@ -116,3 +116,13 @@ RELIABILITY
 [single-vendor] mistral: обновления Windows с октября 2024 ломали запуск sshd (error 1053/1067), починено к марту 2025.
 [single-vendor] mistral: claude --resume <id> "prompt" (с v2.1.285) шлёт промпт в фоновую сессию; JetBrains Gateway официально только Linux-хосты.
 [single-vendor] gemini: Windows-обновления сбивают ACL administrators_authorized_keys, чинить Set-Acl (только SYSTEM и Administrators); Mac-ноут бодрить LaunchAgent с caffeinate -s -i; Set-NetAdapterPowerManagement -AllowSleepFromPowerDown Disabled.
+
+
+## Check it yourself: prompt, sources, raw reports
+
+- Prompt: [DR26-10-23-ZB-01-2006-chto-flot-mozhet-dostich-cherez-ssh-sintez-5-vendorov/prompt.md](DR26-10-23-ZB-01-2006-chto-flot-mozhet-dostich-cherez-ssh-sintez-5-vendorov/prompt.md)
+- All sources (296 links): [DR26-10-23-ZB-01-2006-chto-flot-mozhet-dostich-cherez-ssh-sintez-5-vendorov/sources.md](DR26-10-23-ZB-01-2006-chto-flot-mozhet-dostich-cherez-ssh-sintez-5-vendorov/sources.md)
+
+## Raw model reports
+
+4 reports delivered, synthesis used 5 of 5. [DR26-10-23-ZB-01-2006-chto-flot-mozhet-dostich-cherez-ssh-sintez-5-vendorov/](DR26-10-23-ZB-01-2006-chto-flot-mozhet-dostich-cherez-ssh-sintez-5-vendorov/README.md)

@@ -43,3 +43,12 @@ source: Palo Alto AI Research Lab — deep research programme
 - Gemini plan-фаза медленная (~3-4 мин), report-write ещё дольше (>20 мин суммарно) — самый медленный канал, кандидат №1 на офиц. API.
 - Grok blob-download тихо не долетел (задокументированная грабля) → Bash-фолбэк; экстракт сперва зацепил эхо промпта (якорь на «Thought for…» надёжнее первого «Executive Summary»).
 - TrustedHTML CSP у Gemini → `replaceChildren`, не `innerHTML`.
+
+
+## Check it yourself: prompt, sources, raw reports
+
+- All sources (58 links): [DR26-07-14-FLEE-01-sintez-konsensus-dr26-07-14-flee-01-nadezhnaya-bezlyudnaya-orkestratsi/sources.md](DR26-07-14-FLEE-01-sintez-konsensus-dr26-07-14-flee-01-nadezhnaya-bezlyudnaya-orkestratsi/sources.md)
+
+## Raw model reports
+
+2 reports delivered, synthesis used not recorded. [DR26-07-14-FLEE-01-sintez-konsensus-dr26-07-14-flee-01-nadezhnaya-bezlyudnaya-orkestratsi/](DR26-07-14-FLEE-01-sintez-konsensus-dr26-07-14-flee-01-nadezhnaya-bezlyudnaya-orkestratsi/README.md)

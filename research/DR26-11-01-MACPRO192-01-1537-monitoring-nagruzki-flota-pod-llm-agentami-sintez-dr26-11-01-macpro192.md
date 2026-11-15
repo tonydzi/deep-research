@@ -71,3 +71,13 @@ source: Palo Alto AI Research Lab — deep research programme
 etdata-stream.env` (в волте его нет и не будет).
 
 Machine: хаб (Хаб) · Agent: Claude Code · Operator: Anton · 2026-11-08 · H42182
+
+
+## Check it yourself: prompt, sources, raw reports
+
+- Prompt: [DR26-11-01-MACPRO192-01-1537-monitoring-nagruzki-flota-pod-llm-agentami-sintez-dr26-11-01-macpro192/prompt.md](DR26-11-01-MACPRO192-01-1537-monitoring-nagruzki-flota-pod-llm-agentami-sintez-dr26-11-01-macpro192/prompt.md)
+- All sources (15 links): [DR26-11-01-MACPRO192-01-1537-monitoring-nagruzki-flota-pod-llm-agentami-sintez-dr26-11-01-macpro192/sources.md](DR26-11-01-MACPRO192-01-1537-monitoring-nagruzki-flota-pod-llm-agentami-sintez-dr26-11-01-macpro192/sources.md)
+
+## Raw model reports
+
+2 reports delivered, synthesis used 4 of 6. Note: 2 report(s) arrived after the synthesis was written; they are attached raw and were not reconciled. [DR26-11-01-MACPRO192-01-1537-monitoring-nagruzki-flota-pod-llm-agentami-sintez-dr26-11-01-macpro192/](DR26-11-01-MACPRO192-01-1537-monitoring-nagruzki-flota-pod-llm-agentami-sintez-dr26-11-01-macpro192/README.md)

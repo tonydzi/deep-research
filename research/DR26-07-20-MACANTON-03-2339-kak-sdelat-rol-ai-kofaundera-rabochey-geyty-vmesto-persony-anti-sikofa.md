@@ -60,3 +60,12 @@ source: Palo Alto AI Research Lab — deep research programme
 - context-engineering
 - objection-sparring-to-consensus
 - cofounder-growth-log
+
+
+## Check it yourself: prompt, sources, raw reports
+
+- All sources (31 links): [DR26-07-20-MACANTON-03-2339-kak-sdelat-rol-ai-kofaundera-rabochey-geyty-vmesto-persony-anti-sikofa/sources.md](DR26-07-20-MACANTON-03-2339-kak-sdelat-rol-ai-kofaundera-rabochey-geyty-vmesto-persony-anti-sikofa/sources.md)
+
+## Raw model reports
+
+3 reports delivered, synthesis used not recorded. [DR26-07-20-MACANTON-03-2339-kak-sdelat-rol-ai-kofaundera-rabochey-geyty-vmesto-persony-anti-sikofa/](DR26-07-20-MACANTON-03-2339-kak-sdelat-rol-ai-kofaundera-rabochey-geyty-vmesto-persony-anti-sikofa/README.md)
