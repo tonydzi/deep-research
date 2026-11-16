@@ -61,13 +61,3 @@ source: Palo Alto AI Research Lab — deep research programme
 
 ## ⚠️ Корректировка судьи DR (25.10.2026): ИНВЕРСИЯ
 Утверждение «только промпт, выводов нет» неверно: `queue/DR26-10-24-HUB-07-0721/results/grok.md` (33 КБ, 24.10 00:16) содержит отчёт. Вывод Grok: оставить CodeIndexer; семантический кандидат на канарейку `cocoindex-code` 0.2.42 (e5-small); навигация `serena-agent` 1.7.0 (MIT; 2.1.0 GPL); уверенность [emerging], одна нога из 6, без кворума. Актуальная версия: insight-codeindexer-companions-20261025. Статус этой заметки: superseded_by эта корректировка.
-
-
-## Check it yourself: prompt, sources, raw reports
-
-- Prompt: [DR26-10-24-HUB-07-0721-codeindexer-companion-semantic-search-and-lsp-canary-selection-oct-202/prompt.md](DR26-10-24-HUB-07-0721-codeindexer-companion-semantic-search-and-lsp-canary-selection-oct-202/prompt.md)
-- All sources (49 links): [DR26-10-24-HUB-07-0721-codeindexer-companion-semantic-search-and-lsp-canary-selection-oct-202/sources.md](DR26-10-24-HUB-07-0721-codeindexer-companion-semantic-search-and-lsp-canary-selection-oct-202/sources.md)
-
-## Raw model reports
-
-1 reports delivered, synthesis used 1 of 6. [DR26-10-24-HUB-07-0721-codeindexer-companion-semantic-search-and-lsp-canary-selection-oct-202/](DR26-10-24-HUB-07-0721-codeindexer-companion-semantic-search-and-lsp-canary-selection-oct-202/README.md)
