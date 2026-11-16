@@ -1,6 +1,6 @@
 {
  "generated": "2026-11-16",
- "count": 350,
+ "count": 348,
  "repo": "https://github.com/tonydzi/deep-research",
  "research": [
   {
@@ -1037,15 +1037,6 @@
    "date": "2026-07-04",
    "slug": "DR26-07-04-HUB-05-zhurnal-zadach-done-undone-dlya-claude-code-markdown-v-obsidian-vs-bea",
    "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-07-04-HUB-05-zhurnal-zadach-done-undone-dlya-claude-code-markdown-v-obsidian-vs-bea.md"
-  },
-  {
-   "dr_id": "DR26-07-04-HUB-06",
-   "title": "X API v2 posting + FB Graph reading own posts — July 2026 setup, automatable vs owner-only",
-   "summary": "Deep-research запрос про точные шаги июля 2026 для X API v2 (постинг твитов) и FB Graph API (чтение своих постов), с классификацией шагов на agent-can-do vs owner-only и вопросом о платёжном гейте.",
-   "lang": "ru",
-   "date": "2026-07-04",
-   "slug": "DR26-07-04-HUB-06-x-api-v2-posting-fb-graph-reading-own-posts-july-2026-setup-automatabl",
-   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-07-04-HUB-06-x-api-v2-posting-fb-graph-reading-own-posts-july-2026-setup-automatabl.md"
   },
   {
    "dr_id": "DR26-07-04-HUB-07",
@@ -2693,15 +2684,6 @@
    "date": "2026-09-26",
    "slug": "DR26-09-26-HUB-01-2230-jev-typesafe-ai-system-one-perenosit-li-reshayuschie-tochki-flota-na-t",
    "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-09-26-HUB-01-2230-jev-typesafe-ai-system-one-perenosit-li-reshayuschie-tochki-flota-na-t.md"
-  },
-  {
-   "dr_id": "DR26-09-29-HUB-01-0839",
-   "title": "bb (get-bb) как оркестратор мульти-агентного флота: паттерны использования и интерфейсы",
-   "summary": "Постановочный запрос deep-research (без вошедших в присланный текст ответов вендоров) о том, кто и как использует bb в проде как оркестратора агентов, как подключают несколько LLM-агентов и какие интерфейсы/альтернативы подходят для VPS-флота Антона.",
-   "lang": "ru",
-   "date": "2026-09-29",
-   "slug": "DR26-09-29-HUB-01-0839-bb-get-bb-kak-orkestrator-multi-agentnogo-flota-patterny-ispolzovaniya",
-   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-09-29-HUB-01-0839-bb-get-bb-kak-orkestrator-multi-agentnogo-flota-patterny-ispolzovaniya.md"
   },
   {
    "dr_id": "DR26-09-30-HUB-01-1422",
