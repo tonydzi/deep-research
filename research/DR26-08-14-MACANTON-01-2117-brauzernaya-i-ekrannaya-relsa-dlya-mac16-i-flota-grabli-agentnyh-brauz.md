@@ -23,8 +23,8 @@ source: Palo Alto AI Research Lab — deep research programme
 - ✅ доказано: из `glm` ниже не взяты самостоятельные цифры, версии или факты.
 - ✅ доказано: `glm` использован только как второе мнение там, где вывод уже подтверждён сильной рельсой.
 - ✅ доказано: предмет решения: Mac16, Windows-хаб, Linux-якорь и Windows-узлы коллег.
-- ✅ доказано: практический выход: проект правок матрицы `/firefox` и §4.8 `CLAUDE.md`.
-- 🤔 гипотеза: точная текущая формулировка строк `/firefox` в отчётах не приведена, поэтому раздел 7 задаёт смысловой diff, а не буквальный patch по строкам файла.
+- ✅ доказано: практический выход: проект правок матрицы `/choose-browser` и §4.8 `CLAUDE.md`.
+- 🤔 гипотеза: точная текущая формулировка строк `/choose-browser` в отчётах не приведена, поэтому раздел 7 задаёт смысловой diff, а не буквальный patch по строкам файла.
 
 ### Короткий вердикт
 
@@ -373,9 +373,9 @@ source: Palo Alto AI Research Lab — deep research programme
 
 ## 7. Что конкретно менять
 
-### 7.1 Матрица `/firefox`
+### 7.1 Матрица `/choose-browser`
 
-🤔 гипотеза: буквальный текст текущей матрицы `/firefox` в отчётах отсутствует. Ниже дан обязательный смысловой diff для её строк.
+🤔 гипотеза: буквальный текст текущей матрицы `/choose-browser` в отчётах отсутствует. Ниже дан обязательный смысловой diff для её строк.
 
 | Строка | Как было | Как станет | Почему |
 |---|---|---|---|
@@ -479,7 +479,7 @@ source: Palo Alto AI Research Lab — deep research programme
 
 🤔 гипотеза: нужен ли semantic rebind вообще после простого restart+rediscovery. Нет трёх наших датированных поломок класса.
 
-🤔 гипотеза: текущая буквальная матрица `/firefox` содержит все перечисленные строки. Файл не был частью входа.
+🤔 гипотеза: текущая буквальная матрица `/choose-browser` содержит все перечисленные строки. Файл не был частью входа.
 
 🤔 гипотеза: новое правило сохранит фактическое большинство задач за Firefox. Нужен usage counter по task class.
 
@@ -518,3 +518,13 @@ Firefox оставляем рабочей лошадкой для простых
 ## Связано
 - insight-DR-DR26-08-15-HUB-01-browser-rail-cdp-chrome-и-screen-automation-rail-п — тот же кластер тем (browser rail CDP/Chrome + screen automation), синтез на день раньше по смежному DR
 - insight-DR-DR26-08-15-HUB-03-real-world-failure-modes-of-agent-driven-browsers- — тот же исходный DR-документ, параллельный синтез другим вендором того же сырья
+
+
+## Check it yourself: prompt, sources, raw reports
+
+- Prompt: [DR26-08-14-MACANTON-01-2117-brauzernaya-i-ekrannaya-relsa-dlya-mac16-i-flota-grabli-agentnyh-brauz/prompt.md](DR26-08-14-MACANTON-01-2117-brauzernaya-i-ekrannaya-relsa-dlya-mac16-i-flota-grabli-agentnyh-brauz/prompt.md)
+- All sources (145 links): [DR26-08-14-MACANTON-01-2117-brauzernaya-i-ekrannaya-relsa-dlya-mac16-i-flota-grabli-agentnyh-brauz/sources.md](DR26-08-14-MACANTON-01-2117-brauzernaya-i-ekrannaya-relsa-dlya-mac16-i-flota-grabli-agentnyh-brauz/sources.md)
+
+## Raw model reports
+
+3 reports delivered, synthesis used 4 of 6. Note: 1 report(s) arrived after the synthesis was written; they are attached raw and were not reconciled. [DR26-08-14-MACANTON-01-2117-brauzernaya-i-ekrannaya-relsa-dlya-mac16-i-flota-grabli-agentnyh-brauz/](DR26-08-14-MACANTON-01-2117-brauzernaya-i-ekrannaya-relsa-dlya-mac16-i-flota-grabli-agentnyh-brauz/README.md)

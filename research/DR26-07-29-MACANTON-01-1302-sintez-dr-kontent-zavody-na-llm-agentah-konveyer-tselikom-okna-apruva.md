@@ -13,7 +13,7 @@ source: Palo Alto AI Research Lab — deep research programme
 | рельса | что это | объём | статус |
 |---|---|---|---|
 | **ChatGPT Deep Research** (a2) | полноценный DR, 69 источников, ~70 000 знаков | блоки 3.8–6 + ошибки + архитектура | ✅ [чат](https://приватный чат) · ⚠️ первая половина (блоки 1–3.7) в чат не доехала, модель начала с пометки «Продолжение отчёта — с §3.8» |
-| **Grok CLI** (локальный, веб-поиск) | все 6 блоков, 30 источников | 44 000 знаков | ✅ веб-DR на grok.com не использован: канон `/firefox` §2 запрещает водить Grok селениумом (AUP xAI) |
+| **Grok CLI** (локальный, веб-поиск) | все 6 блоков, 30 источников | 44 000 знаков | ✅ веб-DR на grok.com не использован: канон `/choose-browser` §2 запрещает водить Grok селениумом (AUP xAI) |
 | **Codex CLI** (OpenAI) | точечный добор 8 пробелов, которые Grok пометил «не нашёл» | 23 000 знаков | ✅ |
 | **Gemini Deep Research** (Chrome, аккаунт `a`, Pro + Extended) | полноценный DR с планом, 18 источников | 37 000 знаков | ✅ [чат](https://приватный чат) — добран после вмешательства Антона; CLI-рельсы мертвы, браузерная живая |
 
@@ -152,3 +152,12 @@ source: Palo Alto AI Research Lab — deep research programme
 
 **Оригиналы:** `_originals/deep-research/DR26-07-29-MACANTON-01-1302-content-factories-{chatgpt,grok,gemini,codex-gaps}.md`
 **Связано:** spec-content-factory-architecture · spec-anti-slop-content-pipeline · content-approval-24h-timeout · tg-slop-markers-measured · content-factory-architecture · gemini-subscription-is-not-api-quota · prichina-kak-claim · fake-it-courage-not-fake-numbers
+
+
+## Check it yourself: prompt, sources, raw reports
+
+- All sources (160 links): [DR26-07-29-MACANTON-01-1302-sintez-dr-kontent-zavody-na-llm-agentah-konveyer-tselikom-okna-apruva/sources.md](DR26-07-29-MACANTON-01-1302-sintez-dr-kontent-zavody-na-llm-agentah-konveyer-tselikom-okna-apruva/sources.md)
+
+## Raw model reports
+
+4 reports delivered, synthesis used not recorded. [DR26-07-29-MACANTON-01-1302-sintez-dr-kontent-zavody-na-llm-agentah-konveyer-tselikom-okna-apruva/](DR26-07-29-MACANTON-01-1302-sintez-dr-kontent-zavody-na-llm-agentah-konveyer-tselikom-okna-apruva/README.md)

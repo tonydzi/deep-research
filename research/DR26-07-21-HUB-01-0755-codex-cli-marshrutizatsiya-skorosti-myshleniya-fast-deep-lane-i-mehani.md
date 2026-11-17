@@ -18,7 +18,7 @@ source: Palo Alto AI Research Lab — deep research programme
 ## ⚔️ Ключевое расхождение: unattended cron на подписке
 - **Grok**: официальные доки прямо поддерживают `codex exec` для CI/scheduled jobs, есть auth-refresh guidance; риск «низкий для intended use» [established по докам].
 - **Gemini**: подписочный OAuth в always-on cron = нарушение «Strictly Personal» ToS; бан-волна OpenCode/OpenHands (нач. 2026), фингерпринт = параллельные headless-сессии/непрерывный поток; для честного crona — API-key (`env_key = "<key-var>"`) [reported + ToS-чтение].
-- **Наша трактовка (синтез)**: расхождение о granular-политике, обе стороны сходятся в главном — **human-initiated headless безопасен**. Наш паттерн (t1/t2/t3 из живой сессии, /tt, ретро по команде Антона) = human-in-the-loop → ок в обеих трактовках. ⛔ Чистые ночные кроны на Codex-подписке НЕ заводим; если когда-то захочется — отдельное решение + API-key-лента (Tier-2 spend gate). Совместимо с prefer-included-limits-before-paid-api.
+- **Наша трактовка (синтез)**: расхождение о granular-политике, обе стороны сходятся в главном — **human-initiated headless безопасен**. Наш паттерн (t1/t2/t3 из живой сессии, /prove-build-works, ретро по команде Антона) = human-in-the-loop → ок в обеих трактовках. ⛔ Чистые ночные кроны на Codex-подписке НЕ заводим; если когда-то захочется — отдельное решение + API-key-лента (Tier-2 spend gate). Совместимо с prefer-included-limits-before-paid-api.
 
 ## Правки моей матрицы v1 (что DR поменял)
 | Пункт v1 | Было | Стало (по DR) |
@@ -36,6 +36,14 @@ source: Palo Alto AI Research Lab — deep research programme
 4. **Память**: codex-cli-install дополнена ссылкой сюда; правило «Codex = только human-initiated» — след в этой заметке + декстоп-решении.
 
 ## Вес ChatGPT-прогона
-Deep Research формально завершился (7 мин), но **0 citations · 0 searches** — писал из параметрической памяти, требования брифа нарушены. Текст забран аддендумом в оригинал (см. _originals), в синтезе НЕ использован как источник — только как третий голос «по общим местам» (совпадает с консенсусом, противоречий не внёс). Урок для /dr-fanout: «completed» ≠ «искал» — чек «citations>0» добавить в критерии приёмки сборщика.
+Deep Research формально завершился (7 мин), но **0 citations · 0 searches** — писал из параметрической памяти, требования брифа нарушены. Текст забран аддендумом в оригинал (см. _originals), в синтезе НЕ использован как источник — только как третий голос «по общим местам» (совпадает с консенсусом, противоречий не внёс). Урок для /fanout-deep-research: «completed» ≠ «искал» — чек «citations>0» добавить в критерии приёмки сборщика.
 
 > 🧒 Простыми словами: спросили трёх роботов, как правильно пользоваться платным помощником-программистом. Двое хорошо покопались и сошлись: у помощника есть кошелёк, который тратится тем быстрее, чем глубже он думает; думать «на максимум» почти никогда не выгодно — хватает «сильно»; и нельзя оставлять его работать совсем без человека — за это банят. Третий робот схалтурил (ничего не искал) — его ответ мы положили на полку с пометкой «не проверено».
+
+
+## Check it yourself: prompt, sources, raw reports
+
+
+## Raw model reports
+
+3 reports delivered, synthesis used not recorded. [DR26-07-21-HUB-01-0755-codex-cli-marshrutizatsiya-skorosti-myshleniya-fast-deep-lane-i-mehani/](DR26-07-21-HUB-01-0755-codex-cli-marshrutizatsiya-skorosti-myshleniya-fast-deep-lane-i-mehani/README.md)

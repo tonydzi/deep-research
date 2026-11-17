@@ -54,7 +54,7 @@ source: Palo Alto AI Research Lab — deep research programme
 - Monitoring overhead measurement
 - Admin elevation requirements
 - Before/after validation testing
-- Slowdown and thermal diagnosis (/perf)
+- Slowdown and thermal diagnosis (/fix-slow-machine)
 
 ## 🤔 Факт-линт (dr_fact_lint)
 <!-- авто-секция dr_fact_lint.py: перезаписывается при каждом прогоне, при разборе вырезается -->

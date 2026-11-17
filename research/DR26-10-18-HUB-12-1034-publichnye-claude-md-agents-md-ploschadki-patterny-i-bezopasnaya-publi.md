@@ -35,7 +35,7 @@ source: Palo Alto AI Research Lab — deep research programme
 ## Сущности
 - **Люди:** Lulla, Gloaguen, Антон
 - **Компании:** OpenAI, Prefect, Supabase, Bun (Oban/oven-sh), Google, Apache Airflow, Temporal, LangChain, Anthropic, Cursor
-- **Продукты/инструменты:** claude-bible, CLAUDE.md, AGENTS.md, GEMINI.md, .cursorrules, agents.md, awesome-claude-code, awesome-agent-conventions, awesome-agents-md, awesome-claude-md, awesome-cursorrules, Cursor Directory, GitHub Gist, GitHub code search, Claude Code, Codex, Gemini CLI, FastMCP, mcp-go, OpenAI Agents SDK, LangGraph, verify_candidate.py, collect_sources.py, primary-sources.json, /codex-review
+- **Продукты/инструменты:** claude-bible, CLAUDE.md, AGENTS.md, GEMINI.md, .cursorrules, agents.md, awesome-claude-code, awesome-agent-conventions, awesome-agents-md, awesome-claude-md, awesome-cursorrules, Cursor Directory, GitHub Gist, GitHub code search, Claude Code, Codex, Gemini CLI, FastMCP, mcp-go, OpenAI Agents SDK, LangGraph, verify_candidate.py, collect_sources.py, primary-sources.json, /cross-vendor-code-review
 
 ## Открытые вопросы
 - Улучшает ли очищенная публичная версия реальное поведение агентов: живой пилот и эксперимент с baseline/candidate не проведены, выигрыш в токенах и времени не заявлен.
@@ -60,3 +60,13 @@ source: Palo Alto AI Research Lab — deep research programme
 - длина инструкций против качества агента
 - мультивендорный Deep Research и кворум 4/6
 - безопасность и границы доверия в agent instructions
+
+
+## Check it yourself: prompt, sources, raw reports
+
+- Prompt: [DR26-10-18-HUB-12-1034-publichnye-claude-md-agents-md-ploschadki-patterny-i-bezopasnaya-publi/prompt.md](DR26-10-18-HUB-12-1034-publichnye-claude-md-agents-md-ploschadki-patterny-i-bezopasnaya-publi/prompt.md)
+- All sources (459 links): [DR26-10-18-HUB-12-1034-publichnye-claude-md-agents-md-ploschadki-patterny-i-bezopasnaya-publi/sources.md](DR26-10-18-HUB-12-1034-publichnye-claude-md-agents-md-ploschadki-patterny-i-bezopasnaya-publi/sources.md)
+
+## Raw model reports
+
+4 reports delivered, synthesis used 1 of 6. Note: 3 report(s) arrived after the synthesis was written; they are attached raw and were not reconciled. [DR26-10-18-HUB-12-1034-publichnye-claude-md-agents-md-ploschadki-patterny-i-bezopasnaya-publi/](DR26-10-18-HUB-12-1034-publichnye-claude-md-agents-md-ploschadki-patterny-i-bezopasnaya-publi/README.md)

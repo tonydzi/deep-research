@@ -427,6 +427,8 @@ Raw model transcripts stay in our vault. What is published here is the distilled
 | [DR26-11-11-ZB-01-1753](research/DR26-11-11-ZB-01-1753-dr26-11-11-zb-01-1753-kakie-mcp-konnektory-brat-pod-nashi-zadachi.md) | DR26-11-11-ZB-01-1753 — какие MCP-коннекторы брать под наши задачи |  |
 | [DR26-11-12-HUB-01-0234](research/DR26-11-12-HUB-01-0234-dr26-11-12-hub-01-0234-konnektory-pod-dyry-flota-i-verdikt-po-x-api.md) | DR26-11-12-HUB-01-0234: коннекторы под дыры флота и вердикт по X API |  |
 | [DR26-11-12-HUB-02-1343](research/DR26-11-12-HUB-02-1343-tiktok-i-sotsseti-vred-umnoe-ispolzovanie-gde-auditoriya-obucheniya-ii.md) | TikTok и соцсети: вред, умное использование, где аудитория обучения ИИ и сколько платят |  |
+| [DR26-11-15-MACSTUDIOM4-01-1401](research/DR26-11-15-MACSTUDIOM4-01-1401-sintez-dr-pereliv-auditorii-mezhdu-tiktok-instagram-threads-i-x.md) | Синтез ДР: перелив аудитории между TikTok, Instagram, Threads и X |  |
+| [DR26-11-16-MACANTON-01-1522](research/DR26-11-16-MACANTON-01-1522-dr26-11-16-macanton-01-1522-samaya-deshevaya-bezopasnaya-relsa-x-iz-cl.md) | DR26-11-16-MACANTON-01-1522: самая дешёвая безопасная рельса X из Claude Code |  |
 
 ---
 

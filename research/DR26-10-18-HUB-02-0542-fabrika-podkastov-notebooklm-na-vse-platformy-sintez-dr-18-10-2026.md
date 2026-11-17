@@ -29,7 +29,7 @@ source: Palo Alto AI Research Lab — deep research programme
 
 1. **Квота YouTube больше не узкое место.** С 01.06.2026 `videos.insert` живёт в отдельной корзине на 100 вызовов в сутки на проект (1 единица за вызов). 35 эпизодов в день и даже 35 эпизодов + 35 шортсов влезают в дефолт. Цифра «1600 units = 6 загрузок» устарела 04.12.2025. Дробить квоту на несколько GCP-проектов запрещено политикой разработчиков. (claude.ai: первоисточник справки `videos.insert` открыт; Mistral, GLM: вторичные сводки, совпадают.)
 2. **Главный риск = политика YouTube, а не техника.** С 15.07.2025 «repetitious» переименован в «inauthentic content»: массовый шаблонный контент без вариации лишается монетизации, проверка канальная. 35 одинаковых видео в день с теми же двумя AI-голосами = ровно профиль риска. AI сам по себе разрешён.
-3. **У потребительского NotebookLM API нет.** Официально: Gemini Notebook Enterprise API (Preview, лицензии Enterprise). Отдельный Podcast API помечен Deprecated 20.05.2026, новых клиентов не берут. Практики живут на `teng-lin/notebooklm-py` (неофициальный, «use at your own risk») и Playwright. У нас это уже стоит: рельса `/notebooklm` работает на `notebooklm-py`.
+3. **У потребительского NotebookLM API нет.** Официально: Gemini Notebook Enterprise API (Preview, лицензии Enterprise). Отдельный Podcast API помечен Deprecated 20.05.2026, новых клиентов не берут. Практики живут на `teng-lin/notebooklm-py` (неофициальный, «use at your own risk») и Playwright. У нас это уже стоит: рельса `/material-to-audio` работает на `notebooklm-py`.
 4. **Лимит генерации Audio Overview важнее квоты YouTube.** С 02.09.2026 вместо «3/6/20/100 в день» действует вычислительный бюджет с 5-часовыми окнами и недельным потолком. 35 эпизодов в день на одном Pro-аккаунте, скорее всего, не выйдет. Замерять на своём аккаунте. (Источники противоречат друг другу, все ноги помечают как emerging.)
 5. **Spotify загружается только через RSS.** Публичного API загрузки нет. Spotify, Apple, Amazon, Яндекс Музыка, Pocket Casts, Deezer, iHeart берут эпизоды из RSS-хостинга одной лентой. Видео-версия на Spotify = только ручная загрузка в Spotify for Creators.
 6. **Video Overview NotebookLM не синхронизируется с Audio Overview.** Это отдельный артефакт со своей озвучкой и сценарием. Его можно публиковать как самостоятельный Short (с честной заставкой «Made with Google»), но не как видеоряд к готовому эпизоду.
@@ -100,10 +100,10 @@ ChatGPT (`deep-research-mini`) утверждал три вещи, которы�
 
 **Решение:** вариант «Ярусы» (claude.ai) с MVP-скоростью GLM. Уверенность [emerging]. Главное допущение: YouTube судит канал целиком, поэтому меньший и разнообразный поток на YouTube безопаснее объёма, а все 35 эпизодов всё равно получают охват через RSS, Telegram и сайт.
 
-### MVP за неделю (под наш стек: хаб, RTX 5060 Ti, `/notebooklm`, `/youtube-publish`)
+### MVP за неделю (под наш стек: хаб, RTX 5060 Ti, `/material-to-audio`, `/youtube-publish`)
 
 1. **День 1.** Два шоу на RSS-хостинге с API (Transistor или RSS.com Max): RU и EN. Подать ленты в Spotify, Apple, Amazon, Яндекс Музыку. Тестовая загрузка через YouTube Data API: проверить, не уходит ли видео в private у непроверенного проекта; подать форму Audit and Quota Extension заранее.
-2. **Дни 2 и 3.** Выгрузка готовых Audio Overview через уже работающую рельсу `notebooklm-py` (`/notebooklm`). Генерацию держать полуручной: промпт ведущим = наш «оригинальный вклад».
+2. **Дни 2 и 3.** Выгрузка готовых Audio Overview через уже работающую рельсу `notebooklm-py` (`/material-to-audio`). Генерацию держать полуручной: промпт ведущим = наш «оригинальный вклад».
 3. **Дни 3 и 4.** Локально на хабе: faster-whisper large-v3 + pyannote → реплики с таймкодами; LLM на оплаченной подписке → заголовок, BLUF-описание, 5 до 8 Q&A, главы, теги, строка раскрытия ИИ; ffmpeg NVENC → 16:9 (обложка + волна + караоке-субтитры ASS) и 9:16 клип 60 до 90 с.
 4. **День 5.** Публикация: хостинг (все эпизоды) · Telegram `sendAudio` (все) · YouTube (3 до 5 лучших в день на язык, главы, галка «AI use», шестиблочное описание `/youtube-publish`) · X нативный клип без ссылки, ссылка в профиле.
 5. **Дни 6 и 7.** Сайт-зеркало (страница на эпизод: транскрипт, Q&A, `PodcastEpisode` JSON-LD, ссылки на первоисточники). Оркестровка: наш планировщик или self-hosted n8n с ретраями.
@@ -152,3 +152,13 @@ ChatGPT (`deep-research-mini`) утверждал три вещи, которы�
 - `dr_leg_gate.py` exit 0 проверяет объём, источники и эхо, но не правдивость фактов: нога ChatGPT прошла его с тремя ошибками. «Гейт PASS» не равно «факты верны».
 - Противоречие по квоте YouTube: `/youtube-publish` п.9 держит потолок 4 видео в сутки по замеру 14.10 (пятое видео теряло субтитры и read-back). Это отказ субтитров, а не обязательно отказ квоты загрузки, поэтому проверка корзин в Cloud Console одна вопрос не закроет: нужен повтор пяти загрузок за день с проверкой субтитров и read-back до правки DAILY_CAP.
 - Статус в реестре: `parked` (кто запарковал, в реестре не записано): выводы не применены к `/youtube-publish`.
+
+
+## Check it yourself: prompt, sources, raw reports
+
+- Prompt: [DR26-10-18-HUB-02-0542-fabrika-podkastov-notebooklm-na-vse-platformy-sintez-dr-18-10-2026/prompt.md](DR26-10-18-HUB-02-0542-fabrika-podkastov-notebooklm-na-vse-platformy-sintez-dr-18-10-2026/prompt.md)
+- All sources (262 links): [DR26-10-18-HUB-02-0542-fabrika-podkastov-notebooklm-na-vse-platformy-sintez-dr-18-10-2026/sources.md](DR26-10-18-HUB-02-0542-fabrika-podkastov-notebooklm-na-vse-platformy-sintez-dr-18-10-2026/sources.md)
+
+## Raw model reports
+
+5 reports delivered, synthesis used 5 of 6. [DR26-10-18-HUB-02-0542-fabrika-podkastov-notebooklm-na-vse-platformy-sintez-dr-18-10-2026/](DR26-10-18-HUB-02-0542-fabrika-podkastov-notebooklm-na-vse-platformy-sintez-dr-18-10-2026/README.md)

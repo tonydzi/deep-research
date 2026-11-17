@@ -12,14 +12,14 @@ source: Palo Alto AI Research Lab — deep research programme
 **Метод:** Grok (Expert, 28 источников) + Gemini 3.1 Pro + ChatGPT (deep research, самый дотошный, забран Антоном вручную — MCP-браузер не пробил chatgpt.com). ТРИ независимых вендора → confidence very-high.
 
 ## Вердикт по нашему дизайну
-✅ **Наш дизайн подтверждён как соответствующий best-practice** — local-* `.stignore` namespace (blast-radius=0 для чужих) + ОДИН писатель на always-on Маячке + промоушен «/tt + leak-scan + 1 peer», Anton-гейт на high-risk. Оба вендора пришли к той же архитектуре независимо. Наш инстинкт AK-47 (не строить тяжёлое) тоже подтверждён — см. «не заморачиваться».
+✅ **Наш дизайн подтверждён как соответствующий best-practice** — local-* `.stignore` namespace (blast-radius=0 для чужих) + ОДИН писатель на always-on Маячке + промоушен «/prove-build-works + leak-scan + 1 peer», Anton-гейт на high-risk. Оба вендора пришли к той же архитектуре независимо. Наш инстинкт AK-47 (не строить тяжёлое) тоже подтверждён — см. «не заморачиваться».
 
 ## 6 рельсов, которых у нас НЕ было — ДОБАВИТЬ (оба вендора сошлись)
 Ранжир impact×низкая-цена:
 1. **Crash-on-collision в загрузчике** (оба = #1, high/low). Если существуют `local-X` И `shared-X` одновременно → агент ЖЁСТКО падает, отказывается грузить оба, пока человек не разрулит. Закрывает «Shadowing Trap»: локальная версия молча остаётся уязвимой, когда общая пропатчила дыру. → нужен guard в конвенции имён.
 2. **Capability-манифест во frontmatter SKILL.md** + **shell ВЫКЛ по умолчанию**. `permissions: [shell, network, filesystem]` / `risk_level` / `processes_untrusted_data`, загрузчик энфорсит. ⭐ У Claude Code это РЕАЛЬНО есть: `disableSkillShellExecution` + `skillOverrides` (мы их не трогали). Скилл с shell → обязательный review.
-3. **Sync-conflict blacklist в ЗАГРУЗЧИКЕ** (не только `.stignore`). Агент обязан отказываться грузить `*.sync-conflict-*` (иначе читает склеенные битые инструкции). 🔴 ЖИВОЙ РИСК: у нас уже лежит `skills/dr-fanout/SKILL.sync-conflict-20260714-*.md` — проверить, что загрузчик его игнорит.
-4. **Sandbox для smoke-test/`/tt`** нового скилла — БЕЗ живого shell (restricted/mock), чтобы деструктивный скилл не выстрелил «пока тестирует сам себя».
+3. **Sync-conflict blacklist в ЗАГРУЗЧИКЕ** (не только `.stignore`). Агент обязан отказываться грузить `*.sync-conflict-*` (иначе читает склеенные битые инструкции). 🔴 ЖИВОЙ РИСК: у нас уже лежит `skills/fanout-deep-research/SKILL.sync-conflict-20260714-*.md` — проверить, что загрузчик его игнорит.
+4. **Sandbox для smoke-test/`/prove-build-works`** нового скилла — БЕЗ живого shell (restricted/mock), чтобы деструктивный скилл не выстрелил «пока тестирует сам себя».
 5. **Data/action isolation (privilege separation)** — скилл, читающий внешние недоверенные данные, НЕ в одной сессии со скиллом с outbound/shell/high-risk. Защита от prompt-injection (скилл прочитал вебстраницу с «exfiltrate keys»).
 6. **Leak-scan = ЖЁСТКИЙ блокирующий гейт** (TruffleHog/gitleaks), а не «глянули». Секрет в скилле = стоп промоушена.
 

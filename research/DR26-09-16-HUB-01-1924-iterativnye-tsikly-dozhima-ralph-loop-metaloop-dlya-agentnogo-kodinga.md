@@ -24,7 +24,7 @@ source: Palo Alto AI Research Lab — deep research programme
 ## Рекомендации / решения
 - Добавить preflight file-hash lock на директории tests/spec в ralph_loop.py перед каждой итерацией (~2 часа) — закрывает reward hacking
 - Заменить наивную оценку токенов на прямой парсинг usage-полей API ответа вместо len/3 эвристики (~3 часа) — устраняет 'токен-ложь' и перерасход бюджета
-- Встроить в /tt Red-to-Green gate: фикс принимается только если целевой тест доказанно был RED до патча (~4 часа) — гарантирует корневые фиксы, а не иллюзорные
+- Встроить в /prove-build-works Red-to-Green gate: фикс принимается только если целевой тест доказанно был RED до патча (~4 часа) — гарантирует корневые фиксы, а не иллюзорные
 - Собрать golden-микробенчмарк из 20 внутренних задач репозитория для количественной проверки правок промптов/скиллов (~6 часов)
 - Держать деterministic judge и test-orchestrator строго вне зоны записи агента; никогда не давать агенту править собственный harness оценки
 - Ввести жёсткие многомерные потолки на цикл: максимум итераций (N=5), wall-clock (30 мин), денежный потолок токенов ($0.50/задача)
@@ -33,7 +33,7 @@ source: Palo Alto AI Research Lab — deep research programme
 ## Сущности
 - **Люди:** —
 - **Компании:** Anthropic, OpenAI, Modal
-- **Продукты/инструменты:** Ralph Loop, MetaLoop, ralph_loop.py, Claude Code, Codex CLI, SWE-bench Verified, Active-SWE, OpenHands, DeepSWE-Preview, Hypothesis (property-based testing library), /tt
+- **Продукты/инструменты:** Ralph Loop, MetaLoop, ralph_loop.py, Claude Code, Codex CLI, SWE-bench Verified, Active-SWE, OpenHands, DeepSWE-Preview, Hypothesis (property-based testing library), /prove-build-works
 
 ## Открытые вопросы
 - Реальный экономический профиль 'grind until perfect' vs one-shot+human review количественно не установлен — при каких условиях цикл дороже разового прохода, осталось неясным
@@ -55,3 +55,13 @@ source: Palo Alto AI Research Lab — deep research programme
 - token-accounting-lies
 - finite-routines-eat-the-elephant
 - done-is-a-claim-recheck-twice
+
+
+## Check it yourself: prompt, sources, raw reports
+
+- Prompt: [DR26-09-16-HUB-01-1924-iterativnye-tsikly-dozhima-ralph-loop-metaloop-dlya-agentnogo-kodinga/prompt.md](DR26-09-16-HUB-01-1924-iterativnye-tsikly-dozhima-ralph-loop-metaloop-dlya-agentnogo-kodinga/prompt.md)
+- All sources (166 links): [DR26-09-16-HUB-01-1924-iterativnye-tsikly-dozhima-ralph-loop-metaloop-dlya-agentnogo-kodinga/sources.md](DR26-09-16-HUB-01-1924-iterativnye-tsikly-dozhima-ralph-loop-metaloop-dlya-agentnogo-kodinga/sources.md)
+
+## Raw model reports
+
+3 reports delivered, synthesis used 4 of 5. [DR26-09-16-HUB-01-1924-iterativnye-tsikly-dozhima-ralph-loop-metaloop-dlya-agentnogo-kodinga/](DR26-09-16-HUB-01-1924-iterativnye-tsikly-dozhima-ralph-loop-metaloop-dlya-agentnogo-kodinga/README.md)

@@ -48,7 +48,7 @@ source: Palo Alto AI Research Lab — deep research programme
 ## 3. Q2 — тесты: что ставить первым
 **Бенчмарки = таксономия вопросов, не табло.** LoCoMo, LongMemEval (и V2 05.2026), MemBench, PersonaMem, MSC — про диалог, не про волт заметок; вендорские 92–94% на LoCoMo — managed-платформа и маркетинг (Grok: независимые реплики расходятся на десятки пунктов). Ближайший публичный кузен по ДИЗАЙНУ — TREC iKAT (Personal Textual Knowledge Base). Needle-in-haystack — про длинный контекст, для 100k-волта бесполезен. Ranx / ir-measures / sklearn — ноль API, ставить первыми; RAGAS/DeepEval/Phoenix — судья заменяем на локальный; Phoenix — SQLite по умолчанию, самая близкая по форме.
 
-**Рецепт золотого набора (0 API):** 200 → 600 вопросов из волта, стратификация по языку/типу/степени связности; классы: entity · theme · bridge (два узла через wikilink) · compare · temporal (`valid_from`/`superseded_by`) · unanswerable; gold = путь заметки + 1-hop соседи с пометкой relevant/noise; hard negatives = near-dup из `/dedup` (cos > 0.90–0.92); JSONL `{id, query, lang, class, gold_paths[], gold_graph_paths[], hard_negatives[], answer_span?, as_of?}`; скоринг по file-id: Recall@12, Recall@60, MRR, nDCG@12; срез по классу × языку.
+**Рецепт золотого набора (0 API):** 200 → 600 вопросов из волта, стратификация по языку/типу/степени связности; классы: entity · theme · bridge (два узла через wikilink) · compare · temporal (`valid_from`/`superseded_by`) · unanswerable; gold = путь заметки + 1-hop соседи с пометкой relevant/noise; hard negatives = near-dup из `/merge-duplicate-notes` (cos > 0.90–0.92); JSONL `{id, query, lang, class, gold_paths[], gold_graph_paths[], hard_negatives[], answer_span?, as_of?}`; скоринг по file-id: Recall@12, Recall@60, MRR, nDCG@12; срез по классу × языку.
 
 **Пять первых тестов и порог «хорошо» (инженерные цели для ЭТОГО волта, не научная норма):**
 | # | Тест | Порог |
@@ -58,7 +58,7 @@ source: Palo Alto AI Research Lab — deep research programme
 | 2 | nDCG@12 с hard negatives, rerank on/off | ≥ 0.70 всего, ≥ 0.75 после rerank; дельта < 0.02 = реранкер-театр |
 | 3 | Загрязнение top-12 superseded/near-dup | < 5 % |
 | 4 | Темпоральные/`superseded_by` цепочки | 60–70 % (LongMemEval даёт ~30 п.п. просадки полю) |
-| 5 | Faithfulness `/ask` на 50 held-out (локальная 6-грамм/косинус ≥ 0.75) | ≥ 0.90; retrieval зелёный + это красное = LLM игнорирует чанки |
+| 5 | Faithfulness `/ask-vault` на 50 held-out (локальная 6-грамм/косинус ≥ 0.75) | ≥ 0.90; retrieval зелёный + это красное = LLM игнорирует чанки |
 
 ## 4. Q3 — модели (RU+EN, локально)
 | Модель | Роль | Лицензия | Улика | Вердикт |
@@ -80,8 +80,8 @@ source: Palo Alto AI Research Lab — deep research programme
 - Заметки = источник истины; производные таблицы могут закрывать окна, но не переписывать markdown без гейта.
 - **Close, don't delete:** `valid_to = now` на исчезнувшем wikilink; recall предпочитает `valid_to IS NULL`.
 - Провенанс на каждой строке: `source_id, observed_at, confidence, source_kind (human_edit | agent_write)`. **Human-edit-wins** по умолчанию (наша модель доверия обратна Graphiti).
-- Противоречия не схлопывать LLM-кой на ингесте: обе заметки остаются, `contradicts Other`, конфликт всплывает в `/ask`. Разделять извлечение (LLM) и политику (детерминированный компаратор `(subject_key, valid_from, source_kind)`).
-- Near-dup merge = `/dedup` как консолидатор: канон + `superseded_by` у проигравшего, архивная папка, исключение из открытого индекса.
+- Противоречия не схлопывать LLM-кой на ингесте: обе заметки остаются, `contradicts Other`, конфликт всплывает в `/ask-vault`. Разделять извлечение (LLM) и политику (детерминированный компаратор `(subject_key, valid_from, source_kind)`).
+- Near-dup merge = `/merge-duplicate-notes` как консолидатор: канон + `superseded_by` у проигравшего, архивная папка, исключение из открытого индекса.
 - Забывание = ранжирование: `retrieval_prior = base × recency_decay × access_boost × link_boost × authority × pin` — только после relevance, никогда как триггер удаления; уникальное автобиографическое событие не затухает.
 - «Сон» = ночной dry-run, который ПРЕДЛАГАЕТ кластеры/резюме и называет затронутые источники; автоматически рождаются только производные записи.
 
@@ -106,7 +106,7 @@ source: Palo Alto AI Research Lab — deep research programme
 | Реранкер верит заголовкам | ablation: rerank title-only vs body-only vs both; title-only ≈ full = ленивый | передавать тело, не имя файла (наши `reglament-*` слаги — риск) |
 | Смешанные версии факта | два чанка одной сущности, разный `observed_at`, оба в top-12 | битемпоральный фильтр `valid_to IS NULL` |
 | Дубли сущностей в графе | «Anton»/«Антон»/«tonydzi» три узла | alias-таблица, не LLM-извлечение |
-| Citation drift | `cited_path not in retrieved_paths` | fail ответа; класс уже в `/tt` |
+| Citation drift | `cited_path not in retrieved_paths` | fail ответа; класс уже в `/prove-build-works` |
 | Реранкер не доказан | nDCG on/off на gold; дельта < 0.02 | сменить или убрать |
 
 Сторож читает ВЫХОД (`ab_recall`, gold-скоры), не процесс индексатора (watchdog-must-verify-the-item); алерт в 03, если канареечный Recall@12 упал > 5 пунктов к прошлой неделе.
@@ -140,3 +140,13 @@ source: Palo Alto AI Research Lab — deep research programme
 
 ### Baseline линейки, Mac16 16.09 11:31 (дописано после синтеза)
 multilingual-e5-base + mmarco-mMiniLMv2, 27 061 чанк, 46 мин на CPU/mps, gold 184. Recall@12 vector: title 0.933 ✅ · body 0.667 ❌ · bridge 0.177 ❌ · temporal 0.750 (n=4). nDCG@12 vector: 0.924 · 0.519 · 0.127 · 0.385. Граф: bridge nDCG +0.026 (порог полезности +0.03 не взят), body +0.005. RU nDCG 0.484 против EN 0.662: разрыв 0.18 — первая своя улика в пользу вывода Grok про модель под русский (§4). Скоры: `_imports/eval/scores-20260916-1131.jsonl`, SQLite gold_eval 12 строк. Программа: task-2026-09-16-second-memory-quality-program.
+
+
+## Check it yourself: prompt, sources, raw reports
+
+- Prompt: [DR26-09-16-MACANTON-02-0453-sintez-dr26-09-16-macanton-02-0453-vtoraya-pamyat-kakie-repo-vzyat-v-g/prompt.md](DR26-09-16-MACANTON-02-0453-sintez-dr26-09-16-macanton-02-0453-vtoraya-pamyat-kakie-repo-vzyat-v-g/prompt.md)
+- All sources (189 links): [DR26-09-16-MACANTON-02-0453-sintez-dr26-09-16-macanton-02-0453-vtoraya-pamyat-kakie-repo-vzyat-v-g/sources.md](DR26-09-16-MACANTON-02-0453-sintez-dr26-09-16-macanton-02-0453-vtoraya-pamyat-kakie-repo-vzyat-v-g/sources.md)
+
+## Raw model reports
+
+5 reports delivered, synthesis used 3 of 6. Note: 2 report(s) arrived after the synthesis was written; they are attached raw and were not reconciled. [DR26-09-16-MACANTON-02-0453-sintez-dr26-09-16-macanton-02-0453-vtoraya-pamyat-kakie-repo-vzyat-v-g/](DR26-09-16-MACANTON-02-0453-sintez-dr26-09-16-macanton-02-0453-vtoraya-pamyat-kakie-repo-vzyat-v-g/README.md)

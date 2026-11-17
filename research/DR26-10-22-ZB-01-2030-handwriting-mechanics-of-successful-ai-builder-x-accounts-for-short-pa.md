@@ -10,7 +10,7 @@ source: Palo Alto AI Research Lab — deep research programme
 
 > What writing mechanics and which accounts make short failure/pain posts perform on X in the AI-builder niche (2025-2026), with a few-shot corpus and a system-prompt recipe for daily lab posts.
 
-> ⚠️ Поправка dr-judge 23.10: строка ниже «выжила только Gemini (2 из 6)» неверна по охвату: на диске ДВЕ ноги, grok (36 КБ, 94 ссылки x.com, ~34 из 40 постов достал) и gemini. Заметка написана по gemini, числа grok не учтены. Механика по grok: 29% постов начинаются со строчной, 29% кончаются точкой, 0 хэштегов, 79% от первого лица (у gemini 42,5% строчных, 72,5% без точки). Корпус gemini без URL = недоказуемый; брать корпус grok. Потребители `/x-post`, `/ai-slop` ссылаются на этот ДР: при следующей правке пересобрать образец по grok. Связь: MOC-Deep-Research-2026-09. Бэкап: `.prebak`.
+> ⚠️ Поправка dr-judge 23.10: строка ниже «выжила только Gemini (2 из 6)» неверна по охвату: на диске ДВЕ ноги, grok (36 КБ, 94 ссылки x.com, ~34 из 40 постов достал) и gemini. Заметка написана по gemini, числа grok не учтены. Механика по grok: 29% постов начинаются со строчной, 29% кончаются точкой, 0 хэштегов, 79% от первого лица (у gemini 42,5% строчных, 72,5% без точки). Корпус gemini без URL = недоказуемый; брать корпус grok. Потребители `/publish-twitter-post`, `/humanize-robot-text` ссылаются на этот ДР: при следующей правке пересобрать образец по grok. Связь: MOC-Deep-Research-2026-09. Бэкап: `.prebak`.
 
 ## Ключевые выводы
 - Only the Gemini leg of the DR survived (2 of 6 legs on disk). Its 40-post corpus has serious provenance problems. Most posts are tagged search snippet or page retrieved with no URLs. Several look fabricated or misattributed: the levelsio post dated 2026-10-21 about PHP, the Karpathy Medium-sourced quote, and the Danny Postma 2023 Stripe 'jack smith' posts cited via a non-primary site. The engagement numbers cannot be verified. Treat the corpus as unverified candidates, not ground truth.
@@ -25,7 +25,7 @@ source: Palo Alto AI Research Lab — deep research programme
 ## Рекомендации / решения
 - Do not use the Gemini corpus as few-shot examples until each post is opened on x.com and checked verbatim, with its date and metrics. Drop any post that cannot be found.
 - Re-run or complete the remaining 4 legs (chatgpt, grok, claudeai, glm, mistral) and require URLs for every post. Reject any leg that has no URLs or no retrievable posts, per the quorum rule of 4 of 6.
-- Use the qualitative rules (specific entity plus number, first person, no moral, no hashtags, no closing question) as a working draft for /x-post and /ai-slop, but mark the numeric frequencies as unverified.
+- Use the qualitative rules (specific entity plus number, first person, no moral, no hashtags, no closing question) as a working draft for /publish-twitter-post and /humanize-robot-text, but mark the numeric frequencies as unverified.
 - Do not hard-code '75% omit the final period' or '42.5% lowercase' into the prompt as fixed rates. Use them as soft tendencies, and check against a verified sample first.
 - Measure mechanics ourselves from a verified sample of real posts, using a script to compute lowercase share, period share, length and number counts, rather than trusting LLM-reported tallies.
 - Test the 10-line recipe on real voice notes in shadow mode (draft only, no posting) before it feeds the daily X flow, per the shadow-first rule.
@@ -60,3 +60,13 @@ source: Palo Alto AI Research Lab — deep research programme
 ## 🤔 Факт-линт (dr_fact_lint)
 <!-- авто-секция dr_fact_lint.py: перезаписывается при каждом прогоне, при разборе вырезается -->
 Проверено 2026-10-23 через gh: 0 ссылок · ✅ 0 · ⚠️ 0 · ❓ 0 · ⚪ 0 · 🤷 0.
+
+
+## Check it yourself: prompt, sources, raw reports
+
+- Prompt: [DR26-10-22-ZB-01-2030-handwriting-mechanics-of-successful-ai-builder-x-accounts-for-short-pa/prompt.md](DR26-10-22-ZB-01-2030-handwriting-mechanics-of-successful-ai-builder-x-accounts-for-short-pa/prompt.md)
+- All sources (54 links): [DR26-10-22-ZB-01-2030-handwriting-mechanics-of-successful-ai-builder-x-accounts-for-short-pa/sources.md](DR26-10-22-ZB-01-2030-handwriting-mechanics-of-successful-ai-builder-x-accounts-for-short-pa/sources.md)
+
+## Raw model reports
+
+2 reports delivered, synthesis used 2 of 6. [DR26-10-22-ZB-01-2030-handwriting-mechanics-of-successful-ai-builder-x-accounts-for-short-pa/](DR26-10-22-ZB-01-2030-handwriting-mechanics-of-successful-ai-builder-x-accounts-for-short-pa/README.md)

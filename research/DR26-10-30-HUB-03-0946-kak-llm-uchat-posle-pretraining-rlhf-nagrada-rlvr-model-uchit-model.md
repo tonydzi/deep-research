@@ -69,3 +69,13 @@ source: Palo Alto AI Research Lab — deep research programme
 ## 🤔 Факт-линт (dr_fact_lint)
 <!-- авто-секция dr_fact_lint.py: перезаписывается при каждом прогоне, при разборе вырезается -->
 Проверено 2026-10-31 через gh: 0 ссылок · ✅ 0 · ⚠️ 0 · ❓ 0 · ⚪ 0 · 🤷 0.
+
+
+## Check it yourself: prompt, sources, raw reports
+
+- Prompt: [DR26-10-30-HUB-03-0946-kak-llm-uchat-posle-pretraining-rlhf-nagrada-rlvr-model-uchit-model/prompt.md](DR26-10-30-HUB-03-0946-kak-llm-uchat-posle-pretraining-rlhf-nagrada-rlvr-model-uchit-model/prompt.md)
+- All sources (555 links): [DR26-10-30-HUB-03-0946-kak-llm-uchat-posle-pretraining-rlhf-nagrada-rlvr-model-uchit-model/sources.md](DR26-10-30-HUB-03-0946-kak-llm-uchat-posle-pretraining-rlhf-nagrada-rlvr-model-uchit-model/sources.md)
+
+## Raw model reports
+
+6 reports delivered, synthesis used 6 of 6. [DR26-10-30-HUB-03-0946-kak-llm-uchat-posle-pretraining-rlhf-nagrada-rlvr-model-uchit-model/](DR26-10-30-HUB-03-0946-kak-llm-uchat-posle-pretraining-rlhf-nagrada-rlvr-model-uchit-model/README.md)

@@ -44,7 +44,7 @@ source: Palo Alto AI Research Lab — deep research programme
 2. **Принудительная трассировка.** Ни одного утверждения без backlink на конкретный узел волта. Каждое утверждение должно иметь SCM-след, по которому можно провалиться в первоисточник и исправить его.
 3. **Temperature 0.0 на извлечении фактов.** Творчество — отдельный режим, факты — детерминированный.
 
-→ Это прямо ложится на наши правила: «причина — такой же claim, как вывод», гейт доказательства в `/tt`, и провенанс при импорте. По сути Харари даёт нам внешнее обоснование того, что мы уже строим наощупь.
+→ Это прямо ложится на наши правила: «причина — такой же claim, как вывод», гейт доказательства в `/prove-build-works`, и провенанс при импорте. По сути Харари даёт нам внешнее обоснование того, что мы уже строим наощупь.
 
 ### 🧼 Информационная гигиена
 - **Два контура:** «холодный» (сырые верифицированные данные локально в markdown) и «горячий» (векторная база для быстрых гипотез). Не заливать в мозг весь цифровой выхлоп.
@@ -158,3 +158,12 @@ Grok и Gemini: ✅ «реализуемо [established]». **ChatGPT: ❌ «т�
 
 ## Связано
 - decision-2026-07-27-scm-circuit-breaker-v-rag — insight ставит саму развилку про SCM/circuit breaker и формулирует требования, которые decision разбирает и проверяет по коду
+
+
+## Check it yourself: prompt, sources, raw reports
+
+- All sources (34 links): [DR26-07-26-ZB-02-alfa-iz-yuvalya-harari-chto-zabrat-v-sistemu-a-chto-trep-dr26-07-26-zb/sources.md](DR26-07-26-ZB-02-alfa-iz-yuvalya-harari-chto-zabrat-v-sistemu-a-chto-trep-dr26-07-26-zb/sources.md)
+
+## Raw model reports
+
+1 reports delivered, synthesis used not recorded. [DR26-07-26-ZB-02-alfa-iz-yuvalya-harari-chto-zabrat-v-sistemu-a-chto-trep-dr26-07-26-zb/](DR26-07-26-ZB-02-alfa-iz-yuvalya-harari-chto-zabrat-v-sistemu-a-chto-trep-dr26-07-26-zb/README.md)

@@ -48,7 +48,7 @@ source: Palo Alto AI Research Lab — deep research programme
 | Twin-Gold-300 + retest ceiling | ❌ | eval-набор вне RAG-корпуса; квартальный прогон |
 | LARAG (retrieval по wikilinks) | 🟡 brain_ask A/B (vector vs +graph) — пилот уже идёт! | результат A/B = наш LARAG-замер |
 | FadeMem-забывание | ❌ | кандидат в бэклог (не критично сейчас, §3.5 гейт) |
-| Predict-Then-Learn | ❌ | кандидат: /precedent + прогнозы в decisions |
+| Predict-Then-Learn | ❌ | кандидат: /find-precedent + прогнозы в decisions |
 
 ## Вердикт по DR
 - Собрано 3/3 вендора с доказательствами работы (543 src · 20 сайтов DR · 104 запроса/78 страниц/41м54с).
@@ -57,3 +57,12 @@ source: Palo Alto AI Research Lab — deep research programme
 ## Связано
 - protocol-life-interview-v1 — method_for: Структурированное интервью служит методом повышения точности цифрового двойника (codex; ✓grok+glm+mistral)
 - BET-2026-08-08-digital-twin-corpus — same_cluster: Обе заметки посвящены качеству двойника из личного корпуса (codex; ✓grok+glm+mistral)
+
+
+## Check it yourself: prompt, sources, raw reports
+
+- All sources (82 links): [DR26-07-23-ZB-02-dr26-07-23-zb-02-sintez-tsifrovoy-dvoynik-iz-lichnogo-korpusa-metriki/sources.md](DR26-07-23-ZB-02-dr26-07-23-zb-02-sintez-tsifrovoy-dvoynik-iz-lichnogo-korpusa-metriki/sources.md)
+
+## Raw model reports
+
+1 reports delivered, synthesis used not recorded. [DR26-07-23-ZB-02-dr26-07-23-zb-02-sintez-tsifrovoy-dvoynik-iz-lichnogo-korpusa-metriki/](DR26-07-23-ZB-02-dr26-07-23-zb-02-sintez-tsifrovoy-dvoynik-iz-lichnogo-korpusa-metriki/README.md)

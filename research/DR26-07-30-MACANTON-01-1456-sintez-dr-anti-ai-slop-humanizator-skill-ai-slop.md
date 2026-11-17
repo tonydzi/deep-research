@@ -20,9 +20,9 @@ source: Palo Alto AI Research Lab — deep research programme
 Gemini предлагал **генерировать** правдоподобные бытовые якоря («даже если полностью выдуманы»). Отклонено: противоречит fake-it-courage-not-fake-numbers и HB1 слоп-гейта. Правило скилла: живая деталь только из реального контекста, иначе placeholder.
 
 ## Что построено
-- Скилл `ai-slop` («внутренний путь лаборатории»), триггеры /ai-slop /ai_slope /slop «очеловечь» «убери нейрослог».
+- Скилл `ai-slop` («внутренний путь лаборатории»), триггеры /humanize-robot-text /ai_slope /slop «очеловечь» «убери нейрослог».
 - Пара к `slop_gate.py`: гейт судит (0 токенов), скилл переписывает = недостающий «робот-рерайтер» из spec-anti-slop-content-pipeline §Фаза 3.
-- /tt: живой прогон на episodes/cookbook-pr-784 (−62%, нарушения 11 тире + 6 «ё» → 0, факты целы); Codex-ломатель нашёл 3 дыры (пример учил выдумывать цифру · глобальные замены ломали код/имена · квота % конфликтовала с плотным текстом) — все починены в тот же заход.
+- /prove-build-works: живой прогон на episodes/cookbook-pr-784 (−62%, нарушения 11 тире + 6 «ё» → 0, факты целы); Codex-ломатель нашёл 3 дыры (пример учил выдумывать цифру · глобальные замены ломали код/имена · квота % конфликтовала с плотным текстом) — все починены в тот же заход.
 
 Оригиналы: `_originals/deep-research/DR26-07-30-MACANTON-01-1456-antislop-humanizer-{chatgpt,gemini,grok}.md`
 Связано: tg-slop-markers-measured, everything-becomes-content, content-factory-architecture, `Slop-Gate-Passport`.
@@ -32,3 +32,12 @@ Gemini предлагал **генерировать** правдоподобн�
 - insight-2026-07-31-antislop-vneshnie-standarty-humanizer-rutext — прямое продолжение исследования humanizer
 - insight-DR-DR26-08-25-MACANTON-08-0740-как-переписывать-ai-текст-чтобы-он-читался-как-тек — тот же вопрос переписывания AI-текста, DR — продолжение синтеза
 - insight-DR-DR26-08-29-MACANTON-07-0742-как-переписывать-ai-сгенерированный-текст-в-челове — уже ссылается на sibling-DR 08-25 той же серии, по той же логике включает и 08-29
+
+
+## Check it yourself: prompt, sources, raw reports
+
+- All sources (1 links): [DR26-07-30-MACANTON-01-1456-sintez-dr-anti-ai-slop-humanizator-skill-ai-slop/sources.md](DR26-07-30-MACANTON-01-1456-sintez-dr-anti-ai-slop-humanizator-skill-ai-slop/sources.md)
+
+## Raw model reports
+
+4 reports delivered, synthesis used not recorded. [DR26-07-30-MACANTON-01-1456-sintez-dr-anti-ai-slop-humanizator-skill-ai-slop/](DR26-07-30-MACANTON-01-1456-sintez-dr-anti-ai-slop-humanizator-skill-ai-slop/README.md)
