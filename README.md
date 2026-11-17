@@ -74,6 +74,7 @@ Raw model transcripts stay in our vault. What is published here is the distilled
 
 | ID | Topic | Date |
 |---|---|---|
+| [DR26-11-17-MAYAK-01](research/DR26-11-17-MAYAK-01-attributing-codex-chatgpt-subscription-usage-per-session-and-per-machi.md) | Attributing Codex/ChatGPT subscription usage per session and per machine | 2026-11-17 |
 | [DR26-11-01-HUB-02-1433](research/DR26-11-01-HUB-02-1433-codeindexer-codeindexer-dev-svezhest-indeksa-flot-i-reshenie-keep-try.md) | CodeIndexer (codeindexer.dev): свежесть индекса, флот и решение KEEP/TRY/PARK | 2026-11-01 |
 | [DR26-11-01-HUB-04](research/DR26-11-01-HUB-04-hilum-local-mcp-code-intelligence-tool-fleet-rollout-suitability-and-c.md) | Hilum (local MCP code-intelligence tool): fleet-rollout suitability and canary plan | 2026-11-01 |
 | [DR26-11-01-HUB-05-1439](research/DR26-11-01-HUB-05-1439-grepai-s-udalennymi-embeddingami-arhitektura-svezhest-resursy-kanareyk.md) | grepai с удалёнными эмбеддингами: архитектура, свежесть, ресурсы, канарейка | 2026-11-01 |
