@@ -39,7 +39,7 @@ source: Palo Alto AI Research Lab — deep research programme
 | X official `api.x.com/mcp` | X | x 45 | ТОЛЬКО ЧТЕНИЕ, ad hoc | запись через stdio-мост `xurl` + оплата за пост |
 | Hugging Face `huggingface.co/mcp` | HF | 18 | **СТОИТ** | 3/3; официальный; 13.11 в приложении Connected, 4 инструмента |
 | OpenAlex official `mcp.openalex.org/mcp` (OAuth) | статьи | openalex 6, scholar 58 | **БРАТЬ** | официальный; 2 ноги (GLM, Mistral); подтверждён 13.11 (401 + WWW-Authenticate) |
-| Научный HTTP-демон `scholarly_mcp.py` (ORCID + Zenodo + DOI; OpenAlex как бесключевой фолбэк) | статьи | ~150 | **ПОСТАВЛЕН** 13.11 на Маяке (systemd, 127.0.0.1:8790, тест 21/21 на узле) | ORCID/Zenodo/Crossref/DataCite официального MCP не имеют; ⚠️ хост: Маяк без LLM и без пути от узлов с приложением, решение Антона: туннель к Маяку или локальный демон на каждом узле (на ноутбук поднимался за 2 с) |
+| Научный HTTP-демон `scholarly_mcp.py` (ORCID + Zenodo + DOI; OpenAlex как бесключевой фолбэк) | статьи | ~150 | **ПОСТАВЛЕН** 13.11 на Маяке (systemd, 127.0.0.1:8790, тест 21/21 на узле) | ORCID/Zenodo/Crossref/DataCite официального MCP не имеют; ✅ хост решён Антоном 17.11 12:18: «Локально на узлах» — демон на 127.0.0.1:8790 каждого узла (Windows HKCU Run, macOS launchd, Linux systemd --user), посылка `scholarly-mcp-local-20261117` на 9 узлов, канарейка ноутбук check rc=0; Маяк остаётся резервом |
 | alphaXiv (каталог claude.ai) | arXiv | 25 | **БРАТЬ** | уже remote, полный текст; быстрый выигрыш до демона |
 | Calendly `mcp.calendly.com` | встречи | 13 | **БРАТЬ** | 3/3; официальный |
 | OpenRouter MCP `mcp.openrouter.ai/mcp` | LLM-рельсы | 10 | **БРАТЬ** | 2/3; каталог моделей и цен; ключ живёт 7 дней с потолком $10 |

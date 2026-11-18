@@ -50,3 +50,14 @@ source: Palo Alto AI Research Lab — deep research programme
 Критерий Grok: простота (АК-47) важнее $5-11. Критерий 4 ног: минимальная цена за пост.
 Развилка для Антона: 4 из 5 за Buffer, 1 из 5 (Grok) за «как есть». Обе позиции законны.
 Полезное у Grok: звать X API из Claude Code обычным HTTPS (наш x_post.py), а не через stdio-MCP xurl (§7.13).
+
+## ПОПРАВКА 17.11 07:54: одна кнопка на 6-10 соцсетей + аудит MCP→HTTPS (воркфлоу wf_96c7d78b-6a1, 29 агентов, проверка по официальным страницам 17.11)
+- **Publora** (финалист после проверки): 10 сетей (X, LinkedIn, FB, Instagram prof., Threads, TikTok direct, YouTube, Bluesky, Mastodon, Telegram), Pro на 10 аккаунтов $44.90/мес или $29.90 при оплате за год, REST + удалённый MCP на всех тарифах. Чьё X-приложение, не сказано. У нас уже есть 4 скилла publora-* и `publora_smoke.py`, но ключа нет (rc=2 17.11; прибор печатает путь secrets хаба E:\..., на Маке надо сверить).
+- **Buffer** (финалист): 10 сетей без Telegram/Reddit, $6/канал, Free 3 канала. В X публикует своим приложением через официальный API по OAuth, не браузером; доплаты за X нет, что Buffer платит X сам = вывод, не факт.
+- Прошли проверку также Postiz Cloud ($39 за 10, X в облаке не выяснен), Upload-Post ($24/5 профилей, X 10 постов/сут на Basic), Post for Me ($10, 1000 постов/мес, MCP только stdio, REST есть), Zernio ($48 + X по себестоимости), Metricool (API только Advanced $63-79 + $10-12 за X), Mixpost, Blotato, Outstand, Postproxy, bundle.social, Ayrshare (дорого), Hootsuite (дорого). Выбыли: Later (без X с 28.08.2025), Sprout и Agorapulse (API только черновики), SocialBee (нет API), Typefully (нет TikTok/IG).
+- Потолок любого сервиса: TikTok публично только через проверенное приложение; Instagram только бизнес/автор; FB только Страница; Reddit требует одобрения API.
+- **Аудит MCP→HTTPS:** X уже везде HTTPS (x_post.py, x_publisher.py, x_target_watch.py, x_ingest.py в _imports/x/). Кандидатов на замену MCP прямым вызовом 15: x-inbox-watch (Chrome MCP для упоминаний), fix-n8n-workflows и recover-session (n8n MCP нет на Маке, есть REST), publora-* (REST первым), Typefully-рельса в publish-twitter-post, bus/tg_* и peer_room_watch.py, pull-health-chats (битое имя инструмента), publish-research-teasers, whatsapp-sync, plaud-leads, peer-onboard, wa_bus.py. Все MCP на этом Маке http, stdio только node_repl в ~/.codex/config.toml.
+- Сделано 17.11: скиллы publish-twitter-post и check-mcp-connectors правлены (`x-api-https-20261117`, коммит skills 66a9702e). Подкаст заказан хабу (#h-60e05664).
+
+## ПОПРАВКА 17.11 (A61708): MCP → скрипты по всему флоту
+Замер 1000 сессий × 6 узлов, переделка 4 рутин и 24 скиллов, посылка mcp2https-A61708-20261117-r2. Статья-черновик: article-2026-11-17-mcp-to-scripts-draft
