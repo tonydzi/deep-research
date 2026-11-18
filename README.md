@@ -425,7 +425,6 @@ Raw model transcripts stay in our vault. What is published here is the distilled
 | [DR26-10-25-HUB-02-1107](research/DR26-10-25-HUB-02-1107-svyazka-claude-code-codex-na-odnoy-mashine-sintez-dr-dr26-10-25-hub-02.md) | Связка Claude Code + Codex на одной машине: синтез ДР DR26-10-25-HUB-02-1107 |  |
 | [DR26-11-01-MACPRO192-01-1537](research/DR26-11-01-MACPRO192-01-1537-monitoring-nagruzki-flota-pod-llm-agentami-sintez-dr26-11-01-macpro192.md) | Мониторинг нагрузки флота под LLM-агентами: синтез DR26-11-01-MACPRO192-01-1537 |  |
 | [DR26-11-03-HUB-03-1102](research/DR26-11-03-HUB-03-1102-dr-chto-konkretno-delaet-anima-labs-v-pamyati-agentov.md) | ДР: что конкретно делает Anima Labs в памяти агентов |  |
-| [DR26-11-09-HUB-09-1819](research/DR26-11-09-HUB-09-1819-dr26-11-09-hub-09-1819-workshop-labs-thinking-machines-sintez-chetyreh.md) | DR26-11-09-HUB-09-1819: Workshop Labs × Thinking Machines, синтез четырёх ног |  |
 | [DR26-11-11-ZB-01-1753](research/DR26-11-11-ZB-01-1753-dr26-11-11-zb-01-1753-kakie-mcp-konnektory-brat-pod-nashi-zadachi.md) | DR26-11-11-ZB-01-1753 — какие MCP-коннекторы брать под наши задачи |  |
 | [DR26-11-12-HUB-01-0234](research/DR26-11-12-HUB-01-0234-dr26-11-12-hub-01-0234-konnektory-pod-dyry-flota-i-verdikt-po-x-api.md) | DR26-11-12-HUB-01-0234: коннекторы под дыры флота и вердикт по X API |  |
 | [DR26-11-12-HUB-02-1343](research/DR26-11-12-HUB-02-1343-tiktok-i-sotsseti-vred-umnoe-ispolzovanie-gde-auditoriya-obucheniya-ii.md) | TikTok и соцсети: вред, умное использование, где аудитория обучения ИИ и сколько платят |  |

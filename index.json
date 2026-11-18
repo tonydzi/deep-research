@@ -1,6 +1,6 @@
 {
  "generated": "2026-11-18",
- "count": 353,
+ "count": 352,
  "repo": "https://github.com/tonydzi/deep-research",
  "research": [
   {
@@ -389,15 +389,6 @@
    "date": "",
    "slug": "DR26-11-03-HUB-03-1102-dr-chto-konkretno-delaet-anima-labs-v-pamyati-agentov",
    "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-11-03-HUB-03-1102-dr-chto-konkretno-delaet-anima-labs-v-pamyati-agentov.md"
-  },
-  {
-   "dr_id": "DR26-11-09-HUB-09-1819",
-   "title": "DR26-11-09-HUB-09-1819: Workshop Labs × Thinking Machines, синтез четырёх ног",
-   "summary": "Связи: [[_DR-Registry]] · [[task-2026-11-12-tml-vip-apply]] · оригиналы ног: `_machine-bus/_dr/queue/DR26-11-09-HUB-09-1819/results/` (chatgpt, claudeai, gemini, grok) · копия в `_originals/DR/DR26-11-09-HUB-09-1819/`.",
-   "lang": "ru",
-   "date": "",
-   "slug": "DR26-11-09-HUB-09-1819-dr26-11-09-hub-09-1819-workshop-labs-thinking-machines-sintez-chetyreh",
-   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-11-09-HUB-09-1819-dr26-11-09-hub-09-1819-workshop-labs-thinking-machines-sintez-chetyreh.md"
   },
   {
    "dr_id": "DR26-11-11-ZB-01-1753",
