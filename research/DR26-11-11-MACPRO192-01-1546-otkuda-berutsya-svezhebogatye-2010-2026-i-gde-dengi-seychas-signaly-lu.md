@@ -62,3 +62,13 @@ source: Palo Alto AI Research Lab — deep research programme
 - Несущие цифры взяты из отчётов ног; каждую по первоисточнику до публикации не сверял (гейт предупреждает: ссылки списком, привязка к утверждениям не проверена).
 - Русско-, арабо- и китаеязычные источники ноги почти не достали (claude.ai пишет это прямо).
 - Кворум 3 из 4: Grok слабый, GLM не запускали, Mistral не собран.
+
+
+## Check it yourself: prompt, sources, raw reports
+
+- Prompt: [DR26-11-11-MACPRO192-01-1546-otkuda-berutsya-svezhebogatye-2010-2026-i-gde-dengi-seychas-signaly-lu/prompt.md](DR26-11-11-MACPRO192-01-1546-otkuda-berutsya-svezhebogatye-2010-2026-i-gde-dengi-seychas-signaly-lu/prompt.md)
+- All sources (75 links): [DR26-11-11-MACPRO192-01-1546-otkuda-berutsya-svezhebogatye-2010-2026-i-gde-dengi-seychas-signaly-lu/sources.md](DR26-11-11-MACPRO192-01-1546-otkuda-berutsya-svezhebogatye-2010-2026-i-gde-dengi-seychas-signaly-lu/sources.md)
+
+## Raw model reports
+
+1 reports delivered, synthesis used 3 of 4. [DR26-11-11-MACPRO192-01-1546-otkuda-berutsya-svezhebogatye-2010-2026-i-gde-dengi-seychas-signaly-lu/](DR26-11-11-MACPRO192-01-1546-otkuda-berutsya-svezhebogatye-2010-2026-i-gde-dengi-seychas-signaly-lu/README.md)
