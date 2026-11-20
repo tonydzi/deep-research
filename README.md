@@ -238,6 +238,9 @@ Raw model transcripts stay in our vault. What is published here is the distilled
 
 | ID | Тема | Дата |
 |---|---|---|
+| [DR26-11-19-MACSTUDIOM4-05-1621](research/DR26-11-19-MACSTUDIOM4-05-1621-elevenlabs-na-noyabr-2026-katalog-tarify-granty-i-primeneniya-dlya-nas.md) | ElevenLabs на ноябрь 2026: каталог, тарифы, гранты и применения для нас | 2026-11-20 |
+| [DR26-11-17-MAYAK-04](research/DR26-11-17-MAYAK-04-katalogi-mcp-serverov-i-skillov-tipy-biznes-modeli-trafik-vhody-noyabr.md) | Каталоги MCP-серверов и скиллов: типы, бизнес-модели, трафик, входы (ноябрь 2026) | 2026-11-17 |
+| [DR26-11-17-MAYAK-05](research/DR26-11-17-MAYAK-05-katalogi-skillov-i-mcp-serverov-tipy-monetizatsiya-trafik-vhody-noyabr.md) | Каталоги скиллов и MCP-серверов: типы, монетизация, трафик, входы (ноябрь 2026) | 2026-11-17 |
 | [DR26-11-13-MACANTON-01-0708](research/DR26-11-13-MACANTON-01-0708-apple-photos-embedding-revision-mismatch-chto-eto-i-chto-delat.md) | Apple Photos: «embedding revision mismatch», что это и что делать | 2026-11-15 |
 | [DR26-11-11-MACPRO192-01-1546](research/DR26-11-11-MACPRO192-01-1546-otkuda-berutsya-svezhebogatye-2010-2026-i-gde-dengi-seychas-signaly-lu.md) | Откуда берутся свежебогатые 2010-2026 и где деньги сейчас (сигналы luxury-покупок) | 2026-11-11 |
 | [DR26-11-10-HUB-04-1439](research/DR26-11-10-HUB-04-1439-web-summit-2026-realno-li-yadernoe-pitanie-tsod-k-2030-i-kak-proveryat.md) | Web Summit 2026: реально ли ядерное питание ЦОД к 2030 и как проверять обещания панели | 2026-11-10 |

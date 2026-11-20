@@ -1,11 +1,14 @@
 # Palo Alto AI Research Lab — deep research corpus
 
-353 distilled deep-research reports. Machine-readable index: index.json
+356 distilled deep-research reports. Machine-readable index: index.json
 Each file: frontmatter (dr_id, title, date, lang) + summary + key findings + recommendations.
 Multi-model methodology: every question fanned out to several frontier models, then reconciled.
 License: CC BY 4.0. Cite as: Palo Alto AI Research Lab, deep research <dr_id>.
 
+- DR26-11-19-MACSTUDIOM4-05-1621 (2026-11-20, ru): ElevenLabs на ноябрь 2026: каталог, тарифы, гранты и применения для нас
 - DR26-11-17-MAYAK-01 (2026-11-17, en): Attributing Codex/ChatGPT subscription usage per session and per machine
+- DR26-11-17-MAYAK-04 (2026-11-17, ru): Каталоги MCP-серверов и скиллов: типы, бизнес-модели, трафик, входы (ноябрь 2026)
+- DR26-11-17-MAYAK-05 (2026-11-17, ru): Каталоги скиллов и MCP-серверов: типы, монетизация, трафик, входы (ноябрь 2026)
 - DR26-11-13-MACANTON-01-0708 (2026-11-15, ru): Apple Photos: «embedding revision mismatch», что это и что делать
 - DR26-11-11-MACPRO192-01-1546 (2026-11-11, ru): Откуда берутся свежебогатые 2010-2026 и где деньги сейчас (сигналы luxury-покупок)
 - DR26-11-10-HUB-04-1439 (2026-11-10, ru): Web Summit 2026: реально ли ядерное питание ЦОД к 2030 и как проверять обещания панели

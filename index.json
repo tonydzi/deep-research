@@ -1,6 +1,6 @@
 {
- "generated": "2026-11-19",
- "count": 353,
+ "generated": "2026-11-20",
+ "count": 356,
  "repo": "https://github.com/tonydzi/deep-research",
  "research": [
   {
@@ -3179,6 +3179,33 @@
    "date": "2026-11-17",
    "slug": "DR26-11-17-MAYAK-01-attributing-codex-chatgpt-subscription-usage-per-session-and-per-machi",
    "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-11-17-MAYAK-01-attributing-codex-chatgpt-subscription-usage-per-session-and-per-machi.md"
+  },
+  {
+   "dr_id": "DR26-11-17-MAYAK-04",
+   "title": "Каталоги MCP-серверов и скиллов: типы, бизнес-модели, трафик, входы (ноябрь 2026)",
+   "summary": "Какие каталоги MCP-серверов и скиллов для агентов существуют в ноябре 2026, как они зарабатывают, какой у них реальный трафик и как бесплатному OSS-дистрибьютору попасть в них с наибольшей отдачей.",
+   "lang": "ru",
+   "date": "2026-11-17",
+   "slug": "DR26-11-17-MAYAK-04-katalogi-mcp-serverov-i-skillov-tipy-biznes-modeli-trafik-vhody-noyabr",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-11-17-MAYAK-04-katalogi-mcp-serverov-i-skillov-tipy-biznes-modeli-trafik-vhody-noyabr.md"
+  },
+  {
+   "dr_id": "DR26-11-17-MAYAK-05",
+   "title": "Каталоги скиллов и MCP-серверов: типы, монетизация, трафик, входы (ноябрь 2026)",
+   "summary": "Какие каталоги для бесплатных Agent Skills и MCP-серверов существуют в конце 2026, как они зарабатывают, сколько реального трафика даёт листинг, как в них попасть и куда небольшой free-only OSS-лаборатории вкладывать ограниченные часы.",
+   "lang": "ru",
+   "date": "2026-11-17",
+   "slug": "DR26-11-17-MAYAK-05-katalogi-skillov-i-mcp-serverov-tipy-monetizatsiya-trafik-vhody-noyabr",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-11-17-MAYAK-05-katalogi-skillov-i-mcp-serverov-tipy-monetizatsiya-trafik-vhody-noyabr.md"
+  },
+  {
+   "dr_id": "DR26-11-19-MACSTUDIOM4-05-1621",
+   "title": "ElevenLabs на ноябрь 2026: каталог, тарифы, гранты и применения для нас",
+   "summary": "Заказ: голосовая Антона 20.11.2026. Вопрос: полный каталог ElevenLabs и все применения для Palo Alto AI Research Lab, плюс наши фактические расходы на ElevenLabs и Whisper.",
+   "lang": "ru",
+   "date": "2026-11-20",
+   "slug": "DR26-11-19-MACSTUDIOM4-05-1621-elevenlabs-na-noyabr-2026-katalog-tarify-granty-i-primeneniya-dlya-nas",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-11-19-MACSTUDIOM4-05-1621-elevenlabs-na-noyabr-2026-katalog-tarify-granty-i-primeneniya-dlya-nas.md"
   }
  ]
 }
