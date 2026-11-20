@@ -71,13 +71,3 @@ source: Palo Alto AI Research Lab — deep research programme
 ## 🤔 Факт-линт (dr_fact_lint)
 <!-- авто-секция dr_fact_lint.py: перезаписывается при каждом прогоне, при разборе вырезается -->
 Проверено 2026-11-02 через gh: 3 ссылок · ✅ 0 · ⚠️ 0 · ❓ 0 · ⚪ 3 · 🤷 0.
-
-
-## Check it yourself: prompt, sources, raw reports
-
-- Prompt: [DR26-11-01-HUB-05-1439-grepai-s-udalennymi-embeddingami-arhitektura-svezhest-resursy-kanareyk/prompt.md](DR26-11-01-HUB-05-1439-grepai-s-udalennymi-embeddingami-arhitektura-svezhest-resursy-kanareyk/prompt.md)
-- All sources (239 links): [DR26-11-01-HUB-05-1439-grepai-s-udalennymi-embeddingami-arhitektura-svezhest-resursy-kanareyk/sources.md](DR26-11-01-HUB-05-1439-grepai-s-udalennymi-embeddingami-arhitektura-svezhest-resursy-kanareyk/sources.md)
-
-## Raw model reports
-
-6 reports delivered, synthesis used 6 of 6. [DR26-11-01-HUB-05-1439-grepai-s-udalennymi-embeddingami-arhitektura-svezhest-resursy-kanareyk/](DR26-11-01-HUB-05-1439-grepai-s-udalennymi-embeddingami-arhitektura-svezhest-resursy-kanareyk/README.md)

@@ -88,13 +88,3 @@ Machine: хаб (Хаб) · Agent: Claude Code (Opus 5.5) · Operator: Anton · 
 ## Разнос (applied, 12.11.2026, H34573)
 Блок «Официальная дверь» дописан в 7 скиллов: luma-apply, apply-to-jobs, publish-twitter-post, x-inbox-watch, fb-reply, local-fb-messenger, fb-message-commenters. Пополнение X: аск #6f288cd1 у Антона.
 Machine: хаб (Хаб) · Agent: Claude Code (Opus 5.5) · Operator: Anton · 2026-11-12
-
-
-## Check it yourself: prompt, sources, raw reports
-
-- Prompt: [DR26-11-12-HUB-01-0234-dr26-11-12-hub-01-0234-konnektory-pod-dyry-flota-i-verdikt-po-x-api/prompt.md](DR26-11-12-HUB-01-0234-dr26-11-12-hub-01-0234-konnektory-pod-dyry-flota-i-verdikt-po-x-api/prompt.md)
-- All sources (498 links): [DR26-11-12-HUB-01-0234-dr26-11-12-hub-01-0234-konnektory-pod-dyry-flota-i-verdikt-po-x-api/sources.md](DR26-11-12-HUB-01-0234-dr26-11-12-hub-01-0234-konnektory-pod-dyry-flota-i-verdikt-po-x-api/sources.md)
-
-## Raw model reports
-
-5 reports delivered, synthesis used 5 of 6. [DR26-11-12-HUB-01-0234-dr26-11-12-hub-01-0234-konnektory-pod-dyry-flota-i-verdikt-po-x-api/](DR26-11-12-HUB-01-0234-dr26-11-12-hub-01-0234-konnektory-pod-dyry-flota-i-verdikt-po-x-api/README.md)

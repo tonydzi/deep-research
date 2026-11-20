@@ -60,13 +60,3 @@ source: Palo Alto AI Research Lab — deep research programme
 ## 🤔 Факт-линт (dr_fact_lint)
 <!-- авто-секция dr_fact_lint.py: перезаписывается при каждом прогоне, при разборе вырезается -->
 Проверено 2026-10-21 через gh: 0 ссылок · ✅ 0 · ⚠️ 0 · ❓ 0 · ⚪ 0 · 🤷 0.
-
-
-## Check it yourself: prompt, sources, raw reports
-
-- Prompt: [DR26-10-20-HUB-03-2232-remontoprigodnaya-sloistaya-pamyat-sessiy-inkrementalnaya-indeksatsiya/prompt.md](DR26-10-20-HUB-03-2232-remontoprigodnaya-sloistaya-pamyat-sessiy-inkrementalnaya-indeksatsiya/prompt.md)
-- All sources (24 links): [DR26-10-20-HUB-03-2232-remontoprigodnaya-sloistaya-pamyat-sessiy-inkrementalnaya-indeksatsiya/sources.md](DR26-10-20-HUB-03-2232-remontoprigodnaya-sloistaya-pamyat-sessiy-inkrementalnaya-indeksatsiya/sources.md)
-
-## Raw model reports
-
-1 reports delivered, synthesis used 1 of 6. [DR26-10-20-HUB-03-2232-remontoprigodnaya-sloistaya-pamyat-sessiy-inkrementalnaya-indeksatsiya/](DR26-10-20-HUB-03-2232-remontoprigodnaya-sloistaya-pamyat-sessiy-inkrementalnaya-indeksatsiya/README.md)

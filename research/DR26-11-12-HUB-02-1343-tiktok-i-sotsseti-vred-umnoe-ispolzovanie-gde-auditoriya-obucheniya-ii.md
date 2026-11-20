@@ -76,13 +76,3 @@ claudeai (аккаунт bb@ с включённой памятью) вписа�
 3. Цена бета-когорты для руководителей: EN около $1 200–1 800 (вилка Maven 8–12 ч), RU проверить двумя офферами (≈50 и ≈120 тыс. ₽) на первых продажах.
 
 Финиш ДР: ждёт решения Антона (applied/parked).
-
-
-## Check it yourself: prompt, sources, raw reports
-
-- Prompt: [DR26-11-12-HUB-02-1343-tiktok-i-sotsseti-vred-umnoe-ispolzovanie-gde-auditoriya-obucheniya-ii/prompt.md](DR26-11-12-HUB-02-1343-tiktok-i-sotsseti-vred-umnoe-ispolzovanie-gde-auditoriya-obucheniya-ii/prompt.md)
-- All sources (395 links): [DR26-11-12-HUB-02-1343-tiktok-i-sotsseti-vred-umnoe-ispolzovanie-gde-auditoriya-obucheniya-ii/sources.md](DR26-11-12-HUB-02-1343-tiktok-i-sotsseti-vred-umnoe-ispolzovanie-gde-auditoriya-obucheniya-ii/sources.md)
-
-## Raw model reports
-
-4 reports delivered, synthesis used 4 of 6. [DR26-11-12-HUB-02-1343-tiktok-i-sotsseti-vred-umnoe-ispolzovanie-gde-auditoriya-obucheniya-ii/](DR26-11-12-HUB-02-1343-tiktok-i-sotsseti-vred-umnoe-ispolzovanie-gde-auditoriya-obucheniya-ii/README.md)

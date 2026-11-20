@@ -1,6 +1,6 @@
 {
  "generated": "2026-11-20",
- "count": 356,
+ "count": 355,
  "repo": "https://github.com/tonydzi/deep-research",
  "research": [
   {
@@ -443,15 +443,6 @@
    "date": "",
    "slug": "DR26-11-17-MACANTON-01-1941-katalogi-skillov-i-mcp-tulzov-kto-na-chem-zarabatyvaet-i-chto-realno-d",
    "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-11-17-MACANTON-01-1941-katalogi-skillov-i-mcp-tulzov-kto-na-chem-zarabatyvaet-i-chto-realno-d.md"
-  },
-  {
-   "dr_id": "DR26-11-17-ZB-01-1958",
-   "title": "Канон как таблица: кто делал так же, чем мы отличаемся и что взять (синтез ДР)",
-   "summary": "Machine: ZBOOKG8-2023PAL · Agent: Claude Code (claude-fable-5-2) · Operator: Anton · 2026-11-18 · сессия Z16171",
-   "lang": "ru",
-   "date": "",
-   "slug": "DR26-11-17-ZB-01-1958-kanon-kak-tablitsa-kto-delal-tak-zhe-chem-my-otlichaemsya-i-chto-vzyat",
-   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-11-17-ZB-01-1958-kanon-kak-tablitsa-kto-delal-tak-zhe-chem-my-otlichaemsya-i-chto-vzyat.md"
   },
   {
    "dr_id": "DR26-05-01-HUB-01",
@@ -3154,15 +3145,6 @@
    "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-11-10-HUB-04-1439-web-summit-2026-realno-li-yadernoe-pitanie-tsod-k-2030-i-kak-proveryat.md"
   },
   {
-   "dr_id": "DR26-11-11-MACPRO192-01-1546",
-   "title": "Откуда берутся свежебогатые 2010-2026 и где деньги сейчас (сигналы luxury-покупок)",
-   "summary": "⚠️ ПРЕДВАРИТЕЛЬНО: кворум 3 сильные ноги при пороге 4; несущие цифры взяты из отчётов ног и по первоисточникам не сверены. Для решений годится как карта зацепок, для публикации нет. Заказ: голосовая Антона 7732 (09.11.2026), сырьё [[voice-20261109-014939-msg7732]]. ДР `DR26-11-11-MACPRO192-01-1546`, промпт и оригиналы ног: `~/artusha-macPro192Ram/_agents/claude/dr-new-money/`. Соседний старый ДР только про крипто-пулы под BD: [[insight-DR-DR26-07-02-HUB-07-where-the-biggest-crypto-digital-asset-money-pools]].",
-   "lang": "ru",
-   "date": "2026-11-11",
-   "slug": "DR26-11-11-MACPRO192-01-1546-otkuda-berutsya-svezhebogatye-2010-2026-i-gde-dengi-seychas-signaly-lu",
-   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-11-11-MACPRO192-01-1546-otkuda-berutsya-svezhebogatye-2010-2026-i-gde-dengi-seychas-signaly-lu.md"
-  },
-  {
    "dr_id": "DR26-11-13-MACANTON-01-0708",
    "title": "Apple Photos: «embedding revision mismatch», что это и что делать",
    "summary": "1. Не делать Repair Library, не чистить контейнеры и кэши mediaanalysisd, не отключать демоны. 2. Ограниченный read-only замер логов (затухание всплесков со временем: если не затухают, миграция опровергнута). 3. Один минимальный Feedback Assistant репорт: подпись, точное время, sysdiagnose, замеры CPU, без заявления «доказанный баг».",
@@ -3197,6 +3179,15 @@
    "date": "2026-11-17",
    "slug": "DR26-11-17-MAYAK-05-katalogi-skillov-i-mcp-serverov-tipy-monetizatsiya-trafik-vhody-noyabr",
    "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-11-17-MAYAK-05-katalogi-skillov-i-mcp-serverov-tipy-monetizatsiya-trafik-vhody-noyabr.md"
+  },
+  {
+   "dr_id": "DR26-11-19-MAYAK-01",
+   "title": "Перелив аудитории между TikTok, Instagram, Threads и X: правила платформ и практика",
+   "summary": "Какие механики перелива аудитории между TikTok, Instagram, Threads и X реально работают в ноябре 2026, какие правила платформ и мифы о штрафах за ссылки подтверждены, и как измерить результат.",
+   "lang": "ru",
+   "date": "2026-11-19",
+   "slug": "DR26-11-19-MAYAK-01-pereliv-auditorii-mezhdu-tiktok-instagram-threads-i-x-pravila-platform",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-11-19-MAYAK-01-pereliv-auditorii-mezhdu-tiktok-instagram-threads-i-x-pravila-platform.md"
   },
   {
    "dr_id": "DR26-11-19-MACSTUDIOM4-05-1621",

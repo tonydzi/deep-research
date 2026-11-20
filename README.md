@@ -239,10 +239,10 @@ Raw model transcripts stay in our vault. What is published here is the distilled
 | ID | Тема | Дата |
 |---|---|---|
 | [DR26-11-19-MACSTUDIOM4-05-1621](research/DR26-11-19-MACSTUDIOM4-05-1621-elevenlabs-na-noyabr-2026-katalog-tarify-granty-i-primeneniya-dlya-nas.md) | ElevenLabs на ноябрь 2026: каталог, тарифы, гранты и применения для нас | 2026-11-20 |
+| [DR26-11-19-MAYAK-01](research/DR26-11-19-MAYAK-01-pereliv-auditorii-mezhdu-tiktok-instagram-threads-i-x-pravila-platform.md) | Перелив аудитории между TikTok, Instagram, Threads и X: правила платформ и практика | 2026-11-19 |
 | [DR26-11-17-MAYAK-04](research/DR26-11-17-MAYAK-04-katalogi-mcp-serverov-i-skillov-tipy-biznes-modeli-trafik-vhody-noyabr.md) | Каталоги MCP-серверов и скиллов: типы, бизнес-модели, трафик, входы (ноябрь 2026) | 2026-11-17 |
 | [DR26-11-17-MAYAK-05](research/DR26-11-17-MAYAK-05-katalogi-skillov-i-mcp-serverov-tipy-monetizatsiya-trafik-vhody-noyabr.md) | Каталоги скиллов и MCP-серверов: типы, монетизация, трафик, входы (ноябрь 2026) | 2026-11-17 |
 | [DR26-11-13-MACANTON-01-0708](research/DR26-11-13-MACANTON-01-0708-apple-photos-embedding-revision-mismatch-chto-eto-i-chto-delat.md) | Apple Photos: «embedding revision mismatch», что это и что делать | 2026-11-15 |
-| [DR26-11-11-MACPRO192-01-1546](research/DR26-11-11-MACPRO192-01-1546-otkuda-berutsya-svezhebogatye-2010-2026-i-gde-dengi-seychas-signaly-lu.md) | Откуда берутся свежебогатые 2010-2026 и где деньги сейчас (сигналы luxury-покупок) | 2026-11-11 |
 | [DR26-11-10-HUB-04-1439](research/DR26-11-10-HUB-04-1439-web-summit-2026-realno-li-yadernoe-pitanie-tsod-k-2030-i-kak-proveryat.md) | Web Summit 2026: реально ли ядерное питание ЦОД к 2030 и как проверять обещания панели | 2026-11-10 |
 | [DR26-11-09-HUB-03](research/DR26-11-09-HUB-03-workshop-labs-pbc-thinking-machines-lab-sdelka-tehnologii-bezopasnost.md) | Workshop Labs PBC × Thinking Machines Lab: сделка, технологии, безопасность, benchmark | 2026-11-09 |
 | [DR26-11-05-HUB-01-0805](research/DR26-11-05-HUB-01-0805-nochnoy-son-ii-agenta-sleep-time-compute-refleksiya-dnya-zagotovki-otv.md) | Ночной сон ИИ-агента: sleep-time compute, рефлексия дня, заготовки ответов | 2026-11-05 |
@@ -434,7 +434,6 @@ Raw model transcripts stay in our vault. What is published here is the distilled
 | [DR26-11-15-MACSTUDIOM4-01-1401](research/DR26-11-15-MACSTUDIOM4-01-1401-sintez-dr-pereliv-auditorii-mezhdu-tiktok-instagram-threads-i-x.md) | Синтез ДР: перелив аудитории между TikTok, Instagram, Threads и X |  |
 | [DR26-11-16-MACANTON-01-1522](research/DR26-11-16-MACANTON-01-1522-dr26-11-16-macanton-01-1522-samaya-deshevaya-bezopasnaya-relsa-x-iz-cl.md) | DR26-11-16-MACANTON-01-1522: самая дешёвая безопасная рельса X из Claude Code |  |
 | [DR26-11-17-MACANTON-01-1941](research/DR26-11-17-MACANTON-01-1941-katalogi-skillov-i-mcp-tulzov-kto-na-chem-zarabatyvaet-i-chto-realno-d.md) | Каталоги скиллов и MCP-тулзов: кто на чём зарабатывает и что реально даёт листинг (синтез ДР) |  |
-| [DR26-11-17-ZB-01-1958](research/DR26-11-17-ZB-01-1958-kanon-kak-tablitsa-kto-delal-tak-zhe-chem-my-otlichaemsya-i-chto-vzyat.md) | Канон как таблица: кто делал так же, чем мы отличаемся и что взять (синтез ДР) |  |
 
 ---
 
