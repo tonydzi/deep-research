@@ -163,3 +163,6 @@ source: Palo Alto AI Research Lab — deep research programme
 | https://about.fb.com/br/news/2024/04/ajudando-o-criador-de-conteudo-a-encontrar-novos-publicos/ | ✅ подтвердилось: 30.04.2024, водяной знак исключает из рекомендаций; агрегатор 10+ раз за 30 дней |
 | https://ads.tiktok.com/resources/help/article/about-destination-links | ✅ подтвердилось: «You must be a Verified Business Account», нужен пиксель с событием оплаты |
 | https://github.com/xai-org/x-algorithm | ⚠️ частично: ссылка только в списке предсказываемых кликов; веса +0.2 и правила против URL в README нет, утверждение Grok не подтверждено |
+
+## Дополнение 20.11.2026
+- Пятая нога Gemini собрана хабом и разобрана отдельно: insight-DR-DR26-11-19-MAYAK-01-перелив-аудитории-между-tiktok-instagram-threads-и. Выводы этой заметки подтверждает; новое (SmartSites 0,04 против 0,88, потеря реферера в WebView, кодовое слово в DM) вписано в synthesis.md раздел 8 на Студии.

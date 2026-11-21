@@ -152,3 +152,13 @@ ChatGPT (`deep-research-mini`) утверждал три вещи, которы�
 - `dr_leg_gate.py` exit 0 проверяет объём, источники и эхо, но не правдивость фактов: нога ChatGPT прошла его с тремя ошибками. «Гейт PASS» не равно «факты верны».
 - Противоречие по квоте YouTube: `/youtube-publish` п.9 держит потолок 4 видео в сутки по замеру 14.10 (пятое видео теряло субтитры и read-back). Это отказ субтитров, а не обязательно отказ квоты загрузки, поэтому проверка корзин в Cloud Console одна вопрос не закроет: нужен повтор пяти загрузок за день с проверкой субтитров и read-back до правки DAILY_CAP.
 - Статус в реестре: `parked` (кто запарковал, в реестре не записано): выводы не применены к `/youtube-publish`.
+
+
+## Check it yourself: prompt, sources, raw reports
+
+- Prompt: [DR26-10-18-HUB-02-0542-fabrika-podkastov-notebooklm-na-vse-platformy-sintez-dr-18-10-2026/prompt.md](DR26-10-18-HUB-02-0542-fabrika-podkastov-notebooklm-na-vse-platformy-sintez-dr-18-10-2026/prompt.md)
+- All sources (262 links): [DR26-10-18-HUB-02-0542-fabrika-podkastov-notebooklm-na-vse-platformy-sintez-dr-18-10-2026/sources.md](DR26-10-18-HUB-02-0542-fabrika-podkastov-notebooklm-na-vse-platformy-sintez-dr-18-10-2026/sources.md)
+
+## Raw model reports
+
+5 reports delivered, synthesis used 5 of 6. [DR26-10-18-HUB-02-0542-fabrika-podkastov-notebooklm-na-vse-platformy-sintez-dr-18-10-2026/](DR26-10-18-HUB-02-0542-fabrika-podkastov-notebooklm-na-vse-platformy-sintez-dr-18-10-2026/README.md)

@@ -1,6 +1,6 @@
 {
- "generated": "2026-11-20",
- "count": 355,
+ "generated": "2026-11-21",
+ "count": 356,
  "repo": "https://github.com/tonydzi/deep-research",
  "research": [
   {
@@ -3197,6 +3197,15 @@
    "date": "2026-11-20",
    "slug": "DR26-11-19-MACSTUDIOM4-05-1621-elevenlabs-na-noyabr-2026-katalog-tarify-granty-i-primeneniya-dlya-nas",
    "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-11-19-MACSTUDIOM4-05-1621-elevenlabs-na-noyabr-2026-katalog-tarify-granty-i-primeneniya-dlya-nas.md"
+  },
+  {
+   "dr_id": "DR26-11-20-MACSTUDIOM4-01-0251",
+   "title": "Срок жизни кэша промпта у Codex, Claude Code и Gemini: синтез ДР и наш замер",
+   "summary": "Заказали Tony Dzi (Anton Dziatkovskii) и Майкрофт, Palo Alto AI Research Lab. Потребитель: статья EN+RU и подкаст NotebookLM (заказ Антона 20.11.2026, голосом). Расширяет выданный, но не исполненный DR26-11-15-HUB-03-2350 и дополняет [[insight-DR-DR26-11-19-MACSTUDIOM4-04-1621-storozh-ostyvshey-sessii]] (там про инструменты-сторожа, здесь про сам срок жизни кэша).",
+   "lang": "ru",
+   "date": "2026-11-20",
+   "slug": "DR26-11-20-MACSTUDIOM4-01-0251-srok-zhizni-kesha-prompta-u-codex-claude-code-i-gemini-sintez-dr-i-nas",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-11-20-MACSTUDIOM4-01-0251-srok-zhizni-kesha-prompta-u-codex-claude-code-i-gemini-sintez-dr-i-nas.md"
   }
  ]
 }
