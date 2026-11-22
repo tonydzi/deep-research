@@ -5,7 +5,7 @@ Each file: frontmatter (dr_id, title, date, lang) + summary + key findings + rec
 Multi-model methodology: every question fanned out to several frontier models, then reconciled.
 License: CC BY 4.0. Cite as: Palo Alto AI Research Lab, deep research <dr_id>.
 
-- DR26-11-20-MACANTON-01-0941 (2026-11-21, ru): Mac16 (MacBookPro16,1) потолок CPU 26-52% и горячий корпус, безопасный порядок диагностики
+- DR26-11-21-HUB-01 (2026-11-21, ru): Бустит ли алгоритм X контент про Grok и тег @grok: доказательная база и форматы
 - DR26-11-19-MACSTUDIOM4-05-1621 (2026-11-20, ru): ElevenLabs на ноябрь 2026: каталог, тарифы, гранты и применения для нас
 - DR26-11-20-MACSTUDIOM4-01-0251 (2026-11-20, ru): Срок жизни кэша промпта у Codex, Claude Code и Gemini: синтез ДР и наш замер
 - DR26-11-19-MAYAK-01 (2026-11-19, ru): Перелив аудитории между TikTok, Instagram, Threads и X: правила платформ и практика
