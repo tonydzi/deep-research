@@ -1,6 +1,6 @@
 {
- "generated": "2026-11-21",
- "count": 356,
+ "generated": "2026-11-22",
+ "count": 357,
  "repo": "https://github.com/tonydzi/deep-research",
  "research": [
   {
@@ -3206,6 +3206,15 @@
    "date": "2026-11-20",
    "slug": "DR26-11-20-MACSTUDIOM4-01-0251-srok-zhizni-kesha-prompta-u-codex-claude-code-i-gemini-sintez-dr-i-nas",
    "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-11-20-MACSTUDIOM4-01-0251-srok-zhizni-kesha-prompta-u-codex-claude-code-i-gemini-sintez-dr-i-nas.md"
+  },
+  {
+   "dr_id": "DR26-11-20-MACANTON-01-0941",
+   "title": "Mac16 (MacBookPro16,1) потолок CPU 26-52% и горячий корпус, безопасный порядок диагностики",
+   "summary": "Вопрос заказа: какой следующий неразрушающий тест выбрать для медленного и горячего MacBookPro16,1 (i9-9980HK, macOS 26.3.1 (a), сборка 25D771280a), не выключая машину и не останавливая агентов. Machine: MacBook-Anton · Agent: claude-code · Operator: Anton · 2026-11-21",
+   "lang": "ru",
+   "date": "2026-11-21",
+   "slug": "DR26-11-20-MACANTON-01-0941-mac16-macbookpro16-1-potolok-cpu-26-52-i-goryachiy-korpus-bezopasnyy-p",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-11-20-MACANTON-01-0941-mac16-macbookpro16-1-potolok-cpu-26-52-i-goryachiy-korpus-bezopasnyy-p.md"
   }
  ]
 }

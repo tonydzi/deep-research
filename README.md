@@ -238,6 +238,7 @@ Raw model transcripts stay in our vault. What is published here is the distilled
 
 | ID | Тема | Дата |
 |---|---|---|
+| [DR26-11-20-MACANTON-01-0941](research/DR26-11-20-MACANTON-01-0941-mac16-macbookpro16-1-potolok-cpu-26-52-i-goryachiy-korpus-bezopasnyy-p.md) | Mac16 (MacBookPro16,1) потолок CPU 26-52% и горячий корпус, безопасный порядок диагностики | 2026-11-21 |
 | [DR26-11-19-MACSTUDIOM4-05-1621](research/DR26-11-19-MACSTUDIOM4-05-1621-elevenlabs-na-noyabr-2026-katalog-tarify-granty-i-primeneniya-dlya-nas.md) | ElevenLabs на ноябрь 2026: каталог, тарифы, гранты и применения для нас | 2026-11-20 |
 | [DR26-11-20-MACSTUDIOM4-01-0251](research/DR26-11-20-MACSTUDIOM4-01-0251-srok-zhizni-kesha-prompta-u-codex-claude-code-i-gemini-sintez-dr-i-nas.md) | Срок жизни кэша промпта у Codex, Claude Code и Gemini: синтез ДР и наш замер | 2026-11-20 |
 | [DR26-11-19-MAYAK-01](research/DR26-11-19-MAYAK-01-pereliv-auditorii-mezhdu-tiktok-instagram-threads-i-x-pravila-platform.md) | Перелив аудитории между TikTok, Instagram, Threads и X: правила платформ и практика | 2026-11-19 |
