@@ -66,13 +66,3 @@ source: Palo Alto AI Research Lab — deep research programme
 
 ## Связано (ручная заметка по первоисточникам)
 - insight-2026-11-10-web-summit-nuclear-compute (написана Codex H90913 до ног, сверена Claude H28529 по первоисточникам; секция «Кворум ног ДР» сводит обе)
-
-
-## Check it yourself: prompt, sources, raw reports
-
-- Prompt: [DR26-11-10-HUB-04-1439-web-summit-2026-realno-li-yadernoe-pitanie-tsod-k-2030-i-kak-proveryat/prompt.md](DR26-11-10-HUB-04-1439-web-summit-2026-realno-li-yadernoe-pitanie-tsod-k-2030-i-kak-proveryat/prompt.md)
-- All sources (255 links): [DR26-11-10-HUB-04-1439-web-summit-2026-realno-li-yadernoe-pitanie-tsod-k-2030-i-kak-proveryat/sources.md](DR26-11-10-HUB-04-1439-web-summit-2026-realno-li-yadernoe-pitanie-tsod-k-2030-i-kak-proveryat/sources.md)
-
-## Raw model reports
-
-4 reports delivered, synthesis used 4 of 6. [DR26-11-10-HUB-04-1439-web-summit-2026-realno-li-yadernoe-pitanie-tsod-k-2030-i-kak-proveryat/](DR26-11-10-HUB-04-1439-web-summit-2026-realno-li-yadernoe-pitanie-tsod-k-2030-i-kak-proveryat/README.md)
