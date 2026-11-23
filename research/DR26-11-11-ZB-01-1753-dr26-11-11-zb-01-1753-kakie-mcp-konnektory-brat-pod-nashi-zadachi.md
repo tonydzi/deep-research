@@ -82,3 +82,13 @@ Buffer остаётся в конфиге запасом, X official тольк�
 Источники несущих фактов: https://docs.x.com/tools/mcp · https://support.typefully.com/en/articles/13128440-typefully-mcp-server · https://developers.buffer.com/guides/integrations/mcp.html · https://www.scalekit.com/blog/mcp-vs-cli-use · https://github.com/github/github-mcp-server/blob/main/docs/remote-server.md · https://decrypt.co/379892/reddit-killing-rss-feeds-public-api-access-ai-scrapers · https://huggingface.co/docs/hub/agents-mcp · https://calendly.com/blog/mcp-server · https://help.luma.com/p/mcp · https://openrouter.ai/docs/guides/overview/mcp-server
 
 Заказали: Tony Dzi (Anton Dziatkovskii) и Майкрофт, Palo Alto AI Research Lab.
+
+
+## Check it yourself: prompt, sources, raw reports
+
+- Prompt: [DR26-11-11-ZB-01-1753-dr26-11-11-zb-01-1753-kakie-mcp-konnektory-brat-pod-nashi-zadachi/prompt.md](DR26-11-11-ZB-01-1753-dr26-11-11-zb-01-1753-kakie-mcp-konnektory-brat-pod-nashi-zadachi/prompt.md)
+- All sources (494 links): [DR26-11-11-ZB-01-1753-dr26-11-11-zb-01-1753-kakie-mcp-konnektory-brat-pod-nashi-zadachi/sources.md](DR26-11-11-ZB-01-1753-dr26-11-11-zb-01-1753-kakie-mcp-konnektory-brat-pod-nashi-zadachi/sources.md)
+
+## Raw model reports
+
+4 reports delivered, synthesis used 4 of 6. [DR26-11-11-ZB-01-1753-dr26-11-11-zb-01-1753-kakie-mcp-konnektory-brat-pod-nashi-zadachi/](DR26-11-11-ZB-01-1753-dr26-11-11-zb-01-1753-kakie-mcp-konnektory-brat-pod-nashi-zadachi/README.md)

@@ -1,6 +1,6 @@
 # Palo Alto AI Research Lab — deep research corpus
 
-357 distilled deep-research reports. Machine-readable index: index.json
+358 distilled deep-research reports. Machine-readable index: index.json
 Each file: frontmatter (dr_id, title, date, lang) + summary + key findings + recommendations.
 Multi-model methodology: every question fanned out to several frontier models, then reconciled.
 License: CC BY 4.0. Cite as: Palo Alto AI Research Lab, deep research <dr_id>.
@@ -362,3 +362,4 @@ License: CC BY 4.0. Cite as: Palo Alto AI Research Lab, deep research <dr_id>.
 - DR26-11-15-MACSTUDIOM4-01-1401 (, ru): Синтез ДР: перелив аудитории между TikTok, Instagram, Threads и X
 - DR26-11-16-MACANTON-01-1522 (, ru): DR26-11-16-MACANTON-01-1522: самая дешёвая безопасная рельса X из Claude Code
 - DR26-11-17-MACANTON-01-1941 (, ru): Каталоги скиллов и MCP-тулзов: кто на чём зарабатывает и что реально даёт листинг (синтез ДР)
+- DR26-11-22-MACPRO192-01-2003 (, ru): Claude Code без слепого доверия

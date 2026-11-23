@@ -1,10 +1,11 @@
 # Research history
 
-355 deep-research runs, newest first. Each run is sent to several frontier models in parallel ("rails"); models finish at different times, so a synthesis may be built from fewer reports than were finally delivered. The two columns show both numbers honestly; `?` means we do not know.
+356 deep-research runs, newest first. Each run is sent to several frontier models in parallel ("rails"); models finish at different times, so a synthesis may be built from fewer reports than were finally delivered. The two columns show both numbers honestly; `?` means we do not know.
 
 | ID | date | topic | reports delivered | used in synthesis | dev.to |
 |---|---|---|---|---|---|
-| [DR26-11-20-MACANTON-01-0941](https://github.com/tonydzi/deep-research/blob/main/research/DR26-11-20-MACANTON-01-0941-mac16-macbookpro16-1-potolok-cpu-26-52-i-goryachiy-korpus-bezopasnyy-p.md) | 2026-11-20 | MacBookPro16,1 macOS26.3.1(a): persistent CPU ceiling26–52 and hot chassis, ageing/uptime, safe differential d | 4 | 4/6 |  |
+| [DR26-11-22-MACPRO192-01-2003](https://github.com/tonydzi/deep-research/blob/main/research/DR26-11-22-MACPRO192-01-2003-claude-code-bez-slepogo-doveriya.md) | 2026-11-22 | Claude Code доверие галлюцинации поддакивание и панель восьми LLM voice7735 | 4 | 4/6 |  |
+| [DR26-11-21-HUB-01](https://github.com/tonydzi/deep-research/blob/main/research/DR26-11-21-HUB-01-bustit-li-algoritm-x-kontent-pro-grok-i-teg-grok-dokazatelnaya-baza-i.md) | 2026-11-21 | 1. Доказательная база: бустит ли алгоритм X контент про Grok и тег @gr | ? | ? |  |
 | [DR26-11-20-MACSTUDIOM4-01-0251](https://github.com/tonydzi/deep-research/blob/main/research/DR26-11-20-MACSTUDIOM4-01-0251-srok-zhizni-kesha-prompta-u-codex-claude-code-i-gemini-sintez-dr-i-nas.md) | 2026-11-20 | Срок жизни кэша промпта у Codex, Claude Code и Gemini: официальный и наблюдаемый TTL, что сбрасывает кэш, прод | 5 | 5/6 |  |
 | [DR26-11-19-MACSTUDIOM4-05-1621](https://github.com/tonydzi/deep-research/blob/main/research/DR26-11-19-MACSTUDIOM4-05-1621-elevenlabs-na-noyabr-2026-katalog-tarify-granty-i-primeneniya-dlya-nas.md) | 2026-11-19 | ElevenLabs: полный каталог продуктов и API, тарифы, гранты и все применения для Palo Alto AI Research Lab | 4 | 4/6 |  |
 | [DR26-11-19-MAYAK-01](https://github.com/tonydzi/deep-research/blob/main/research/DR26-11-19-MAYAK-01-pereliv-auditorii-mezhdu-tiktok-instagram-threads-i-x-pravila-platform.md) | 2026-11-19 | Перелив аудитории между TikTok, Instagram, Threads и X: правила платфо (Своих ног нет: queue/DR26-11-19-MAYAK- | ? | ? |  |

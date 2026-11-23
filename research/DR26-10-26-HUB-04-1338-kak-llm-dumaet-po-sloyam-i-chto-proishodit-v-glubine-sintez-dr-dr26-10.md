@@ -201,3 +201,13 @@ Machine: хаб (Хаб) · Agent: Claude · Operator: Anton · 2026-10-26
 Выяснилось: если закрыть половину дальних перекрёстков, город всё равно ответит на простой вопрос, но собьётся на задаче со счётом в два шага: второму шагу не хватает перекрёстков. А в подвале города нет злого хозяина с плохими картинками: там просто сортируют детали. Знак «район для взрослых» на улице не значит, что город туда хочет ехать; значит, что он умеет туда не повернуть.
 
 🧒 Простыми словами: пять умных помощников читали одни и те же научные статьи. Двое (Claude и Mistral) сами открыли главную спорную статью и сказали одно и то же: «старое проклятие двух шагов отменили сами авторы». Один (Gemini) перепутал цифры и номера статей, другой (Grok) принёс одну статью, которой больше никто не видел, пятый (ChatGPT) честнее всех записывал, что открыл, а что нет. Мы поверили тем, кто сам открыл первоисточник и читал самую свежую версию. Главная новость: модель и правда «думает» внутри без слов, но совсем немного, и чем глубже слой, тем ближе к ответу, а не к «тайной личности».
+
+
+## Check it yourself: prompt, sources, raw reports
+
+- Prompt: [DR26-10-26-HUB-04-1338-kak-llm-dumaet-po-sloyam-i-chto-proishodit-v-glubine-sintez-dr-dr26-10/prompt.md](DR26-10-26-HUB-04-1338-kak-llm-dumaet-po-sloyam-i-chto-proishodit-v-glubine-sintez-dr-dr26-10/prompt.md)
+- All sources (423 links): [DR26-10-26-HUB-04-1338-kak-llm-dumaet-po-sloyam-i-chto-proishodit-v-glubine-sintez-dr-dr26-10/sources.md](DR26-10-26-HUB-04-1338-kak-llm-dumaet-po-sloyam-i-chto-proishodit-v-glubine-sintez-dr-dr26-10/sources.md)
+
+## Raw model reports
+
+5 reports delivered, synthesis used 5 of 6. [DR26-10-26-HUB-04-1338-kak-llm-dumaet-po-sloyam-i-chto-proishodit-v-glubine-sintez-dr-dr26-10/](DR26-10-26-HUB-04-1338-kak-llm-dumaet-po-sloyam-i-chto-proishodit-v-glubine-sintez-dr-dr26-10/README.md)

@@ -1,6 +1,6 @@
 {
- "generated": "2026-11-22",
- "count": 357,
+ "generated": "2026-11-23",
+ "count": 358,
  "repo": "https://github.com/tonydzi/deep-research",
  "research": [
   {
@@ -443,6 +443,15 @@
    "date": "",
    "slug": "DR26-11-17-MACANTON-01-1941-katalogi-skillov-i-mcp-tulzov-kto-na-chem-zarabatyvaet-i-chto-realno-d",
    "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-11-17-MACANTON-01-1941-katalogi-skillov-i-mcp-tulzov-kto-na-chem-zarabatyvaet-i-chto-realno-d.md"
+  },
+  {
+   "dr_id": "DR26-11-22-MACPRO192-01-2003",
+   "title": "Claude Code без слепого доверия",
+   "summary": "Исследование `DR26-11-22-MACPRO192-01-2003`, 22 ноября 2026 года. Исток — голосовая 7735. Потребитель — проверка кода и учебный подкаст.",
+   "lang": "ru",
+   "date": "",
+   "slug": "DR26-11-22-MACPRO192-01-2003-claude-code-bez-slepogo-doveriya",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-11-22-MACPRO192-01-2003-claude-code-bez-slepogo-doveriya.md"
   },
   {
    "dr_id": "DR26-05-01-HUB-01",

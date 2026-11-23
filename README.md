@@ -436,6 +436,7 @@ Raw model transcripts stay in our vault. What is published here is the distilled
 | [DR26-11-15-MACSTUDIOM4-01-1401](research/DR26-11-15-MACSTUDIOM4-01-1401-sintez-dr-pereliv-auditorii-mezhdu-tiktok-instagram-threads-i-x.md) | Синтез ДР: перелив аудитории между TikTok, Instagram, Threads и X |  |
 | [DR26-11-16-MACANTON-01-1522](research/DR26-11-16-MACANTON-01-1522-dr26-11-16-macanton-01-1522-samaya-deshevaya-bezopasnaya-relsa-x-iz-cl.md) | DR26-11-16-MACANTON-01-1522: самая дешёвая безопасная рельса X из Claude Code |  |
 | [DR26-11-17-MACANTON-01-1941](research/DR26-11-17-MACANTON-01-1941-katalogi-skillov-i-mcp-tulzov-kto-na-chem-zarabatyvaet-i-chto-realno-d.md) | Каталоги скиллов и MCP-тулзов: кто на чём зарабатывает и что реально даёт листинг (синтез ДР) |  |
+| [DR26-11-22-MACPRO192-01-2003](research/DR26-11-22-MACPRO192-01-2003-claude-code-bez-slepogo-doveriya.md) | Claude Code без слепого доверия |  |
 
 ---
 
