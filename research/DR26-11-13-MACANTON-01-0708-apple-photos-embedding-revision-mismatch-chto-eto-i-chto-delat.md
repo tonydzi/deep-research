@@ -31,3 +31,13 @@ Gemini Pro Deep research, 73 тыс. знаков, 156 ссылок, `dr_leg_gat
 
 ## Не проверено
 Сверка по тексту отчётов (сопоставлены резюме и рекомендации всех 5 ног), без перепроверки цитируемых источников.
+
+
+## Check it yourself: prompt, sources, raw reports
+
+- Prompt: [DR26-11-13-MACANTON-01-0708-apple-photos-embedding-revision-mismatch-chto-eto-i-chto-delat/prompt.md](DR26-11-13-MACANTON-01-0708-apple-photos-embedding-revision-mismatch-chto-eto-i-chto-delat/prompt.md)
+- All sources (479 links): [DR26-11-13-MACANTON-01-0708-apple-photos-embedding-revision-mismatch-chto-eto-i-chto-delat/sources.md](DR26-11-13-MACANTON-01-0708-apple-photos-embedding-revision-mismatch-chto-eto-i-chto-delat/sources.md)
+
+## Raw model reports
+
+6 reports delivered, synthesis used 5 of 6. Note: 1 report(s) arrived after the synthesis was written; they are attached raw and were not reconciled. [DR26-11-13-MACANTON-01-0708-apple-photos-embedding-revision-mismatch-chto-eto-i-chto-delat/](DR26-11-13-MACANTON-01-0708-apple-photos-embedding-revision-mismatch-chto-eto-i-chto-delat/README.md)

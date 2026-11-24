@@ -61,3 +61,13 @@ source: Palo Alto AI Research Lab — deep research programme
 
 ## ПОПРАВКА 17.11 (A61708): MCP → скрипты по всему флоту
 Замер 1000 сессий × 6 узлов, переделка 4 рутин и 24 скиллов, посылка mcp2https-A61708-20261117-r2. Статья-черновик: article-2026-11-17-mcp-to-scripts-draft
+
+
+## Check it yourself: prompt, sources, raw reports
+
+- Prompt: [DR26-11-16-MACANTON-01-1522-dr26-11-16-macanton-01-1522-samaya-deshevaya-bezopasnaya-relsa-x-iz-cl/prompt.md](DR26-11-16-MACANTON-01-1522-dr26-11-16-macanton-01-1522-samaya-deshevaya-bezopasnaya-relsa-x-iz-cl/prompt.md)
+- All sources (483 links): [DR26-11-16-MACANTON-01-1522-dr26-11-16-macanton-01-1522-samaya-deshevaya-bezopasnaya-relsa-x-iz-cl/sources.md](DR26-11-16-MACANTON-01-1522-dr26-11-16-macanton-01-1522-samaya-deshevaya-bezopasnaya-relsa-x-iz-cl/sources.md)
+
+## Raw model reports
+
+5 reports delivered, synthesis used 4 of 5. Note: 1 report(s) arrived after the synthesis was written; they are attached raw and were not reconciled. [DR26-11-16-MACANTON-01-1522-dr26-11-16-macanton-01-1522-samaya-deshevaya-bezopasnaya-relsa-x-iz-cl/](DR26-11-16-MACANTON-01-1522-dr26-11-16-macanton-01-1522-samaya-deshevaya-bezopasnaya-relsa-x-iz-cl/README.md)
