@@ -55,3 +55,13 @@ Machine: Mac · Agent: Claude Opus 5.5 · Operator: Anton · 2026-11-17
 - Опровергло бы выводы: первые данные портала Anthropic или PyPI, где листинг в каталоге-сайте даёт заметный рост установок.
 
 Заказали Tony Dzi (Anton Dziatkovskii) и Майкрофт, Palo Alto AI Research Lab.
+
+
+## Check it yourself: prompt, sources, raw reports
+
+- Prompt: [DR26-11-17-MACANTON-01-1941-katalogi-skillov-i-mcp-tulzov-kto-na-chem-zarabatyvaet-i-chto-realno-d/prompt.md](DR26-11-17-MACANTON-01-1941-katalogi-skillov-i-mcp-tulzov-kto-na-chem-zarabatyvaet-i-chto-realno-d/prompt.md)
+- All sources (330 links): [DR26-11-17-MACANTON-01-1941-katalogi-skillov-i-mcp-tulzov-kto-na-chem-zarabatyvaet-i-chto-realno-d/sources.md](DR26-11-17-MACANTON-01-1941-katalogi-skillov-i-mcp-tulzov-kto-na-chem-zarabatyvaet-i-chto-realno-d/sources.md)
+
+## Raw model reports
+
+4 reports delivered, synthesis used 4 of 6. [DR26-11-17-MACANTON-01-1941-katalogi-skillov-i-mcp-tulzov-kto-na-chem-zarabatyvaet-i-chto-realno-d/](DR26-11-17-MACANTON-01-1941-katalogi-skillov-i-mcp-tulzov-kto-na-chem-zarabatyvaet-i-chto-realno-d/README.md)
