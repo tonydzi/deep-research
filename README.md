@@ -238,6 +238,7 @@ Raw model transcripts stay in our vault. What is published here is the distilled
 
 | ID | Тема | Дата |
 |---|---|---|
+| [DR26-11-26-MACANTON-01-0842](research/DR26-11-26-MACANTON-01-0842-manus-manus-im-brat-li-v-nash-stek-noyabr-2026.md) | Manus (manus.im) — брать ли в наш стек, ноябрь 2026 | 2026-11-26 |
 | [DR26-11-21-HUB-01](research/DR26-11-21-HUB-01-bustit-li-algoritm-x-kontent-pro-grok-i-teg-grok-dokazatelnaya-baza-i.md) | Бустит ли алгоритм X контент про Grok и тег @grok: доказательная база и форматы | 2026-11-21 |
 | [DR26-11-19-MACSTUDIOM4-05-1621](research/DR26-11-19-MACSTUDIOM4-05-1621-elevenlabs-na-noyabr-2026-katalog-tarify-granty-i-primeneniya-dlya-nas.md) | ElevenLabs на ноябрь 2026: каталог, тарифы, гранты и применения для нас | 2026-11-20 |
 | [DR26-11-20-MACSTUDIOM4-01-0251](research/DR26-11-20-MACSTUDIOM4-01-0251-srok-zhizni-kesha-prompta-u-codex-claude-code-i-gemini-sintez-dr-i-nas.md) | Срок жизни кэша промпта у Codex, Claude Code и Gemini: синтез ДР и наш замер | 2026-11-20 |

@@ -1,9 +1,10 @@
 # Research history
 
-356 deep-research runs, newest first. Each run is sent to several frontier models in parallel ("rails"); models finish at different times, so a synthesis may be built from fewer reports than were finally delivered. The two columns show both numbers honestly; `?` means we do not know.
+357 deep-research runs, newest first. Each run is sent to several frontier models in parallel ("rails"); models finish at different times, so a synthesis may be built from fewer reports than were finally delivered. The two columns show both numbers honestly; `?` means we do not know.
 
 | ID | date | topic | reports delivered | used in synthesis | dev.to |
 |---|---|---|---|---|---|
+| [DR26-11-26-MACANTON-01-0842](https://github.com/tonydzi/deep-research/blob/main/research/DR26-11-26-MACANTON-01-0842-manus-manus-im-brat-li-v-nash-stek-noyabr-2026.md) | 2026-11-26 | Manus AI агент: что это, LLM внутри, цены, капчи, кейсы, сравнение с Hermes | 4 | 4/6 |  |
 | [DR26-11-22-MACPRO192-01-2003](https://github.com/tonydzi/deep-research/blob/main/research/DR26-11-22-MACPRO192-01-2003-claude-code-bez-slepogo-doveriya.md) | 2026-11-22 | Claude Code доверие галлюцинации поддакивание и панель восьми LLM voice7735 | 4 | 4/6 |  |
 | [DR26-11-21-HUB-01](https://github.com/tonydzi/deep-research/blob/main/research/DR26-11-21-HUB-01-bustit-li-algoritm-x-kontent-pro-grok-i-teg-grok-dokazatelnaya-baza-i.md) | 2026-11-21 | 1. Доказательная база: бустит ли алгоритм X контент про Grok и тег @gr (судья 23.11: прямого буста за @grok не | ? | ? |  |
 | [DR26-11-20-MACSTUDIOM4-01-0251](https://github.com/tonydzi/deep-research/blob/main/research/DR26-11-20-MACSTUDIOM4-01-0251-srok-zhizni-kesha-prompta-u-codex-claude-code-i-gemini-sintez-dr-i-nas.md) | 2026-11-20 | Срок жизни кэша промпта у Codex, Claude Code и Gemini: официальный и наблюдаемый TTL, что сбрасывает кэш, прод | 5 | 5/6 |  |

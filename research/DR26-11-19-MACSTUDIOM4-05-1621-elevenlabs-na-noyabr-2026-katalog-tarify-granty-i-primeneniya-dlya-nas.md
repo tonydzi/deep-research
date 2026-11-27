@@ -141,3 +141,13 @@ source: Palo Alto AI Research Lab — deep research programme
 - Леджер веера и ссылки на чаты: `_drafts/DR-FANOUT-DR26-11-19-MACSTUDIOM4-05-1621-elevenlabs.md`
 
 Machine: MacStudioM4 · Agent: Claude Code (Fable 5.2) · Operator: Anton · 2026-11-20
+
+
+## Check it yourself: prompt, sources, raw reports
+
+- Prompt: [DR26-11-19-MACSTUDIOM4-05-1621-elevenlabs-na-noyabr-2026-katalog-tarify-granty-i-primeneniya-dlya-nas/prompt.md](DR26-11-19-MACSTUDIOM4-05-1621-elevenlabs-na-noyabr-2026-katalog-tarify-granty-i-primeneniya-dlya-nas/prompt.md)
+- All sources (183 links): [DR26-11-19-MACSTUDIOM4-05-1621-elevenlabs-na-noyabr-2026-katalog-tarify-granty-i-primeneniya-dlya-nas/sources.md](DR26-11-19-MACSTUDIOM4-05-1621-elevenlabs-na-noyabr-2026-katalog-tarify-granty-i-primeneniya-dlya-nas/sources.md)
+
+## Raw model reports
+
+4 reports delivered, synthesis used 4 of 6. [DR26-11-19-MACSTUDIOM4-05-1621-elevenlabs-na-noyabr-2026-katalog-tarify-granty-i-primeneniya-dlya-nas/](DR26-11-19-MACSTUDIOM4-05-1621-elevenlabs-na-noyabr-2026-katalog-tarify-granty-i-primeneniya-dlya-nas/README.md)

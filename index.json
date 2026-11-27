@@ -1,6 +1,6 @@
 {
- "generated": "2026-11-26",
- "count": 358,
+ "generated": "2026-11-27",
+ "count": 359,
  "repo": "https://github.com/tonydzi/deep-research",
  "research": [
   {
@@ -3224,6 +3224,15 @@
    "date": "2026-11-21",
    "slug": "DR26-11-21-HUB-01-bustit-li-algoritm-x-kontent-pro-grok-i-teg-grok-dokazatelnaya-baza-i",
    "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-11-21-HUB-01-bustit-li-algoritm-x-kontent-pro-grok-i-teg-grok-dokazatelnaya-baza-i.md"
+  },
+  {
+   "dr_id": "DR26-11-26-MACANTON-01-0842",
+   "title": "Manus (manus.im) — брать ли в наш стек, ноябрь 2026",
+   "summary": "Даёт ли Manus (manus.im) нашей лаборатории что-то, чего нет в связке Claude Code + Codex + наши браузерные рельсы + Hermes Agent? И что можно рассказать о нём в подкасте NotebookLM.",
+   "lang": "ru",
+   "date": "2026-11-26",
+   "slug": "DR26-11-26-MACANTON-01-0842-manus-manus-im-brat-li-v-nash-stek-noyabr-2026",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-11-26-MACANTON-01-0842-manus-manus-im-brat-li-v-nash-stek-noyabr-2026.md"
   }
  ]
 }
