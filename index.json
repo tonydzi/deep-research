@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-27",
+ "generated": "2026-11-28",
  "count": 359,
  "repo": "https://github.com/tonydzi/deep-research",
  "research": [
@@ -425,15 +425,6 @@
    "date": "",
    "slug": "DR26-11-15-MACSTUDIOM4-01-1401-sintez-dr-pereliv-auditorii-mezhdu-tiktok-instagram-threads-i-x",
    "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-11-15-MACSTUDIOM4-01-1401-sintez-dr-pereliv-auditorii-mezhdu-tiktok-instagram-threads-i-x.md"
-  },
-  {
-   "dr_id": "DR26-11-16-MACANTON-01-1522",
-   "title": "DR26-11-16-MACANTON-01-1522: самая дешёвая безопасная рельса X из Claude Code",
-   "summary": "Связи: продолжает [[insight-DR-DR26-11-12-HUB-01-0234-connectors-gaps-x-api]] и [[insight-DR-DR26-09-15-ZB-04-0758-mcp-social-schedulers]]; правило [[x-no-links-link-in-bio]]; MOC [[MOC-Deep-Research]].",
-   "lang": "ru",
-   "date": "",
-   "slug": "DR26-11-16-MACANTON-01-1522-dr26-11-16-macanton-01-1522-samaya-deshevaya-bezopasnaya-relsa-x-iz-cl",
-   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-11-16-MACANTON-01-1522-dr26-11-16-macanton-01-1522-samaya-deshevaya-bezopasnaya-relsa-x-iz-cl.md"
   },
   {
    "dr_id": "DR26-11-17-MACANTON-01-1941",
@@ -3226,13 +3217,22 @@
    "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-11-21-HUB-01-bustit-li-algoritm-x-kontent-pro-grok-i-teg-grok-dokazatelnaya-baza-i.md"
   },
   {
-   "dr_id": "DR26-11-26-MACANTON-01-0842",
-   "title": "Manus (manus.im) — брать ли в наш стек, ноябрь 2026",
-   "summary": "Даёт ли Manus (manus.im) нашей лаборатории что-то, чего нет в связке Claude Code + Codex + наши браузерные рельсы + Hermes Agent? И что можно рассказать о нём в подкасте NotebookLM.",
+   "dr_id": "DR26-11-27-HUB-01-1427",
+   "title": "дом в Mem Martins за 2 млн €: кто заплатит, упаковка и план",
+   "summary": "Machine: A-2022BAYAREA (Хаб) · Agent: Claude Code (Fable 5.1) · Operator: Anton · 2026-11-27",
    "lang": "ru",
-   "date": "2026-11-26",
-   "slug": "DR26-11-26-MACANTON-01-0842-manus-manus-im-brat-li-v-nash-stek-noyabr-2026",
-   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-11-26-MACANTON-01-0842-manus-manus-im-brat-li-v-nash-stek-noyabr-2026.md"
+   "date": "2026-11-27",
+   "slug": "DR26-11-27-HUB-01-1427-dom-v-mem-martins-za-2-mln-kto-zaplatit-upakovka-i-plan",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-11-27-HUB-01-1427-dom-v-mem-martins-za-2-mln-kto-zaplatit-upakovka-i-plan.md"
+  },
+  {
+   "dr_id": "DR26-11-28-HUB-02-0204",
+   "title": "Google Antigravity 2.0 Orchestrator (Carbon/Neon/Argon + Hydrogen Executor), внутреннее меню, 5 примитивов оркестрации и маршрутизация флота",
+   "summary": "Как устроен Оркестратор в Google Antigravity 2.0 (`Orchestrator (Carbon / Neon / Argon)`), что находится внутри его подменю настроек, как реально работают 5 примитивов оркестрации (`Orchestrator`, `invoke_subagent`, `/swarm`, `/run-workflow`, `/boost`) и как правильно настроить их для нашего флота из 6 машин и папки `E:\\!CLAUDE-PaloAltoPC-June26`.",
+   "lang": "ru",
+   "date": "2026-11-28",
+   "slug": "DR26-11-28-HUB-02-0204-google-antigravity-2-0-orchestrator-carbon-neon-argon-hydrogen-executo",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-11-28-HUB-02-0204-google-antigravity-2-0-orchestrator-carbon-neon-argon-hydrogen-executo.md"
   }
  ]
 }

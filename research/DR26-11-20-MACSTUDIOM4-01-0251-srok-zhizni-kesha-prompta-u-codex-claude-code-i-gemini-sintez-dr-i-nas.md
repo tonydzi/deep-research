@@ -69,3 +69,13 @@ source: Palo Alto AI Research Lab — deep research programme
 - https://learn.chatgpt.com/docs/pricing
 
 Прибор и таблицы: `projects/cache-ttl-article/` и `projects/session-context-audit/` в AI-Workspace. Статья: prompt-cache-lifetime-codex-vs-claude-code-ru и prompt-cache-lifetime-codex-vs-claude-code-en. Нога GLM собрана после синтеза (гейт ✅, 70 источников), в сравнение не вошла.
+
+
+## Check it yourself: prompt, sources, raw reports
+
+- Prompt: [DR26-11-20-MACSTUDIOM4-01-0251-srok-zhizni-kesha-prompta-u-codex-claude-code-i-gemini-sintez-dr-i-nas/prompt.md](DR26-11-20-MACSTUDIOM4-01-0251-srok-zhizni-kesha-prompta-u-codex-claude-code-i-gemini-sintez-dr-i-nas/prompt.md)
+- All sources (496 links): [DR26-11-20-MACSTUDIOM4-01-0251-srok-zhizni-kesha-prompta-u-codex-claude-code-i-gemini-sintez-dr-i-nas/sources.md](DR26-11-20-MACSTUDIOM4-01-0251-srok-zhizni-kesha-prompta-u-codex-claude-code-i-gemini-sintez-dr-i-nas/sources.md)
+
+## Raw model reports
+
+5 reports delivered, synthesis used 5 of 6. [DR26-11-20-MACSTUDIOM4-01-0251-srok-zhizni-kesha-prompta-u-codex-claude-code-i-gemini-sintez-dr-i-nas/](DR26-11-20-MACSTUDIOM4-01-0251-srok-zhizni-kesha-prompta-u-codex-claude-code-i-gemini-sintez-dr-i-nas/README.md)

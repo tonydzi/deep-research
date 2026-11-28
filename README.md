@@ -238,7 +238,8 @@ Raw model transcripts stay in our vault. What is published here is the distilled
 
 | ID | Тема | Дата |
 |---|---|---|
-| [DR26-11-26-MACANTON-01-0842](research/DR26-11-26-MACANTON-01-0842-manus-manus-im-brat-li-v-nash-stek-noyabr-2026.md) | Manus (manus.im) — брать ли в наш стек, ноябрь 2026 | 2026-11-26 |
+| [DR26-11-28-HUB-02-0204](research/DR26-11-28-HUB-02-0204-google-antigravity-2-0-orchestrator-carbon-neon-argon-hydrogen-executo.md) | Google Antigravity 2.0 Orchestrator (Carbon/Neon/Argon + Hydrogen Executor), внутреннее меню, 5 примитивов орк | 2026-11-28 |
+| [DR26-11-27-HUB-01-1427](research/DR26-11-27-HUB-01-1427-dom-v-mem-martins-za-2-mln-kto-zaplatit-upakovka-i-plan.md) | дом в Mem Martins за 2 млн €: кто заплатит, упаковка и план | 2026-11-27 |
 | [DR26-11-21-HUB-01](research/DR26-11-21-HUB-01-bustit-li-algoritm-x-kontent-pro-grok-i-teg-grok-dokazatelnaya-baza-i.md) | Бустит ли алгоритм X контент про Grok и тег @grok: доказательная база и форматы | 2026-11-21 |
 | [DR26-11-19-MACSTUDIOM4-05-1621](research/DR26-11-19-MACSTUDIOM4-05-1621-elevenlabs-na-noyabr-2026-katalog-tarify-granty-i-primeneniya-dlya-nas.md) | ElevenLabs на ноябрь 2026: каталог, тарифы, гранты и применения для нас | 2026-11-20 |
 | [DR26-11-20-MACSTUDIOM4-01-0251](research/DR26-11-20-MACSTUDIOM4-01-0251-srok-zhizni-kesha-prompta-u-codex-claude-code-i-gemini-sintez-dr-i-nas.md) | Срок жизни кэша промпта у Codex, Claude Code и Gemini: синтез ДР и наш замер | 2026-11-20 |
@@ -435,7 +436,6 @@ Raw model transcripts stay in our vault. What is published here is the distilled
 | [DR26-11-12-HUB-01-0234](research/DR26-11-12-HUB-01-0234-dr26-11-12-hub-01-0234-konnektory-pod-dyry-flota-i-verdikt-po-x-api.md) | DR26-11-12-HUB-01-0234: коннекторы под дыры флота и вердикт по X API |  |
 | [DR26-11-12-HUB-02-1343](research/DR26-11-12-HUB-02-1343-tiktok-i-sotsseti-vred-umnoe-ispolzovanie-gde-auditoriya-obucheniya-ii.md) | TikTok и соцсети: вред, умное использование, где аудитория обучения ИИ и сколько платят |  |
 | [DR26-11-15-MACSTUDIOM4-01-1401](research/DR26-11-15-MACSTUDIOM4-01-1401-sintez-dr-pereliv-auditorii-mezhdu-tiktok-instagram-threads-i-x.md) | Синтез ДР: перелив аудитории между TikTok, Instagram, Threads и X |  |
-| [DR26-11-16-MACANTON-01-1522](research/DR26-11-16-MACANTON-01-1522-dr26-11-16-macanton-01-1522-samaya-deshevaya-bezopasnaya-relsa-x-iz-cl.md) | DR26-11-16-MACANTON-01-1522: самая дешёвая безопасная рельса X из Claude Code |  |
 | [DR26-11-17-MACANTON-01-1941](research/DR26-11-17-MACANTON-01-1941-katalogi-skillov-i-mcp-tulzov-kto-na-chem-zarabatyvaet-i-chto-realno-d.md) | Каталоги скиллов и MCP-тулзов: кто на чём зарабатывает и что реально даёт листинг (синтез ДР) |  |
 | [DR26-11-22-MACPRO192-01-2003](research/DR26-11-22-MACPRO192-01-2003-claude-code-bez-slepogo-doveriya.md) | Claude Code без слепого доверия |  |
 
