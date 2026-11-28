@@ -1,12 +1,13 @@
 # Palo Alto AI Research Lab — deep research corpus
 
-359 distilled deep-research reports. Machine-readable index: index.json
+360 distilled deep-research reports. Machine-readable index: index.json
 Each file: frontmatter (dr_id, title, date, lang) + summary + key findings + recommendations.
 Multi-model methodology: every question fanned out to several frontier models, then reconciled.
 License: CC BY 4.0. Cite as: Palo Alto AI Research Lab, deep research <dr_id>.
 
 - DR26-11-28-HUB-02-0204 (2026-11-28, ru): Google Antigravity 2.0 Orchestrator (Carbon/Neon/Argon + Hydrogen Executor), внутреннее меню, 5 примитивов оркестрации и маршрутизация флота
-- DR26-11-27-HUB-01-1427 (2026-11-27, ru): дом в Mem Martins за 2 млн €: кто заплатит, упаковка и план
+- DR26-11-27-HUB-02 (2026-11-27, ru): Хранилища второй памяти агентов: SQLite-ядро, зеркала и замены (кворум Gemini, ноябрь 2026
+- DR26-11-27-MAYAK-01 (2026-11-27, ru): Хранилища второй памяти агентов: SQLite-ядро vs внешние движки (кворум, Gemini)
 - DR26-11-21-HUB-01 (2026-11-21, ru): Бустит ли алгоритм X контент про Grok и тег @grok: доказательная база и форматы
 - DR26-11-19-MACSTUDIOM4-05-1621 (2026-11-20, ru): ElevenLabs на ноябрь 2026: каталог, тарифы, гранты и применения для нас
 - DR26-11-20-MACSTUDIOM4-01-0251 (2026-11-20, ru): Срок жизни кэша промпта у Codex, Claude Code и Gemini: синтез ДР и наш замер

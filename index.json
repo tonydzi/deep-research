@@ -1,6 +1,6 @@
 {
  "generated": "2026-11-28",
- "count": 359,
+ "count": 360,
  "repo": "https://github.com/tonydzi/deep-research",
  "research": [
   {
@@ -3217,13 +3217,22 @@
    "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-11-21-HUB-01-bustit-li-algoritm-x-kontent-pro-grok-i-teg-grok-dokazatelnaya-baza-i.md"
   },
   {
-   "dr_id": "DR26-11-27-HUB-01-1427",
-   "title": "дом в Mem Martins за 2 млн €: кто заплатит, упаковка и план",
-   "summary": "Machine: A-2022BAYAREA (Хаб) · Agent: Claude Code (Fable 5.1) · Operator: Anton · 2026-11-27",
+   "dr_id": "DR26-11-27-HUB-02",
+   "title": "Хранилища второй памяти агентов: SQLite-ядро, зеркала и замены (кворум Gemini, ноябрь 2026",
+   "summary": "Какие движки (ClickHouse/chDB, Postgres+pgvector, Qdrant, LanceDB, DuckDB и др.) подходят как векторное зеркало или замена подсистем SQLite-памяти агентов, какие свойства и тесты нужны SQLite-MVP и куда безопасно нести пилоты на GitHub.",
    "lang": "ru",
    "date": "2026-11-27",
-   "slug": "DR26-11-27-HUB-01-1427-dom-v-mem-martins-za-2-mln-kto-zaplatit-upakovka-i-plan",
-   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-11-27-HUB-01-1427-dom-v-mem-martins-za-2-mln-kto-zaplatit-upakovka-i-plan.md"
+   "slug": "DR26-11-27-HUB-02-hranilischa-vtoroy-pamyati-agentov-sqlite-yadro-zerkala-i-zameny-kvoru",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-11-27-HUB-02-hranilischa-vtoroy-pamyati-agentov-sqlite-yadro-zerkala-i-zameny-kvoru.md"
+  },
+  {
+   "dr_id": "DR26-11-27-MAYAK-01",
+   "title": "Хранилища второй памяти агентов: SQLite-ядро vs внешние движки (кворум, Gemini)",
+   "summary": "Как сочетать SQLite-память лаборатории (FTS5, граф сущностей, numpy-векторы, журнал) с внешними движками как векторным зеркалом либо заменой, какие MVP-свойства и тесты нужны, и куда нести пилоты; без веб-доступа большая часть фактов за 2026 год не подтверждена.",
+   "lang": "ru",
+   "date": "2026-11-27",
+   "slug": "DR26-11-27-MAYAK-01-hranilischa-vtoroy-pamyati-agentov-sqlite-yadro-vs-vneshnie-dvizhki-kv",
+   "url": "https://github.com/tonydzi/deep-research/blob/main/research/DR26-11-27-MAYAK-01-hranilischa-vtoroy-pamyati-agentov-sqlite-yadro-vs-vneshnie-dvizhki-kv.md"
   },
   {
    "dr_id": "DR26-11-28-HUB-02-0204",

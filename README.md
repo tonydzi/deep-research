@@ -239,7 +239,8 @@ Raw model transcripts stay in our vault. What is published here is the distilled
 | ID | Тема | Дата |
 |---|---|---|
 | [DR26-11-28-HUB-02-0204](research/DR26-11-28-HUB-02-0204-google-antigravity-2-0-orchestrator-carbon-neon-argon-hydrogen-executo.md) | Google Antigravity 2.0 Orchestrator (Carbon/Neon/Argon + Hydrogen Executor), внутреннее меню, 5 примитивов орк | 2026-11-28 |
-| [DR26-11-27-HUB-01-1427](research/DR26-11-27-HUB-01-1427-dom-v-mem-martins-za-2-mln-kto-zaplatit-upakovka-i-plan.md) | дом в Mem Martins за 2 млн €: кто заплатит, упаковка и план | 2026-11-27 |
+| [DR26-11-27-HUB-02](research/DR26-11-27-HUB-02-hranilischa-vtoroy-pamyati-agentov-sqlite-yadro-zerkala-i-zameny-kvoru.md) | Хранилища второй памяти агентов: SQLite-ядро, зеркала и замены (кворум Gemini, ноябрь 2026 | 2026-11-27 |
+| [DR26-11-27-MAYAK-01](research/DR26-11-27-MAYAK-01-hranilischa-vtoroy-pamyati-agentov-sqlite-yadro-vs-vneshnie-dvizhki-kv.md) | Хранилища второй памяти агентов: SQLite-ядро vs внешние движки (кворум, Gemini) | 2026-11-27 |
 | [DR26-11-21-HUB-01](research/DR26-11-21-HUB-01-bustit-li-algoritm-x-kontent-pro-grok-i-teg-grok-dokazatelnaya-baza-i.md) | Бустит ли алгоритм X контент про Grok и тег @grok: доказательная база и форматы | 2026-11-21 |
 | [DR26-11-19-MACSTUDIOM4-05-1621](research/DR26-11-19-MACSTUDIOM4-05-1621-elevenlabs-na-noyabr-2026-katalog-tarify-granty-i-primeneniya-dlya-nas.md) | ElevenLabs на ноябрь 2026: каталог, тарифы, гранты и применения для нас | 2026-11-20 |
 | [DR26-11-20-MACSTUDIOM4-01-0251](research/DR26-11-20-MACSTUDIOM4-01-0251-srok-zhizni-kesha-prompta-u-codex-claude-code-i-gemini-sintez-dr-i-nas.md) | Срок жизни кэша промпта у Codex, Claude Code и Gemini: синтез ДР и наш замер | 2026-11-20 |
